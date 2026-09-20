@@ -1,10 +1,11 @@
 {
-  "updatedAt": "2026-09-20T18:29:02.981Z",
+  "updatedAt": "2026-09-20T18:37:09.146Z",
   "entries": [
     {
       "date": "2026-09-20",
-      "filename": "cjenik-2026-09-20.csv",
-      "generatedAt": "2026-09-20T18:29:02.981Z",
+      "csvFilename": "cjenik-2026-09-20.csv",
+      "xmlFilename": "cjenik-2026-09-20.xml",
+      "generatedAt": "2026-09-20T18:37:09.146Z",
       "products": 1344,
       "variants": 7794
     }
