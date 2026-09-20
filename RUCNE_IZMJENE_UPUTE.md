@@ -20,4 +20,4 @@ Sifra;SidrenaCijena;NazivAkcije;Barkod;JedinicaMjere;CijenaPoJedinici
 
 Za novu iznimku dodajte novi red i spremite promjenu. Ne mijenjajte datoteku `config/sidrene-cijene.csv` osim ako namjerno ispravljate početnu snimku cijena od 10. 9. 2026.
 
-Ako feed nema barkod, možete ga dopuniti u stupcu `Barkod`. Za različite barkodove po veličinama unesite po jedan red za svaku punu šifru varijante.
+Ako feed nema barkod, cjenik automatski prikazuje `Nije dodijeljen`, a šifra artikla ostaje glavni identifikator. Barkod se ručno dopunjava samo ako stvarno postoji, ali ga feed ne isporučuje. Za različite barkodove po veličinama unesite po jedan red za svaku punu šifru varijante.

@@ -8,6 +8,9 @@ const anchorPricesPath = path.resolve("config/sidrene-cijene.csv");
 const manualChangesPath = path.resolve("config/rucne-izmjene.csv");
 const feedFile = process.env.WOOLF_FEED_FILE?.trim();
 const feedUrl = process.env.WOOLF_FEED_URL?.trim();
+const googleFeedFile = process.env.WOOLF_GOOGLE_FEED_FILE?.trim();
+const googleFeedUrl = process.env.WOOLF_GOOGLE_FEED_URL?.trim() ||
+  "https://woolf.hr/upload_data/p_googlefeed/catalogproduct-1-fwolr5ou.csv";
 
 if (!feedFile && !feedUrl) {
   throw new Error("Nedostaje WOOLF_FEED_URL GitHub Secret.");
@@ -44,11 +47,20 @@ function safeProductUrl(value) {
 }
 
 function numberOf(value) {
-  const number = Number.parseFloat(String(value).replace(",", "."));
+  let normalized = String(value ?? "").trim().replace(/\s*(EUR|€)\s*/gi, "");
+  if (normalized.includes(",") && normalized.includes(".")) {
+    normalized = normalized.lastIndexOf(".") > normalized.lastIndexOf(",")
+      ? normalized.replaceAll(",", "")
+      : normalized.replaceAll(".", "").replace(",", ".");
+  } else if (normalized.includes(",")) {
+    normalized = normalized.replace(",", ".");
+  }
+  normalized = normalized.replace(/[^0-9.-]/g, "");
+  const number = Number.parseFloat(normalized);
   return Number.isFinite(number) ? number : null;
 }
 
-function parseSemicolonCsv(text) {
+function parseDelimited(text, delimiter = ";") {
   const rows = [];
   let row = [];
   let cell = "";
@@ -63,7 +75,7 @@ function parseSemicolonCsv(text) {
       } else {
         quoted = !quoted;
       }
-    } else if (character === ";" && !quoted) {
+    } else if (character === delimiter && !quoted) {
       row.push(cell.trim());
       cell = "";
     } else if ((character === "\n" || character === "\r") && !quoted) {
@@ -81,6 +93,16 @@ function parseSemicolonCsv(text) {
   if (row.some(Boolean)) rows.push(row);
   if (rows[0]?.[0]) rows[0][0] = rows[0][0].replace(/^\uFEFF/, "");
   return rows;
+}
+
+function parseSemicolonCsv(text) {
+  return parseDelimited(text, ";");
+}
+
+function rowsToObjects(text, delimiter = ",") {
+  const rows = parseDelimited(text, delimiter);
+  const headers = rows.shift() || [];
+  return rows.map((row) => Object.fromEntries(headers.map((header, index) => [header, row[index] || ""])));
 }
 
 async function loadConfiguration() {
@@ -123,10 +145,10 @@ function naturalSort(values) {
   );
 }
 
-async function readFeed() {
-  if (feedFile) {
+async function readRemoteOrFile(file, url, accept) {
+  if (file) {
     return {
-      xml: await fs.readFile(path.resolve(feedFile), "utf8"),
+      body: await fs.readFile(path.resolve(file), "utf8"),
       sourceModified: null
     };
   }
@@ -135,9 +157,9 @@ async function readFeed() {
   const timeout = setTimeout(() => controller.abort(), 120_000);
 
   try {
-    const response = await fetch(feedUrl, {
+    const response = await fetch(url, {
       headers: {
-        accept: "application/xml,text/xml;q=0.9,*/*;q=0.8",
+        accept,
         "user-agent": "Woolf-Cjenik-Sync/1.0"
       },
       signal: controller.signal
@@ -148,7 +170,7 @@ async function readFeed() {
     }
 
     return {
-      xml: await response.text(),
+      body: await response.text(),
       sourceModified: response.headers.get("last-modified")
     };
   } finally {
@@ -156,14 +178,22 @@ async function readFeed() {
   }
 }
 
-const [{ xml, sourceModified }, configuration] = await Promise.all([
-  readFeed(),
+const [jeftinijeFeed, googleFeed, configuration] = await Promise.all([
+  readRemoteOrFile(feedFile, feedUrl, "application/xml,text/xml;q=0.9,*/*;q=0.8"),
+  readRemoteOrFile(googleFeedFile, googleFeedUrl, "text/csv,text/plain;q=0.9,*/*;q=0.8"),
   loadConfiguration()
 ]);
+const xml = jeftinijeFeed.body;
+const sourceModified = jeftinijeFeed.sourceModified;
 const itemBlocks = [...xml.matchAll(/<Item>([\s\S]*?)<\/Item>/g)].map((match) => match[1]);
+const googleRows = rowsToObjects(googleFeed.body, ",");
 
 if (itemBlocks.length < 1_000) {
   throw new Error(`Sigurnosna provjera: feed sadrži samo ${itemBlocks.length} varijanti.`);
+}
+
+if (googleRows.length < 5_000) {
+  throw new Error(`Sigurnosna provjera: Google feed sadrži samo ${googleRows.length} proizvoda.`);
 }
 
 const variants = itemBlocks
@@ -243,6 +273,53 @@ for (const variant of variants) {
   });
 }
 
+const jeftinijeProducts = productsByModel.size;
+let googleOnlyProducts = 0;
+let googleOverlapProducts = 0;
+
+for (const row of googleRows) {
+  const model = String(row.ID2 || "").trim();
+  if (!model) continue;
+  if (productsByModel.has(model)) {
+    googleOverlapProducts += 1;
+    continue;
+  }
+
+  const price = numberOf(row["Sale price"] || row.Price);
+  const regularPrice = numberOf(row.Price) ?? price;
+  if (price === null || price < 0) continue;
+
+  const manual = configuration.changes.get(model) || {};
+  const onSale = regularPrice > price;
+  productsByModel.set(model, {
+    model,
+    name: String(row["Item title"] || model).trim(),
+    brand: "",
+    category: String(row["Item category"] || "").replaceAll(" > ", " - "),
+    price,
+    regularPrice,
+    currency: "EUR",
+    link: safeProductUrl(row["Final URL"]),
+    unit: manual.unit || "kom",
+    unitPrice: manual.unitPrice ?? price,
+    anchorPrice: manual.anchorPrice ?? configuration.anchors.get(model) ?? regularPrice,
+    specialSale: onSale ? "DA" : "NE",
+    saleName: onSale ? (manual.saleName || "Akcija") : "",
+    variants: [{
+      code: model,
+      size: "",
+      color: "",
+      barcode: manual.barcode || "Nije dodijeljen",
+      availability: "Nedostupno"
+    }]
+  });
+  googleOnlyProducts += 1;
+}
+
+if (googleOverlapProducts < 1_000 || googleOnlyProducts < 5_000) {
+  throw new Error(`Sigurnosna provjera spajanja nije prošla: ${googleOverlapProducts} preklapanja i ${googleOnlyProducts} Google dopuna.`);
+}
+
 const products = [...productsByModel.values()]
   .map((product) => {
     const available = product.variants.some((variant) => variant.availability === "Dostupno");
@@ -268,9 +345,10 @@ const products = [...productsByModel.values()]
   })
   .sort((a, b) => a.name.localeCompare(b.name, "hr", { numeric: true, sensitivity: "base" }));
 
-const availableVariants = variants.filter((product) => product.availability === "Dostupno").length;
-const unavailableVariants = variants.length - availableVariants;
-const missingBarcodes = variants.filter((product) => product.barcode === "Nije dodijeljen").length;
+const allVariants = products.flatMap((product) => product.variants);
+const availableVariants = allVariants.filter((variant) => variant.availability === "Dostupno").length;
+const unavailableVariants = allVariants.length - availableVariants;
+const missingBarcodes = allVariants.filter((variant) => variant.barcode === "Nije dodijeljen").length;
 
 const now = new Date();
 const displayDate = new Intl.DateTimeFormat("hr-HR", {
@@ -282,8 +360,12 @@ const displayDate = new Intl.DateTimeFormat("hr-HR", {
 const metadata = {
   generatedAt: now.toISOString(),
   sourceModifiedAt: sourceModified ? new Date(sourceModified).toISOString() : null,
+  googleSourceModifiedAt: googleFeed.sourceModified ? new Date(googleFeed.sourceModified).toISOString() : null,
   products: products.length,
-  variants: variants.length,
+  variants: allVariants.length,
+  jeftinijeProducts,
+  googleOnlyProducts,
+  googleOverlapProducts,
   availableVariants,
   unavailableVariants,
   missingBarcodes,
@@ -305,6 +387,7 @@ const csvHeader = [
   "Marka",
   "Jedinica mjere",
   "Cijena za jedinicu mjere (EUR)",
+  "Redovna cijena prije akcije (EUR)",
   "Maloprodajna cijena (EUR)",
   "Poseban oblik prodaje",
   "Naziv posebnog oblika prodaje",
@@ -323,6 +406,7 @@ const csvRows = products.map((product) => [
   product.brand,
   product.unit,
   moneyCsv(product.unitPrice),
+  moneyCsv(product.regularPrice),
   moneyCsv(product.price),
   product.specialSale,
   product.saleName,
@@ -438,5 +522,5 @@ await Promise.all([
   fs.writeFile(archiveIndexPath, JSON.stringify(archiveIndex, null, 2))
 ]);
 
-console.log(`Cjenik ${archiveDate} arhiviran: ${metadata.products} proizvoda i ${metadata.variants} varijanti (${availableVariants} dostupno, ${unavailableVariants} nedostupno). Čuva se posljednjih ${retentionDays} dana.`);
+console.log(`Cjenik ${archiveDate} arhiviran: ${metadata.products} proizvoda (${jeftinijeProducts} iz Jeftinije + ${googleOnlyProducts} nedostupnih iz Google dopune) i ${metadata.variants} zapisa varijanti (${availableVariants} dostupno, ${unavailableVariants} nedostupno). Čuva se posljednjih ${retentionDays} dana.`);
 if (missingBarcodes > 0) console.log(`Barkod nije dodijeljen za ${missingBarcodes} varijanti; koristi se šifra artikla kao glavni identifikator.`);
