@@ -203,6 +203,17 @@ const csv = "\uFEFF" + [csvHeader, ...csvRows]
   .map((row) => row.map(csvCell).join(";"))
   .join("\r\n");
 
+function xmlCell(value) {
+  return String(value ?? "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&apos;");
+}
+
+const priceXml = `<?xml version="1.0" encoding="UTF-8"?>\n<cjenik datum="${metadata.generatedAt}" valuta="EUR">\n${products.map((product) => `  <proizvod>\n    <sifra>${xmlCell(product.model)}</sifra>\n    <naziv>${xmlCell(product.name)}</naziv>\n    <brend>${xmlCell(product.brand)}</brend>\n    <kategorija>${xmlCell(product.category)}</kategorija>\n    <aktualnaCijena>${Number(product.price).toFixed(2)}</aktualnaCijena>\n    <redovnaCijena>${Number(product.regularPrice).toFixed(2)}</redovnaCijena>\n    <velicine>${xmlCell(product.sizes.join(", "))}</velicine>\n    <dostupnost>Dostupno</dostupnost>\n    <poveznica>${xmlCell(product.link)}</poveznica>\n  </proizvod>`).join("\n")}\n</cjenik>\n`;
+
 const dateParts = new Intl.DateTimeFormat("en-CA", {
   timeZone: "Europe/Zagreb",
   year: "numeric",
@@ -212,7 +223,8 @@ const dateParts = new Intl.DateTimeFormat("en-CA", {
 
 const dateValue = Object.fromEntries(dateParts.map((part) => [part.type, part.value]));
 const archiveDate = `${dateValue.year}-${dateValue.month}-${dateValue.day}`;
-const archiveFilename = `cjenik-${archiveDate}.csv`;
+const archiveCsvFilename = `cjenik-${archiveDate}.csv`;
+const archiveXmlFilename = `cjenik-${archiveDate}.xml`;
 const archiveIndexPath = path.join(archiveDir, "index.json");
 
 let archiveEntries = [];
@@ -226,7 +238,8 @@ try {
 archiveEntries = [
   {
     date: archiveDate,
-    filename: archiveFilename,
+    csvFilename: archiveCsvFilename,
+    xmlFilename: archiveXmlFilename,
     generatedAt: metadata.generatedAt,
     products: metadata.products,
     variants: metadata.variants
@@ -243,8 +256,10 @@ await fs.mkdir(archiveDir, { recursive: true });
 await Promise.all([
   fs.writeFile(path.join(outputDir, "products.json"), JSON.stringify({ metadata, products })),
   fs.writeFile(path.join(outputDir, "cjenik.csv"), csv),
+  fs.writeFile(path.join(outputDir, "cjenik.xml"), priceXml),
   fs.writeFile(path.join(outputDir, "status.json"), JSON.stringify(metadata, null, 2)),
-  fs.writeFile(path.join(archiveDir, archiveFilename), csv),
+  fs.writeFile(path.join(archiveDir, archiveCsvFilename), csv),
+  fs.writeFile(path.join(archiveDir, archiveXmlFilename), priceXml),
   fs.writeFile(archiveIndexPath, JSON.stringify(archiveIndex, null, 2))
 ]);
 

@@ -3,6 +3,7 @@ import fs from "node:fs/promises";
 const index = await fs.readFile("docs/index.html", "utf8");
 const payload = JSON.parse(await fs.readFile("docs/data/products.json", "utf8"));
 const csv = await fs.readFile("docs/data/cjenik.csv", "utf8");
+const xml = await fs.readFile("docs/data/cjenik.xml", "utf8");
 const archive = JSON.parse(await fs.readFile("docs/data/archive/index.json", "utf8"));
 
 if (!index.includes("Arhiva cjenika") || !index.includes("data/archive/index.json")) {
@@ -21,10 +22,17 @@ if (!csv.startsWith("\uFEFF") || csv.split("\n").length < 500) {
   throw new Error("CSV datoteka nije ispravna.");
 }
 
+if (!xml.startsWith("<?xml") || !xml.includes("<cjenik") || !xml.includes("<proizvod>")) {
+  throw new Error("XML datoteka nije ispravna.");
+}
+
 if (!Array.isArray(archive.entries) || archive.entries.length < 1) {
   throw new Error("Arhiva cjenika nije ispravna.");
 }
 
-await fs.access(`docs/data/archive/${archive.entries[0].filename}`);
+await Promise.all([
+  fs.access(`docs/data/archive/${archive.entries[0].csvFilename || archive.entries[0].filename}`),
+  fs.access(`docs/data/archive/${archive.entries[0].xmlFilename}`)
+]);
 
 console.log(`Provjera uspješna: ${payload.products.length} proizvoda i ${archive.entries.length} arhiviranih cjenika.`);

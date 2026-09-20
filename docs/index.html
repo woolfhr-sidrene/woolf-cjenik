@@ -15,9 +15,12 @@
     .item{display:flex;align-items:center;justify-content:space-between;gap:18px;padding:18px;border:1px solid #e5e5e5;border-radius:7px}
     .date{font-size:17px;font-weight:700}
     .meta{display:block;margin-top:5px;color:#777;font-size:13px}
+    .actions{display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end}
     .button{display:inline-block;white-space:nowrap;padding:11px 18px;border-radius:5px;background:#d8442f;color:#fff;text-decoration:none;font-weight:700}
     .button:hover{background:#bd3827}
-    @media(max-width:600px){main{margin:15px auto;padding:20px}h1{font-size:24px}.item{align-items:stretch;flex-direction:column}.button{text-align:center}}
+    .button.xml{background:#333}
+    .button.xml:hover{background:#111}
+    @media(max-width:600px){main{margin:15px auto;padding:20px}h1{font-size:24px}.item{align-items:stretch;flex-direction:column}.actions{justify-content:stretch}.button{flex:1;text-align:center}}
   </style>
 </head>
 <body>
@@ -47,7 +50,10 @@
               <span class="date">Cjenik – ${formatDate(entry.date)}</span>
               <span class="meta">${entry.products.toLocaleString("hr-HR")} proizvoda</span>
             </div>
-            <a class="button" href="data/archive/${encodeURIComponent(entry.filename)}" target="_blank" rel="noopener">Otvori cjenik</a>
+            <div class="actions">
+              <a class="button" href="data/archive/${encodeURIComponent(entry.csvFilename || entry.filename)}" download>Preuzmi CSV</a>
+              ${entry.xmlFilename ? `<a class="button xml" href="data/archive/${encodeURIComponent(entry.xmlFilename)}" download>Preuzmi XML</a>` : ""}
+            </div>
           </li>`).join("")}</ul>`;
       })
       .catch((error) => {
