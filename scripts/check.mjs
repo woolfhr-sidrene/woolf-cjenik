@@ -5,9 +5,16 @@ const payload = JSON.parse(await fs.readFile("docs/data/products.json", "utf8"))
 const csv = await fs.readFile("docs/data/cjenik.csv", "utf8");
 const xml = await fs.readFile("docs/data/cjenik.xml", "utf8");
 const archive = JSON.parse(await fs.readFile("docs/data/archive/index.json", "utf8"));
+const erpBarcodesCsv = await fs.readFile("config/erp-barkodovi.csv", "utf8");
 
 if (!index.includes("Arhiva cjenika") || !index.includes("data/archive/index.json")) {
   throw new Error("docs/index.html nije ispravno povezan s podacima.");
+}
+
+
+const erpBarcodeLines = erpBarcodesCsv.trim().split(/\r?\n/);
+if (erpBarcodeLines.length < 5_000 || !erpBarcodesCsv.includes('"Šifra";"Veličina ključ";"Barkod"')) {
+  throw new Error("ERP barkod konfiguracija nije ispravna ili je premala.");
 }
 
 if (!Array.isArray(payload.products) || payload.products.length < 10_000) {

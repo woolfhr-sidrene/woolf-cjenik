@@ -6,6 +6,7 @@ const outputDir = path.resolve("docs/data");
 const archiveDir = path.join(outputDir, "archive");
 const anchorPricesPath = path.resolve("config/sidrene-cijene.csv");
 const manualChangesPath = path.resolve("config/rucne-izmjene.csv");
+const erpBarcodesPath = path.resolve("config/erp-barkodovi.csv");
 const feedFile = process.env.WOOLF_FEED_FILE?.trim();
 const feedUrl = process.env.WOOLF_FEED_URL?.trim();
 const googleFeedFile = process.env.WOOLF_GOOGLE_FEED_FILE?.trim();
@@ -99,6 +100,21 @@ function parseSemicolonCsv(text) {
   return parseDelimited(text, ";");
 }
 
+function normalizeSize(value = "") {
+  const normalized = String(value ?? "")
+    .trim()
+    .toUpperCase()
+    .replaceAll("–", "-")
+    .replaceAll("—", "-")
+    .replaceAll("/", "-")
+    .replace(/\s+/g, "");
+  return normalized === "XY" ? "" : normalized;
+}
+
+function erpBarcodeKey(code, size) {
+  return `${String(code ?? "").trim()}|||${normalizeSize(size)}`;
+}
+
 function rowsToObjects(text, delimiter = ",") {
   const rows = parseDelimited(text, delimiter);
   const headers = rows.shift() || [];
@@ -106,10 +122,17 @@ function rowsToObjects(text, delimiter = ",") {
 }
 
 async function loadConfiguration() {
-  const anchorRows = parseSemicolonCsv(await fs.readFile(anchorPricesPath, "utf8")).slice(1);
-  const manualRows = parseSemicolonCsv(await fs.readFile(manualChangesPath, "utf8")).slice(1);
+  const [anchorText, manualText, erpBarcodeText] = await Promise.all([
+    fs.readFile(anchorPricesPath, "utf8"),
+    fs.readFile(manualChangesPath, "utf8"),
+    fs.readFile(erpBarcodesPath, "utf8")
+  ]);
+  const anchorRows = parseSemicolonCsv(anchorText).slice(1);
+  const manualRows = parseSemicolonCsv(manualText).slice(1);
+  const erpRows = parseSemicolonCsv(erpBarcodeText).slice(1);
   const anchors = new Map();
   const changes = new Map();
+  const erpBarcodes = new Map();
 
   for (const [code, price] of anchorRows) {
     const parsedPrice = numberOf(price);
@@ -127,7 +150,12 @@ async function loadConfiguration() {
     });
   }
 
-  return { anchors, changes };
+  for (const [code, sizeKey, barcode] of erpRows) {
+    if (!code || !barcode) continue;
+    erpBarcodes.set(erpBarcodeKey(code, sizeKey), barcode);
+  }
+
+  return { anchors, changes, erpBarcodes };
 }
 
 function cleanName(name) {
@@ -206,7 +234,11 @@ const variants = itemBlocks
     const regularPrice = numberOf(valueOf(item, "regularPrice")) ?? price;
     if (!variantCode || price === null || price < 0) return null;
 
+    const size = valueOf(item, "size");
     const manual = configuration.changes.get(variantCode) || configuration.changes.get(model) || {};
+    const erpBarcode = configuration.erpBarcodes.get(erpBarcodeKey(model, size))
+      || configuration.erpBarcodes.get(erpBarcodeKey(variantCode, size))
+      || "";
     const onSale = regularPrice > price;
     const anchorPrice = manual.anchorPrice ?? configuration.anchors.get(variantCode) ?? configuration.anchors.get(model) ?? price;
     const inStock = valueOf(item, "stock").toLowerCase() === "in stock";
@@ -222,9 +254,9 @@ const variants = itemBlocks
       regularPrice,
       currency: valueOf(item, "curCode") || "EUR",
       link: safeProductUrl(valueOf(item, "link")),
-      size: valueOf(item, "size"),
+      size,
       color: valueOf(item, "color"),
-      barcode: manual.barcode || valueOf(item, "EAN") || "Nije dodijeljen",
+      barcode: manual.barcode || erpBarcode || valueOf(item, "EAN") || "Nije dodijeljen",
       availability: inStock ? "Dostupno" : "Nedostupno",
       onSale,
       unit: manual.unit || "kom",
@@ -290,6 +322,7 @@ for (const row of googleRows) {
   if (price === null || price < 0) continue;
 
   const manual = configuration.changes.get(model) || {};
+  const erpBarcode = configuration.erpBarcodes.get(erpBarcodeKey(model, "")) || "";
   const onSale = regularPrice > price;
   productsByModel.set(model, {
     model,
@@ -309,7 +342,7 @@ for (const row of googleRows) {
       code: model,
       size: "",
       color: "",
-      barcode: manual.barcode || "Nije dodijeljen",
+      barcode: manual.barcode || erpBarcode || "Nije dodijeljen",
       availability: "Nedostupno"
     }]
   });

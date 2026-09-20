@@ -20,4 +20,4 @@ Sifra;SidrenaCijena;NazivAkcije;Barkod;JedinicaMjere;CijenaPoJedinici
 
 Za novu iznimku dodajte novi red i spremite promjenu. Ne mijenjajte datoteku `config/sidrene-cijene.csv` osim ako namjerno ispravljate početnu snimku cijena od 10. 9. 2026.
 
-Ako feed nema barkod, cjenik automatski prikazuje `Nije dodijeljen`, a šifra artikla ostaje glavni identifikator. Barkod se ručno dopunjava samo ako stvarno postoji, ali ga feed ne isporučuje. Za različite barkodove po veličinama unesite po jedan red za svaku punu šifru varijante.
+Barkod se prvo traži u ručnim izmjenama, zatim u ERP mapi `config/erp-barkodovi.csv` po kombinaciji glavna šifra + veličina, zatim u EAN polju feeda. Tek ako nijedan izvor nema podatak, cjenik prikazuje `Nije dodijeljen`. Za različite barkodove po veličinama više nije potrebno ručno unositi svaku varijantu ako postoji u ERP mapi.
