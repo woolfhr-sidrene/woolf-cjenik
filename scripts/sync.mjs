@@ -3,6 +3,7 @@ import path from "node:path";
 import process from "node:process";
 
 const outputDir = path.resolve("docs/data");
+const archiveDir = path.join(outputDir, "archive");
 const feedFile = process.env.WOOLF_FEED_FILE?.trim();
 const feedUrl = process.env.WOOLF_FEED_URL?.trim();
 
@@ -202,11 +203,49 @@ const csv = "\uFEFF" + [csvHeader, ...csvRows]
   .map((row) => row.map(csvCell).join(";"))
   .join("\r\n");
 
-await fs.mkdir(outputDir, { recursive: true });
+const dateParts = new Intl.DateTimeFormat("en-CA", {
+  timeZone: "Europe/Zagreb",
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit"
+}).formatToParts(now);
+
+const dateValue = Object.fromEntries(dateParts.map((part) => [part.type, part.value]));
+const archiveDate = `${dateValue.year}-${dateValue.month}-${dateValue.day}`;
+const archiveFilename = `cjenik-${archiveDate}.csv`;
+const archiveIndexPath = path.join(archiveDir, "index.json");
+
+let archiveEntries = [];
+try {
+  const existingIndex = JSON.parse(await fs.readFile(archiveIndexPath, "utf8"));
+  if (Array.isArray(existingIndex.entries)) archiveEntries = existingIndex.entries;
+} catch {
+  // Prvo pokretanje nema postojeću arhivu.
+}
+
+archiveEntries = [
+  {
+    date: archiveDate,
+    filename: archiveFilename,
+    generatedAt: metadata.generatedAt,
+    products: metadata.products,
+    variants: metadata.variants
+  },
+  ...archiveEntries.filter((entry) => entry.date !== archiveDate)
+].sort((a, b) => b.date.localeCompare(a.date));
+
+const archiveIndex = {
+  updatedAt: metadata.generatedAt,
+  entries: archiveEntries
+};
+
+await fs.mkdir(archiveDir, { recursive: true });
 await Promise.all([
   fs.writeFile(path.join(outputDir, "products.json"), JSON.stringify({ metadata, products })),
   fs.writeFile(path.join(outputDir, "cjenik.csv"), csv),
-  fs.writeFile(path.join(outputDir, "status.json"), JSON.stringify(metadata, null, 2))
+  fs.writeFile(path.join(outputDir, "status.json"), JSON.stringify(metadata, null, 2)),
+  fs.writeFile(path.join(archiveDir, archiveFilename), csv),
+  fs.writeFile(archiveIndexPath, JSON.stringify(archiveIndex, null, 2))
 ]);
 
-console.log(`Cjenik izrađen: ${products.length} proizvoda iz ${itemBlocks.length} varijanti.`);
+console.log(`Cjenik ${archiveDate} arhiviran: ${products.length} proizvoda iz ${itemBlocks.length} varijanti.`);

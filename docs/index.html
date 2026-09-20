@@ -2,130 +2,57 @@
 <html lang="hr">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="Aktualni cjenik proizvoda web trgovine Woolf.hr">
-  <meta name="robots" content="index,follow">
-  <title>Cjenik proizvoda | Woolf.hr</title>
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23cb3328'/%3E%3Cpath d='M13 19h9l6 24 5-19h8l5 19 5-24h8L51 48H40l-3-13-4 13H22z' fill='white'/%3E%3C/svg%3E">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Arhiva cjenika | Woolf</title>
   <style>
-    :root{--red:#c9362b;--red-dark:#a8231b;--ink:#171717;--muted:#686868;--line:#dedede;--soft:#f4f4f4;--white:#fff;--shadow:0 12px 34px rgba(0,0,0,.08)}
     *{box-sizing:border-box}
-    html{background:#ececec;color:var(--ink);font-family:Apercu,"Helvetica Neue",Arial,sans-serif}
-    body{margin:0;font-size:16px;line-height:1.45}
-    button,input,select{font:inherit}
-    a{color:inherit}
-    .shell{max-width:1500px;margin:0 auto;padding:28px 24px 48px}
-    .top{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;margin-bottom:18px}
-    .brand{display:flex;align-items:center;gap:13px}
-    .mark{display:grid;place-items:center;width:48px;height:48px;border-radius:12px;background:var(--red);color:#fff;font-weight:900;font-size:23px;box-shadow:var(--shadow)}
-    h1{font-size:clamp(1.65rem,3vw,2.45rem);line-height:1.05;margin:0 0 6px;letter-spacing:-.035em}
-    .updated{margin:0;color:var(--muted);font-size:.9rem}
-    .download{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 18px;border-radius:8px;background:var(--ink);color:#fff;text-decoration:none;font-weight:700;white-space:nowrap}
-    .download:hover{background:#333}
-    .panel{background:var(--white);border:1px solid #d7d7d7;border-radius:12px;box-shadow:var(--shadow);overflow:hidden}
-    .controls{display:grid;grid-template-columns:minmax(240px,1.8fr) repeat(3,minmax(155px,.7fr));gap:12px;padding:18px;border-bottom:1px solid var(--line);background:#fff}
-    .field{display:flex;flex-direction:column;gap:5px}
-    label{font-size:.78rem;font-weight:750;text-transform:uppercase;letter-spacing:.055em;color:#565656}
-    input,select{height:44px;width:100%;border:1px solid #cfcfcf;border-radius:7px;background:#fff;color:var(--ink);padding:0 12px;outline:none}
-    input:focus,select:focus{border-color:var(--red);box-shadow:0 0 0 3px rgba(201,54,43,.14)}
-    .summary{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:50px;padding:10px 18px;border-bottom:1px solid var(--line);color:var(--muted);font-size:.9rem;background:#fafafa}
-    .clear{border:0;background:transparent;color:var(--red-dark);font-weight:700;cursor:pointer;padding:7px 0}
-    .table-wrap{overflow:auto}
-    table{width:100%;border-collapse:collapse;min-width:1000px}
-    th{position:sticky;top:0;z-index:1;padding:12px 14px;background:#242424;color:#fff;text-align:left;font-size:.76rem;letter-spacing:.045em;text-transform:uppercase}
-    td{padding:13px 14px;border-bottom:1px solid #e8e8e8;vertical-align:top}
-    tbody tr:hover{background:#fafafa}
-    .product-name{font-weight:750;text-decoration:none}
-    .product-name:hover{color:var(--red);text-decoration:underline}
-    .code,.category,.sizes{color:var(--muted);font-size:.9rem}
-    .price{font-weight:850;white-space:nowrap;font-size:1.03rem}
-    .sale{color:var(--red)}
-    .regular{display:block;margin-top:2px;color:#8b8b8b;font-size:.8rem;font-weight:500;text-decoration:line-through}
-    .badge{display:inline-flex;align-items:center;min-height:25px;padding:2px 8px;border-radius:999px;background:#ebf6ef;color:#23613a;font-size:.78rem;font-weight:750;white-space:nowrap}
-    .pagination{display:flex;align-items:center;justify-content:center;gap:7px;padding:18px;background:#fff}
-    .page-btn{min-width:40px;height:40px;padding:0 10px;border:1px solid #d0d0d0;border-radius:7px;background:#fff;cursor:pointer;font-weight:700}
-    .page-btn:hover:not(:disabled){border-color:#777}
-    .page-btn:disabled{opacity:.4;cursor:not-allowed}
-    .page-current{min-width:110px;text-align:center;color:var(--muted);font-size:.9rem}
-    .empty,.error{padding:70px 24px;text-align:center;color:var(--muted)}
-    .error{color:#8b2019}
-    .mobile-list{display:none}
-    .foot{margin:16px 2px 0;color:#6d6d6d;font-size:.8rem}
-    @media(max-width:880px){
-      .shell{padding:18px 12px 36px}.top{align-items:stretch;flex-direction:column}.download{width:100%}
-      .controls{grid-template-columns:1fr 1fr}.search-field{grid-column:1/-1}
-      .table-wrap{display:none}.mobile-list{display:block}
-      .card{padding:16px;border-bottom:1px solid var(--line)}.card:last-child{border-bottom:0}
-      .card-head{display:flex;justify-content:space-between;align-items:flex-start;gap:16px}.card .price{text-align:right}
-      .card-meta{display:grid;grid-template-columns:1fr 1fr;gap:10px 16px;margin-top:13px;color:var(--muted);font-size:.87rem}
-      .card-meta b{display:block;color:#383838;font-size:.72rem;text-transform:uppercase;letter-spacing:.04em;margin-bottom:2px}
-    }
-    @media(max-width:540px){.controls{grid-template-columns:1fr}.search-field{grid-column:auto}.summary{align-items:flex-start}.card-meta{grid-template-columns:1fr}.mark{width:43px;height:43px}.brand{align-items:flex-start}}
+    body{margin:0;background:#f5f5f5;color:#222;font-family:Arial,sans-serif}
+    main{width:min(900px,calc(100% - 30px));margin:36px auto;padding:30px;background:#fff;border:1px solid #e4e4e4;border-radius:10px}
+    h1{margin:0 0 8px;font-size:30px}
+    .intro{margin:0 0 28px;color:#666;line-height:1.5}
+    .status{padding:18px;background:#f7f7f7;border-radius:7px;color:#555}
+    .list{display:grid;gap:12px;margin:0;padding:0;list-style:none}
+    .item{display:flex;align-items:center;justify-content:space-between;gap:18px;padding:18px;border:1px solid #e5e5e5;border-radius:7px}
+    .date{font-size:17px;font-weight:700}
+    .meta{display:block;margin-top:5px;color:#777;font-size:13px}
+    .button{display:inline-block;white-space:nowrap;padding:11px 18px;border-radius:5px;background:#d8442f;color:#fff;text-decoration:none;font-weight:700}
+    .button:hover{background:#bd3827}
+    @media(max-width:600px){main{margin:15px auto;padding:20px}h1{font-size:24px}.item{align-items:stretch;flex-direction:column}.button{text-align:center}}
   </style>
 </head>
 <body>
-  <main class="shell">
-    <header class="top">
-      <div class="brand">
-        <div class="mark" aria-hidden="true">W</div>
-        <div><h1>Cjenik proizvoda</h1><p class="updated" id="updated">Učitavanje aktualnog cjenika…</p></div>
-      </div>
-      <a class="download" href="data/cjenik.csv" download>Preuzmi cjenik (CSV)</a>
-    </header>
-
-    <section class="panel" aria-label="Cjenik">
-      <div class="controls">
-        <div class="field search-field"><label for="search">Pretraži</label><input id="search" type="search" placeholder="Naziv, šifra ili brend…" autocomplete="off"></div>
-        <div class="field"><label for="brand">Brend</label><select id="brand"><option value="">Svi brendovi</option></select></div>
-        <div class="field"><label for="category">Kategorija</label><select id="category"><option value="">Sve kategorije</option></select></div>
-        <div class="field"><label for="sort">Poredaj</label><select id="sort"><option value="name-asc">Naziv A–Ž</option><option value="name-desc">Naziv Ž–A</option><option value="price-asc">Najniža cijena</option><option value="price-desc">Najviša cijena</option></select></div>
-      </div>
-      <div class="summary"><span id="summary">Učitavanje…</span><button class="clear" id="clear" type="button">Poništi filtre</button></div>
-      <div id="content"><div class="empty">Učitavanje proizvoda…</div></div>
-      <div class="pagination" id="pagination" hidden>
-        <button class="page-btn" id="prev" type="button" aria-label="Prethodna stranica">‹</button>
-        <span class="page-current" id="pageInfo"></span>
-        <button class="page-btn" id="next" type="button" aria-label="Sljedeća stranica">›</button>
-      </div>
-    </section>
-    <p class="foot">Cijene su izražene u eurima i uključuju PDV. Za detalje i dostupnost odaberite naziv proizvoda.</p>
+  <main>
+    <h1>Arhiva cjenika</h1>
+    <p class="intro">Novi cjenik automatski se izrađuje i trajno sprema svakoga dana.</p>
+    <div id="content" class="status">Učitavanje arhive…</div>
   </main>
 
   <script>
-    const state={all:[],filtered:[],page:1,perPage:50};
-    const el={search:document.querySelector('#search'),brand:document.querySelector('#brand'),category:document.querySelector('#category'),sort:document.querySelector('#sort'),summary:document.querySelector('#summary'),content:document.querySelector('#content'),pagination:document.querySelector('#pagination'),pageInfo:document.querySelector('#pageInfo'),prev:document.querySelector('#prev'),next:document.querySelector('#next'),updated:document.querySelector('#updated'),clear:document.querySelector('#clear')};
-    const collator=new Intl.Collator('hr',{numeric:true,sensitivity:'base'});
-    const money=new Intl.NumberFormat('hr-HR',{style:'currency',currency:'EUR'});
-    const dateTime=new Intl.DateTimeFormat('hr-HR',{dateStyle:'long',timeStyle:'short',timeZone:'Europe/Zagreb'});
-    const esc=(v)=>String(v??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
-    const safeLink=(v)=>{try{const u=new URL(v);return u.protocol==='https:'&&u.hostname==='woolf.hr'?u.href:'#'}catch{return '#'}};
-    const categoryLabel=(v)=>String(v||'').split(' - ').filter(Boolean).slice(-2).join(' › ')||'Ostalo';
-    const priceHtml=(p)=>`<span class="price ${p.onSale?'sale':''}">${money.format(p.price)}${p.onSale?`<span class="regular">${money.format(p.regularPrice)}</span>`:''}</span>`;
+    const content = document.getElementById("content");
+    const formatDate = (value) => new Intl.DateTimeFormat("hr-HR", {
+      day: "2-digit", month: "2-digit", year: "numeric"
+    }).format(new Date(`${value}T12:00:00`));
 
-    function addOptions(select,values){for(const value of values){const option=document.createElement('option');option.value=value;option.textContent=value;select.append(option)}}
-    function render(){
-      const totalPages=Math.max(1,Math.ceil(state.filtered.length/state.perPage));state.page=Math.min(state.page,totalPages);
-      const start=(state.page-1)*state.perPage;const rows=state.filtered.slice(start,start+state.perPage);
-      el.summary.textContent=`Prikazano ${state.filtered.length.toLocaleString('hr-HR')} od ${state.all.length.toLocaleString('hr-HR')} proizvoda`;
-      if(!rows.length){el.content.innerHTML='<div class="empty">Nema proizvoda koji odgovaraju odabranim filtrima.</div>';el.pagination.hidden=true;return}
-      const desktop=`<div class="table-wrap"><table><thead><tr><th>Proizvod</th><th>Šifra</th><th>Brend</th><th>Kategorija</th><th>Veličine</th><th>Dostupnost</th><th>Cijena</th></tr></thead><tbody>${rows.map(p=>`<tr><td><a class="product-name" href="${safeLink(p.link)}" target="_top" rel="noopener">${esc(p.name)}</a></td><td class="code">${esc(p.model)}</td><td>${esc(p.brand||'—')}</td><td class="category">${esc(categoryLabel(p.category))}</td><td class="sizes">${esc(p.sizes.join(', ')||'—')}</td><td><span class="badge">Dostupno</span></td><td>${priceHtml(p)}</td></tr>`).join('')}</tbody></table></div>`;
-      const mobile=`<div class="mobile-list">${rows.map(p=>`<article class="card"><div class="card-head"><a class="product-name" href="${safeLink(p.link)}" target="_top" rel="noopener">${esc(p.name)}</a>${priceHtml(p)}</div><div class="card-meta"><div><b>Šifra</b>${esc(p.model)}</div><div><b>Brend</b>${esc(p.brand||'—')}</div><div><b>Veličine</b>${esc(p.sizes.join(', ')||'—')}</div><div><b>Kategorija</b>${esc(categoryLabel(p.category))}</div></div></article>`).join('')}</div>`;
-      el.content.innerHTML=desktop+mobile;el.pagination.hidden=false;el.pageInfo.textContent=`Stranica ${state.page} / ${totalPages}`;el.prev.disabled=state.page<=1;el.next.disabled=state.page>=totalPages;
-    }
-    function apply(){
-      const q=el.search.value.trim().toLocaleLowerCase('hr');const brand=el.brand.value;const category=el.category.value;
-      state.filtered=state.all.filter(p=>(!q||`${p.name} ${p.model} ${p.brand}`.toLocaleLowerCase('hr').includes(q))&&(!brand||p.brand===brand)&&(!category||p.category===category));
-      const [field,direction]=el.sort.value.split('-');state.filtered.sort((a,b)=>{const result=field==='price'?a.price-b.price:collator.compare(a.name,b.name);return direction==='desc'?-result:result});state.page=1;render();
-    }
-    [el.search,el.brand,el.category,el.sort].forEach(control=>control.addEventListener(control===el.search?'input':'change',apply));
-    el.clear.addEventListener('click',()=>{el.search.value='';el.brand.value='';el.category.value='';el.sort.value='name-asc';apply();el.search.focus()});
-    el.prev.addEventListener('click',()=>{if(state.page>1){state.page--;render();document.querySelector('.panel').scrollIntoView({behavior:'smooth'})}});
-    el.next.addEventListener('click',()=>{const max=Math.ceil(state.filtered.length/state.perPage);if(state.page<max){state.page++;render();document.querySelector('.panel').scrollIntoView({behavior:'smooth'})}});
-
-    fetch('data/products.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('Cjenik nije dostupan');return r.json()}).then(({metadata,products})=>{
-      state.all=products;state.filtered=[...products];el.updated.textContent=`Zadnje ažuriranje: ${dateTime.format(new Date(metadata.generatedAt))}`;
-      addOptions(el.brand,[...new Set(products.map(p=>p.brand).filter(Boolean))].sort(collator.compare));addOptions(el.category,[...new Set(products.map(p=>p.category).filter(Boolean))].sort(collator.compare));apply();
-    }).catch(()=>{el.updated.textContent='Cjenik trenutačno nije dostupan';el.summary.textContent='Pokušajte ponovno nešto kasnije.';el.content.innerHTML='<div class="error">Došlo je do pogreške pri učitavanju cjenika.</div>'});
+    fetch(`data/archive/index.json?v=${Date.now()}`, { cache: "no-store" })
+      .then((response) => {
+        if (!response.ok) throw new Error("Arhiva još nije dostupna.");
+        return response.json();
+      })
+      .then((archive) => {
+        if (!archive.entries?.length) throw new Error("Arhiva još nema spremljenih cjenika.");
+        content.className = "";
+        content.innerHTML = `<ul class="list">${archive.entries.map((entry) => `
+          <li class="item">
+            <div>
+              <span class="date">Cjenik – ${formatDate(entry.date)}</span>
+              <span class="meta">${entry.products.toLocaleString("hr-HR")} proizvoda</span>
+            </div>
+            <a class="button" href="data/archive/${encodeURIComponent(entry.filename)}" target="_blank" rel="noopener">Otvori cjenik</a>
+          </li>`).join("")}</ul>`;
+      })
+      .catch((error) => {
+        content.textContent = error.message;
+      });
   </script>
 </body>
 </html>
