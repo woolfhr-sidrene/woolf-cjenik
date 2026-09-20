@@ -48,7 +48,7 @@
           <li class="item">
             <div>
               <span class="date">Cjenik – ${formatDate(entry.date)}</span>
-              <span class="meta">${entry.products.toLocaleString("hr-HR")} proizvoda</span>
+              <span class="meta">${entry.products.toLocaleString("hr-HR")} proizvoda / ${entry.variants.toLocaleString("hr-HR")} varijanti</span>
             </div>
             <div class="actions">
               <a class="button" href="data/archive/${encodeURIComponent(entry.csvFilename || entry.filename)}" download>Preuzmi CSV</a>

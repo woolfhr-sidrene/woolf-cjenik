@@ -112,6 +112,11 @@ function cleanName(name) {
   return name.replace(/,?\s*\([^()]*\)\s*$/, "").trim();
 }
 
+function variantCodeOf(name, model, id) {
+  const match = name.match(/\(([^()]*)\)\s*$/);
+  return match?.[1]?.trim() || model || id;
+}
+
 function naturalSort(values) {
   return [...values].sort((a, b) =>
     String(a).localeCompare(String(b), "hr", { numeric: true, sensitivity: "base" })
@@ -161,75 +166,58 @@ if (itemBlocks.length < 1_000) {
   throw new Error(`Sigurnosna provjera: feed sadrži samo ${itemBlocks.length} varijanti.`);
 }
 
-const productsByKey = new Map();
+const products = itemBlocks
+  .map((item) => {
+    const id = valueOf(item, "ID");
+    const rawName = valueOf(item, "name");
+    const model = valueOf(item, "productModel") || valueOf(item, "groupId") || id;
+    const variantCode = variantCodeOf(rawName, model, id);
+    const price = numberOf(valueOf(item, "price"));
+    const regularPrice = numberOf(valueOf(item, "regularPrice")) ?? price;
+    if (!variantCode || price === null || price < 0) return null;
 
-for (const item of itemBlocks) {
-  const link = safeProductUrl(valueOf(item, "link"));
-  const model = valueOf(item, "productModel") || valueOf(item, "groupId");
-  const key = link || model;
-  const price = numberOf(valueOf(item, "price"));
-  const regularPrice = numberOf(valueOf(item, "regularPrice"));
+    const manual = configuration.changes.get(variantCode) || configuration.changes.get(model) || {};
+    const onSale = regularPrice > price;
+    const anchorPrice = manual.anchorPrice ?? configuration.anchors.get(variantCode) ?? configuration.anchors.get(model) ?? price;
+    const inStock = valueOf(item, "stock").toLowerCase() === "in stock";
 
-  if (!key || price === null || price < 0) continue;
-
-  if (!productsByKey.has(key)) {
-    productsByKey.set(key, {
-      id: valueOf(item, "groupId") || model,
+    return {
+      id,
       model,
-      name: cleanName(valueOf(item, "name")),
+      variantCode,
+      name: cleanName(rawName),
       brand: valueOf(item, "brand"),
       category: valueOf(item, "fileUnder"),
       price,
-      regularPrice: regularPrice ?? price,
+      regularPrice,
       currency: valueOf(item, "curCode") || "EUR",
-      link,
-      sizes: new Set(),
-      colors: new Set(),
-      eans: new Set(),
-      totalVariants: 0,
-      inStockVariants: 0
-    });
-  }
-
-  const product = productsByKey.get(key);
-  const size = valueOf(item, "size");
-  const color = valueOf(item, "color");
-  const ean = valueOf(item, "EAN");
-
-  product.totalVariants += 1;
-  if (valueOf(item, "stock").toLowerCase() === "in stock") {
-    product.inStockVariants += 1;
-    if (size) product.sizes.add(size);
-  }
-  if (color) product.colors.add(color);
-  if (ean) product.eans.add(ean);
-}
-
-const products = [...productsByKey.values()]
-  .filter((product) => product.inStockVariants > 0)
-  .map((product) => {
-    const manual = configuration.changes.get(product.model) || {};
-    const onSale = product.regularPrice > product.price;
-    const anchorPrice = manual.anchorPrice ?? configuration.anchors.get(product.model) ?? product.price;
-    return {
-      ...product,
-      sizes: naturalSort(product.sizes),
-      colors: naturalSort(product.colors),
-      eans: naturalSort(product.eans),
+      link: safeProductUrl(valueOf(item, "link")),
+      size: valueOf(item, "size"),
+      color: valueOf(item, "color"),
+      barcode: manual.barcode || valueOf(item, "EAN"),
+      availability: inStock ? "Dostupno" : "Nedostupno",
       onSale,
       unit: manual.unit || "kom",
-      unitPrice: manual.unitPrice ?? product.price,
+      unitPrice: manual.unitPrice ?? price,
       anchorPrice,
-      barcode: manual.barcode || naturalSort(product.eans).join(", "),
       specialSale: onSale ? "DA" : "NE",
       saleName: onSale ? (manual.saleName || "Akcija") : ""
     };
   })
-  .sort((a, b) => a.name.localeCompare(b.name, "hr", { numeric: true, sensitivity: "base" }));
+  .filter(Boolean)
+  .sort((a, b) =>
+    a.name.localeCompare(b.name, "hr", { numeric: true, sensitivity: "base" }) ||
+    a.variantCode.localeCompare(b.variantCode, "hr", { numeric: true, sensitivity: "base" })
+  );
 
-if (products.length < 500) {
-  throw new Error(`Sigurnosna provjera: pronađeno je samo ${products.length} dostupnih proizvoda.`);
+if (products.length < 1_000) {
+  throw new Error(`Sigurnosna provjera: pronađeno je samo ${products.length} varijanti.`);
 }
+
+const uniqueModels = new Set(products.map((product) => product.model));
+const availableVariants = products.filter((product) => product.availability === "Dostupno").length;
+const unavailableVariants = products.length - availableVariants;
+const missingBarcodes = products.filter((product) => !product.barcode).length;
 
 const now = new Date();
 const displayDate = new Intl.DateTimeFormat("hr-HR", {
@@ -241,8 +229,11 @@ const displayDate = new Intl.DateTimeFormat("hr-HR", {
 const metadata = {
   generatedAt: now.toISOString(),
   sourceModifiedAt: sourceModified ? new Date(sourceModified).toISOString() : null,
-  products: products.length,
-  variants: itemBlocks.length,
+  products: uniqueModels.size,
+  variants: products.length,
+  availableVariants,
+  unavailableVariants,
+  missingBarcodes,
   currency: "EUR"
 };
 
@@ -267,13 +258,15 @@ const csvHeader = [
   "Sidrena cijena – cijena na dan 10. 09. 2026. (EUR)",
   "Barkod",
   "Dostupnost",
+  "Veličina",
+  "Boja",
   "Kategorija",
   "Poveznica"
 ];
 
 const csvRows = products.map((product) => [
   product.name,
-  product.model,
+  product.variantCode,
   product.brand,
   product.unit,
   moneyCsv(product.unitPrice),
@@ -282,7 +275,9 @@ const csvRows = products.map((product) => [
   product.saleName,
   moneyCsv(product.anchorPrice),
   product.barcode,
-  "Dostupno",
+  product.availability,
+  product.size,
+  product.color,
   product.category,
   product.link
 ]);
@@ -291,6 +286,9 @@ const csvInfo = [
   ["Naziv", "Woolf d.o.o."],
   ["Adresa sjedišta", "Ograda 14, Vratišinec"],
   ["OIB", "45374311169"],
+  ["Oblik prodajnog objekta", "Webshop"],
+  ["Oznaka prodajnog prostora", "160"],
+  ["Broj skladišta", "02"],
   ["Datum cjenika", displayDate]
 ];
 
@@ -307,7 +305,7 @@ function xmlCell(value) {
     .replaceAll("'", "&apos;");
 }
 
-const priceXml = `<?xml version="1.0" encoding="UTF-8"?>\n<cjenik datumVrijeme="${metadata.generatedAt}" valuta="EUR">\n  <zaglavlje>\n    <naziv>Woolf d.o.o.</naziv>\n    <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>\n    <oib>45374311169</oib>\n    <datumCjenika>${xmlCell(displayDate)}</datumCjenika>\n  </zaglavlje>\n${products.map((product) => `  <proizvod>\n    <naziv>${xmlCell(product.name)}</naziv>\n    <sifra>${xmlCell(product.model)}</sifra>\n    <marka>${xmlCell(product.brand)}</marka>\n    <jedinicaMjere>${xmlCell(product.unit)}</jedinicaMjere>\n    <cijenaZaJedinicuMjere>${Number(product.unitPrice).toFixed(2)}</cijenaZaJedinicuMjere>\n    <maloprodajnaCijena>${Number(product.price).toFixed(2)}</maloprodajnaCijena>\n    <posebanOblikProdaje>${product.specialSale}</posebanOblikProdaje>\n    <nazivPosebnogOblikaProdaje>${xmlCell(product.saleName)}</nazivPosebnogOblikaProdaje>\n    <sidrenaCijena>${Number(product.anchorPrice).toFixed(2)}</sidrenaCijena>\n    <barkod>${xmlCell(product.barcode)}</barkod>\n    <dostupnost>Dostupno</dostupnost>\n    <kategorija>${xmlCell(product.category)}</kategorija>\n    <poveznica>${xmlCell(product.link)}</poveznica>\n  </proizvod>`).join("\n")}\n</cjenik>\n`;
+const priceXml = `<?xml version="1.0" encoding="UTF-8"?>\n<cjenik datumVrijeme="${metadata.generatedAt}" valuta="EUR">\n  <zaglavlje>\n    <naziv>Woolf d.o.o.</naziv>\n    <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>\n    <oib>45374311169</oib>\n    <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>\n    <oznakaProdajnogProstora>160</oznakaProdajnogProstora>\n    <brojSkladista>02</brojSkladista>\n    <datumCjenika>${xmlCell(displayDate)}</datumCjenika>\n  </zaglavlje>\n${products.map((product) => `  <proizvod>\n    <naziv>${xmlCell(product.name)}</naziv>\n    <sifra>${xmlCell(product.variantCode)}</sifra>\n    <marka>${xmlCell(product.brand)}</marka>\n    <jedinicaMjere>${xmlCell(product.unit)}</jedinicaMjere>\n    <cijenaZaJedinicuMjere>${Number(product.unitPrice).toFixed(2)}</cijenaZaJedinicuMjere>\n    <maloprodajnaCijena>${Number(product.price).toFixed(2)}</maloprodajnaCijena>\n    <posebanOblikProdaje>${product.specialSale}</posebanOblikProdaje>\n    <nazivPosebnogOblikaProdaje>${xmlCell(product.saleName)}</nazivPosebnogOblikaProdaje>\n    <sidrenaCijena>${Number(product.anchorPrice).toFixed(2)}</sidrenaCijena>\n    <barkod>${xmlCell(product.barcode)}</barkod>\n    <dostupnost>${product.availability}</dostupnost>\n    <velicina>${xmlCell(product.size)}</velicina>\n    <boja>${xmlCell(product.color)}</boja>\n    <kategorija>${xmlCell(product.category)}</kategorija>\n    <poveznica>${xmlCell(product.link)}</poveznica>\n  </proizvod>`).join("\n")}\n</cjenik>\n`;
 
 const dateParts = new Intl.DateTimeFormat("en-CA", {
   timeZone: "Europe/Zagreb",
@@ -326,7 +324,7 @@ const timeParts = new Intl.DateTimeFormat("en-GB", {
 }).formatToParts(now);
 const timeValue = Object.fromEntries(timeParts.map((part) => [part.type, part.value]));
 const archiveStamp = `${archiveDate}-${timeValue.hour}-${timeValue.minute}`;
-const filenameBase = `cjenik-Woolf-${archiveStamp}`;
+const filenameBase = `webshop-Ograda-14-Vratisinec-160-02-${archiveStamp}`;
 const archiveCsvFilename = `${filenameBase}.csv`;
 const archiveXmlFilename = `${filenameBase}.xml`;
 const archiveIndexPath = path.join(archiveDir, "index.json");
@@ -368,10 +366,11 @@ const archiveFiles = await fs.readdir(archiveDir);
 await Promise.all(
   archiveFiles
     .filter((filename) => {
+      const legalMatch = filename.match(/^webshop-Ograda-14-Vratisinec-160-02-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}\.(csv|xml)$/);
       const currentMatch = filename.match(/^cjenik-Woolf-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}\.(csv|xml)$/);
       const oldOutletMatch = filename.match(/^webshop-Istarsko-naselje-3A-WOOLF-ONLINE-001-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}\.(csv|xml)$/);
       const legacyMatch = filename.match(/^cjenik-(\d{4}-\d{2}-\d{2})\.(csv|xml)$/);
-      const fileDate = currentMatch?.[1] || oldOutletMatch?.[1] || legacyMatch?.[1];
+      const fileDate = legalMatch?.[1] || currentMatch?.[1] || oldOutletMatch?.[1] || legacyMatch?.[1];
       return fileDate && (fileDate < cutoffDate || fileDate === archiveDate) && filename !== archiveCsvFilename && filename !== archiveXmlFilename;
     })
     .map((filename) => fs.unlink(path.join(archiveDir, filename)))
@@ -386,4 +385,7 @@ await Promise.all([
   fs.writeFile(archiveIndexPath, JSON.stringify(archiveIndex, null, 2))
 ]);
 
-console.log(`Cjenik ${archiveDate} arhiviran: ${products.length} proizvoda iz ${itemBlocks.length} varijanti. Čuva se posljednjih ${retentionDays} dana.`);
+console.log(`Cjenik ${archiveDate} arhiviran: ${metadata.products} proizvoda i ${metadata.variants} varijanti (${availableVariants} dostupno, ${unavailableVariants} nedostupno). Čuva se posljednjih ${retentionDays} dana.`);
+if (missingBarcodes > 0) {
+  console.warn(`Upozorenje: izvorni feed nema barkod za ${missingBarcodes} varijanti; polje je ostavljeno prazno i može se dopuniti kroz config/rucne-izmjene.csv.`);
+}

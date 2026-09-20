@@ -4,7 +4,7 @@ Datoteka `config/rucne-izmjene.csv` služi samo za iznimke. Svaki red mora imati
 
 Stupci su odvojeni znakom `;`:
 
-- `Sifra` – obvezno, mora odgovarati šifri iz feeda
+- `Sifra` – obvezno; može biti osnovna šifra proizvoda (vrijedi za sve veličine) ili puna šifra varijante iz dnevnog cjenika
 - `SidrenaCijena` – ručno ispravljena sidrena cijena
 - `NazivAkcije` – naziv posebnog oblika prodaje; ako je prazno, sustav koristi „Akcija” kada je aktualna cijena niža od redovne
 - `Barkod` – koristi se kada ga feed nema ili ga treba ispraviti
@@ -19,3 +19,5 @@ Sifra;SidrenaCijena;NazivAkcije;Barkod;JedinicaMjere;CijenaPoJedinici
 ```
 
 Za novu iznimku dodajte novi red i spremite promjenu. Ne mijenjajte datoteku `config/sidrene-cijene.csv` osim ako namjerno ispravljate početnu snimku cijena od 10. 9. 2026.
+
+Ako feed nema barkod, možete ga dopuniti u stupcu `Barkod`. Za različite barkodove po veličinama unesite po jedan red za svaku punu šifru varijante.
