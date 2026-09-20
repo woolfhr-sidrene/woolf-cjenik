@@ -166,7 +166,7 @@ if (itemBlocks.length < 1_000) {
   throw new Error(`Sigurnosna provjera: feed sadrži samo ${itemBlocks.length} varijanti.`);
 }
 
-const products = itemBlocks
+const variants = itemBlocks
   .map((item) => {
     const id = valueOf(item, "ID");
     const rawName = valueOf(item, "name");
@@ -194,7 +194,7 @@ const products = itemBlocks
       link: safeProductUrl(valueOf(item, "link")),
       size: valueOf(item, "size"),
       color: valueOf(item, "color"),
-      barcode: manual.barcode || valueOf(item, "EAN"),
+      barcode: manual.barcode || valueOf(item, "EAN") || "Nije dodijeljen",
       availability: inStock ? "Dostupno" : "Nedostupno",
       onSale,
       unit: manual.unit || "kom",
@@ -210,14 +210,67 @@ const products = itemBlocks
     a.variantCode.localeCompare(b.variantCode, "hr", { numeric: true, sensitivity: "base" })
   );
 
-if (products.length < 1_000) {
-  throw new Error(`Sigurnosna provjera: pronađeno je samo ${products.length} varijanti.`);
+if (variants.length < 1_000) {
+  throw new Error(`Sigurnosna provjera: pronađeno je samo ${variants.length} varijanti.`);
 }
 
-const uniqueModels = new Set(products.map((product) => product.model));
-const availableVariants = products.filter((product) => product.availability === "Dostupno").length;
-const unavailableVariants = products.length - availableVariants;
-const missingBarcodes = products.filter((product) => !product.barcode).length;
+const productsByModel = new Map();
+for (const variant of variants) {
+  if (!productsByModel.has(variant.model)) {
+    productsByModel.set(variant.model, {
+      model: variant.model,
+      name: variant.name,
+      brand: variant.brand,
+      category: variant.category,
+      price: variant.price,
+      regularPrice: variant.regularPrice,
+      currency: variant.currency,
+      link: variant.link,
+      unit: variant.unit,
+      unitPrice: variant.unitPrice,
+      anchorPrice: variant.anchorPrice,
+      specialSale: variant.specialSale,
+      saleName: variant.saleName,
+      variants: []
+    });
+  }
+  productsByModel.get(variant.model).variants.push({
+    code: variant.variantCode,
+    size: variant.size,
+    color: variant.color,
+    barcode: variant.barcode,
+    availability: variant.availability
+  });
+}
+
+const products = [...productsByModel.values()]
+  .map((product) => {
+    const available = product.variants.some((variant) => variant.availability === "Dostupno");
+    const assignedBarcodes = [...new Set(product.variants
+      .map((variant) => variant.barcode)
+      .filter((barcode) => barcode && barcode !== "Nije dodijeljen"))];
+    const variantSummary = product.variants.map((variant) => {
+      const label = variant.size ? `Veličina ${variant.size}` : variant.code;
+      const color = variant.color ? `, ${variant.color}` : "";
+      return `${label}${color}: ${variant.availability}`;
+    }).join(" | ");
+    const barcodeSummary = product.variants
+      .filter((variant) => variant.barcode !== "Nije dodijeljen")
+      .map((variant) => `${variant.size || variant.code}: ${variant.barcode}`)
+      .join(" | ");
+    return {
+      ...product,
+      availability: available ? "Dostupno" : "Nedostupno",
+      barcode: assignedBarcodes.join(", ") || "Nije dodijeljen",
+      variantSummary,
+      barcodeSummary: barcodeSummary || "Nije dodijeljen"
+    };
+  })
+  .sort((a, b) => a.name.localeCompare(b.name, "hr", { numeric: true, sensitivity: "base" }));
+
+const availableVariants = variants.filter((product) => product.availability === "Dostupno").length;
+const unavailableVariants = variants.length - availableVariants;
+const missingBarcodes = variants.filter((product) => product.barcode === "Nije dodijeljen").length;
 
 const now = new Date();
 const displayDate = new Intl.DateTimeFormat("hr-HR", {
@@ -229,8 +282,8 @@ const displayDate = new Intl.DateTimeFormat("hr-HR", {
 const metadata = {
   generatedAt: now.toISOString(),
   sourceModifiedAt: sourceModified ? new Date(sourceModified).toISOString() : null,
-  products: uniqueModels.size,
-  variants: products.length,
+  products: products.length,
+  variants: variants.length,
   availableVariants,
   unavailableVariants,
   missingBarcodes,
@@ -258,15 +311,15 @@ const csvHeader = [
   "Sidrena cijena – cijena na dan 10. 09. 2026. (EUR)",
   "Barkod",
   "Dostupnost",
-  "Veličina",
-  "Boja",
+  "Varijante i dostupnost",
+  "Barkodovi varijanti",
   "Kategorija",
   "Poveznica"
 ];
 
 const csvRows = products.map((product) => [
   product.name,
-  product.variantCode,
+  product.model,
   product.brand,
   product.unit,
   moneyCsv(product.unitPrice),
@@ -276,8 +329,8 @@ const csvRows = products.map((product) => [
   moneyCsv(product.anchorPrice),
   product.barcode,
   product.availability,
-  product.size,
-  product.color,
+  product.variantSummary,
+  product.barcodeSummary,
   product.category,
   product.link
 ]);
@@ -305,7 +358,7 @@ function xmlCell(value) {
     .replaceAll("'", "&apos;");
 }
 
-const priceXml = `<?xml version="1.0" encoding="UTF-8"?>\n<cjenik datumVrijeme="${metadata.generatedAt}" valuta="EUR">\n  <zaglavlje>\n    <naziv>Woolf d.o.o.</naziv>\n    <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>\n    <oib>45374311169</oib>\n    <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>\n    <oznakaProdajnogProstora>160</oznakaProdajnogProstora>\n    <brojSkladista>02</brojSkladista>\n    <datumCjenika>${xmlCell(displayDate)}</datumCjenika>\n  </zaglavlje>\n${products.map((product) => `  <proizvod>\n    <naziv>${xmlCell(product.name)}</naziv>\n    <sifra>${xmlCell(product.variantCode)}</sifra>\n    <marka>${xmlCell(product.brand)}</marka>\n    <jedinicaMjere>${xmlCell(product.unit)}</jedinicaMjere>\n    <cijenaZaJedinicuMjere>${Number(product.unitPrice).toFixed(2)}</cijenaZaJedinicuMjere>\n    <maloprodajnaCijena>${Number(product.price).toFixed(2)}</maloprodajnaCijena>\n    <posebanOblikProdaje>${product.specialSale}</posebanOblikProdaje>\n    <nazivPosebnogOblikaProdaje>${xmlCell(product.saleName)}</nazivPosebnogOblikaProdaje>\n    <sidrenaCijena>${Number(product.anchorPrice).toFixed(2)}</sidrenaCijena>\n    <barkod>${xmlCell(product.barcode)}</barkod>\n    <dostupnost>${product.availability}</dostupnost>\n    <velicina>${xmlCell(product.size)}</velicina>\n    <boja>${xmlCell(product.color)}</boja>\n    <kategorija>${xmlCell(product.category)}</kategorija>\n    <poveznica>${xmlCell(product.link)}</poveznica>\n  </proizvod>`).join("\n")}\n</cjenik>\n`;
+const priceXml = `<?xml version="1.0" encoding="UTF-8"?>\n<cjenik datumVrijeme="${metadata.generatedAt}" valuta="EUR">\n  <zaglavlje>\n    <naziv>Woolf d.o.o.</naziv>\n    <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>\n    <oib>45374311169</oib>\n    <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>\n    <oznakaProdajnogProstora>160</oznakaProdajnogProstora>\n    <brojSkladista>02</brojSkladista>\n    <datumCjenika>${xmlCell(displayDate)}</datumCjenika>\n  </zaglavlje>\n${products.map((product) => `  <proizvod>\n    <naziv>${xmlCell(product.name)}</naziv>\n    <sifra>${xmlCell(product.model)}</sifra>\n    <marka>${xmlCell(product.brand)}</marka>\n    <jedinicaMjere>${xmlCell(product.unit)}</jedinicaMjere>\n    <cijenaZaJedinicuMjere>${Number(product.unitPrice).toFixed(2)}</cijenaZaJedinicuMjere>\n    <maloprodajnaCijena>${Number(product.price).toFixed(2)}</maloprodajnaCijena>\n    <posebanOblikProdaje>${product.specialSale}</posebanOblikProdaje>\n    <nazivPosebnogOblikaProdaje>${xmlCell(product.saleName)}</nazivPosebnogOblikaProdaje>\n    <sidrenaCijena>${Number(product.anchorPrice).toFixed(2)}</sidrenaCijena>\n    <barkod>${xmlCell(product.barcode)}</barkod>\n    <dostupnost>${product.availability}</dostupnost>\n    <kategorija>${xmlCell(product.category)}</kategorija>\n    <poveznica>${xmlCell(product.link)}</poveznica>\n    <varijante>\n${product.variants.map((variant) => `      <varijanta>\n        <sifra>${xmlCell(variant.code)}</sifra>\n        <velicina>${xmlCell(variant.size)}</velicina>\n        <boja>${xmlCell(variant.color)}</boja>\n        <barkod>${xmlCell(variant.barcode)}</barkod>\n        <dostupnost>${variant.availability}</dostupnost>\n      </varijanta>`).join("\n")}\n    </varijante>\n  </proizvod>`).join("\n")}\n</cjenik>\n`;
 
 const dateParts = new Intl.DateTimeFormat("en-CA", {
   timeZone: "Europe/Zagreb",
@@ -386,6 +439,4 @@ await Promise.all([
 ]);
 
 console.log(`Cjenik ${archiveDate} arhiviran: ${metadata.products} proizvoda i ${metadata.variants} varijanti (${availableVariants} dostupno, ${unavailableVariants} nedostupno). Čuva se posljednjih ${retentionDays} dana.`);
-if (missingBarcodes > 0) {
-  console.warn(`Upozorenje: izvorni feed nema barkod za ${missingBarcodes} varijanti; polje je ostavljeno prazno i može se dopuniti kroz config/rucne-izmjene.csv.`);
-}
+if (missingBarcodes > 0) console.log(`Barkod nije dodijeljen za ${missingBarcodes} varijanti; koristi se šifra artikla kao glavni identifikator.`);

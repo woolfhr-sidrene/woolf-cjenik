@@ -14,17 +14,22 @@ if (!Array.isArray(payload.products) || payload.products.length < 500) {
   throw new Error("Premalo proizvoda u products.json.");
 }
 
-if (!payload.products.every((product) => product.name && product.model && product.variantCode && Number.isFinite(product.price))) {
+if (!payload.products.every((product) => product.name && product.model && Array.isArray(product.variants) && product.variants.length && Number.isFinite(product.price))) {
   throw new Error("Jedan ili više proizvoda nema obavezne podatke.");
 }
 
-if (payload.products.length !== payload.metadata.variants || payload.metadata.products < 500) {
+const allVariants = payload.products.flatMap((product) => product.variants);
+if (payload.products.length !== payload.metadata.products || allVariants.length !== payload.metadata.variants || payload.metadata.products < 500) {
   throw new Error("Broj proizvoda ili varijanti nije ispravan.");
 }
 
-if (!payload.products.some((product) => product.availability === "Dostupno") ||
-    !payload.products.some((product) => product.availability === "Nedostupno")) {
+if (!allVariants.some((product) => product.availability === "Dostupno") ||
+    !allVariants.some((product) => product.availability === "Nedostupno")) {
   throw new Error("Cjenik mora sadržavati oznake Dostupno i Nedostupno.");
+}
+
+if (!payload.products.every((product) => product.barcode)) {
+  throw new Error("Polje barkoda ne smije biti prazno; koristi Nije dodijeljen kada EAN ne postoji.");
 }
 
 if (!csv.startsWith("\uFEFF") || csv.split("\n").length < 500) {
@@ -73,8 +78,8 @@ if (!requiredXmlTags.every((tag) => xml.includes(`<${tag}>`))) {
   throw new Error("XML nema sva obvezna polja.");
 }
 
-const correctedProducts = payload.products.filter((product) => product.model === "6500944_21");
-if (correctedProducts.length < 1 || !correctedProducts.every((product) => product.anchorPrice === 599 && product.price === 649)) {
+const correctedProduct = payload.products.find((product) => product.model === "6500944_21");
+if (!correctedProduct || correctedProduct.anchorPrice !== 599 || correctedProduct.price !== 649) {
   throw new Error("Ručna sidrena cijena za 6500944_21 nije ispravno primijenjena.");
 }
 
