@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T20:27:54.808Z",
+  "generatedAt": "2026-09-20T21:01:02.746Z",
   "sourceModifiedAt": "2026-09-20T03:19:07.000Z",
   "googleSourceModifiedAt": "2026-09-20T04:30:54.000Z",
   "products": 12469,
@@ -9,6 +9,6 @@
   "googleOverlapProducts": 1344,
   "availableVariants": 2896,
   "unavailableVariants": 16023,
-  "missingBarcodes": 18804,
+  "missingBarcodes": 12734,
   "currency": "EUR"
 }
