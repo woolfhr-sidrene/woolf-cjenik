@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T21:01:02.746Z",
+  "generatedAt": "2026-09-20T22:05:08.752Z",
   "sourceModifiedAt": "2026-09-20T03:19:07.000Z",
   "googleSourceModifiedAt": "2026-09-20T04:30:54.000Z",
   "products": 12469,
@@ -10,5 +10,7 @@
   "availableVariants": 2896,
   "unavailableVariants": 16023,
   "missingBarcodes": 12734,
+  "productsWithBrand": 12294,
+  "productsWithoutBrand": 175,
   "currency": "EUR"
 }
