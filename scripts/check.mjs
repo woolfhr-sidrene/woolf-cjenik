@@ -6,6 +6,7 @@ const csv = await fs.readFile("docs/data/cjenik.csv", "utf8");
 const xml = await fs.readFile("docs/data/cjenik.xml", "utf8");
 const archive = JSON.parse(await fs.readFile("docs/data/archive/index.json", "utf8"));
 const erpBarcodesCsv = await fs.readFile("config/erp-barkodovi.csv", "utf8");
+const brandsCsv = await fs.readFile("config/brendovi.csv", "utf8");
 
 if (!index.includes("Arhiva cjenika") || !index.includes("data/archive/index.json")) {
   throw new Error("docs/index.html nije ispravno povezan s podacima.");
@@ -15,6 +16,11 @@ if (!index.includes("Arhiva cjenika") || !index.includes("data/archive/index.jso
 const erpBarcodeLines = erpBarcodesCsv.trim().split(/\r?\n/);
 if (erpBarcodeLines.length < 5_000 || !erpBarcodesCsv.includes('"Šifra";"Veličina ključ";"Barkod"')) {
   throw new Error("ERP barkod konfiguracija nije ispravna ili je premala.");
+}
+
+const brandLines = brandsCsv.trim().split(/\r?\n/);
+if (brandLines.length < 12_000 || !brandsCsv.includes('"Šifra";"Brend"')) {
+  throw new Error("Konfiguracija brendova nije ispravna ili je premala.");
 }
 
 if (!Array.isArray(payload.products) || payload.products.length < 10_000) {
@@ -28,6 +34,10 @@ if (!payload.products.every((product) => product.name && product.model && Array.
 const allVariants = payload.products.flatMap((product) => product.variants);
 if (payload.products.length !== payload.metadata.products || allVariants.length !== payload.metadata.variants || payload.metadata.products < 10_000) {
   throw new Error("Broj proizvoda ili varijanti nije ispravan.");
+}
+
+if (payload.metadata.productsWithBrand < 12_000 || payload.metadata.productsWithoutBrand > 500) {
+  throw new Error(`Brendovi nisu dovoljno popunjeni: ${payload.metadata.productsWithBrand} s brendom, ${payload.metadata.productsWithoutBrand} bez brenda.`);
 }
 
 if (payload.metadata.jeftinijeProducts < 1_000 || payload.metadata.googleOnlyProducts < 5_000 || payload.metadata.googleOverlapProducts < 1_000) {

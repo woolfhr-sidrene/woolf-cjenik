@@ -7,6 +7,7 @@ const archiveDir = path.join(outputDir, "archive");
 const anchorPricesPath = path.resolve("config/sidrene-cijene.csv");
 const manualChangesPath = path.resolve("config/rucne-izmjene.csv");
 const erpBarcodesPath = path.resolve("config/erp-barkodovi.csv");
+const brandsPath = path.resolve("config/brendovi.csv");
 const feedFile = process.env.WOOLF_FEED_FILE?.trim();
 const feedUrl = process.env.WOOLF_FEED_URL?.trim();
 const googleFeedFile = process.env.WOOLF_GOOGLE_FEED_FILE?.trim();
@@ -122,17 +123,20 @@ function rowsToObjects(text, delimiter = ",") {
 }
 
 async function loadConfiguration() {
-  const [anchorText, manualText, erpBarcodeText] = await Promise.all([
+  const [anchorText, manualText, erpBarcodeText, brandText] = await Promise.all([
     fs.readFile(anchorPricesPath, "utf8"),
     fs.readFile(manualChangesPath, "utf8"),
-    fs.readFile(erpBarcodesPath, "utf8")
+    fs.readFile(erpBarcodesPath, "utf8"),
+    fs.readFile(brandsPath, "utf8")
   ]);
   const anchorRows = parseSemicolonCsv(anchorText).slice(1);
   const manualRows = parseSemicolonCsv(manualText).slice(1);
   const erpRows = parseSemicolonCsv(erpBarcodeText).slice(1);
+  const brandRows = parseSemicolonCsv(brandText).slice(1);
   const anchors = new Map();
   const changes = new Map();
   const erpBarcodes = new Map();
+  const brands = new Map();
 
   for (const [code, price] of anchorRows) {
     const parsedPrice = numberOf(price);
@@ -155,7 +159,12 @@ async function loadConfiguration() {
     erpBarcodes.set(erpBarcodeKey(code, sizeKey), barcode);
   }
 
-  return { anchors, changes, erpBarcodes };
+  for (const [code, brand] of brandRows) {
+    if (!code || !brand) continue;
+    brands.set(String(code).trim(), String(brand).trim());
+  }
+
+  return { anchors, changes, erpBarcodes, brands };
 }
 
 function cleanName(name) {
@@ -248,7 +257,7 @@ const variants = itemBlocks
       model,
       variantCode,
       name: cleanName(rawName),
-      brand: valueOf(item, "brand"),
+      brand: valueOf(item, "brand") || configuration.brands.get(model) || configuration.brands.get(variantCode) || "",
       category: valueOf(item, "fileUnder"),
       price,
       regularPrice,
@@ -327,7 +336,7 @@ for (const row of googleRows) {
   productsByModel.set(model, {
     model,
     name: String(row["Item title"] || model).trim(),
-    brand: "",
+    brand: configuration.brands.get(model) || "",
     category: String(row["Item category"] || "").replaceAll(" > ", " - "),
     price,
     regularPrice,
@@ -382,6 +391,8 @@ const allVariants = products.flatMap((product) => product.variants);
 const availableVariants = allVariants.filter((variant) => variant.availability === "Dostupno").length;
 const unavailableVariants = allVariants.length - availableVariants;
 const missingBarcodes = allVariants.filter((variant) => variant.barcode === "Nije dodijeljen").length;
+const productsWithBrand = products.filter((product) => product.brand).length;
+const productsWithoutBrand = products.length - productsWithBrand;
 
 const now = new Date();
 const displayDate = new Intl.DateTimeFormat("hr-HR", {
@@ -402,6 +413,8 @@ const metadata = {
   availableVariants,
   unavailableVariants,
   missingBarcodes,
+  productsWithBrand,
+  productsWithoutBrand,
   currency: "EUR"
 };
 
@@ -555,5 +568,5 @@ await Promise.all([
   fs.writeFile(archiveIndexPath, JSON.stringify(archiveIndex, null, 2))
 ]);
 
-console.log(`Cjenik ${archiveDate} arhiviran: ${metadata.products} proizvoda (${jeftinijeProducts} iz Jeftinije + ${googleOnlyProducts} nedostupnih iz Google dopune) i ${metadata.variants} zapisa varijanti (${availableVariants} dostupno, ${unavailableVariants} nedostupno). Čuva se posljednjih ${retentionDays} dana.`);
+console.log(`Cjenik ${archiveDate} arhiviran: ${metadata.products} proizvoda (${jeftinijeProducts} iz Jeftinije + ${googleOnlyProducts} nedostupnih iz Google dopune) i ${metadata.variants} zapisa varijanti (${availableVariants} dostupno, ${unavailableVariants} nedostupno). Brend je dodijeljen za ${productsWithBrand} proizvoda, ${productsWithoutBrand} je bez brenda. Čuva se posljednjih ${retentionDays} dana.`);
 if (missingBarcodes > 0) console.log(`Barkod nije dodijeljen za ${missingBarcodes} varijanti; koristi se šifra artikla kao glavni identifikator.`);
