@@ -30,6 +30,10 @@ if (!Array.isArray(archive.entries) || archive.entries.length < 1) {
   throw new Error("Arhiva cjenika nije ispravna.");
 }
 
+if (archive.retentionDays !== 30 || archive.entries.length > 30) {
+  throw new Error("Arhiva nije ograničena na posljednjih 30 dana.");
+}
+
 await Promise.all([
   fs.access(`docs/data/archive/${archive.entries[0].csvFilename || archive.entries[0].filename}`),
   fs.access(`docs/data/archive/${archive.entries[0].xmlFilename}`)

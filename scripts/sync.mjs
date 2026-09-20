@@ -226,6 +226,10 @@ const archiveDate = `${dateValue.year}-${dateValue.month}-${dateValue.day}`;
 const archiveCsvFilename = `cjenik-${archiveDate}.csv`;
 const archiveXmlFilename = `cjenik-${archiveDate}.xml`;
 const archiveIndexPath = path.join(archiveDir, "index.json");
+const retentionDays = 30;
+const cutoff = new Date(`${archiveDate}T12:00:00Z`);
+cutoff.setUTCDate(cutoff.getUTCDate() - (retentionDays - 1));
+const cutoffDate = cutoff.toISOString().slice(0, 10);
 
 let archiveEntries = [];
 try {
@@ -245,14 +249,26 @@ archiveEntries = [
     variants: metadata.variants
   },
   ...archiveEntries.filter((entry) => entry.date !== archiveDate)
-].sort((a, b) => b.date.localeCompare(a.date));
+]
+  .filter((entry) => entry.date >= cutoffDate)
+  .sort((a, b) => b.date.localeCompare(a.date));
 
 const archiveIndex = {
   updatedAt: metadata.generatedAt,
+  retentionDays,
   entries: archiveEntries
 };
 
 await fs.mkdir(archiveDir, { recursive: true });
+const archiveFiles = await fs.readdir(archiveDir);
+await Promise.all(
+  archiveFiles
+    .filter((filename) => {
+      const match = filename.match(/^cjenik-(\d{4}-\d{2}-\d{2})\.(csv|xml)$/);
+      return match && match[1] < cutoffDate;
+    })
+    .map((filename) => fs.unlink(path.join(archiveDir, filename)))
+);
 await Promise.all([
   fs.writeFile(path.join(outputDir, "products.json"), JSON.stringify({ metadata, products })),
   fs.writeFile(path.join(outputDir, "cjenik.csv"), csv),
@@ -263,4 +279,4 @@ await Promise.all([
   fs.writeFile(archiveIndexPath, JSON.stringify(archiveIndex, null, 2))
 ]);
 
-console.log(`Cjenik ${archiveDate} arhiviran: ${products.length} proizvoda iz ${itemBlocks.length} varijanti.`);
+console.log(`Cjenik ${archiveDate} arhiviran: ${products.length} proizvoda iz ${itemBlocks.length} varijanti. Čuva se posljednjih ${retentionDays} dana.`);
