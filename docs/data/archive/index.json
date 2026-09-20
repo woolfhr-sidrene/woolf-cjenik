@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-20T19:07:34.435Z",
+  "updatedAt": "2026-09-20T19:21:04.727Z",
   "retentionDays": 30,
   "entries": [
     {
       "date": "2026-09-20",
-      "csvFilename": "webshop-Istarsko-naselje-3A-WOOLF-ONLINE-001-2026-09-20-21-07.csv",
-      "xmlFilename": "webshop-Istarsko-naselje-3A-WOOLF-ONLINE-001-2026-09-20-21-07.xml",
-      "generatedAt": "2026-09-20T19:07:34.435Z",
+      "csvFilename": "cjenik-Woolf-2026-09-20-21-21.csv",
+      "xmlFilename": "cjenik-Woolf-2026-09-20-21-21.xml",
+      "generatedAt": "2026-09-20T19:21:04.727Z",
       "products": 1344,
       "variants": 7794
     }

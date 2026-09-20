@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-09-20T19:07:34.435Z" valuta="EUR">
+<cjenik datumVrijeme="2026-09-20T19:21:04.727Z" valuta="EUR">
+  <zaglavlje>
+    <naziv>Woolf d.o.o.</naziv>
+    <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
+    <oib>45374311169</oib>
+    <datumCjenika>20. 09. 2026.</datumCjenika>
+  </zaglavlje>
   <proizvod>
     <naziv>70mai 70mai A510 Dash Cam set sa stražnjom kamerom RC11 - siva</naziv>
     <sifra>sm-001377</sifra>
