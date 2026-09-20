@@ -31,13 +31,20 @@ const requiredCsvHeaders = [
   "Maloprodajna cijena (EUR)",
   "Poseban oblik prodaje",
   "Naziv posebnog oblika prodaje",
-  "Sidrena cijena (EUR)",
+  "Sidrena cijena – cijena na dan 10. 09. 2026. (EUR)",
   "Barkod",
   "Dostupnost"
 ];
 
-if (!requiredCsvHeaders.every((header) => csv.split("\n", 1)[0].includes(`"${header}"`))) {
+if (!requiredCsvHeaders.every((header) => csv.includes(`"${header}"`))) {
   throw new Error("CSV nema sva obvezna polja.");
+}
+
+if (!csv.includes('"Naziv";"Woolf d.o.o."') ||
+    !csv.includes('"Adresa sjedišta";"Ograda 14, Vratišinec"') ||
+    !csv.includes('"OIB";"45374311169"') ||
+    !csv.includes('"Datum cjenika";')) {
+  throw new Error("CSV zaglavlje nema ispravne podatke tvrtke i datum cjenika.");
 }
 
 if (!xml.startsWith("<?xml") || !xml.includes("<cjenik") || !xml.includes("<proizvod>")) {
@@ -72,8 +79,8 @@ await Promise.all([
   fs.access(`docs/data/archive/${archive.entries[0].xmlFilename}`)
 ]);
 
-if (!archive.entries[0].csvFilename.startsWith("webshop-Istarsko-naselje-3A-WOOLF-ONLINE-001-")) {
-  throw new Error("Naziv arhivske datoteke nema obvezne podatke prodajnog mjesta.");
+if (!archive.entries[0].csvFilename.startsWith("cjenik-Woolf-")) {
+  throw new Error("Naziv arhivske datoteke nije ispravan.");
 }
 
 console.log(`Provjera uspješna: ${payload.products.length} proizvoda i ${archive.entries.length} arhiviranih cjenika.`);

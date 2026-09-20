@@ -232,6 +232,12 @@ if (products.length < 500) {
 }
 
 const now = new Date();
+const displayDate = new Intl.DateTimeFormat("hr-HR", {
+  timeZone: "Europe/Zagreb",
+  day: "2-digit",
+  month: "2-digit",
+  year: "numeric"
+}).format(now);
 const metadata = {
   generatedAt: now.toISOString(),
   sourceModifiedAt: sourceModified ? new Date(sourceModified).toISOString() : null,
@@ -258,7 +264,7 @@ const csvHeader = [
   "Maloprodajna cijena (EUR)",
   "Poseban oblik prodaje",
   "Naziv posebnog oblika prodaje",
-  "Sidrena cijena (EUR)",
+  "Sidrena cijena – cijena na dan 10. 09. 2026. (EUR)",
   "Barkod",
   "Dostupnost",
   "Kategorija",
@@ -281,7 +287,14 @@ const csvRows = products.map((product) => [
   product.link
 ]);
 
-const csv = "\uFEFF" + [csvHeader, ...csvRows]
+const csvInfo = [
+  ["Naziv", "Woolf d.o.o."],
+  ["Adresa sjedišta", "Ograda 14, Vratišinec"],
+  ["OIB", "45374311169"],
+  ["Datum cjenika", displayDate]
+];
+
+const csv = "\uFEFF" + [...csvInfo, [], csvHeader, ...csvRows]
   .map((row) => row.map(csvCell).join(";"))
   .join("\r\n");
 
@@ -294,7 +307,7 @@ function xmlCell(value) {
     .replaceAll("'", "&apos;");
 }
 
-const priceXml = `<?xml version="1.0" encoding="UTF-8"?>\n<cjenik datumVrijeme="${metadata.generatedAt}" valuta="EUR">\n${products.map((product) => `  <proizvod>\n    <naziv>${xmlCell(product.name)}</naziv>\n    <sifra>${xmlCell(product.model)}</sifra>\n    <marka>${xmlCell(product.brand)}</marka>\n    <jedinicaMjere>${xmlCell(product.unit)}</jedinicaMjere>\n    <cijenaZaJedinicuMjere>${Number(product.unitPrice).toFixed(2)}</cijenaZaJedinicuMjere>\n    <maloprodajnaCijena>${Number(product.price).toFixed(2)}</maloprodajnaCijena>\n    <posebanOblikProdaje>${product.specialSale}</posebanOblikProdaje>\n    <nazivPosebnogOblikaProdaje>${xmlCell(product.saleName)}</nazivPosebnogOblikaProdaje>\n    <sidrenaCijena>${Number(product.anchorPrice).toFixed(2)}</sidrenaCijena>\n    <barkod>${xmlCell(product.barcode)}</barkod>\n    <dostupnost>Dostupno</dostupnost>\n    <kategorija>${xmlCell(product.category)}</kategorija>\n    <poveznica>${xmlCell(product.link)}</poveznica>\n  </proizvod>`).join("\n")}\n</cjenik>\n`;
+const priceXml = `<?xml version="1.0" encoding="UTF-8"?>\n<cjenik datumVrijeme="${metadata.generatedAt}" valuta="EUR">\n  <zaglavlje>\n    <naziv>Woolf d.o.o.</naziv>\n    <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>\n    <oib>45374311169</oib>\n    <datumCjenika>${xmlCell(displayDate)}</datumCjenika>\n  </zaglavlje>\n${products.map((product) => `  <proizvod>\n    <naziv>${xmlCell(product.name)}</naziv>\n    <sifra>${xmlCell(product.model)}</sifra>\n    <marka>${xmlCell(product.brand)}</marka>\n    <jedinicaMjere>${xmlCell(product.unit)}</jedinicaMjere>\n    <cijenaZaJedinicuMjere>${Number(product.unitPrice).toFixed(2)}</cijenaZaJedinicuMjere>\n    <maloprodajnaCijena>${Number(product.price).toFixed(2)}</maloprodajnaCijena>\n    <posebanOblikProdaje>${product.specialSale}</posebanOblikProdaje>\n    <nazivPosebnogOblikaProdaje>${xmlCell(product.saleName)}</nazivPosebnogOblikaProdaje>\n    <sidrenaCijena>${Number(product.anchorPrice).toFixed(2)}</sidrenaCijena>\n    <barkod>${xmlCell(product.barcode)}</barkod>\n    <dostupnost>Dostupno</dostupnost>\n    <kategorija>${xmlCell(product.category)}</kategorija>\n    <poveznica>${xmlCell(product.link)}</poveznica>\n  </proizvod>`).join("\n")}\n</cjenik>\n`;
 
 const dateParts = new Intl.DateTimeFormat("en-CA", {
   timeZone: "Europe/Zagreb",
@@ -313,7 +326,7 @@ const timeParts = new Intl.DateTimeFormat("en-GB", {
 }).formatToParts(now);
 const timeValue = Object.fromEntries(timeParts.map((part) => [part.type, part.value]));
 const archiveStamp = `${archiveDate}-${timeValue.hour}-${timeValue.minute}`;
-const filenameBase = `webshop-Istarsko-naselje-3A-WOOLF-ONLINE-001-${archiveStamp}`;
+const filenameBase = `cjenik-Woolf-${archiveStamp}`;
 const archiveCsvFilename = `${filenameBase}.csv`;
 const archiveXmlFilename = `${filenameBase}.xml`;
 const archiveIndexPath = path.join(archiveDir, "index.json");
@@ -355,9 +368,10 @@ const archiveFiles = await fs.readdir(archiveDir);
 await Promise.all(
   archiveFiles
     .filter((filename) => {
-      const legalMatch = filename.match(/^webshop-Istarsko-naselje-3A-WOOLF-ONLINE-001-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}\.(csv|xml)$/);
+      const currentMatch = filename.match(/^cjenik-Woolf-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}\.(csv|xml)$/);
+      const oldOutletMatch = filename.match(/^webshop-Istarsko-naselje-3A-WOOLF-ONLINE-001-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}\.(csv|xml)$/);
       const legacyMatch = filename.match(/^cjenik-(\d{4}-\d{2}-\d{2})\.(csv|xml)$/);
-      const fileDate = legalMatch?.[1] || legacyMatch?.[1];
+      const fileDate = currentMatch?.[1] || oldOutletMatch?.[1] || legacyMatch?.[1];
       return fileDate && (fileDate < cutoffDate || fileDate === archiveDate) && filename !== archiveCsvFilename && filename !== archiveXmlFilename;
     })
     .map((filename) => fs.unlink(path.join(archiveDir, filename)))
