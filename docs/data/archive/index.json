@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-20T19:21:04.727Z",
+  "updatedAt": "2026-09-20T19:48:19.150Z",
   "retentionDays": 30,
   "entries": [
     {
       "date": "2026-09-20",
-      "csvFilename": "cjenik-Woolf-2026-09-20-21-21.csv",
-      "xmlFilename": "cjenik-Woolf-2026-09-20-21-21.xml",
-      "generatedAt": "2026-09-20T19:21:04.727Z",
+      "csvFilename": "webshop-Ograda-14-Vratisinec-160-02-2026-09-20-21-48.csv",
+      "xmlFilename": "webshop-Ograda-14-Vratisinec-160-02-2026-09-20-21-48.xml",
+      "generatedAt": "2026-09-20T19:48:19.150Z",
       "products": 1344,
       "variants": 7794
     }

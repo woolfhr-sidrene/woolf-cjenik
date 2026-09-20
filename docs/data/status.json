@@ -1,7 +1,10 @@
 {
-  "generatedAt": "2026-09-20T19:21:04.727Z",
+  "generatedAt": "2026-09-20T19:48:19.150Z",
   "sourceModifiedAt": "2026-09-20T03:19:07.000Z",
   "products": 1344,
   "variants": 7794,
+  "availableVariants": 2896,
+  "unavailableVariants": 4898,
+  "missingBarcodes": 7679,
   "currency": "EUR"
 }
