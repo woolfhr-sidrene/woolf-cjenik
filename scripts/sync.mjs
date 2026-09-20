@@ -4,6 +4,8 @@ import process from "node:process";
 
 const outputDir = path.resolve("docs/data");
 const archiveDir = path.join(outputDir, "archive");
+const anchorPricesPath = path.resolve("config/sidrene-cijene.csv");
+const manualChangesPath = path.resolve("config/rucne-izmjene.csv");
 const feedFile = process.env.WOOLF_FEED_FILE?.trim();
 const feedUrl = process.env.WOOLF_FEED_URL?.trim();
 
@@ -44,6 +46,66 @@ function safeProductUrl(value) {
 function numberOf(value) {
   const number = Number.parseFloat(String(value).replace(",", "."));
   return Number.isFinite(number) ? number : null;
+}
+
+function parseSemicolonCsv(text) {
+  const rows = [];
+  let row = [];
+  let cell = "";
+  let quoted = false;
+
+  for (let index = 0; index < text.length; index += 1) {
+    const character = text[index];
+    if (character === '"') {
+      if (quoted && text[index + 1] === '"') {
+        cell += '"';
+        index += 1;
+      } else {
+        quoted = !quoted;
+      }
+    } else if (character === ";" && !quoted) {
+      row.push(cell.trim());
+      cell = "";
+    } else if ((character === "\n" || character === "\r") && !quoted) {
+      if (character === "\r" && text[index + 1] === "\n") index += 1;
+      row.push(cell.trim());
+      if (row.some(Boolean)) rows.push(row);
+      row = [];
+      cell = "";
+    } else {
+      cell += character;
+    }
+  }
+
+  row.push(cell.trim());
+  if (row.some(Boolean)) rows.push(row);
+  if (rows[0]?.[0]) rows[0][0] = rows[0][0].replace(/^\uFEFF/, "");
+  return rows;
+}
+
+async function loadConfiguration() {
+  const anchorRows = parseSemicolonCsv(await fs.readFile(anchorPricesPath, "utf8")).slice(1);
+  const manualRows = parseSemicolonCsv(await fs.readFile(manualChangesPath, "utf8")).slice(1);
+  const anchors = new Map();
+  const changes = new Map();
+
+  for (const [code, price] of anchorRows) {
+    const parsedPrice = numberOf(price);
+    if (code && parsedPrice !== null) anchors.set(code, parsedPrice);
+  }
+
+  for (const [code, anchorPrice, saleName, barcode, unit, unitPrice] of manualRows) {
+    if (!code) continue;
+    changes.set(code, {
+      anchorPrice: anchorPrice ? numberOf(anchorPrice) : null,
+      saleName: saleName || "",
+      barcode: barcode || "",
+      unit: unit || "",
+      unitPrice: unitPrice ? numberOf(unitPrice) : null
+    });
+  }
+
+  return { anchors, changes };
 }
 
 function cleanName(name) {
@@ -89,7 +151,10 @@ async function readFeed() {
   }
 }
 
-const { xml, sourceModified } = await readFeed();
+const [{ xml, sourceModified }, configuration] = await Promise.all([
+  readFeed(),
+  loadConfiguration()
+]);
 const itemBlocks = [...xml.matchAll(/<Item>([\s\S]*?)<\/Item>/g)].map((match) => match[1]);
 
 if (itemBlocks.length < 1_000) {
@@ -142,13 +207,24 @@ for (const item of itemBlocks) {
 
 const products = [...productsByKey.values()]
   .filter((product) => product.inStockVariants > 0)
-  .map((product) => ({
-    ...product,
-    sizes: naturalSort(product.sizes),
-    colors: naturalSort(product.colors),
-    eans: naturalSort(product.eans),
-    onSale: product.regularPrice > product.price
-  }))
+  .map((product) => {
+    const manual = configuration.changes.get(product.model) || {};
+    const onSale = product.regularPrice > product.price;
+    const anchorPrice = manual.anchorPrice ?? configuration.anchors.get(product.model) ?? product.price;
+    return {
+      ...product,
+      sizes: naturalSort(product.sizes),
+      colors: naturalSort(product.colors),
+      eans: naturalSort(product.eans),
+      onSale,
+      unit: manual.unit || "kom",
+      unitPrice: manual.unitPrice ?? product.price,
+      anchorPrice,
+      barcode: manual.barcode || naturalSort(product.eans).join(", "),
+      specialSale: onSale ? "DA" : "NE",
+      saleName: onSale ? (manual.saleName || "Akcija") : ""
+    };
+  })
   .sort((a, b) => a.name.localeCompare(b.name, "hr", { numeric: true, sensitivity: "base" }));
 
 if (products.length < 500) {
@@ -174,28 +250,34 @@ function moneyCsv(value) {
 }
 
 const csvHeader = [
-  "Šifra",
   "Naziv proizvoda",
-  "Brend",
-  "Kategorija",
-  "Aktualna cijena (EUR)",
-  "Redovna cijena (EUR)",
-  "Dostupne veličine",
-  "Boja",
+  "Šifra",
+  "Marka",
+  "Jedinica mjere",
+  "Cijena za jedinicu mjere (EUR)",
+  "Maloprodajna cijena (EUR)",
+  "Poseban oblik prodaje",
+  "Naziv posebnog oblika prodaje",
+  "Sidrena cijena (EUR)",
+  "Barkod",
   "Dostupnost",
+  "Kategorija",
   "Poveznica"
 ];
 
 const csvRows = products.map((product) => [
-  product.model,
   product.name,
+  product.model,
   product.brand,
-  product.category,
+  product.unit,
+  moneyCsv(product.unitPrice),
   moneyCsv(product.price),
-  moneyCsv(product.regularPrice),
-  product.sizes.join(", "),
-  product.colors.join(", "),
+  product.specialSale,
+  product.saleName,
+  moneyCsv(product.anchorPrice),
+  product.barcode,
   "Dostupno",
+  product.category,
   product.link
 ]);
 
@@ -212,7 +294,7 @@ function xmlCell(value) {
     .replaceAll("'", "&apos;");
 }
 
-const priceXml = `<?xml version="1.0" encoding="UTF-8"?>\n<cjenik datum="${metadata.generatedAt}" valuta="EUR">\n${products.map((product) => `  <proizvod>\n    <sifra>${xmlCell(product.model)}</sifra>\n    <naziv>${xmlCell(product.name)}</naziv>\n    <brend>${xmlCell(product.brand)}</brend>\n    <kategorija>${xmlCell(product.category)}</kategorija>\n    <aktualnaCijena>${Number(product.price).toFixed(2)}</aktualnaCijena>\n    <redovnaCijena>${Number(product.regularPrice).toFixed(2)}</redovnaCijena>\n    <velicine>${xmlCell(product.sizes.join(", "))}</velicine>\n    <dostupnost>Dostupno</dostupnost>\n    <poveznica>${xmlCell(product.link)}</poveznica>\n  </proizvod>`).join("\n")}\n</cjenik>\n`;
+const priceXml = `<?xml version="1.0" encoding="UTF-8"?>\n<cjenik datumVrijeme="${metadata.generatedAt}" valuta="EUR">\n${products.map((product) => `  <proizvod>\n    <naziv>${xmlCell(product.name)}</naziv>\n    <sifra>${xmlCell(product.model)}</sifra>\n    <marka>${xmlCell(product.brand)}</marka>\n    <jedinicaMjere>${xmlCell(product.unit)}</jedinicaMjere>\n    <cijenaZaJedinicuMjere>${Number(product.unitPrice).toFixed(2)}</cijenaZaJedinicuMjere>\n    <maloprodajnaCijena>${Number(product.price).toFixed(2)}</maloprodajnaCijena>\n    <posebanOblikProdaje>${product.specialSale}</posebanOblikProdaje>\n    <nazivPosebnogOblikaProdaje>${xmlCell(product.saleName)}</nazivPosebnogOblikaProdaje>\n    <sidrenaCijena>${Number(product.anchorPrice).toFixed(2)}</sidrenaCijena>\n    <barkod>${xmlCell(product.barcode)}</barkod>\n    <dostupnost>Dostupno</dostupnost>\n    <kategorija>${xmlCell(product.category)}</kategorija>\n    <poveznica>${xmlCell(product.link)}</poveznica>\n  </proizvod>`).join("\n")}\n</cjenik>\n`;
 
 const dateParts = new Intl.DateTimeFormat("en-CA", {
   timeZone: "Europe/Zagreb",
@@ -223,8 +305,17 @@ const dateParts = new Intl.DateTimeFormat("en-CA", {
 
 const dateValue = Object.fromEntries(dateParts.map((part) => [part.type, part.value]));
 const archiveDate = `${dateValue.year}-${dateValue.month}-${dateValue.day}`;
-const archiveCsvFilename = `cjenik-${archiveDate}.csv`;
-const archiveXmlFilename = `cjenik-${archiveDate}.xml`;
+const timeParts = new Intl.DateTimeFormat("en-GB", {
+  timeZone: "Europe/Zagreb",
+  hour: "2-digit",
+  minute: "2-digit",
+  hourCycle: "h23"
+}).formatToParts(now);
+const timeValue = Object.fromEntries(timeParts.map((part) => [part.type, part.value]));
+const archiveStamp = `${archiveDate}-${timeValue.hour}-${timeValue.minute}`;
+const filenameBase = `webshop-Istarsko-naselje-3A-WOOLF-ONLINE-001-${archiveStamp}`;
+const archiveCsvFilename = `${filenameBase}.csv`;
+const archiveXmlFilename = `${filenameBase}.xml`;
 const archiveIndexPath = path.join(archiveDir, "index.json");
 const retentionDays = 30;
 const cutoff = new Date(`${archiveDate}T12:00:00Z`);
@@ -264,8 +355,10 @@ const archiveFiles = await fs.readdir(archiveDir);
 await Promise.all(
   archiveFiles
     .filter((filename) => {
-      const match = filename.match(/^cjenik-(\d{4}-\d{2}-\d{2})\.(csv|xml)$/);
-      return match && match[1] < cutoffDate;
+      const legalMatch = filename.match(/^webshop-Istarsko-naselje-3A-WOOLF-ONLINE-001-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}\.(csv|xml)$/);
+      const legacyMatch = filename.match(/^cjenik-(\d{4}-\d{2}-\d{2})\.(csv|xml)$/);
+      const fileDate = legalMatch?.[1] || legacyMatch?.[1];
+      return fileDate && (fileDate < cutoffDate || fileDate === archiveDate) && filename !== archiveCsvFilename && filename !== archiveXmlFilename;
     })
     .map((filename) => fs.unlink(path.join(archiveDir, filename)))
 );
