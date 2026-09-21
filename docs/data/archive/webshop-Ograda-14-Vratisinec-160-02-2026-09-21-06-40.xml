@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-09-20T22:05:08.752Z" valuta="EUR">
+<cjenik datumVrijeme="2026-09-21T04:40:58.522Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -36029,7 +36029,7 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110697127</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_B_SILVER-41</sifra>
@@ -36411,7 +36411,7 @@
         <velicina>38</velicina>
         <boja>zlatna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_GOLDWHT-39</sifra>
@@ -36807,7 +36807,7 @@
         <velicina>38</velicina>
         <boja>srebrna</boja>
         <barkod>1100110713391</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_SILVERWHT-39</sifra>
@@ -36866,7 +36866,7 @@
         <velicina>37</velicina>
         <boja>smeda</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_TERAKOTAW-38</sifra>
@@ -37561,7 +37561,7 @@
         <velicina>42</velicina>
         <boja>crvena</boja>
         <barkod>1100110637338</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -40538,7 +40538,7 @@
         <velicina>42</velicina>
         <boja>pink</boja>
         <barkod>1100110714275</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -66676,7 +66676,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110705211</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_300_BLACK-39</sifra>
@@ -66749,7 +66749,7 @@
         <velicina>39</velicina>
         <boja>broncana</boja>
         <barkod>1100110715661</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_300_BRONZE-40</sifra>
@@ -67277,7 +67277,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110583833</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_315_FLOWER-41</sifra>
@@ -67777,7 +67777,7 @@
         <velicina>36</velicina>
         <boja>srebrna</boja>
         <barkod>1100110659897</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D314_PERLA-37</sifra>
@@ -69883,7 +69883,7 @@
         <velicina>40</velicina>
         <boja>sareno</boja>
         <barkod>1100110503510</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>15158_1WHITE-41</sifra>
@@ -126507,6 +126507,30 @@
   </proizvod>
   <proizvod>
     <naziv>KOŽNE NATIKAČE</naziv>
+    <sifra>253_N_BLUE</sifra>
+    <marka>LIBER LIGHT</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>24.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>24.99</sidrenaCijena>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Natikače</kategorija>
+    <poveznica>https://woolf.hr/kozne-natikace-proizvod-8733/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>253_N_BLUE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KOŽNE NATIKAČE</naziv>
     <sifra>530_1WHITE</sifra>
     <marka>LIBER LIGHT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -141928,7 +141952,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>1100110167019</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3200_WHITE-38</sifra>
@@ -142286,7 +142310,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110644640</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>6000_1_WHITE-42</sifra>
@@ -142609,7 +142633,7 @@
         <velicina>41</velicina>
         <boja>zelena</boja>
         <barkod>1100110710222</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_GREEPEARL-42</sifra>
@@ -144286,7 +144310,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110708991</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>902_WHITE-40</sifra>
@@ -147654,7 +147678,7 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110645609</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_N_SILVER-41</sifra>
@@ -148095,7 +148119,7 @@
         <velicina>39</velicina>
         <boja>zelena</boja>
         <barkod>1100110583642</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>154412_WHITE-40</sifra>
@@ -148109,7 +148133,7 @@
         <velicina>41</velicina>
         <boja>zelena</boja>
         <barkod>1100110583666</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>154412_WHITE-42</sifra>
@@ -148567,7 +148591,7 @@
         <velicina>39</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_FLOWER-40</sifra>
@@ -148803,7 +148827,7 @@
         <velicina>39</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_LEPTIR4-40</sifra>
@@ -148817,7 +148841,7 @@
         <velicina>41</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_LEPTIR4-42</sifra>
@@ -149282,7 +149306,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110474759</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>253_N_BLACK-38</sifra>
@@ -149310,65 +149334,6 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110474797</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>LIBER LIGHT KOŽNE NATIKAČE</naziv>
-    <sifra>253_N_BLUE</sifra>
-    <marka>LIBER LIGHT</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>24.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>24.99</sidrenaCijena>
-    <barkod>1100110474681, 1100110474698, 1100110474704, 1100110474711, 1100110474728, 1100110474735</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Natikače</kategorija>
-    <poveznica>https://woolf.hr/kozne-natikace-proizvod-8733/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>253_N_BLUE-36</sifra>
-        <velicina>36</velicina>
-        <boja>plava</boja>
-        <barkod>1100110474681</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>253_N_BLUE-37</sifra>
-        <velicina>37</velicina>
-        <boja>plava</boja>
-        <barkod>1100110474698</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>253_N_BLUE-38</sifra>
-        <velicina>38</velicina>
-        <boja>plava</boja>
-        <barkod>1100110474704</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>253_N_BLUE-39</sifra>
-        <velicina>39</velicina>
-        <boja>plava</boja>
-        <barkod>1100110474711</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>253_N_BLUE-40</sifra>
-        <velicina>40</velicina>
-        <boja>plava</boja>
-        <barkod>1100110474728</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>253_N_BLUE-41</sifra>
-        <velicina>41</velicina>
-        <boja>plava</boja>
-        <barkod>1100110474735</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -200744,7 +200709,7 @@
         <velicina>46</velicina>
         <boja></boja>
         <barkod>1100110698414</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -203410,7 +203375,7 @@
         <velicina>39-42</velicina>
         <boja>crna</boja>
         <barkod>1100110704306</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5971M_BLACK-43/46</sifra>
@@ -224974,7 +224939,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110596741</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3451_BLACK-41</sifra>
@@ -256634,7 +256599,7 @@
         <velicina>39</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110546241</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4350_FLOWER_WHT-40</sifra>
@@ -338326,7 +338291,7 @@
         <velicina>33</velicina>
         <boja>pink]]&gt;&lt;![CDATA[plava</boja>
         <barkod>1100110230867</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3500941_PINK-34</sifra>
