@@ -81,7 +81,8 @@ const requiredCsvHeaders = [
   "Maloprodajna cijena (EUR)",
   "Poseban oblik prodaje",
   "Naziv posebnog oblika prodaje",
-  "Sidrena cijena – cijena na dan 10. 09. 2026. (EUR)",
+  "Sidrena cijena (EUR)",
+  "Datum sidrene cijene",
   "Barkod",
   "Dostupnost"
 ];
@@ -107,16 +108,22 @@ if (!xml.startsWith("<?xml") || !xml.includes("<cjenik") || !xml.includes("<proi
 const requiredXmlTags = [
   "naziv", "sifra", "marka", "jedinicaMjere", "cijenaZaJedinicuMjere",
   "maloprodajnaCijena", "posebanOblikProdaje", "nazivPosebnogOblikaProdaje",
-  "sidrenaCijena", "barkod", "dostupnost"
+  "sidrenaCijena", "datumSidreneCijene", "barkod", "dostupnost"
 ];
 
 if (!requiredXmlTags.every((tag) => xml.includes(`<${tag}>`))) {
   throw new Error("XML nema sva obvezna polja.");
 }
 
-const correctedProduct = payload.products.find((product) => product.model === "6500944_21");
-if (!correctedProduct || correctedProduct.anchorPrice !== 599 || correctedProduct.price !== 649) {
-  throw new Error("Ručna sidrena cijena za 6500944_21 nije ispravno primijenjena.");
+for (const code of ["6500944_21", "6500944B", "6500944BC", "6500944_A"]) {
+  const product = payload.products.find((item) => item.model === code);
+  if (!product || product.anchorPrice !== 899 || product.anchorDate !== "2026-09-10") {
+    throw new Error(`Potvrđena sidrena cijena za ${code} mora biti 899 EUR na 10. 9. 2026.`);
+  }
+}
+
+if (!payload.products.every((product) => /^\d{4}-\d{2}-\d{2}$/.test(product.anchorDate))) {
+  throw new Error("Nedostaje datum sidrene cijene za jedan ili više artikala.");
 }
 
 if (!Array.isArray(archive.entries) || archive.entries.length < 1) {

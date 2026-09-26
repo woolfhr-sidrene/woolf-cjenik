@@ -143,14 +143,15 @@ async function loadConfiguration() {
     if (code && parsedPrice !== null) anchors.set(code, parsedPrice);
   }
 
-  for (const [code, anchorPrice, saleName, barcode, unit, unitPrice] of manualRows) {
+  for (const [code, anchorPrice, saleName, barcode, unit, unitPrice, anchorDate] of manualRows) {
     if (!code) continue;
     changes.set(code, {
       anchorPrice: anchorPrice ? numberOf(anchorPrice) : null,
       saleName: saleName || "",
       barcode: barcode || "",
       unit: unit || "",
-      unitPrice: unitPrice ? numberOf(unitPrice) : null
+      unitPrice: unitPrice ? numberOf(unitPrice) : null,
+      anchorDate: anchorDate || "2026-09-10"
     });
   }
 
@@ -224,6 +225,21 @@ const xml = jeftinijeFeed.body;
 const sourceModified = jeftinijeFeed.sourceModified;
 const itemBlocks = [...xml.matchAll(/<Item>([\s\S]*?)<\/Item>/g)].map((match) => match[1]);
 const googleRows = rowsToObjects(googleFeed.body, ",");
+const todayParts = new Intl.DateTimeFormat("en-CA", {
+  timeZone: "Europe/Zagreb", year: "numeric", month: "2-digit", day: "2-digit"
+}).formatToParts(new Date());
+const todayValue = Object.fromEntries(todayParts.map((part) => [part.type, part.value]));
+const today = `${todayValue.year}-${todayValue.month}-${todayValue.day}`;
+const newlyListed = new Map();
+
+function anchorFor(model, variantCode, price, manual) {
+  const frozen = manual.anchorPrice ?? configuration.anchors.get(variantCode) ?? configuration.anchors.get(model);
+  if (frozen !== undefined && frozen !== null) {
+    return { anchorPrice: frozen, anchorDate: manual.anchorDate || "2026-09-10" };
+  }
+  if (!newlyListed.has(model)) newlyListed.set(model, { anchorPrice: price, anchorDate: today });
+  return newlyListed.get(model);
+}
 
 if (itemBlocks.length < 1_000) {
   throw new Error(`Sigurnosna provjera: feed sadrži samo ${itemBlocks.length} varijanti.`);
@@ -249,7 +265,7 @@ const variants = itemBlocks
       || configuration.erpBarcodes.get(erpBarcodeKey(variantCode, size))
       || "";
     const onSale = regularPrice > price;
-    const anchorPrice = manual.anchorPrice ?? configuration.anchors.get(variantCode) ?? configuration.anchors.get(model) ?? price;
+    const { anchorPrice, anchorDate } = anchorFor(model, variantCode, price, manual);
     const inStock = valueOf(item, "stock").toLowerCase() === "in stock";
 
     return {
@@ -271,6 +287,7 @@ const variants = itemBlocks
       unit: manual.unit || "kom",
       unitPrice: manual.unitPrice ?? price,
       anchorPrice,
+      anchorDate,
       specialSale: onSale ? "DA" : "NE",
       saleName: onSale ? (manual.saleName || "Akcija") : ""
     };
@@ -300,6 +317,7 @@ for (const variant of variants) {
       unit: variant.unit,
       unitPrice: variant.unitPrice,
       anchorPrice: variant.anchorPrice,
+      anchorDate: variant.anchorDate,
       specialSale: variant.specialSale,
       saleName: variant.saleName,
       variants: []
@@ -333,6 +351,7 @@ for (const row of googleRows) {
   const manual = configuration.changes.get(model) || {};
   const erpBarcode = configuration.erpBarcodes.get(erpBarcodeKey(model, "")) || "";
   const onSale = regularPrice > price;
+  const { anchorPrice, anchorDate } = anchorFor(model, model, price, manual);
   productsByModel.set(model, {
     model,
     name: String(row["Item title"] || model).trim(),
@@ -344,7 +363,8 @@ for (const row of googleRows) {
     link: safeProductUrl(row["Final URL"]),
     unit: manual.unit || "kom",
     unitPrice: manual.unitPrice ?? price,
-    anchorPrice: manual.anchorPrice ?? configuration.anchors.get(model) ?? regularPrice,
+    anchorPrice,
+    anchorDate,
     specialSale: onSale ? "DA" : "NE",
     saleName: onSale ? (manual.saleName || "Akcija") : "",
     variants: [{
@@ -437,13 +457,14 @@ const csvHeader = [
   "Maloprodajna cijena (EUR)",
   "Poseban oblik prodaje",
   "Naziv posebnog oblika prodaje",
-  "Sidrena cijena – cijena na dan 10. 09. 2026. (EUR)",
+  "Sidrena cijena (EUR)",
   "Barkod",
   "Dostupnost",
   "Varijante i dostupnost",
   "Barkodovi varijanti",
   "Kategorija",
-  "Poveznica"
+  "Poveznica",
+  "Datum sidrene cijene"
 ];
 
 const csvRows = products.map((product) => [
@@ -462,7 +483,8 @@ const csvRows = products.map((product) => [
   product.variantSummary,
   product.barcodeSummary,
   product.category,
-  product.link
+  product.link,
+  product.anchorDate
 ]);
 
 const csvInfo = [
@@ -488,7 +510,7 @@ function xmlCell(value) {
     .replaceAll("'", "&apos;");
 }
 
-const priceXml = `<?xml version="1.0" encoding="UTF-8"?>\n<cjenik datumVrijeme="${metadata.generatedAt}" valuta="EUR">\n  <zaglavlje>\n    <naziv>Woolf d.o.o.</naziv>\n    <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>\n    <oib>45374311169</oib>\n    <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>\n    <oznakaProdajnogProstora>160</oznakaProdajnogProstora>\n    <brojSkladista>02</brojSkladista>\n    <datumCjenika>${xmlCell(displayDate)}</datumCjenika>\n  </zaglavlje>\n${products.map((product) => `  <proizvod>\n    <naziv>${xmlCell(product.name)}</naziv>\n    <sifra>${xmlCell(product.model)}</sifra>\n    <marka>${xmlCell(product.brand)}</marka>\n    <jedinicaMjere>${xmlCell(product.unit)}</jedinicaMjere>\n    <cijenaZaJedinicuMjere>${Number(product.unitPrice).toFixed(2)}</cijenaZaJedinicuMjere>\n    <maloprodajnaCijena>${Number(product.price).toFixed(2)}</maloprodajnaCijena>\n    <posebanOblikProdaje>${product.specialSale}</posebanOblikProdaje>\n    <nazivPosebnogOblikaProdaje>${xmlCell(product.saleName)}</nazivPosebnogOblikaProdaje>\n    <sidrenaCijena>${Number(product.anchorPrice).toFixed(2)}</sidrenaCijena>\n    <barkod>${xmlCell(product.barcode)}</barkod>\n    <dostupnost>${product.availability}</dostupnost>\n    <kategorija>${xmlCell(product.category)}</kategorija>\n    <poveznica>${xmlCell(product.link)}</poveznica>\n    <varijante>\n${product.variants.map((variant) => `      <varijanta>\n        <sifra>${xmlCell(variant.code)}</sifra>\n        <velicina>${xmlCell(variant.size)}</velicina>\n        <boja>${xmlCell(variant.color)}</boja>\n        <barkod>${xmlCell(variant.barcode)}</barkod>\n        <dostupnost>${variant.availability}</dostupnost>\n      </varijanta>`).join("\n")}\n    </varijante>\n  </proizvod>`).join("\n")}\n</cjenik>\n`;
+const priceXml = `<?xml version="1.0" encoding="UTF-8"?>\n<cjenik datumVrijeme="${metadata.generatedAt}" valuta="EUR">\n  <zaglavlje>\n    <naziv>Woolf d.o.o.</naziv>\n    <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>\n    <oib>45374311169</oib>\n    <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>\n    <oznakaProdajnogProstora>160</oznakaProdajnogProstora>\n    <brojSkladista>02</brojSkladista>\n    <datumCjenika>${xmlCell(displayDate)}</datumCjenika>\n  </zaglavlje>\n${products.map((product) => `  <proizvod>\n    <naziv>${xmlCell(product.name)}</naziv>\n    <sifra>${xmlCell(product.model)}</sifra>\n    <marka>${xmlCell(product.brand)}</marka>\n    <jedinicaMjere>${xmlCell(product.unit)}</jedinicaMjere>\n    <cijenaZaJedinicuMjere>${Number(product.unitPrice).toFixed(2)}</cijenaZaJedinicuMjere>\n    <maloprodajnaCijena>${Number(product.price).toFixed(2)}</maloprodajnaCijena>\n    <posebanOblikProdaje>${product.specialSale}</posebanOblikProdaje>\n    <nazivPosebnogOblikaProdaje>${xmlCell(product.saleName)}</nazivPosebnogOblikaProdaje>\n    <sidrenaCijena>${Number(product.anchorPrice).toFixed(2)}</sidrenaCijena>\n    <datumSidreneCijene>${xmlCell(product.anchorDate)}</datumSidreneCijene>\n    <barkod>${xmlCell(product.barcode)}</barkod>\n    <dostupnost>${product.availability}</dostupnost>\n    <kategorija>${xmlCell(product.category)}</kategorija>\n    <poveznica>${xmlCell(product.link)}</poveznica>\n    <varijante>\n${product.variants.map((variant) => `      <varijanta>\n        <sifra>${xmlCell(variant.code)}</sifra>\n        <velicina>${xmlCell(variant.size)}</velicina>\n        <boja>${xmlCell(variant.color)}</boja>\n        <barkod>${xmlCell(variant.barcode)}</barkod>\n        <dostupnost>${variant.availability}</dostupnost>\n      </varijanta>`).join("\n")}\n    </varijante>\n  </proizvod>`).join("\n")}\n</cjenik>\n`;
 
 const dateParts = new Intl.DateTimeFormat("en-CA", {
   timeZone: "Europe/Zagreb",
@@ -567,6 +589,13 @@ await Promise.all([
   fs.writeFile(path.join(archiveDir, archiveXmlFilename), priceXml),
   fs.writeFile(archiveIndexPath, JSON.stringify(archiveIndex, null, 2))
 ]);
+
+if (newlyListed.size) {
+  const rows = [...newlyListed].map(([code, entry]) =>
+    [code, entry.anchorPrice.toFixed(2), "", "", "", "", entry.anchorDate].join(";")
+  );
+  await fs.appendFile(manualChangesPath, `${rows.join("\n")}\n`);
+}
 
 console.log(`Cjenik ${archiveDate} arhiviran: ${metadata.products} proizvoda (${jeftinijeProducts} iz Jeftinije + ${googleOnlyProducts} nedostupnih iz Google dopune) i ${metadata.variants} zapisa varijanti (${availableVariants} dostupno, ${unavailableVariants} nedostupno). Brend je dodijeljen za ${productsWithBrand} proizvoda, ${productsWithoutBrand} je bez brenda. Čuva se posljednjih ${retentionDays} dana.`);
 if (missingBarcodes > 0) console.log(`Barkod nije dodijeljen za ${missingBarcodes} varijanti; koristi se šifra artikla kao glavni identifikator.`);
