@@ -525,26 +525,36 @@ const timeParts = new Intl.DateTimeFormat("en-GB", {
   timeZone: "Europe/Zagreb",
   hour: "2-digit",
   minute: "2-digit",
+  second: "2-digit",
   hourCycle: "h23"
 }).formatToParts(now);
 const timeValue = Object.fromEntries(timeParts.map((part) => [part.type, part.value]));
-const archiveStamp = `${archiveDate}-${timeValue.hour}-${timeValue.minute}`;
-const filenameBase = `webshop-Ograda-14-Vratisinec-160-02-${archiveStamp}`;
-const archiveCsvFilename = `${filenameBase}.csv`;
-const archiveXmlFilename = `${filenameBase}.xml`;
+const archiveStamp = `${archiveDate}-${timeValue.hour}-${timeValue.minute}-${timeValue.second}`;
 const archiveIndexPath = path.join(archiveDir, "index.json");
 const retentionDays = 30;
 const cutoff = new Date(`${archiveDate}T12:00:00Z`);
-cutoff.setUTCDate(cutoff.getUTCDate() - (retentionDays - 1));
+// Datum objave zadrži punih 30 dana, čak i kad se isti dan objavi novi cjenik.
+cutoff.setUTCDate(cutoff.getUTCDate() - retentionDays);
 const cutoffDate = cutoff.toISOString().slice(0, 10);
 
 let archiveEntries = [];
+let lastSequence = 2;
 try {
   const existingIndex = JSON.parse(await fs.readFile(archiveIndexPath, "utf8"));
   if (Array.isArray(existingIndex.entries)) archiveEntries = existingIndex.entries;
+  const recorded = Number(existingIndex.lastSequence);
+  if (Number.isSafeInteger(recorded) && recorded >= 2) lastSequence = recorded;
+  for (const entry of archiveEntries) {
+    const match = String(entry.csvFilename || "").match(/^webshop-Ograda-14-Vratisinec-160-(\d+)-/);
+    if (match) lastSequence = Math.max(lastSequence, Number(match[1]));
+  }
 } catch {
   // Prvo pokretanje nema postojeću arhivu.
 }
+const sequence = lastSequence + 1;
+const filenameBase = `webshop-Ograda-14-Vratisinec-160-${sequence}-${archiveStamp}`;
+const archiveCsvFilename = `${filenameBase}.csv`;
+const archiveXmlFilename = `${filenameBase}.xml`;
 
 archiveEntries = [
   {
@@ -555,7 +565,7 @@ archiveEntries = [
     products: metadata.products,
     variants: metadata.variants
   },
-  ...archiveEntries.filter((entry) => entry.date !== archiveDate)
+  ...archiveEntries
 ]
   .filter((entry) => entry.date >= cutoffDate)
   .sort((a, b) => b.date.localeCompare(a.date));
@@ -563,6 +573,7 @@ archiveEntries = [
 const archiveIndex = {
   updatedAt: metadata.generatedAt,
   retentionDays,
+  lastSequence: sequence,
   entries: archiveEntries
 };
 
@@ -571,12 +582,12 @@ const archiveFiles = await fs.readdir(archiveDir);
 await Promise.all(
   archiveFiles
     .filter((filename) => {
-      const legalMatch = filename.match(/^webshop-Ograda-14-Vratisinec-160-02-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}\.(csv|xml)$/);
+      const legalMatch = filename.match(/^webshop-Ograda-14-Vratisinec-160-\d+-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}(?:-\d{2})?\.(csv|xml)$/);
       const currentMatch = filename.match(/^cjenik-Woolf-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}\.(csv|xml)$/);
       const oldOutletMatch = filename.match(/^webshop-Istarsko-naselje-3A-WOOLF-ONLINE-001-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}\.(csv|xml)$/);
       const legacyMatch = filename.match(/^cjenik-(\d{4}-\d{2}-\d{2})\.(csv|xml)$/);
       const fileDate = legalMatch?.[1] || currentMatch?.[1] || oldOutletMatch?.[1] || legacyMatch?.[1];
-      return fileDate && (fileDate < cutoffDate || fileDate === archiveDate) && filename !== archiveCsvFilename && filename !== archiveXmlFilename;
+      return fileDate && fileDate < cutoffDate && filename !== archiveCsvFilename && filename !== archiveXmlFilename;
     })
     .map((filename) => fs.unlink(path.join(archiveDir, filename)))
 );

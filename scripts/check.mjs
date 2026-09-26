@@ -130,8 +130,8 @@ if (!Array.isArray(archive.entries) || archive.entries.length < 1) {
   throw new Error("Arhiva cjenika nije ispravna.");
 }
 
-if (archive.retentionDays !== 30 || archive.entries.length > 30) {
-  throw new Error("Arhiva nije ograničena na posljednjih 30 dana.");
+if (archive.retentionDays !== 30) {
+  throw new Error("Arhiva mora čuvati cjenike najmanje 30 dana.");
 }
 
 await Promise.all([
@@ -139,7 +139,7 @@ await Promise.all([
   fs.access(`docs/data/archive/${archive.entries[0].xmlFilename}`)
 ]);
 
-if (!archive.entries[0].csvFilename.startsWith("webshop-Ograda-14-Vratisinec-160-02-")) {
+if (!/^webshop-Ograda-14-Vratisinec-160-\d+-\d{4}-/.test(archive.entries[0].csvFilename)) {
   throw new Error("Naziv arhivske datoteke nije ispravan.");
 }
 
