@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-11T04:43:43.443Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-12T04:46:43.026Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>11. 10. 2026.</datumCjenika>
+    <datumCjenika>12. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -6145,6 +6145,31 @@
     <varijante>
       <varijanta>
         <sifra>144_BLACK</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>145_WHITE</sifra>
+    <marka>SOFT LINE</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>49.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>59.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-10808/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>145_WHITE</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -34019,7 +34044,7 @@
         <velicina>40</velicina>
         <boja>crvena</boja>
         <barkod>1100110716897</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_RED-41</sifra>
@@ -42205,7 +42230,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -68695,7 +68720,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110705242</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_300_BLACK-42</sifra>
@@ -68748,7 +68773,7 @@
         <velicina>39</velicina>
         <boja>broncana</boja>
         <barkod>1100110715661</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_300_BRONZE-40</sifra>
@@ -90135,14 +90160,14 @@
         <velicina>39</velicina>
         <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_DALMAT-40</sifra>
         <velicina>40</velicina>
         <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_DALMAT-41</sifra>
@@ -90262,7 +90287,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_PANDA-41</sifra>
@@ -106901,59 +106926,6 @@
         <velicina>35</velicina>
         <boja>bijela</boja>
         <barkod>1100110662972</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>KangaROOS TENISICE K CP BOUNDER EV</naziv>
-    <sifra>102690_GREY</sifra>
-    <marka>KangaROOS</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>26.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>26.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>46.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110663511, 1100110663528, 1100110663535, 1100110663542, 1100110663559</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Dječje - Obuća - Tenisice</kategorija>
-    <poveznica>https://woolf.hr/tenisice-k-cp-bounder-ev-proizvod-11815/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>102690_GREY-36</sifra>
-        <velicina>36</velicina>
-        <boja>siva</boja>
-        <barkod>1100110663511</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>102690_GREY-37</sifra>
-        <velicina>37</velicina>
-        <boja>siva</boja>
-        <barkod>1100110663528</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>102690_GREY-38</sifra>
-        <velicina>38</velicina>
-        <boja>siva</boja>
-        <barkod>1100110663535</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>102690_GREY-39</sifra>
-        <velicina>39</velicina>
-        <boja>siva</boja>
-        <barkod>1100110663542</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>102690_GREY-40</sifra>
-        <velicina>40</velicina>
-        <boja>siva</boja>
-        <barkod>1100110663559</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -147170,7 +147142,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110172747</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3200_BLACK-41</sifra>
@@ -149710,7 +149682,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>912_N_BLACK-38</sifra>
@@ -150959,7 +150931,7 @@
         <velicina>38</velicina>
         <boja>srebrna</boja>
         <barkod>1100110658333</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3300_N_PERLA-39</sifra>
@@ -152871,7 +152843,7 @@
         <velicina>37</velicina>
         <boja>zelena</boja>
         <barkod>1100110371942</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_MINT-38</sifra>
@@ -153520,7 +153492,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>1100110583628</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>154412_WHITE-38</sifra>
@@ -154628,7 +154600,7 @@
         <velicina>38</velicina>
         <boja>bez</boja>
         <barkod>1100110474643</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>253_N_BEIGE-39</sifra>
@@ -154642,7 +154614,7 @@
         <velicina>40</velicina>
         <boja>bez</boja>
         <barkod>1100110474667</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>253_N_BEIGE-41</sifra>
@@ -251553,7 +251525,7 @@
         <velicina>43</velicina>
         <boja>crna</boja>
         <barkod>1100110716538</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A67_BLACK-44</sifra>
@@ -265161,7 +265133,7 @@
         <velicina>44</velicina>
         <boja>bijela</boja>
         <barkod>1100110538888</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1WHITE-45</sifra>
@@ -267944,66 +267916,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>SKECHERS TENISICE D LITES</naziv>
-    <sifra>13087_WHITE</sifra>
-    <marka>SKECHERS</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>59.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>59.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>81.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110665720, 1100110665737, 1100110665744, 1100110665751, 1100110665768, 1100110665775</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Tenisice</kategorija>
-    <poveznica>https://woolf.hr/tenisice-d-lites-proizvod-11849/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>13087_WHITE-36</sifra>
-        <velicina>36</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110665720</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13087_WHITE-37</sifra>
-        <velicina>37</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110665737</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13087_WHITE-38</sifra>
-        <velicina>38</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110665744</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13087_WHITE-39</sifra>
-        <velicina>39</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110665751</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13087_WHITE-40</sifra>
-        <velicina>40</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110665768</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13087_WHITE-41</sifra>
-        <velicina>41</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110665775</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>SKECHERS TENISICE DYNAMIGHT</naziv>
     <sifra>149691_BLACK</sifra>
     <marka>SKECHERS</marka>
@@ -269403,66 +269315,6 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110623409</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>SOFT LINE ANATOMSKE KLOMPE</naziv>
-    <sifra>145_WHITE</sifra>
-    <marka>SOFT LINE</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>49.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>59.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110599162, 1100110599117, 1100110599124, 1100110599131, 1100110599148, 1100110599155</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-10808/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>145_WHITE-36</sifra>
-        <velicina>36</velicina>
-        <boja>sareno</boja>
-        <barkod>1100110599162</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>145_WHITE-37</sifra>
-        <velicina>37</velicina>
-        <boja>sareno</boja>
-        <barkod>1100110599117</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>145_WHITE-38</sifra>
-        <velicina>38</velicina>
-        <boja>sareno</boja>
-        <barkod>1100110599124</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>145_WHITE-39</sifra>
-        <velicina>39</velicina>
-        <boja>sareno</boja>
-        <barkod>1100110599131</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>145_WHITE-40</sifra>
-        <velicina>40</velicina>
-        <boja>sareno</boja>
-        <barkod>1100110599148</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>145_WHITE-41</sifra>
-        <velicina>41</velicina>
-        <boja>sareno</boja>
-        <barkod>1100110599155</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -311929,6 +311781,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>TENISICE D LITES</naziv>
+    <sifra>13087_WHITE</sifra>
+    <marka>SKECHERS</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>59.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>59.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>81.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Tenisice</kategorija>
+    <poveznica>https://woolf.hr/tenisice-d-lites-proizvod-11849/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>13087_WHITE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>TENISICE DALAN</naziv>
     <sifra>LTF243M105_61</sifra>
     <marka>LOTTO</marka>
@@ -315721,6 +315598,31 @@
     <varijante>
       <varijanta>
         <sifra>80035_GREEN</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>TENISICE K CP BOUNDER EV</naziv>
+    <sifra>102690_GREY</sifra>
+    <marka>KangaROOS</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>26.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>26.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>46.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Dječje - Obuća - Tenisice</kategorija>
+    <poveznica>https://woolf.hr/tenisice-k-cp-bounder-ev-proizvod-11815/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>102690_GREY</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
