@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-12T04:46:43.026Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-13T04:47:35.588Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>12. 10. 2026.</datumCjenika>
+    <datumCjenika>13. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -6570,6 +6570,31 @@
     <varijante>
       <varijanta>
         <sifra>M190_GREEN_FLOWER</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>HPM360_S041_WHITE</sifra>
+    <marka>HIT SHOES</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>18.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>18.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>21.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Muško - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-10344/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>HPM360_S041_WHITE</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -33998,7 +34023,7 @@
         <velicina>41</velicina>
         <boja>sareno</boja>
         <barkod>1100110716958</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -37885,7 +37910,7 @@
         <velicina>40</velicina>
         <boja>zlatna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_GOLDWHT-41</sifra>
@@ -49112,73 +49137,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>CHAMPION TENISICE TORRENS</naziv>
-    <sifra>CHF261M111_02</sifra>
-    <marka>CHAMPION</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>43.92</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>43.92</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>54.90</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110703880, 1100110703897, 1100110703903, 1100110703910</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Muško - Obuća - Tenisice</kategorija>
-    <poveznica>https://woolf.hr/tenisice-torrens-proizvod-12672/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>CHF261M111_02-40</sifra>
-        <velicina>40</velicina>
-        <boja>plava</boja>
-        <barkod>1100110703880</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>CHF261M111_02-41</sifra>
-        <velicina>41</velicina>
-        <boja>plava</boja>
-        <barkod>1100110703897</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>CHF261M111_02-42</sifra>
-        <velicina>42</velicina>
-        <boja>plava</boja>
-        <barkod>1100110703903</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>CHF261M111_02-43</sifra>
-        <velicina>43</velicina>
-        <boja>plava</boja>
-        <barkod>1100110703910</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>CHF261M111_02-44</sifra>
-        <velicina>44</velicina>
-        <boja>plava</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>CHF261M111_02-45</sifra>
-        <velicina>45</velicina>
-        <boja>plava</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>CHF261M111_02-46</sifra>
-        <velicina>46</velicina>
-        <boja>plava</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>CHAMPION TORBA ONEBASIC SMALL</naziv>
     <sifra>CHE251M102_01</sifra>
     <marka>CHAMPION</marka>
@@ -55583,10 +55541,10 @@
     <sifra>2033_FLOWER</sifra>
     <marka>CLASS LIFE</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>26.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>26.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>23.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>23.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>24.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -68706,7 +68664,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110705228</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_300_BLACK-40</sifra>
@@ -71967,7 +71925,7 @@
         <velicina>40</velicina>
         <boja>sareno</boja>
         <barkod>1100110503459</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>15158_WHITE-41</sifra>
@@ -90702,66 +90660,6 @@
   </proizvod>
   <proizvod>
     <naziv>HIT SHOES ANATOMSKE KLOMPE</naziv>
-    <sifra>HPM360_S041_WHITE</sifra>
-    <marka>HIT SHOES</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>18.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>18.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>21.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110572196, 1100110572202, 1100110572219, 1100110572226, 1100110572233, 1100110572240</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Muško - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-10344/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>HPM360_S041_WHITE-41</sifra>
-        <velicina>41</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110572196</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPM360_S041_WHITE-42</sifra>
-        <velicina>42</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110572202</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPM360_S041_WHITE-43</sifra>
-        <velicina>43</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110572219</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPM360_S041_WHITE-44</sifra>
-        <velicina>44</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110572226</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPM360_S041_WHITE-45</sifra>
-        <velicina>45</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110572233</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPM360_S041_WHITE-46</sifra>
-        <velicina>46</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110572240</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>HIT SHOES ANATOMSKE KLOMPE</naziv>
     <sifra>HPM360_S042_WHITE</sifra>
     <marka>HIT SHOES</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -105924,6 +105822,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>JIMMY Originalna baterija za JIMMY JV85 bežični usisivač</naziv>
+    <sifra>sm-000371</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>64.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>64.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>64.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>6946499383207</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/originalna-baterija-za-jimmy-jv85-bezicni-usisivac-proizvod-12476/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-000371</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>6946499383207</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>JIMMY Originalna baterija za JIMMY JV85 Pro bežični usisivač</naziv>
     <sifra>sm-371891</sifra>
     <marka>JIMMY</marka>
@@ -106016,6 +105939,31 @@
     <varijante>
       <varijanta>
         <sifra>sm-000386</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>1264</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>JIMMY Originalna glava za Jimmy JV85 Pro i H9 Pro</naziv>
+    <sifra>sm-000385</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>39.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>39.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>39.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>1264</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/originalna-glava-za-jimmy-jv85-pro-i-h9-pro-proizvod-12503/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-000385</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>1264</barkod>
@@ -146373,7 +146321,7 @@
         <velicina>45</velicina>
         <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>90301_BLUE-46</sifra>
@@ -147149,7 +147097,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110172754</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3200_BLACK-42</sifra>
@@ -147784,7 +147732,7 @@
         <velicina>38</velicina>
         <boja>zelena</boja>
         <barkod>1100110698766</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_GREEN-39</sifra>
@@ -148179,7 +148127,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110474490</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -149248,7 +149196,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110507679</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>900_1BLACK-39</sifra>
@@ -149276,7 +149224,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110507716</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -150652,7 +150600,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110658678</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -151802,7 +151750,7 @@
         <velicina>41</velicina>
         <boja>srebrna</boja>
         <barkod>1100110659095</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -152850,7 +152798,7 @@
         <velicina>38</velicina>
         <boja>zelena</boja>
         <barkod>1100110371959</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_MINT-39</sifra>
@@ -153827,7 +153775,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -153933,7 +153881,7 @@
         <velicina>40</velicina>
         <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_4_WHITE-41</sifra>
@@ -212441,7 +212389,7 @@
     <sidrenaCijena>199.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110680662</barkod>
-    <dostupnost>Dostupno</dostupnost>
+    <dostupnost>Nedostupno</dostupnost>
     <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Powertower</kategorija>
     <poveznica>https://woolf.hr/power-tower-proizvod-12103/</poveznica>
     <varijante>
@@ -212450,32 +212398,7 @@
         <velicina></velicina>
         <boja>crna</boja>
         <barkod>1100110680662</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>NW POWER TOWER</naziv>
-    <sifra>65025PT_B</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>139.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>139.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>199.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110698810</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Powertower</kategorija>
-    <poveznica>https://woolf.hr/power-tower-proizvod-12422/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>65025PT_B-XY</sifra>
-        <velicina></velicina>
-        <boja>crna</boja>
-        <barkod>1100110698810</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -217208,31 +217131,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>Originalna baterija za JIMMY JV85 bežični usisiva</naziv>
-    <sifra>sm-000371</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>64.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>64.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>64.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/originalna-baterija-za-jimmy-jv85-bezicni-usisivac-proizvod-12476/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-000371</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>Originalna četka za tepih JIMMY JV51/JV53/JV63/JV65/JV83/JV85/JV85 Pro/H9 Pro/H9 Flex/H10 Pro/H10 Flex</naziv>
     <sifra>sm-371608</sifra>
     <marka>JIMMY</marka>
@@ -217300,31 +217198,6 @@
     <varijante>
       <varijanta>
         <sifra>sm-466697</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>Originalna glava za Jimmy JV85 Pro i H9 Pro</naziv>
-    <sifra>sm-000385</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>39.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>39.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>39.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/originalna-glava-za-jimmy-jv85-pro-i-h9-pro-proizvod-12503/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-000385</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -232674,6 +232547,31 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>POWER TOWER</naziv>
+    <sifra>65025PT_B</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>139.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>139.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>199.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>1100110698810</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Powertower</kategorija>
+    <poveznica>https://woolf.hr/power-tower-proizvod-12422/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>65025PT_B</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>1100110698810</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -265648,7 +265546,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110538147</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-40</sifra>
@@ -266068,7 +265966,7 @@
         <velicina>39</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4367_FLOWER_BLK-40</sifra>
@@ -266195,7 +266093,7 @@
         <velicina>39</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110538628</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4372_1FLOWER-40</sifra>
@@ -325648,6 +325546,31 @@
     <varijante>
       <varijanta>
         <sifra>010_486_BLACK</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>TENISICE TORRENS</naziv>
+    <sifra>CHF261M111_02</sifra>
+    <marka>CHAMPION</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>43.92</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>43.92</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>54.90</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Muško - Obuća - Tenisice</kategorija>
+    <poveznica>https://woolf.hr/tenisice-torrens-proizvod-12672/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>CHF261M111_02</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>

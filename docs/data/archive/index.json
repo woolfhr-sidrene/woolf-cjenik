@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-10-12T04:46:43.026Z",
+  "updatedAt": "2026-10-13T04:47:35.588Z",
   "retentionDays": 30,
-  "lastSequence": 19,
+  "lastSequence": 20,
   "entries": [
+    {
+      "date": "2026-10-13",
+      "csvFilename": "webshop-Ograda-14-Vratisinec-160-20-2026-10-13-06-47-35.csv",
+      "xmlFilename": "webshop-Ograda-14-Vratisinec-160-20-2026-10-13-06-47-35.xml",
+      "generatedAt": "2026-10-13T04:47:35.588Z",
+      "products": 12489,
+      "variants": 18851
+    },
     {
       "date": "2026-10-12",
       "csvFilename": "webshop-Ograda-14-Vratisinec-160-19-2026-10-12-06-46-43.csv",
