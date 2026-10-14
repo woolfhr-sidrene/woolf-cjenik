@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-13T04:47:35.588Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-14T04:58:37.168Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>13. 10. 2026.</datumCjenika>
+    <datumCjenika>14. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -6295,6 +6295,31 @@
     <varijante>
       <varijanta>
         <sifra>U_25_BLACK</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>D_312_DOKTOR</sifra>
+    <marka>FRATELLI BABB</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>41.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>41.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>47.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-10698/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>D_312_DOKTOR</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -37748,7 +37773,7 @@
         <velicina>36</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_BLACKWHT-37</sifra>
@@ -38466,73 +38491,6 @@
   </proizvod>
   <proizvod>
     <naziv>BIANCOMOLINA KLOMPE S JASTUKOM</naziv>
-    <sifra>AA01_WHITEG</sifra>
-    <marka>BIANCOMOLINA</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>62.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>62.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>62.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-26</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-12967/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>AA01_WHITEG-36</sifra>
-        <velicina>36</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_WHITEG-37</sifra>
-        <velicina>37</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_WHITEG-38</sifra>
-        <velicina>38</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_WHITEG-39</sifra>
-        <velicina>39</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_WHITEG-40</sifra>
-        <velicina>40</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_WHITEG-41</sifra>
-        <velicina>41</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_WHITEG-42</sifra>
-        <velicina>42</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>BIANCOMOLINA KLOMPE S JASTUKOM</naziv>
     <sifra>AA01_WWHITE</sifra>
     <marka>BIANCOMOLINA</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -38781,7 +38739,7 @@
         <velicina>40</velicina>
         <boja>pink</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>KOA01_C_PINK-41</sifra>
@@ -48395,73 +48353,6 @@
         <velicina>35</velicina>
         <boja>crna</boja>
         <barkod>1100110100610</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>CHAMPION TENISICE MAKS</naziv>
-    <sifra>S22551_GS518</sifra>
-    <marka>CHAMPION</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>51.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>51.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>64.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110676221, 1100110676238, 1100110676245, 1100110676252, 1100110676269, 1100110676276, 1100110676283</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Muško - Obuća - Gležnjače</kategorija>
-    <poveznica>https://woolf.hr/tenisice-maks-proizvod-12036/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>S22551_GS518-40</sifra>
-        <velicina>40</velicina>
-        <boja>smeda</boja>
-        <barkod>1100110676221</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>S22551_GS518-41</sifra>
-        <velicina>41</velicina>
-        <boja>smeda</boja>
-        <barkod>1100110676238</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>S22551_GS518-42</sifra>
-        <velicina>42</velicina>
-        <boja>smeda</boja>
-        <barkod>1100110676245</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>S22551_GS518-43</sifra>
-        <velicina>43</velicina>
-        <boja>smeda</boja>
-        <barkod>1100110676252</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>S22551_GS518-44</sifra>
-        <velicina>44</velicina>
-        <boja>smeda</boja>
-        <barkod>1100110676269</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>S22551_GS518-45</sifra>
-        <velicina>45</velicina>
-        <boja>smeda</boja>
-        <barkod>1100110676276</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>S22551_GS518-46</sifra>
-        <velicina>46</velicina>
-        <boja>smeda</boja>
-        <barkod>1100110676283</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -68825,73 +68716,6 @@
   </proizvod>
   <proizvod>
     <naziv>FRATELLI BABB ANATOMSKE KLOMPE</naziv>
-    <sifra>D_312_DOKTOR</sifra>
-    <marka>FRATELLI BABB</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>41.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>41.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>47.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110591166, 1100110591173, 1100110591180, 1100110591197, 1100110591203, 1100110591210, 1100110591227</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-10698/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>D_312_DOKTOR-36</sifra>
-        <velicina>36</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110591166</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>D_312_DOKTOR-37</sifra>
-        <velicina>37</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110591173</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>D_312_DOKTOR-38</sifra>
-        <velicina>38</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110591180</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>D_312_DOKTOR-39</sifra>
-        <velicina>39</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110591197</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>D_312_DOKTOR-40</sifra>
-        <velicina>40</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110591203</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>D_312_DOKTOR-41</sifra>
-        <velicina>41</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110591210</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>D_312_DOKTOR-42</sifra>
-        <velicina>42</velicina>
-        <boja>bijela</boja>
-        <barkod>1100110591227</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>FRATELLI BABB ANATOMSKE KLOMPE</naziv>
     <sifra>D_312_FLOWER_K</sifra>
     <marka>FRATELLI BABB</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -71932,7 +71756,7 @@
         <velicina>41</velicina>
         <boja>sareno</boja>
         <barkod>1100110503466</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>15158_WHITE-42</sifra>
@@ -90065,7 +89889,7 @@
         <velicina>40</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-41</sifra>
@@ -90252,7 +90076,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_PANDA-42</sifra>
@@ -90312,7 +90136,7 @@
         <velicina>40</velicina>
         <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>HPF352_GREY_BUTERFLY-41</sifra>
@@ -113325,6 +113149,31 @@
     <varijante>
       <varijanta>
         <sifra>PU03_WHITE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KLOMPE S JASTUKOM</naziv>
+    <sifra>AA01_WHITEG</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>62.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>62.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>62.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-26</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-12967/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>AA01_WHITEG</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -148099,7 +147948,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>1100110474452</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_N_WHITE-38</sifra>
@@ -148127,7 +147976,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110474490</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -148716,7 +148565,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110111524</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V261_BLACK-41</sifra>
@@ -149824,7 +149673,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110495624</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_BLACK-39</sifra>
@@ -150593,7 +150442,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110658661</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2022_N_WHITE-41</sifra>
@@ -150833,7 +150682,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110658296</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3300_N_BLACK-41</sifra>
@@ -150953,7 +150802,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110658470</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3300_N_WHITE-41</sifra>
@@ -150999,7 +150848,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110398901</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4250_BLACK-38</sifra>
@@ -151482,7 +151331,7 @@
         <velicina>37</velicina>
         <boja>srebrna</boja>
         <barkod>1100110490032</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5001_PERLA-38</sifra>
@@ -153415,7 +153264,7 @@
         <velicina>42</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -153724,10 +153573,10 @@
     <sifra>203397_WHITE</sifra>
     <marka>LEONARDA COMFORT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>26.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>26.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>23.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>23.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>26.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-06</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -207790,7 +207639,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110530455</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NIF2357_BLACK-42</sifra>
@@ -210637,7 +210486,7 @@
         <velicina>43-46</velicina>
         <boja>crna</boja>
         <barkod>1100110704313</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -212399,6 +212248,31 @@
         <boja>crna</boja>
         <barkod>1100110680662</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NW POWER TOWER</naziv>
+    <sifra>65025PT_B</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>139.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>139.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>199.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>1100110698810</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Powertower</kategorija>
+    <poveznica>https://woolf.hr/power-tower-proizvod-12422/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>65025PT_B-XY</sifra>
+        <velicina></velicina>
+        <boja>crna</boja>
+        <barkod>1100110698810</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -231976,7 +231850,7 @@
         <velicina>90cm</velicina>
         <boja>smeda</boja>
         <barkod>1100110101761</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>06356_BROWN-100cm</sifra>
@@ -232547,31 +232421,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>POWER TOWER</naziv>
-    <sifra>65025PT_B</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>139.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>139.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>199.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110698810</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Powertower</kategorija>
-    <poveznica>https://woolf.hr/power-tower-proizvod-12422/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>65025PT_B</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>1100110698810</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -265151,7 +265000,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110538444</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1WHITE-40</sifra>
@@ -265165,7 +265014,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110538468</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1WHITE-42</sifra>
@@ -265359,7 +265208,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110538222</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1WHITE-42</sifra>
@@ -265539,7 +265388,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110538130</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-39</sifra>
@@ -317404,6 +317253,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>TENISICE MAKS</naziv>
+    <sifra>S22551_GS518</sifra>
+    <marka>CHAMPION</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>51.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>51.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>64.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Muško - Obuća - Gležnjače</kategorija>
+    <poveznica>https://woolf.hr/tenisice-maks-proizvod-12036/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>S22551_GS518</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>TENISICE MARAN</naziv>
     <sifra>LTF251M109_01</sifra>
     <marka>LOTTO</marka>
@@ -348074,7 +347948,7 @@
         <velicina>30</velicina>
         <boja>pink</boja>
         <barkod>1100110229632</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3501080_PINKY-31</sifra>
