@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-15T04:57:30.287Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-16T04:59:21.830Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>15. 10. 2026.</datumCjenika>
+    <datumCjenika>16. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -4629,31 +4629,6 @@
   </proizvod>
   <proizvod>
     <naziv>ANATOMSKE KLOMPE</naziv>
-    <sifra>108_1WHITE</sifra>
-    <marka>SOFT LINE</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>52.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>52.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>57.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-11636/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>108_1WHITE</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ANATOMSKE KLOMPE</naziv>
     <sifra>HPF352_S03_WHITE</sifra>
     <marka>HIT SHOES</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -6945,31 +6920,6 @@
     <varijante>
       <varijanta>
         <sifra>3500_WHITE</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ANATOMSKE KLOMPE</naziv>
-    <sifra>1024_WHITE</sifra>
-    <marka>LEON</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>41.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>41.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>46.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-10161/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>1024_WHITE</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -34168,7 +34118,7 @@
         <velicina>39</velicina>
         <boja>smeda</boja>
         <barkod>1100110122209</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M189_BROWN-40</sifra>
@@ -37790,7 +37740,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -38459,6 +38409,73 @@
         <sifra>AA01_TERAKOTAW-42</sifra>
         <velicina>42</velicina>
         <boja>smeda</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>BIANCOMOLINA KLOMPE S JASTUKOM</naziv>
+    <sifra>AA01_WHITEG</sifra>
+    <marka>BIANCOMOLINA</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>62.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>62.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>62.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-26</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-12967/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>AA01_WHITEG-36</sifra>
+        <velicina>36</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_WHITEG-37</sifra>
+        <velicina>37</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_WHITEG-38</sifra>
+        <velicina>38</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_WHITEG-39</sifra>
+        <velicina>39</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_WHITEG-40</sifra>
+        <velicina>40</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_WHITEG-41</sifra>
+        <velicina>41</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_WHITEG-42</sifra>
+        <velicina>42</velicina>
+        <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
@@ -48917,7 +48934,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110630001</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>CHF251F120_10-41</sifra>
@@ -55564,7 +55581,7 @@
         <velicina>40</velicina>
         <boja>sareno</boja>
         <barkod>1100110583598</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>203399_GREY-41</sifra>
@@ -68798,7 +68815,7 @@
         <velicina>39</velicina>
         <boja>srebrna</boja>
         <barkod>1100110715739</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_312_PLUTASILVER-40</sifra>
@@ -90023,7 +90040,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_PANDA-38</sifra>
@@ -113124,31 +113141,6 @@
     <varijante>
       <varijanta>
         <sifra>PU03_WHITE</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>KLOMPE S JASTUKOM</naziv>
-    <sifra>AA01_WHITEG</sifra>
-    <marka></marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>62.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>62.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>62.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-26</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-12967/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>AA01_WHITEG</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -146414,14 +146406,14 @@
         <velicina>36</velicina>
         <boja>srebrna</boja>
         <barkod>1100110674487</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300_PERLA-37</sifra>
         <velicina>37</velicina>
         <boja>srebrna</boja>
         <barkod>1100110674494</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300_PERLA-38</sifra>
@@ -146442,21 +146434,21 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110674524</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300_PERLA-41</sifra>
         <velicina>41</velicina>
         <boja>srebrna</boja>
         <barkod>1100110674531</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300_PERLA-42</sifra>
         <velicina>42</velicina>
         <boja>srebrna</boja>
         <barkod>1100110674548</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -146677,6 +146669,73 @@
   </proizvod>
   <proizvod>
     <naziv>LEON ANATOMSKE KLOMPE</naziv>
+    <sifra>500_WHITE</sifra>
+    <marka>LEON</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>51.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>51.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>51.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-16</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12978/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>500_WHITE-36</sifra>
+        <velicina>36</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>500_WHITE-37</sifra>
+        <velicina>37</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>500_WHITE-38</sifra>
+        <velicina>38</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>500_WHITE-39</sifra>
+        <velicina>39</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>500_WHITE-40</sifra>
+        <velicina>40</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>500_WHITE-41</sifra>
+        <velicina>41</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>500_WHITE-42</sifra>
+        <velicina>42</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>LEON ANATOMSKE KLOMPE</naziv>
     <sifra>700_M_BLACK</sifra>
     <marka>LEON</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -146703,7 +146762,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110474513</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>700_M_BLACK-43</sifra>
@@ -146745,7 +146804,7 @@
         <velicina>48</velicina>
         <boja>crna</boja>
         <barkod>1100110701794</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -146825,6 +146884,246 @@
   </proizvod>
   <proizvod>
     <naziv>LEON ANATOMSKE KLOMPE</naziv>
+    <sifra>701_M_BLACK</sifra>
+    <marka>LEON</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>52.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>52.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>52.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-16</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Muško - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12982/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>701_M_BLACK-41</sifra>
+        <velicina>41</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>701_M_BLACK-42</sifra>
+        <velicina>42</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>701_M_BLACK-43</sifra>
+        <velicina>43</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>701_M_BLACK-44</sifra>
+        <velicina>44</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>701_M_BLACK-45</sifra>
+        <velicina>45</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>701_M_BLACK-46</sifra>
+        <velicina>46</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>LEON ANATOMSKE KLOMPE</naziv>
+    <sifra>701_M_WHT</sifra>
+    <marka>LEON</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>52.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>52.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>52.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-16</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Muško - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12981/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>701_M_WHT-41</sifra>
+        <velicina>41</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>701_M_WHT-42</sifra>
+        <velicina>42</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>701_M_WHT-43</sifra>
+        <velicina>43</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>701_M_WHT-44</sifra>
+        <velicina>44</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>701_M_WHT-45</sifra>
+        <velicina>45</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>701_M_WHT-46</sifra>
+        <velicina>46</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>LEON ANATOMSKE KLOMPE</naziv>
+    <sifra>991_GREENPERLATO</sifra>
+    <marka>LEON</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>49.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>49.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-16</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12980/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>991_GREENPERLATO-36</sifra>
+        <velicina>36</velicina>
+        <boja>zelena</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>991_GREENPERLATO-37</sifra>
+        <velicina>37</velicina>
+        <boja>zelena</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>991_GREENPERLATO-38</sifra>
+        <velicina>38</velicina>
+        <boja>zelena</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>991_GREENPERLATO-39</sifra>
+        <velicina>39</velicina>
+        <boja>zelena</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>991_GREENPERLATO-40</sifra>
+        <velicina>40</velicina>
+        <boja>zelena</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>991_GREENPERLATO-41</sifra>
+        <velicina>41</velicina>
+        <boja>zelena</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>LEON ANATOMSKE KLOMPE</naziv>
+    <sifra>991_WHITE</sifra>
+    <marka>LEON</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>49.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>49.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-16</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12979/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>991_WHITE-36</sifra>
+        <velicina>36</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>991_WHITE-37</sifra>
+        <velicina>37</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>991_WHITE-38</sifra>
+        <velicina>38</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>991_WHITE-39</sifra>
+        <velicina>39</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>991_WHITE-40</sifra>
+        <velicina>40</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>991_WHITE-41</sifra>
+        <velicina>41</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>LEON ANATOMSKE KLOMPE</naziv>
     <sifra>1024_BLACK</sifra>
     <marka>LEON</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -146844,7 +147143,7 @@
         <velicina>36</velicina>
         <boja>crna</boja>
         <barkod>1100110558756</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1024_BLACK-37</sifra>
@@ -146858,7 +147157,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110558770</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1024_BLACK-39</sifra>
@@ -146872,7 +147171,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110558794</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1024_BLACK-41</sifra>
@@ -146886,6 +147185,73 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110558817</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>LEON ANATOMSKE KLOMPE</naziv>
+    <sifra>1024_WHITE</sifra>
+    <marka>LEON</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>41.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>41.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>46.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>1100110559937, 1100110559944, 1100110559951, 1100110559968, 1100110559975, 1100110559982, 1100110559999</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-10161/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>1024_WHITE-36</sifra>
+        <velicina>36</velicina>
+        <boja>bijela</boja>
+        <barkod>1100110559937</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>1024_WHITE-37</sifra>
+        <velicina>37</velicina>
+        <boja>bijela</boja>
+        <barkod>1100110559944</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>1024_WHITE-38</sifra>
+        <velicina>38</velicina>
+        <boja>bijela</boja>
+        <barkod>1100110559951</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>1024_WHITE-39</sifra>
+        <velicina>39</velicina>
+        <boja>bijela</boja>
+        <barkod>1100110559968</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>1024_WHITE-40</sifra>
+        <velicina>40</velicina>
+        <boja>bijela</boja>
+        <barkod>1100110559975</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>1024_WHITE-41</sifra>
+        <velicina>41</velicina>
+        <boja>bijela</boja>
+        <barkod>1100110559982</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>1024_WHITE-42</sifra>
+        <velicina>42</velicina>
+        <boja>bijela</boja>
+        <barkod>1100110559999</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -147447,7 +147813,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110644251</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>6005_N_BLACK-38</sifra>
@@ -147468,7 +147834,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110644282</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>6005_N_BLACK-41</sifra>
@@ -147514,7 +147880,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>1100110644329</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>6005_N_WHITE-38</sifra>
@@ -147535,7 +147901,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110644350</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>6005_N_WHITE-41</sifra>
@@ -148103,7 +148469,7 @@
         <velicina>41</velicina>
         <boja>pink</boja>
         <barkod>1100110309280</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_PERLA_1-42</sifra>
@@ -149909,7 +150275,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110475275</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_WHITE-42</sifra>
@@ -150696,7 +151062,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110709134</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -150908,7 +151274,7 @@
         <velicina>36</velicina>
         <boja>crna</boja>
         <barkod>1100110398895</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4250_BLACK-37</sifra>
@@ -150943,14 +151309,14 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110398949</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4250_BLACK-42</sifra>
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110615978</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -150982,7 +151348,7 @@
         <velicina>36</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4250_N_PERLA-37</sifra>
@@ -151056,7 +151422,7 @@
         <velicina>36</velicina>
         <boja>bijela</boja>
         <barkod>1100110507723</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4250_WHITE-37</sifra>
@@ -151098,7 +151464,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>1100110615619</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -151299,7 +151665,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110508096</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5001_BLACK-41</sifra>
@@ -152220,7 +152586,7 @@
         <velicina>40</velicina>
         <boja>crvena</boja>
         <barkod>1100110700520</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>KO2019_RED-41</sifra>
@@ -152714,7 +153080,7 @@
         <velicina>37</velicina>
         <boja>pink</boja>
         <barkod>1100110645500</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_N_PERLA-38</sifra>
@@ -152876,7 +153242,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>1100110473783</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -154404,21 +154770,21 @@
         <velicina>38</velicina>
         <boja>bez</boja>
         <barkod>1100110474643</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>253_N_BEIGE-39</sifra>
         <velicina>39</velicina>
         <boja>bez</boja>
         <barkod>1100110474650</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>253_N_BEIGE-40</sifra>
         <velicina>40</velicina>
         <boja>bez</boja>
         <barkod>1100110474667</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>253_N_BEIGE-41</sifra>
@@ -157926,7 +158292,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>RAYSE_BLACK-40</sifra>
@@ -264746,14 +265112,14 @@
         <velicina>43</velicina>
         <boja>crna</boja>
         <barkod>1100110538802</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1BLACK-44</sifra>
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>1100110538819</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1BLACK-45</sifra>
@@ -264887,7 +265253,7 @@
         <velicina>44</velicina>
         <boja>bijela</boja>
         <barkod>1100110538888</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1WHITE-45</sifra>
@@ -264933,7 +265299,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110538369</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1BLACK-38</sifra>
@@ -264968,7 +265334,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110538413</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -265074,7 +265440,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110538277</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLACK-41</sifra>
@@ -265215,7 +265581,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110538222</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1WHITE-42</sifra>
@@ -265282,7 +265648,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110538093</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_1BLACK-42</sifra>
@@ -265349,7 +265715,7 @@
         <velicina>41</velicina>
         <boja>plava</boja>
         <barkod>1100110538024</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_NAVY-42</sifra>
@@ -265395,14 +265761,14 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110538130</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-39</sifra>
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110538147</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-40</sifra>
@@ -265522,7 +265888,7 @@
         <velicina>43</velicina>
         <boja>bijela</boja>
         <barkod>1100110569219</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1772_WHITE-44</sifra>
@@ -265949,14 +266315,14 @@
         <velicina>39</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110538628</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4372_1FLOWER-40</sifra>
         <velicina>40</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110538635</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4372_1FLOWER-41</sifra>
@@ -268948,6 +269314,66 @@
         <sifra>PRO_00964_HOLM6667</sifra>
         <velicina></velicina>
         <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>SOFT LINE ANATOMSKE KLOMPE</naziv>
+    <sifra>108_1WHITE</sifra>
+    <marka>SOFT LINE</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>52.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>52.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>57.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-11636/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>108_1WHITE-36</sifra>
+        <velicina>36</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>108_1WHITE-37</sifra>
+        <velicina>37</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>108_1WHITE-38</sifra>
+        <velicina>38</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>108_1WHITE-39</sifra>
+        <velicina>39</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>108_1WHITE-40</sifra>
+        <velicina>40</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>108_1WHITE-41</sifra>
+        <velicina>41</velicina>
+        <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
