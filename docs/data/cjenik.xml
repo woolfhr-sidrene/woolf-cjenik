@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-16T04:59:21.830Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-17T04:54:49.944Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>16. 10. 2026.</datumCjenika>
+    <datumCjenika>17. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -3402,7 +3402,7 @@
         <velicina>43</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>BORKUM_WHITE-44</sifra>
@@ -3424,6 +3424,31 @@
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>HPF352_S003BLACK</sifra>
+    <marka>HIT SHOES</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>19.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>24.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12866/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>HPF352_S003BLACK</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -5870,6 +5895,31 @@
     <varijante>
       <varijanta>
         <sifra>M191_1SILVER</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>HPF352_S12_WHITE</sifra>
+    <marka>HIT SHOES</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>18.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>18.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>21.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-10922/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>HPF352_S12_WHITE</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -71547,7 +71597,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13466_BLACK_FLOW-39</sifra>
@@ -90209,133 +90259,6 @@
         <velicina>42</velicina>
         <boja>pink</boja>
         <barkod>1100110713360</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>HIT SHOES ANATOMSKE KLOMPE</naziv>
-    <sifra>HPF352_S003BLACK</sifra>
-    <marka>HIT SHOES</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>19.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>24.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12866/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>HPF352_S003BLACK-37</sifra>
-        <velicina>37</velicina>
-        <boja>crna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPF352_S003BLACK-38</sifra>
-        <velicina>38</velicina>
-        <boja>crna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPF352_S003BLACK-39</sifra>
-        <velicina>39</velicina>
-        <boja>crna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPF352_S003BLACK-40</sifra>
-        <velicina>40</velicina>
-        <boja>crna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPF352_S003BLACK-41</sifra>
-        <velicina>41</velicina>
-        <boja>crna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPF352_S003BLACK-42</sifra>
-        <velicina>42</velicina>
-        <boja>crna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>HIT SHOES ANATOMSKE KLOMPE</naziv>
-    <sifra>HPF352_S12_WHITE</sifra>
-    <marka>HIT SHOES</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>18.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>18.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>21.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-10922/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>HPF352_S12_WHITE-36</sifra>
-        <velicina>36</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPF352_S12_WHITE-37</sifra>
-        <velicina>37</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPF352_S12_WHITE-38</sifra>
-        <velicina>38</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPF352_S12_WHITE-39</sifra>
-        <velicina>39</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPF352_S12_WHITE-40</sifra>
-        <velicina>40</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPF352_S12_WHITE-41</sifra>
-        <velicina>41</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>HPF352_S12_WHITE-42</sifra>
-        <velicina>42</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
-        <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -111761,8 +111684,8 @@
     <sifra>sm-001337</sifra>
     <marka>KingSmith</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1199.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1199.00</maloprodajnaCijena>
+    <cijenaZaJedinicuMjere>1299.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1299.00</maloprodajnaCijena>
     <posebanOblikProdaje>NE</posebanOblikProdaje>
     <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>1199.00</sidrenaCijena>
@@ -147760,7 +147683,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110644626</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>6000_1_WHITE-40</sifra>
@@ -151725,7 +151648,7 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110490063</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5001_PERLA-41</sifra>
@@ -151965,7 +151888,7 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110659088</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5002_N_PERLA-41</sifra>
@@ -153990,7 +153913,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>203397_WHITE-42</sifra>
@@ -156431,7 +156354,7 @@
         <velicina>41</velicina>
         <boja>ljubicasta</boja>
         <barkod>1100110715050</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>11449_LILA-42</sifra>
@@ -190624,6 +190547,31 @@
   </proizvod>
   <proizvod>
     <naziv>NEPROPUSNE BUCE</naziv>
+    <sifra>3502055_1_BLUE</sifra>
+    <marka>WOOLF</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>19.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>24.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Dječje - Obuća - Buce</kategorija>
+    <poveznica>https://woolf.hr/nepropusne-buce-proizvod-12220/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>3502055_1_BLUE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NEPROPUSNE BUCE</naziv>
     <sifra>WLFP752025_1BLACK</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -201211,6 +201159,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>NOGOMETNA LOPTA NEO FUTSAL 4</naziv>
+    <sifra>21338U_LWB</sifra>
+    <marka>UMBRO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>23.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>23.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>23.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Lopte</kategorija>
+    <poveznica>https://woolf.hr/nogometna-lopta-neo-futsal-4-proizvod-9644/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>21338U_LWB</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>NOGOMETNA LOPTA NEO FUTSAL LIGA</naziv>
     <sifra>20631U_EDS_4</sifra>
     <marka>UMBRO</marka>
@@ -210202,7 +210175,7 @@
         <velicina>29</velicina>
         <boja>pink]]&gt;&lt;![CDATA[plava</boja>
         <barkod>1100110449573</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -265380,7 +265353,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110538451</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1WHITE-41</sifra>
@@ -265581,7 +265554,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110538222</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1WHITE-42</sifra>
@@ -342363,31 +342336,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>UMBRO NOGOMETNA LOPTA NEO FUTSAL 4</naziv>
-    <sifra>21338U_LWB</sifra>
-    <marka>UMBRO</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>23.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>23.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>23.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110529343</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Lopte</kategorija>
-    <poveznica>https://woolf.hr/nogometna-lopta-neo-futsal-4-proizvod-9644/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>21338U_LWB-4</sifra>
-        <velicina>4</velicina>
-        <boja>crna]]&gt;&lt;![CDATA[zelena]]&gt;&lt;![CDATA[zuta</boja>
-        <barkod>1100110529343</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>UMBRO ŠTUCNE</naziv>
     <sifra>UMEFX193056001_05</sifra>
     <marka>UMBRO</marka>
@@ -349945,87 +349893,6 @@
         <velicina>36</velicina>
         <boja>crna]]&gt;&lt;![CDATA[siva]]&gt;&lt;![CDATA[zelena</boja>
         <barkod>1100110467676</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>WOOLF NEPROPUSNE BUCE</naziv>
-    <sifra>3502055_1_BLUE</sifra>
-    <marka>WOOLF</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>19.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>24.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110692870, 1100110692887, 1100110687098, 1100110687104, 1100110687111, 1100110687128, 1100110687135, 1100110687142, 1100110687159</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Dječje - Obuća - Buce</kategorija>
-    <poveznica>https://woolf.hr/nepropusne-buce-proizvod-12220/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>3502055_1_BLUE-28</sifra>
-        <velicina>28</velicina>
-        <boja>plava</boja>
-        <barkod>1100110692870</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>3502055_1_BLUE-29</sifra>
-        <velicina>29</velicina>
-        <boja>plava</boja>
-        <barkod>1100110692887</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>3502055_1_BLUE-30</sifra>
-        <velicina>30</velicina>
-        <boja>plava</boja>
-        <barkod>1100110687098</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>3502055_1_BLUE-31</sifra>
-        <velicina>31</velicina>
-        <boja>plava</boja>
-        <barkod>1100110687104</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>3502055_1_BLUE-32</sifra>
-        <velicina>32</velicina>
-        <boja>plava</boja>
-        <barkod>1100110687111</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>3502055_1_BLUE-33</sifra>
-        <velicina>33</velicina>
-        <boja>plava</boja>
-        <barkod>1100110687128</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>3502055_1_BLUE-34</sifra>
-        <velicina>34</velicina>
-        <boja>plava</boja>
-        <barkod>1100110687135</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>3502055_1_BLUE-35</sifra>
-        <velicina>35</velicina>
-        <boja>plava</boja>
-        <barkod>1100110687142</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>3502055_1_BLUE-36</sifra>
-        <velicina>36</velicina>
-        <boja>plava</boja>
-        <barkod>1100110687159</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
