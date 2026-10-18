@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-17T04:54:49.944Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-18T04:56:00.187Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>17. 10. 2026.</datumCjenika>
+    <datumCjenika>18. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -3402,7 +3402,7 @@
         <velicina>43</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>BORKUM_WHITE-44</sifra>
@@ -38319,7 +38319,7 @@
         <velicina>41</velicina>
         <boja>srebrna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_SILVERW-42</sifra>
@@ -68583,7 +68583,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110705204</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_300_BLACK-38</sifra>
@@ -69708,7 +69708,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110715548</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>U_31_WHITE-42</sifra>
@@ -90125,7 +90125,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -148325,7 +148325,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110474483</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_N_WHITE-41</sifra>
@@ -150671,7 +150671,7 @@
         <velicina>39</velicina>
         <boja>srebrna</boja>
         <barkod>1100110665300</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2022_N_PERLA-40</sifra>
@@ -151948,7 +151948,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110659149</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5002_N_WHITE-41</sifra>
@@ -154065,7 +154065,7 @@
         <velicina>37</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_BLKFLOWER-38</sifra>
@@ -212584,7 +212584,7 @@
     <sidrenaCijena>199.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110680662</barkod>
-    <dostupnost>Dostupno</dostupnost>
+    <dostupnost>Nedostupno</dostupnost>
     <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Powertower</kategorija>
     <poveznica>https://woolf.hr/power-tower-proizvod-12103/</poveznica>
     <varijante>
@@ -212593,7 +212593,7 @@
         <velicina></velicina>
         <boja>crna</boja>
         <barkod>1100110680662</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
