@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-18T04:56:00.187Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-19T05:03:24.154Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>18. 10. 2026.</datumCjenika>
+    <datumCjenika>19. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -37776,7 +37776,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_BLACKWHT-41</sifra>
@@ -38446,7 +38446,7 @@
         <velicina>40</velicina>
         <boja>smeda</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_TERAKOTAW-41</sifra>
@@ -41408,7 +41408,7 @@
         <velicina>41</velicina>
         <boja>zelena</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>KOF01_GREEN-42</sifra>
@@ -41615,73 +41615,6 @@
         <sifra>KOF05_C_HEART-42</sifra>
         <velicina>42</velicina>
         <boja>sareno</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>BIANCOMOLINA KLOMPE S OPRUGOM</naziv>
-    <sifra>KOF05_FLOWER</sifra>
-    <marka>BIANCOMOLINA</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>49.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>54.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-11413/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>KOF05_FLOWER-36</sifra>
-        <velicina>36</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF05_FLOWER-37</sifra>
-        <velicina>37</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF05_FLOWER-38</sifra>
-        <velicina>38</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF05_FLOWER-39</sifra>
-        <velicina>39</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF05_FLOWER-40</sifra>
-        <velicina>40</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF05_FLOWER-41</sifra>
-        <velicina>41</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF05_FLOWER-42</sifra>
-        <velicina>42</velicina>
-        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -65996,7 +65929,7 @@
         <velicina>41</velicina>
         <boja>crvena</boja>
         <barkod>1100110667403</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_RED-42</sifra>
@@ -67172,31 +67105,6 @@
         <velicina></velicina>
         <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ESSKIMO VUNENA KAPA ZA ODRASLE</naziv>
-    <sifra>RIJEKA_CRNA</sifra>
-    <marka>ESSKIMO</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>11.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>11.49</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>13.14</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110100900</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Odjeća - Kape</kategorija>
-    <poveznica>https://woolf.hr/vunena-kapa-za-odrasle-proizvod-2006/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>RIJEKA_CRNA-XY</sifra>
-        <velicina></velicina>
-        <boja>crna</boja>
-        <barkod>1100110100900</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -90171,7 +90079,7 @@
         <velicina>39</velicina>
         <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>HPF352_GREY_BUTERFLY-40</sifra>
@@ -90252,7 +90160,7 @@
         <velicina>41</velicina>
         <boja>pink</boja>
         <barkod>1100110713353</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>HPF352_S001_PINKBUTERFY-42</sifra>
@@ -117739,6 +117647,31 @@
     <varijante>
       <varijanta>
         <sifra>KOF05_C_FLOWER</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KLOMPE S OPRUGOM</naziv>
+    <sifra>KOF05_FLOWER</sifra>
+    <marka>BIANCOMOLINA</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>49.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>54.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-11413/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>KOF05_FLOWER</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -146004,7 +145937,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>90301_BLACK-43</sifra>
@@ -146713,7 +146646,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>1100110474551</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>700_M_BLACK-47</sifra>
@@ -147274,7 +147207,7 @@
         <velicina>37</velicina>
         <boja>srebrna</boja>
         <barkod>1100110658203</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3200_N_PERLA-38</sifra>
@@ -150978,7 +150911,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110709127</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_WHITE_L-41</sifra>
@@ -151941,7 +151874,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110659132</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5002_N_WHITE-40</sifra>
@@ -153038,7 +152971,7 @@
         <velicina>42</velicina>
         <boja>pink</boja>
         <barkod>1100110645555</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -153151,7 +153084,7 @@
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>1100110473769</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU100_M_BLACK-45</sifra>
@@ -153726,7 +153659,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110716347</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>203397_BLK-41</sifra>
@@ -155074,7 +155007,7 @@
         <velicina>41</velicina>
         <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -169005,7 +168938,7 @@
         <velicina>36</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A25-37</sifra>
@@ -207999,7 +207932,7 @@
         <velicina>43</velicina>
         <boja>crna</boja>
         <barkod>1100110530479</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NIF2357_BLACK-44</sifra>
@@ -213350,7 +213283,7 @@
         <velicina>41-43</velicina>
         <boja>bijela</boja>
         <barkod>1100110431233</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>260_119-43-44</sifra>
@@ -265099,7 +265032,7 @@
         <velicina>45</velicina>
         <boja>crna</boja>
         <barkod>1100110538826</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1BLACK-46</sifra>
@@ -265212,7 +265145,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>1100110538864</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1WHITE-43</sifra>
@@ -265247,7 +265180,7 @@
         <velicina>47</velicina>
         <boja>bijela</boja>
         <barkod>1100110706997</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -265307,7 +265240,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110538413</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -265480,14 +265413,14 @@
         <velicina>40</velicina>
         <boja>plava</boja>
         <barkod>1100110538338</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLUE-41</sifra>
         <velicina>41</velicina>
         <boja>plava</boja>
         <barkod>1100110538345</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLUE-42</sifra>
@@ -347146,6 +347079,31 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>VUNENA KAPA ZA ODRASLE</naziv>
+    <sifra>RIJEKA_CRNA</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>11.49</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>11.49</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>13.14</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>1100110100900</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/vunena-kapa-za-odrasle-proizvod-2006/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>RIJEKA_CRNA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>1100110100900</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
