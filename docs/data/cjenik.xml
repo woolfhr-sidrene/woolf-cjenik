@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-19T05:03:24.154Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-20T04:58:23.461Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>19. 10. 2026.</datumCjenika>
+    <datumCjenika>20. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -1977,8 +1977,8 @@
     <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>289.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
+    <barkod>6978121150031</barkod>
+    <dostupnost>Dostupno</dostupnost>
     <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
     <poveznica>https://woolf.hr/akluer-520a-b-traka-za-trcanje-s-masazom-stopala-proizvod-12948/</poveznica>
     <varijante>
@@ -1986,8 +1986,8 @@
         <sifra>sm-001551</sifra>
         <velicina></velicina>
         <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <barkod>6978121150031</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -3424,6 +3424,31 @@
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>203397_BLK</sifra>
+    <marka>LEONARDA COMFORT</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>22.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>22.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>24.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12938/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>203397_BLK</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -65721,7 +65746,7 @@
         <velicina>40</velicina>
         <boja>siva</boja>
         <barkod>1100110667113</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_GREY-41</sifra>
@@ -67105,31 +67130,6 @@
         <velicina></velicina>
         <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ESSKIMO VUNENA KAPA ZA ODRASLE</naziv>
-    <sifra>RIJEKA_GREY</sifra>
-    <marka>ESSKIMO</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>11.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>11.49</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>13.14</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110531568</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Odjeća - Kape</kategorija>
-    <poveznica>https://woolf.hr/vunena-kapa-za-odrasle-proizvod-9671/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>RIJEKA_GREY-XY</sifra>
-        <velicina></velicina>
-        <boja>siva</boja>
-        <barkod>1100110531568</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -69616,7 +69616,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110715548</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>U_31_WHITE-42</sifra>
@@ -85449,6 +85449,31 @@
   </proizvod>
   <proizvod>
     <naziv>GUMENE GLEŽNJAČE</naziv>
+    <sifra>PLAM_BLACK</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>14.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>14.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>14.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Gležnjače</kategorija>
+    <poveznica>https://woolf.hr/gumene-gleznjace-proizvod-12080/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>PLAM_BLACK</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>GUMENE GLEŽNJAČE</naziv>
     <sifra>PLAME_BLACK</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -89952,7 +89977,7 @@
         <velicina>39</velicina>
         <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_LEPTIR-40</sifra>
@@ -105439,6 +105464,31 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6946499383511</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>JIMMY Originalna baterija za JIMMY H10 Flex</naziv>
+    <sifra>sm-001221</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>99.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>99.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>99.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>6946499384822</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/originalna-baterija-za-jimmy-h10-flex-proizvod-12506/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001221</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>6946499384822</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -146780,7 +146830,7 @@
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>701_M_BLACK-45</sifra>
@@ -147274,7 +147324,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110167026</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3200_WHITE-39</sifra>
@@ -148018,7 +148068,7 @@
         <velicina>45</velicina>
         <boja>crna</boja>
         <barkod>1100110474360</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_M_BLACK-46</sifra>
@@ -148131,7 +148181,7 @@
         <velicina>44</velicina>
         <boja>bijela</boja>
         <barkod>1100110482273</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_M_WHITE-45</sifra>
@@ -148205,7 +148255,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110482358</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -148237,7 +148287,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>1100110474452</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_N_WHITE-38</sifra>
@@ -148265,7 +148315,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110474490</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -148318,7 +148368,7 @@
         <velicina>40</velicina>
         <boja>pink</boja>
         <barkod>1100110309273</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_PERLA_1-41</sifra>
@@ -150124,7 +150174,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110475268</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_WHITE-41</sifra>
@@ -150918,7 +150968,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110709134</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -151761,7 +151811,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110659200</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5002_N_BLACK-41</sifra>
@@ -152682,7 +152732,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110025708</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41blk-39</sifra>
@@ -152770,7 +152820,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110025661</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41wht-42</sifra>
@@ -152876,14 +152926,14 @@
         <velicina>38</velicina>
         <boja>zelena</boja>
         <barkod>1100110371959</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_MINT-39</sifra>
         <velicina>39</velicina>
         <boja>zelena</boja>
         <barkod>1100110371966</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_MINT-40</sifra>
@@ -153619,66 +153669,6 @@
   </proizvod>
   <proizvod>
     <naziv>LEONARDA COMFORT ANATOMSKE KLOMPE</naziv>
-    <sifra>203397_BLK</sifra>
-    <marka>LEONARDA COMFORT</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>22.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>22.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>24.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110716316, 1100110716323, 1100110716330, 1100110716347, 1100110716354, 1100110716361</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12938/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>203397_BLK-37</sifra>
-        <velicina>37</velicina>
-        <boja>crna</boja>
-        <barkod>1100110716316</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>203397_BLK-38</sifra>
-        <velicina>38</velicina>
-        <boja>crna</boja>
-        <barkod>1100110716323</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>203397_BLK-39</sifra>
-        <velicina>39</velicina>
-        <boja>crna</boja>
-        <barkod>1100110716330</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>203397_BLK-40</sifra>
-        <velicina>40</velicina>
-        <boja>crna</boja>
-        <barkod>1100110716347</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>203397_BLK-41</sifra>
-        <velicina>41</velicina>
-        <boja>crna</boja>
-        <barkod>1100110716354</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>203397_BLK-42</sifra>
-        <velicina>42</velicina>
-        <boja>crna</boja>
-        <barkod>1100110716361</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>LEONARDA COMFORT ANATOMSKE KLOMPE</naziv>
     <sifra>203397_GIRL</sifra>
     <marka>LEONARDA COMFORT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -153853,7 +153843,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -153966,7 +153956,7 @@
         <velicina>41</velicina>
         <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_4_WHITE-42</sifra>
@@ -204450,52 +204440,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>NW GUMENE GLEŽNJAČE</naziv>
-    <sifra>PLAM_BLACK</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>14.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>14.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>14.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110679215, 1100110679222, 1100110679239, 1100110679246</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Gležnjače</kategorija>
-    <poveznica>https://woolf.hr/gumene-gleznjace-proizvod-12080/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>PLAM_BLACK-38</sifra>
-        <velicina>38</velicina>
-        <boja>crna</boja>
-        <barkod>1100110679215</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>PLAM_BLACK-39</sifra>
-        <velicina>39</velicina>
-        <boja>crna</boja>
-        <barkod>1100110679222</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>PLAM_BLACK-40</sifra>
-        <velicina>40</velicina>
-        <boja>crna</boja>
-        <barkod>1100110679239</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>PLAM_BLACK-41</sifra>
-        <velicina>41</velicina>
-        <boja>crna</boja>
-        <barkod>1100110679246</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>NW GUMENE KLOMPE</naziv>
     <sifra>B859270_NAVY</sifra>
     <marka>NW</marka>
@@ -217234,31 +217178,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>Originalna baterija za JIMMY H10 Flex</naziv>
-    <sifra>sm-001221</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>99.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>99.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>99.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/originalna-baterija-za-jimmy-h10-flex-proizvod-12506/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001221</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>Originalna baterija za JIMMY H10 Pro</naziv>
     <sifra>sm-001040</sifra>
     <marka>JIMMY</marka>
@@ -217601,6 +217520,31 @@
     <varijante>
       <varijanta>
         <sifra>sm-348954</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Originalni punjač za Jimmy JV51 / JV53 / JV53 Lite / PW11 Pro Max</naziv>
+    <sifra>sm-001354</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>19.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>19.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-20</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/originalni-punjac-za-jimmy-jv51-jv53-jv53-lite-pw11-pro-max-proizvod-12983/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001354</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -267122,14 +267066,14 @@
         <velicina>39</velicina>
         <boja>siva</boja>
         <barkod>1100110606723</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>0032201_BLUE-40</sifra>
         <velicina>40</velicina>
         <boja>siva</boja>
         <barkod>1100110606730</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>0032201_BLUE-41</sifra>
@@ -346479,6 +346423,31 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>VUNENA KAPA ZA ODRASLE</naziv>
+    <sifra>RIJEKA_GREY</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>11.49</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>11.49</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>13.14</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>1100110531568</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/vunena-kapa-za-odrasle-proizvod-9671/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>RIJEKA_GREY</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>1100110531568</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
