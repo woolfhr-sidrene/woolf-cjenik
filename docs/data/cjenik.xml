@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-20T04:58:23.461Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-21T04:59:25.823Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>20. 10. 2026.</datumCjenika>
+    <datumCjenika>21. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -1942,6 +1942,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>Akluer 480L-B traka za hodanje i trčanje</naziv>
+    <sifra>sm-001550</sifra>
+    <marka>AKLUER</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>229.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>229.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>229.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
+    <poveznica>https://woolf.hr/akluer-480l-b-traka-za-hodanje-i-trcanje-proizvod-12949/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001550</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>Akluer 520A-A traka za hodanje s masažom stopala</naziv>
     <sifra>sm-001593</sifra>
     <marka></marka>
@@ -1987,31 +2012,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6978121150031</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>AKLUER Akluer 480L-B traka za hodanje i trčanje</naziv>
-    <sifra>sm-001550</sifra>
-    <marka>AKLUER</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>229.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>229.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>229.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6978121150024</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
-    <poveznica>https://woolf.hr/akluer-480l-b-traka-za-hodanje-i-trcanje-proizvod-12949/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001550</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6978121150024</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -2943,80 +2943,6 @@
   </proizvod>
   <proizvod>
     <naziv>ANATOMSKE KLOMPE</naziv>
-    <sifra>BORKUM_42FLOWER</sifra>
-    <marka></marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>31.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>31.49</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>34.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110716439, 1100110716446, 1100110716453, 1100110716460, 1100110716477, 1100110716484, 1100110716491, 1100110716507</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12940/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>BORKUM_42FLOWER-36</sifra>
-        <velicina>36</velicina>
-        <boja>cvjetna</boja>
-        <barkod>1100110716439</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>BORKUM_42FLOWER-37</sifra>
-        <velicina>37</velicina>
-        <boja>cvjetna</boja>
-        <barkod>1100110716446</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>BORKUM_42FLOWER-38</sifra>
-        <velicina>38</velicina>
-        <boja>cvjetna</boja>
-        <barkod>1100110716453</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>BORKUM_42FLOWER-39</sifra>
-        <velicina>39</velicina>
-        <boja>cvjetna</boja>
-        <barkod>1100110716460</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>BORKUM_42FLOWER-40</sifra>
-        <velicina>40</velicina>
-        <boja>cvjetna</boja>
-        <barkod>1100110716477</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>BORKUM_42FLOWER-41</sifra>
-        <velicina>41</velicina>
-        <boja>cvjetna</boja>
-        <barkod>1100110716484</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>BORKUM_42FLOWER-42</sifra>
-        <velicina>42</velicina>
-        <boja>cvjetna</boja>
-        <barkod>1100110716491</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>BORKUM_42FLOWER-43</sifra>
-        <velicina>43</velicina>
-        <boja>cvjetna</boja>
-        <barkod>1100110716507</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ANATOMSKE KLOMPE</naziv>
     <sifra>BORKUM_BLACK</sifra>
     <marka></marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -3424,6 +3350,31 @@
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>BORKUM_42FLOWER</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>31.49</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>31.49</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>34.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12940/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>BORKUM_42FLOWER</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -42252,7 +42203,7 @@
         <velicina>44</velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PC_5002_BLACK-45</sifra>
@@ -61251,6 +61202,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>ČETKA ZA NUBUK I TEKSTIL</naziv>
+    <sifra>1040_BLACK</sifra>
+    <marka>GAVIAL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>3.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>3.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>3.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>1100110596512</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Četke za cipele</kategorija>
+    <poveznica>https://woolf.hr/cetka-za-nubuk-i-tekstil-proizvod-10770/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>1040_BLACK</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>1100110596512</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>ČIZME</naziv>
     <sifra>9651_BLACK</sifra>
     <marka>La Bottine Souriante</marka>
@@ -69122,7 +69098,7 @@
         <velicina>42</velicina>
         <boja>broncana</boja>
         <barkod>1100110614902</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -70345,31 +70321,6 @@
         <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>GAVIAL ČETKA ZA NUBUK I TEKSTIL</naziv>
-    <sifra>1040_BLACK</sifra>
-    <marka>GAVIAL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>3.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>3.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>3.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110596512</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Četke za cipele</kategorija>
-    <poveznica>https://woolf.hr/cetka-za-nubuk-i-tekstil-proizvod-10770/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>1040_BLACK-XY</sifra>
-        <velicina></velicina>
-        <boja>crna</boja>
-        <barkod>1100110596512</barkod>
-        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -89977,7 +89928,7 @@
         <velicina>39</velicina>
         <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_LEPTIR-40</sifra>
@@ -146407,7 +146358,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110679123</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300_WHITE-41</sifra>
@@ -149899,7 +149850,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110658531</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>912_N_WHITE-41</sifra>
@@ -150541,7 +150492,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110658722</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2022_N_BLACK-41</sifra>
@@ -150908,7 +150859,7 @@
         <velicina>41</velicina>
         <boja>srebrna</boja>
         <barkod>1100110709196</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -150968,7 +150919,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110709134</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -151208,7 +151159,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110398932</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4250_BLACK-41</sifra>
@@ -152485,7 +152436,7 @@
         <velicina>39</velicina>
         <boja>crvena</boja>
         <barkod>1100110700513</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>KO2019_RED-40</sifra>
@@ -152820,7 +152771,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110025661</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41wht-42</sifra>
@@ -152880,7 +152831,7 @@
         <velicina>45</velicina>
         <boja>bijela</boja>
         <barkod>1100110473837</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_M_WHITE-46</sifra>
@@ -153120,7 +153071,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110473745</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU100_M_BLACK-43</sifra>
@@ -161855,14 +161806,14 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110666055</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A66_BLACK-38</sifra>
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110666062</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A66_BLACK-39</sifra>
@@ -208229,7 +208180,7 @@
         <velicina>43</velicina>
         <boja>crna</boja>
         <barkod>1100110709608</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>8940A_BLACKGREY-44</sifra>
@@ -264983,7 +264934,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>1100110538833</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1BLACK-47</sifra>
@@ -265170,7 +265121,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110538390</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1BLACK-41</sifra>
@@ -265223,7 +265174,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110538444</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1WHITE-40</sifra>
@@ -269211,7 +269162,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>108_1WHITE-40</sifra>
