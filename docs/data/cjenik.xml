@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-21T04:59:25.823Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-22T09:32:35.297Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>21. 10. 2026.</datumCjenika>
+    <datumCjenika>22. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -3349,7 +3349,7 @@
         <velicina>46</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -3421,6 +3421,31 @@
     <varijante>
       <varijanta>
         <sifra>HPF352_S003BLACK</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>M202_1FLOWER</sifra>
+    <marka>LEONARDA COMFORT</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>22.49</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>22.49</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>24.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12817/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>M202_1FLOWER</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -3871,31 +3896,6 @@
     <varijante>
       <varijanta>
         <sifra>M202_WHITE</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ANATOMSKE KLOMPE</naziv>
-    <sifra>132_WHITE</sifra>
-    <marka>SOFT LINE</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>49.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>59.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12390/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>132_WHITE</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -4396,6 +4396,31 @@
     <varijante>
       <varijanta>
         <sifra>M199_2_WHITE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>300_PERLA</sifra>
+    <marka>LEON</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>44.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>49.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12011/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>300_PERLA</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -37772,73 +37797,6 @@
   </proizvod>
   <proizvod>
     <naziv>BIANCOMOLINA KLOMPE S JASTUKOM</naziv>
-    <sifra>AA01_GOLDPUDER</sifra>
-    <marka>BIANCOMOLINA</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>56.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>56.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>62.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-12774/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>AA01_GOLDPUDER-36</sifra>
-        <velicina>36</velicina>
-        <boja>zlatna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_GOLDPUDER-37</sifra>
-        <velicina>37</velicina>
-        <boja>zlatna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_GOLDPUDER-38</sifra>
-        <velicina>38</velicina>
-        <boja>zlatna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_GOLDPUDER-39</sifra>
-        <velicina>39</velicina>
-        <boja>zlatna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_GOLDPUDER-40</sifra>
-        <velicina>40</velicina>
-        <boja>zlatna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_GOLDPUDER-41</sifra>
-        <velicina>41</velicina>
-        <boja>zlatna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_GOLDPUDER-42</sifra>
-        <velicina>42</velicina>
-        <boja>zlatna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>BIANCOMOLINA KLOMPE S JASTUKOM</naziv>
     <sifra>AA01_GOLDWHT</sifra>
     <marka>BIANCOMOLINA</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -38288,7 +38246,7 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_SILVERW-41</sifra>
@@ -38475,7 +38433,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_WHITEG-39</sifra>
@@ -42143,7 +42101,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PC_4002_WHITE-39</sifra>
@@ -56429,7 +56387,7 @@
         <velicina>45</velicina>
         <boja>crna</boja>
         <barkod>1100110025609</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>SAN_CRNE-46</sifra>
@@ -61053,31 +61011,6 @@
   </proizvod>
   <proizvod>
     <naziv>ČETKA MAZALICA</naziv>
-    <sifra>3012_BEIGE</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>1.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Četke za cipele</kategorija>
-    <poveznica>https://woolf.hr/cetka-mazalica-proizvod-10774/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>3012_BEIGE</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ČETKA MAZALICA</naziv>
     <sifra>3012_BLACK</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -65507,7 +65440,7 @@
         <velicina>38</velicina>
         <boja>siva</boja>
         <barkod>1100110667168</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_1GREY-39</sifra>
@@ -65715,7 +65648,7 @@
         <velicina>39</velicina>
         <boja>siva</boja>
         <barkod>1100110667106</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_GREY-40</sifra>
@@ -65849,7 +65782,7 @@
         <velicina>39</velicina>
         <boja>ljubicasta</boja>
         <barkod>1100110667243</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_PURPLE-40</sifra>
@@ -68541,7 +68474,7 @@
         <velicina>38</velicina>
         <boja>broncana</boja>
         <barkod>1100110715654</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_300_BRONZE-39</sifra>
@@ -70379,8 +70312,8 @@
     <sifra>1100_NATUR</sifra>
     <marka>GAVIAL</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>9.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>9.49</maloprodajnaCijena>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
     <posebanOblikProdaje>NE</posebanOblikProdaje>
     <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>9.49</sidrenaCijena>
@@ -70395,6 +70328,31 @@
         <velicina></velicina>
         <boja>bezbojno</boja>
         <barkod>1100110672759</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>GAVIAL OMEKŠIVAČ ZA KOŽU 30 ML</naziv>
+    <sifra>1050_BEZBOJNI</sifra>
+    <marka>GAVIAL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>2.49</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>2.49</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>2.49</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Sprejevi za cipele</kategorija>
+    <poveznica>https://woolf.hr/omeksivac-za-kozu-30-ml-proizvod-11400/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>1050_BEZBOJNI-XY</sifra>
+        <velicina></velicina>
+        <boja>bezbojno</boja>
+        <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -71396,7 +71354,7 @@
         <velicina>38</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13466_1FLOWER-39</sifra>
@@ -71417,7 +71375,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13466_1FLOWER-42</sifra>
@@ -89995,14 +89953,14 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_PANDA-41</sifra>
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_PANDA-42</sifra>
@@ -90069,7 +90027,7 @@
         <velicina>41</velicina>
         <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>HPF352_GREY_BUTERFLY-42</sifra>
@@ -91482,56 +91440,6 @@
         <boja></boja>
         <barkod>6975606872709</barkod>
         <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>IMPREGNACIJSKI SPREJ 200ML</naziv>
-    <sifra>1160_BEZBOJNI</sifra>
-    <marka>PRESTIGE</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>5.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>5.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>5.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Sprejevi za cipele</kategorija>
-    <poveznica>https://woolf.hr/impregnacijski-sprej-200ml-proizvod-11398/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>1160_BEZBOJNI</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>IMPREGNACIJSKI SPREJ 400 ML</naziv>
-    <sifra>3039_BEZBOJNI</sifra>
-    <marka>PRESTIGE</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>9.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>9.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>9.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Sprejevi za cipele</kategorija>
-    <poveznica>https://woolf.hr/impregnacijski-sprej-400-ml-proizvod-11975/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>3039_BEZBOJNI</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -113073,6 +112981,31 @@
     <varijante>
       <varijanta>
         <sifra>KOAA01_BEIGE_PUDER</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KLOMPE S JASTUKOM</naziv>
+    <sifra>AA01_GOLDPUDER</sifra>
+    <marka>BIANCOMOLINA</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>56.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>56.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>62.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-12774/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>AA01_GOLDPUDER</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -146244,73 +146177,6 @@
   </proizvod>
   <proizvod>
     <naziv>LEON ANATOMSKE KLOMPE</naziv>
-    <sifra>300_PERLA</sifra>
-    <marka>LEON</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>44.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>49.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110674487, 1100110674494, 1100110674500, 1100110674517, 1100110674524, 1100110674531, 1100110674548</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12011/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>300_PERLA-36</sifra>
-        <velicina>36</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110674487</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>300_PERLA-37</sifra>
-        <velicina>37</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110674494</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>300_PERLA-38</sifra>
-        <velicina>38</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110674500</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>300_PERLA-39</sifra>
-        <velicina>39</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110674517</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>300_PERLA-40</sifra>
-        <velicina>40</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110674524</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>300_PERLA-41</sifra>
-        <velicina>41</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110674531</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>300_PERLA-42</sifra>
-        <velicina>42</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110674548</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>LEON ANATOMSKE KLOMPE</naziv>
     <sifra>300_WHITE</sifra>
     <marka>LEON</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -146781,7 +146647,7 @@
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>701_M_BLACK-45</sifra>
@@ -147095,7 +146961,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110559975</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1024_WHITE-41</sifra>
@@ -148026,7 +147892,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>1100110474377</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -149797,7 +149663,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -149857,7 +149723,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110658548</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -149977,7 +149843,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110495648</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_BLACK-41</sifra>
@@ -150919,7 +150785,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110709134</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -152750,7 +152616,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110025630</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41wht-39</sifra>
@@ -153800,66 +153666,6 @@
   </proizvod>
   <proizvod>
     <naziv>LEONARDA COMFORT ANATOMSKE KLOMPE</naziv>
-    <sifra>M202_1FLOWER</sifra>
-    <marka>LEONARDA COMFORT</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>22.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>22.49</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>24.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12817/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>M202_1FLOWER-37</sifra>
-        <velicina>37</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>M202_1FLOWER-38</sifra>
-        <velicina>38</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>M202_1FLOWER-39</sifra>
-        <velicina>39</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>M202_1FLOWER-40</sifra>
-        <velicina>40</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>M202_1FLOWER-41</sifra>
-        <velicina>41</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>M202_1FLOWER-42</sifra>
-        <velicina>42</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>LEONARDA COMFORT ANATOMSKE KLOMPE</naziv>
     <sifra>M202_4_WHITE</sifra>
     <marka>LEONARDA COMFORT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -154694,7 +154500,7 @@
         <velicina>39</velicina>
         <boja>plava</boja>
         <barkod>1100110474711</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>253_N_BLUE-40</sifra>
@@ -164394,106 +164200,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>METALNA ŽLICA ZA OBUVANJE 160MM</naziv>
-    <sifra>1140_BLUE</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>2.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>2.49</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>2.49</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
-    <poveznica>https://woolf.hr/metalna-zlica-za-obuvanje-160mm-proizvod-10887/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>1140_BLUE</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>METALNA ŽLICA ZA OBUVANJE 160MM</naziv>
-    <sifra>1140_RED</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>2.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>2.49</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>2.49</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
-    <poveznica>https://woolf.hr/metalna-zlica-za-obuvanje-160mm-proizvod-10886/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>1140_RED</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>METALNA ŽLICA ZA OBUVANJE 160MM</naziv>
-    <sifra>1140_SILVER</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>2.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>2.49</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>2.49</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
-    <poveznica>https://woolf.hr/metalna-zlica-za-obuvanje-160mm-proizvod-10885/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>1140_SILVER</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>METALNA ŽLICA ZA OBUVANJE 160MM</naziv>
-    <sifra>1140_GREEN</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>2.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>2.49</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>2.49</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
-    <poveznica>https://woolf.hr/metalna-zlica-za-obuvanje-160mm-proizvod-10884/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>1140_GREEN</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>METALNA ŽLICA ZA OBUVANJE 410MM</naziv>
     <sifra>3231_NAVY</sifra>
     <marka>NW</marka>
@@ -169041,7 +168747,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110706966</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A27-41</sifra>
@@ -203181,6 +202887,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>NW ČETKA MAZALICA</naziv>
+    <sifra>3012_BEIGE</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>2.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>2.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>1.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Četke za cipele</kategorija>
+    <poveznica>https://woolf.hr/cetka-mazalica-proizvod-10774/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>3012_BEIGE-XY</sifra>
+        <velicina></velicina>
+        <boja>bez</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>NW ČETKA ZA NUBUK I TEKSTIL</naziv>
     <sifra>3115_MIX</sifra>
     <marka>NW</marka>
@@ -208014,6 +207745,106 @@
         <velicina>40-41</velicina>
         <boja>zelena</boja>
         <barkod>1100110533111</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NW METALNA ŽLICA ZA OBUVANJE 160MM</naziv>
+    <sifra>1140_BLUE</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>2.49</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>2.49</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>2.49</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
+    <poveznica>https://woolf.hr/metalna-zlica-za-obuvanje-160mm-proizvod-10887/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>1140_BLUE-XY</sifra>
+        <velicina></velicina>
+        <boja>plava</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NW METALNA ŽLICA ZA OBUVANJE 160MM</naziv>
+    <sifra>1140_GREEN</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>2.49</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>2.49</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>2.49</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
+    <poveznica>https://woolf.hr/metalna-zlica-za-obuvanje-160mm-proizvod-10884/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>1140_GREEN-XY</sifra>
+        <velicina></velicina>
+        <boja>zelena</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NW METALNA ŽLICA ZA OBUVANJE 160MM</naziv>
+    <sifra>1140_RED</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>2.49</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>2.49</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>2.49</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
+    <poveznica>https://woolf.hr/metalna-zlica-za-obuvanje-160mm-proizvod-10886/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>1140_RED-XY</sifra>
+        <velicina></velicina>
+        <boja>crvena</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NW METALNA ŽLICA ZA OBUVANJE 160MM</naziv>
+    <sifra>1140_SILVER</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>2.49</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>2.49</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>2.49</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
+    <poveznica>https://woolf.hr/metalna-zlica-za-obuvanje-160mm-proizvod-10885/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>1140_SILVER-XY</sifra>
+        <velicina></velicina>
+        <boja>srebrna</boja>
+        <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -216829,6 +216660,106 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>NW ŽLICA ZA CIPELE 160mm</naziv>
+    <sifra>2008_BLUE</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>1.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>1.49</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
+    <poveznica>https://woolf.hr/zlica-za-cipele-160mm-proizvod-11987/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>2008_BLUE-XY</sifra>
+        <velicina></velicina>
+        <boja>plava</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NW ŽLICA ZA CIPELE 160mm</naziv>
+    <sifra>2008_RED</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>1.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>1.49</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>1100110672834</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
+    <poveznica>https://woolf.hr/zlica-za-cipele-160mm-proizvod-11986/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>2008_RED-XY</sifra>
+        <velicina></velicina>
+        <boja>crvena</boja>
+        <barkod>1100110672834</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NW ŽLICA ZA CIPELE 160mm</naziv>
+    <sifra>2008_SILVER</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>1.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>1.49</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
+    <poveznica>https://woolf.hr/zlica-za-cipele-160mm-proizvod-11985/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>2008_SILVER-XY</sifra>
+        <velicina></velicina>
+        <boja>srebrna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NW ŽLICA ZA CIPELE 160mm</naziv>
+    <sifra>2008_YELLOW</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>1.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>1.49</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
+    <poveznica>https://woolf.hr/zlica-za-cipele-160mm-proizvod-11984/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>2008_YELLOW-XY</sifra>
+        <velicina></velicina>
+        <boja>zuta</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>NW ŽLICA ZA CIPELE 600mm</naziv>
     <sifra>2001_GREY</sifra>
     <marka>NW</marka>
@@ -216996,31 +216927,6 @@
     <varijante>
       <varijanta>
         <sifra>1020</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>OMEKŠIVAČ ZA KOŽU 30 ML</naziv>
-    <sifra>1050_BEZBOJNI</sifra>
-    <marka>GAVIAL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>2.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>2.49</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>2.49</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Sprejevi za cipele</kategorija>
-    <poveznica>https://woolf.hr/omeksivac-za-kozu-30-ml-proizvod-11400/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>1050_BEZBOJNI</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -232750,6 +232656,56 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>PRESTIGE IMPREGNACIJSKI SPREJ 200ML</naziv>
+    <sifra>1160_BEZBOJNI</sifra>
+    <marka>PRESTIGE</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>6.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>6.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>5.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Sprejevi za cipele</kategorija>
+    <poveznica>https://woolf.hr/impregnacijski-sprej-200ml-proizvod-11398/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>1160_BEZBOJNI-XY</sifra>
+        <velicina></velicina>
+        <boja>bezbojno</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>PRESTIGE IMPREGNACIJSKI SPREJ 400 ML</naziv>
+    <sifra>3039_BEZBOJNI</sifra>
+    <marka>PRESTIGE</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>11.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>11.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>9.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Sprejevi za cipele</kategorija>
+    <poveznica>https://woolf.hr/impregnacijski-sprej-400-ml-proizvod-11975/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>3039_BEZBOJNI-XY</sifra>
+        <velicina></velicina>
+        <boja>bezbojno</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>PRESTIGE IMPREGNACIJSKI SPREJ 500ML</naziv>
     <sifra>1190_BEZBOJNI</sifra>
     <marka>PRESTIGE</marka>
@@ -233029,6 +232985,56 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>PRESTIGE RENOVATOR ZA  ANTILOP I NUBUK 250ML</naziv>
+    <sifra>3038_MEDIUM_BROWN</sifra>
+    <marka>PRESTIGE</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>8.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>8.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>7.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Sprejevi za cipele</kategorija>
+    <poveznica>https://woolf.hr/renovator-za-antilop-i-nubuk-250ml-proizvod-11981/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>3038_MEDIUM_BROWN-XY</sifra>
+        <velicina></velicina>
+        <boja>smeda</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>PRESTIGE RENOVATOR ZA  ANTILOP I NUBUK 250ML</naziv>
+    <sifra>3038_NATUR</sifra>
+    <marka>PRESTIGE</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>8.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>8.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>7.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Sprejevi za cipele</kategorija>
+    <poveznica>https://woolf.hr/renovator-za-antilop-i-nubuk-250ml-proizvod-11980/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>3038_NATUR-XY</sifra>
+        <velicina></velicina>
+        <boja>bezbojno</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>PRESTIGE SPORTSKI ULOŽAK</naziv>
     <sifra>3420_BLUE</sifra>
     <marka>PRESTIGE</marka>
@@ -233131,12 +233137,37 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>PRESTIGE SPREJ OMEKŠIVAČ ZA KOŽU 0 75 ML</naziv>
+    <sifra>3000_1_BEZBOJNI</sifra>
+    <marka>PRESTIGE</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>6.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>6.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>5.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Sprejevi za cipele</kategorija>
+    <poveznica>https://woolf.hr/sprej-omeksivac-za-kozu-0-75-ml-proizvod-12301/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>3000_1_BEZBOJNI-XY</sifra>
+        <velicina></velicina>
+        <boja>bezbojno</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>PRESTIGE ULOŠCI ZA IZREZIVANJE</naziv>
     <sifra>3439_NAVY</sifra>
     <marka>PRESTIGE</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>3.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>3.99</maloprodajnaCijena>
+    <cijenaZaJedinicuMjere>4.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>4.99</maloprodajnaCijena>
     <posebanOblikProdaje>NE</posebanOblikProdaje>
     <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>3.99</sidrenaCijena>
@@ -237903,56 +237934,6 @@
     <varijante>
       <varijanta>
         <sifra>WT023_460750</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>RENOVATOR ZA  ANTILOP I NUBUK 250ML</naziv>
-    <sifra>3038_MEDIUM_BROWN</sifra>
-    <marka>PRESTIGE</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>7.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>7.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>7.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Sprejevi za cipele</kategorija>
-    <poveznica>https://woolf.hr/renovator-za-antilop-i-nubuk-250ml-proizvod-11981/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>3038_MEDIUM_BROWN</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>RENOVATOR ZA  ANTILOP I NUBUK 250ML</naziv>
-    <sifra>3038_NATUR</sifra>
-    <marka>PRESTIGE</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>7.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>7.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>7.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Sprejevi za cipele</kategorija>
-    <poveznica>https://woolf.hr/renovator-za-antilop-i-nubuk-250ml-proizvod-11980/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>3038_NATUR</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -265629,7 +265610,7 @@
         <velicina>43</velicina>
         <boja>plava</boja>
         <barkod>1100110477057</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1772_BLUE-44</sifra>
@@ -267077,7 +267058,7 @@
         <velicina>38</velicina>
         <boja>siva</boja>
         <barkod>1100110606648</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>0032201_BORDO-39</sifra>
@@ -267260,7 +267241,7 @@
         <velicina>49</velicina>
         <boja>smeda</boja>
         <barkod>1100110717009</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -269296,6 +269277,66 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110623409</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>SOFT LINE ANATOMSKE KLOMPE</naziv>
+    <sifra>132_WHITE</sifra>
+    <marka>SOFT LINE</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>49.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>59.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12390/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>132_WHITE-36</sifra>
+        <velicina>36</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>132_WHITE-37</sifra>
+        <velicina>37</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>132_WHITE-38</sifra>
+        <velicina>38</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>132_WHITE-39</sifra>
+        <velicina>39</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>132_WHITE-40</sifra>
+        <velicina>40</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>132_WHITE-41</sifra>
+        <velicina>41</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -271403,31 +271444,6 @@
     <varijante>
       <varijanta>
         <sifra>6502980_A</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>SPREJ OMEKŠIVAČ ZA KOŽU 0 75 ML</naziv>
-    <sifra>3000_1_BEZBOJNI</sifra>
-    <marka>PRESTIGE</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>5.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>5.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>5.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Sprejevi za cipele</kategorija>
-    <poveznica>https://woolf.hr/sprej-omeksivac-za-kozu-0-75-ml-proizvod-12301/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>3000_1_BEZBOJNI</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -356613,106 +356629,6 @@
     <varijante>
       <varijanta>
         <sifra>60001_ORANGE</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ŽLICA ZA CIPELE 160mm</naziv>
-    <sifra>2008_BLUE</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1.49</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>1.49</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
-    <poveznica>https://woolf.hr/zlica-za-cipele-160mm-proizvod-11987/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>2008_BLUE</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ŽLICA ZA CIPELE 160mm</naziv>
-    <sifra>2008_RED</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1.49</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>1.49</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110672834</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
-    <poveznica>https://woolf.hr/zlica-za-cipele-160mm-proizvod-11986/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>2008_RED</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>1100110672834</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ŽLICA ZA CIPELE 160mm</naziv>
-    <sifra>2008_SILVER</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1.49</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>1.49</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
-    <poveznica>https://woolf.hr/zlica-za-cipele-160mm-proizvod-11985/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>2008_SILVER</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ŽLICA ZA CIPELE 160mm</naziv>
-    <sifra>2008_YELLOW</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1.49</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>1.49</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
-    <poveznica>https://woolf.hr/zlica-za-cipele-160mm-proizvod-11984/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>2008_YELLOW</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
