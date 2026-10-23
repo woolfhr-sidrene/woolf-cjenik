@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-22T09:32:35.297Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-23T09:28:25.982Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>22. 10. 2026.</datumCjenika>
+    <datumCjenika>23. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -3018,7 +3018,7 @@
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>BORKUM_BLACK-45</sifra>
@@ -3349,7 +3349,7 @@
         <velicina>46</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -24905,6 +24905,31 @@
   </proizvod>
   <proizvod>
     <naziv>ANATOMSKE NATIKAČE</naziv>
+    <sifra>13464_BEIGEBL</sifra>
+    <marka>GEZER</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>17.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>17.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>19.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Natikače</kategorija>
+    <poveznica>https://woolf.hr/anatomske-natikace-proizvod-6764/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>13464_BEIGEBL</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE NATIKAČE</naziv>
     <sifra>13464_WHITEN</sifra>
     <marka>GEZER</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -37992,7 +38017,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -38126,7 +38151,7 @@
         <velicina>42</velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -40003,73 +40028,6 @@
         <boja>sareno</boja>
         <barkod>1100110359438</barkod>
         <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>BIANCOMOLINA KLOMPE S OPRUGOM</naziv>
-    <sifra>F01_RED_C</sifra>
-    <marka>BIANCOMOLINA</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>44.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>59.59</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110377500, 1100110377517, 1100110377524, 1100110377531, 1100110377548, 1100110377555, 1100110377562</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-7100/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>F01_RED_C-36</sifra>
-        <velicina>36</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110377500</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F01_RED_C-37</sifra>
-        <velicina>37</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110377517</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F01_RED_C-38</sifra>
-        <velicina>38</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110377524</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F01_RED_C-39</sifra>
-        <velicina>39</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110377531</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F01_RED_C-40</sifra>
-        <velicina>40</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110377548</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F01_RED_C-41</sifra>
-        <velicina>41</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110377555</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F01_RED_C-42</sifra>
-        <velicina>42</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110377562</barkod>
-        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -65662,7 +65620,7 @@
         <velicina>41</velicina>
         <boja>siva</boja>
         <barkod>1100110667120</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_GREY-42</sifra>
@@ -65715,7 +65673,7 @@
         <velicina>39</velicina>
         <boja>pink</boja>
         <barkod>1100110667458</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_PINK-40</sifra>
@@ -65796,7 +65754,7 @@
         <velicina>41</velicina>
         <boja>ljubicasta</boja>
         <barkod>1100110667267</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_PURPLE-42</sifra>
@@ -68467,7 +68425,7 @@
         <velicina>37</velicina>
         <boja>broncana</boja>
         <barkod>1100110715647</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_300_BRONZE-38</sifra>
@@ -71361,7 +71319,7 @@
         <velicina>39</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13466_1FLOWER-40</sifra>
@@ -71689,73 +71647,6 @@
         <velicina>42</velicina>
         <boja>bez</boja>
         <barkod>1100110350886</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>GEZER ANATOMSKE NATIKAČE</naziv>
-    <sifra>13464_BEIGEBL</sifra>
-    <marka>GEZER</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>17.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>17.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>19.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110365941, 1100110354211, 1100110354228, 1100110354235, 1100110354242, 1100110354259, 1100110354266</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Natikače</kategorija>
-    <poveznica>https://woolf.hr/anatomske-natikace-proizvod-6764/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>13464_BEIGEBL-36</sifra>
-        <velicina>36</velicina>
-        <boja>bez]]&gt;&lt;![CDATA[crna</boja>
-        <barkod>1100110365941</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13464_BEIGEBL-37</sifra>
-        <velicina>37</velicina>
-        <boja>bez]]&gt;&lt;![CDATA[crna</boja>
-        <barkod>1100110354211</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13464_BEIGEBL-38</sifra>
-        <velicina>38</velicina>
-        <boja>bez]]&gt;&lt;![CDATA[crna</boja>
-        <barkod>1100110354228</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13464_BEIGEBL-39</sifra>
-        <velicina>39</velicina>
-        <boja>bez]]&gt;&lt;![CDATA[crna</boja>
-        <barkod>1100110354235</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13464_BEIGEBL-40</sifra>
-        <velicina>40</velicina>
-        <boja>bez]]&gt;&lt;![CDATA[crna</boja>
-        <barkod>1100110354242</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13464_BEIGEBL-41</sifra>
-        <velicina>41</velicina>
-        <boja>bez]]&gt;&lt;![CDATA[crna</boja>
-        <barkod>1100110354259</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13464_BEIGEBL-42</sifra>
-        <velicina>42</velicina>
-        <boja>bez]]&gt;&lt;![CDATA[crna</boja>
-        <barkod>1100110354266</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -120240,6 +120131,31 @@
   </proizvod>
   <proizvod>
     <naziv>KLOMPE S OPRUGOM</naziv>
+    <sifra>F01_RED_C</sifra>
+    <marka>BIANCOMOLINA</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>44.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>59.59</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-7100/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>F01_RED_C</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KLOMPE S OPRUGOM</naziv>
     <sifra>F05_WHITE_SC</sifra>
     <marka>BIANCOMOLINA</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -145899,7 +145815,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -147811,7 +147727,7 @@
         <velicina>39</velicina>
         <boja>zelena</boja>
         <barkod>1100110710208</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_GREEPEARL-40</sifra>
@@ -149628,7 +149544,7 @@
         <velicina>36</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>912_N_BLACK-37</sifra>
@@ -149709,7 +149625,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110658524</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>912_N_WHITE-40</sifra>
@@ -149991,7 +149907,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110475268</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_WHITE-41</sifra>
@@ -150725,7 +150641,7 @@
         <velicina>41</velicina>
         <boja>srebrna</boja>
         <barkod>1100110709196</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -154447,14 +154363,14 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110474780</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>253_N_BLACK-41</sifra>
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110474797</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -161605,7 +161521,7 @@
         <velicina>36</velicina>
         <boja>crna</boja>
         <barkod>1100110666048</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A66_BLACK-37</sifra>
@@ -216611,31 +216527,6 @@
   </proizvod>
   <proizvod>
     <naziv>NW ŽLICA ZA CIPELE</naziv>
-    <sifra>2001_GOLD</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>2.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>2.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>2.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110569868</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
-    <poveznica>https://woolf.hr/zlica-za-cipele-proizvod-10311/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>2001_GOLD-XY</sifra>
-        <velicina></velicina>
-        <boja>zlatna</boja>
-        <barkod>1100110569868</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>NW ŽLICA ZA CIPELE</naziv>
     <sifra>2001_SILVER</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -265504,7 +265395,7 @@
         <velicina>42</velicina>
         <boja>plava</boja>
         <barkod>1100110538031</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -265557,7 +265448,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110538154</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-41</sifra>
@@ -351862,6 +351753,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>YESOUL S3 - pametni magnetni sobni bicikl - crni</naziv>
+    <sifra>sm-001058</sifra>
+    <marka>YESOUL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>319.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>319.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>399.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Sobni bicikli</kategorija>
+    <poveznica>https://woolf.hr/yesoul-s3-pametni-magnetni-sobni-bicikl-crni-proizvod-12565/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001058</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>YESOUL YESOUL A1 pametni sobni bicikl - crni</naziv>
     <sifra>sm-001323</sifra>
     <marka>YESOUL</marka>
@@ -351982,31 +351898,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6971300260989</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>YESOUL YESOUL S3 - pametni magnetni sobni bicikl - crni</naziv>
-    <sifra>sm-001058</sifra>
-    <marka>YESOUL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>319.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>319.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>399.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971300260217</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Sobni bicikli</kategorija>
-    <poveznica>https://woolf.hr/yesoul-s3-pametni-magnetni-sobni-bicikl-crni-proizvod-12565/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001058</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971300260217</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -356533,6 +356424,31 @@
         <boja>zuta</boja>
         <barkod>1100110484994</barkod>
         <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ŽLICA ZA CIPELE</naziv>
+    <sifra>2001_GOLD</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>2.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>2.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>2.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>1100110569868</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
+    <poveznica>https://woolf.hr/zlica-za-cipele-proizvod-10311/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>2001_GOLD</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>1100110569868</barkod>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
