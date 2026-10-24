@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-23T09:28:25.982Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-24T08:59:47.890Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>23. 10. 2026.</datumCjenika>
+    <datumCjenika>24. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -1977,8 +1977,8 @@
     <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>269.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-24</datumSidreneCijene>
-    <barkod>6978121150017</barkod>
-    <dostupnost>Dostupno</dostupnost>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
     <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
     <poveznica>https://woolf.hr/akluer-520a-a-traka-za-hodanje-s-masazom-stopala-proizvod-12962/</poveznica>
     <varijante>
@@ -1986,8 +1986,8 @@
         <sifra>sm-001593</sifra>
         <velicina></velicina>
         <boja></boja>
-        <barkod>6978121150017</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -3321,7 +3321,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>BORKUM_WHITE-43</sifra>
@@ -34021,7 +34021,7 @@
         <velicina>37</velicina>
         <boja>sareno</boja>
         <barkod>1100110716910</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_LEPTIR-38</sifra>
@@ -38224,73 +38224,6 @@
   </proizvod>
   <proizvod>
     <naziv>BIANCOMOLINA KLOMPE S JASTUKOM</naziv>
-    <sifra>AA01_SILVERW</sifra>
-    <marka>BIANCOMOLINA</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>62.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>62.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>62.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-26</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-12968/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>AA01_SILVERW-36</sifra>
-        <velicina>36</velicina>
-        <boja>srebrna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_SILVERW-37</sifra>
-        <velicina>37</velicina>
-        <boja>srebrna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_SILVERW-38</sifra>
-        <velicina>38</velicina>
-        <boja>srebrna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_SILVERW-39</sifra>
-        <velicina>39</velicina>
-        <boja>srebrna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_SILVERW-40</sifra>
-        <velicina>40</velicina>
-        <boja>srebrna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_SILVERW-41</sifra>
-        <velicina>41</velicina>
-        <boja>srebrna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_SILVERW-42</sifra>
-        <velicina>42</velicina>
-        <boja>srebrna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>BIANCOMOLINA KLOMPE S JASTUKOM</naziv>
     <sifra>AA01_SILVERWHT</sifra>
     <marka>BIANCOMOLINA</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -38754,73 +38687,6 @@
         <velicina>42</velicina>
         <boja>pink</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>BIANCOMOLINA KLOMPE S JASTUKOM</naziv>
-    <sifra>KOA01_HEART_K</sifra>
-    <marka>BIANCOMOLINA</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>47.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>47.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>62.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110715852, 1100110715869, 1100110715876</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-12913/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>KOA01_HEART_K-36</sifra>
-        <velicina>36</velicina>
-        <boja>sareno</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOA01_HEART_K-37</sifra>
-        <velicina>37</velicina>
-        <boja>sareno</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOA01_HEART_K-38</sifra>
-        <velicina>38</velicina>
-        <boja>sareno</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOA01_HEART_K-39</sifra>
-        <velicina>39</velicina>
-        <boja>sareno</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOA01_HEART_K-40</sifra>
-        <velicina>40</velicina>
-        <boja>sareno</boja>
-        <barkod>1100110715852</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOA01_HEART_K-41</sifra>
-        <velicina>41</velicina>
-        <boja>sareno</boja>
-        <barkod>1100110715869</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOA01_HEART_K-42</sifra>
-        <velicina>42</velicina>
-        <boja>sareno</boja>
-        <barkod>1100110715876</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -68453,7 +68319,7 @@
         <velicina>41</velicina>
         <boja>broncana</boja>
         <barkod>1100110715685</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_300_BRONZE-42</sifra>
@@ -89650,14 +89516,14 @@
         <velicina>38</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-39</sifra>
         <velicina>39</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-40</sifra>
@@ -89971,7 +89837,7 @@
         <velicina>39</velicina>
         <boja>pink</boja>
         <barkod>1100110713339</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>HPF352_S001_PINKBUTERFY-40</sifra>
@@ -103970,7 +103836,7 @@
         <velicina>25</velicina>
         <boja>bez</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>LYDIA_BEIGE-26</sifra>
@@ -105386,31 +105252,6 @@
     <varijante>
       <varijanta>
         <sifra>sm-000386</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>1264</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>JIMMY Originalna glava za Jimmy JV85 Pro i H9 Pro</naziv>
-    <sifra>sm-000385</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>39.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>39.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>39.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1264</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/originalna-glava-za-jimmy-jv85-pro-i-h9-pro-proizvod-12503/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-000385</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>1264</barkod>
@@ -112781,6 +112622,31 @@
   </proizvod>
   <proizvod>
     <naziv>KLOMPE S JASTUKOM</naziv>
+    <sifra>AA01_SILVERW</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>62.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>62.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>62.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-26</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-12968/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>AA01_SILVERW</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KLOMPE S JASTUKOM</naziv>
     <sifra>KOA202_1WHITE</sifra>
     <marka>BIANCOMOLINA</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -112872,6 +112738,31 @@
     <varijante>
       <varijanta>
         <sifra>KOAA01_BEIGE_PUDER</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KLOMPE S JASTUKOM</naziv>
+    <sifra>KOA01_HEART_K</sifra>
+    <marka>BIANCOMOLINA</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>47.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>47.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>62.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-12913/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>KOA01_HEART_K</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -149819,7 +149710,7 @@
         <velicina>38</velicina>
         <boja>srebrna</boja>
         <barkod>1100110476098</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_PERLA-39</sifra>
@@ -150807,7 +150698,7 @@
         <velicina>39</velicina>
         <boja>srebrna</boja>
         <barkod>1100110658340</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3300_N_PERLA-40</sifra>
@@ -151297,7 +151188,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110508089</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5001_BLACK-40</sifra>
@@ -151364,14 +151255,14 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110490063</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5001_PERLA-41</sifra>
         <velicina>41</velicina>
         <boja>srebrna</boja>
         <barkod>1100110490070</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -153241,7 +153132,7 @@
         <velicina>37</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>20332_WHITE-38</sifra>
@@ -154282,7 +154173,7 @@
         <velicina>37</velicina>
         <boja>bez</boja>
         <barkod>1100110474636</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>253_N_BEIGE-38</sifra>
@@ -168335,7 +168226,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A14-42</sifra>
@@ -168402,7 +168293,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A15-42</sifra>
@@ -168448,7 +168339,7 @@
         <velicina>38</velicina>
         <boja>bez</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A24-39</sifra>
@@ -168469,7 +168360,7 @@
         <velicina>41</velicina>
         <boja>bez</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A24-42</sifra>
@@ -168501,7 +168392,7 @@
         <velicina>36</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A25-37</sifra>
@@ -168529,14 +168420,14 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A25-41</sifra>
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A25-42</sifra>
@@ -168642,28 +168533,28 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>1100110706935</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A27-38</sifra>
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110706942</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A27-39</sifra>
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110706959</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A27-40</sifra>
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110706966</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A27-41</sifra>
@@ -217026,6 +216917,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>Originalna glava za Jimmy JV85 Pro i H9 Pro</naziv>
+    <sifra>sm-000385</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>39.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>39.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>39.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/originalna-glava-za-jimmy-jv85-pro-i-h9-pro-proizvod-12503/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-000385</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>Originalna glavna četka za JIMMY JV51/JV53/JV63/JV65/JV83/JV85/JV85 Pro/H9 Pro/H9 Flex/H10 Pro/H10 Flex</naziv>
     <sifra>sm-370219</sifra>
     <marka>JIMMY</marka>
@@ -265240,14 +265156,14 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110538208</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1WHITE-40</sifra>
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110538215</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1WHITE-41</sifra>
@@ -265434,14 +265350,14 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110538130</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-39</sifra>
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110538147</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-40</sifra>
@@ -265455,7 +265371,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110538161</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-42</sifra>
@@ -348920,7 +348836,7 @@
         <velicina>45</velicina>
         <boja>crna</boja>
         <barkod>1100110230560</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>SABBAS_BLACK-46</sifra>
