@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-24T08:59:47.890Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-25T09:16:46.366Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>24. 10. 2026.</datumCjenika>
+    <datumCjenika>25. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -34035,7 +34035,7 @@
         <velicina>39</velicina>
         <boja>sareno</boja>
         <barkod>1100110716934</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_LEPTIR-40</sifra>
@@ -55322,7 +55322,7 @@
         <velicina>40</velicina>
         <boja>sareno</boja>
         <barkod>1100110583598</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>203399_GREY-41</sifra>
@@ -89604,7 +89604,7 @@
         <velicina>42</velicina>
         <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -111204,31 +111204,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>KingSmith KingSmith WalkingPad X21 traka za hodanje i trčanje</naziv>
-    <sifra>sm-485226</sifra>
-    <marka>KingSmith</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>759.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>759.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>899.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6970492713297</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
-    <poveznica>https://woolf.hr/kingsmith-walkingpad-x21-traka-za-hodanje-i-trcanje-proizvod-12537/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-485226</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6970492713297</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>KingSmith KingSmith WalkingPad X218 traka za hodanje i trčanje</naziv>
     <sifra>sm-001337</sifra>
     <marka>KingSmith</marka>
@@ -111471,6 +111446,31 @@
     <varijante>
       <varijanta>
         <sifra>sm-001346</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KingSmith WalkingPad X21 traka za hodanje i trčanje</naziv>
+    <sifra>sm-485226</sifra>
+    <marka>KingSmith</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>759.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>759.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>899.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
+    <poveznica>https://woolf.hr/kingsmith-walkingpad-x21-traka-za-hodanje-i-trcanje-proizvod-12537/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-485226</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -145766,7 +145766,7 @@
         <velicina>46</velicina>
         <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -146091,7 +146091,7 @@
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>1100110683403</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300M_BLACK-45</sifra>
@@ -146299,7 +146299,7 @@
         <velicina>43</velicina>
         <boja>crna</boja>
         <barkod>1100110474520</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>700_M_BLACK-44</sifra>
@@ -146708,7 +146708,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110558800</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1024_BLACK-42</sifra>
@@ -148595,7 +148595,7 @@
         <velicina>40</velicina>
         <boja>pink</boja>
         <barkod>1100110111456</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V261_PERLA-41</sifra>
@@ -152578,7 +152578,7 @@
         <velicina>42</velicina>
         <boja>zelena</boja>
         <barkod>1100110671394</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -153746,7 +153746,7 @@
         <velicina>39</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_LEPTIR3-40</sifra>
@@ -154501,7 +154501,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -207379,7 +207379,7 @@
         <velicina>45</velicina>
         <boja>crna</boja>
         <barkod>1100110530493</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NIF2357_BLACK-46</sifra>
@@ -210259,7 +210259,7 @@
         <velicina>43-44</velicina>
         <boja>bijela</boja>
         <barkod>1100110704184</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5413_WHITE-45/46</sifra>
@@ -211734,66 +211734,6 @@
         <velicina>28</velicina>
         <boja>plava</boja>
         <barkod>1100110668103</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>NW PAPUČE</naziv>
-    <sifra>WLFP1272025_BROWN</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>8.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>8.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>8.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110689511, 1100110689467, 1100110689474, 1100110689481, 1100110689498, 1100110689504</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Dječje - Obuća - Papuče</kategorija>
-    <poveznica>https://woolf.hr/papuce-proizvod-12260/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>WLFP1272025_BROWN-25</sifra>
-        <velicina>25</velicina>
-        <boja>smeda</boja>
-        <barkod>1100110689511</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP1272025_BROWN-26</sifra>
-        <velicina>26</velicina>
-        <boja>smeda</boja>
-        <barkod>1100110689467</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP1272025_BROWN-27</sifra>
-        <velicina>27</velicina>
-        <boja>smeda</boja>
-        <barkod>1100110689474</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP1272025_BROWN-28</sifra>
-        <velicina>28</velicina>
-        <boja>smeda</boja>
-        <barkod>1100110689481</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP1272025_BROWN-29</sifra>
-        <velicina>29</velicina>
-        <boja>smeda</boja>
-        <barkod>1100110689498</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP1272025_BROWN-30</sifra>
-        <velicina>30</velicina>
-        <boja>smeda</boja>
-        <barkod>1100110689504</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -217509,6 +217449,31 @@
     <varijante>
       <varijanta>
         <sifra>WLFP1272025_BLUE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>PAPUČE</naziv>
+    <sifra>WLFP1272025_BROWN</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>8.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>8.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>8.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Dječje - Obuća - Papuče</kategorija>
+    <poveznica>https://woolf.hr/papuce-proizvod-12260/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>WLFP1272025_BROWN</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -265216,7 +265181,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110538062</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_1BLACK-39</sifra>
@@ -265678,7 +265643,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>1100110546210</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -266826,7 +266791,7 @@
         <velicina>42</velicina>
         <boja>siva</boja>
         <barkod>1100110606754</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
