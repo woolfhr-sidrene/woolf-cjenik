@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-25T09:16:46.366Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-26T10:22:34.524Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>25. 10. 2026.</datumCjenika>
+    <datumCjenika>26. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -255,31 +255,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6971669780913</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>70mai 70mai Jump Starter MAX PS06 - powerbank za pokretanje akumulatora</naziv>
-    <sifra>sm-000824</sifra>
-    <marka>70mai</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>119.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>119.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>119.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971669780142</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Gadgeti</kategorija>
-    <poveznica>https://woolf.hr/70mai-jump-starter-max-ps06-powerbank-za-pokretanje-akumulatora-proizvod-12495/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-000824</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971669780142</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -902,6 +877,31 @@
     <varijante>
       <varijanta>
         <sifra>sm-001418</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>70mai Jump Starter MAX PS06 - powerbank za pokretanje akumulatora</naziv>
+    <sifra>sm-000824</sifra>
+    <marka>70mai</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>119.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>119.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>119.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Gadgeti</kategorija>
+    <poveznica>https://woolf.hr/70mai-jump-starter-max-ps06-powerbank-za-pokretanje-akumulatora-proizvod-12495/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-000824</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -34074,14 +34074,14 @@
         <velicina>37</velicina>
         <boja>crvena</boja>
         <barkod>1100110716866</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_RED-38</sifra>
         <velicina>38</velicina>
         <boja>crvena</boja>
         <barkod>1100110716873</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_RED-39</sifra>
@@ -39752,80 +39752,13 @@
         <velicina>41</velicina>
         <boja>srebrna</boja>
         <barkod>1100110639691</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>KOA06_SILVER-42</sifra>
         <velicina>42</velicina>
         <boja>srebrna</boja>
         <barkod>1100110639707</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>BIANCOMOLINA KLOMPE S OPRUGOM</naziv>
-    <sifra>F01_BLACK_NN</sifra>
-    <marka>BIANCOMOLINA</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>49.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>54.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110257758, 1100110257765, 1100110257772, 1100110257789, 1100110257796, 1100110257802, 1100110257819</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-5079/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>F01_BLACK_NN-36</sifra>
-        <velicina>36</velicina>
-        <boja>crna</boja>
-        <barkod>1100110257758</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F01_BLACK_NN-37</sifra>
-        <velicina>37</velicina>
-        <boja>crna</boja>
-        <barkod>1100110257765</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F01_BLACK_NN-38</sifra>
-        <velicina>38</velicina>
-        <boja>crna</boja>
-        <barkod>1100110257772</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F01_BLACK_NN-39</sifra>
-        <velicina>39</velicina>
-        <boja>crna</boja>
-        <barkod>1100110257789</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F01_BLACK_NN-40</sifra>
-        <velicina>40</velicina>
-        <boja>crna</boja>
-        <barkod>1100110257796</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F01_BLACK_NN-41</sifra>
-        <velicina>41</velicina>
-        <boja>crna</boja>
-        <barkod>1100110257802</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F01_BLACK_NN-42</sifra>
-        <velicina>42</velicina>
-        <boja>crna</boja>
-        <barkod>1100110257819</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -41702,7 +41635,7 @@
         <velicina>41</velicina>
         <boja>pink</boja>
         <barkod>1100110714268</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA200_PERLAWHITE-42</sifra>
@@ -65412,7 +65345,7 @@
         <velicina>40</velicina>
         <boja>zelena</boja>
         <barkod>1100110667533</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_GREEN-41</sifra>
@@ -65493,7 +65426,7 @@
         <velicina>42</velicina>
         <boja>siva</boja>
         <barkod>1100110667137</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -65546,7 +65479,7 @@
         <velicina>40</velicina>
         <boja>pink</boja>
         <barkod>1100110667465</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_PINK-41</sifra>
@@ -69049,7 +68982,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110705389</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_316_WHITE_K-42</sifra>
@@ -70410,38 +70343,6 @@
   </proizvod>
   <proizvod>
     <naziv>GAVIAL VEZICE  RAVNE</naziv>
-    <sifra>2500_CRNA</sifra>
-    <marka>GAVIAL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>3.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>3.49</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>3.49</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110683052, 1100110683069</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Vezice za obuću</kategorija>
-    <poveznica>https://woolf.hr/vezice-ravne-proizvod-12144/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>2500_CRNA-180cm</sifra>
-        <velicina>180cm</velicina>
-        <boja>crna</boja>
-        <barkod>1100110683052</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>2500_CRNA-200cm</sifra>
-        <velicina>200cm</velicina>
-        <boja>crna</boja>
-        <barkod>1100110683069</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>GAVIAL VEZICE  RAVNE</naziv>
     <sifra>2500_WHITE</sifra>
     <marka>GAVIAL</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -71192,7 +71093,7 @@
         <velicina>40</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13466_1FLOWER-41</sifra>
@@ -71305,7 +71206,7 @@
         <velicina>39</velicina>
         <boja>sareno</boja>
         <barkod>1100110503503</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>15158_1WHITE-40</sifra>
@@ -81515,22 +81416,22 @@
   </proizvod>
   <proizvod>
     <naziv>GUMENE ČIZME</naziv>
-    <sifra>9999003_PAW PATROL</sifra>
-    <marka>WOOLF</marka>
+    <sifra>9999003_PAW_PATROL</sifra>
+    <marka></marka>
     <jedinicaMjere>kom</jedinicaMjere>
     <cijenaZaJedinicuMjere>11.81</cijenaZaJedinicuMjere>
     <maloprodajnaCijena>11.81</maloprodajnaCijena>
     <posebanOblikProdaje>DA</posebanOblikProdaje>
     <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>17.12</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <sidrenaCijena>11.81</sidrenaCijena>
+    <datumSidreneCijene>2026-10-26</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
     <dostupnost>Nedostupno</dostupnost>
     <kategorija>Dječje - Obuća - Čizme - Gumene čizme</kategorija>
     <poveznica>https://woolf.hr/gumene-cizme-proizvod-5294/</poveznica>
     <varijante>
       <varijanta>
-        <sifra>9999003_PAW PATROL</sifra>
+        <sifra>9999003_PAW_PATROL</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -121247,6 +121148,31 @@
   </proizvod>
   <proizvod>
     <naziv>KLOMPE S OPRUGOM</naziv>
+    <sifra>F01_BLACK_NN</sifra>
+    <marka>BIANCOMOLINA</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>49.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>54.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-5079/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>F01_BLACK_NN</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KLOMPE S OPRUGOM</naziv>
     <sifra>F01_HEART_NN</sifra>
     <marka>BIANCOMOLINA</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -145731,7 +145657,7 @@
         <velicina>41</velicina>
         <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>90301_BLUE-42</sifra>
@@ -145950,7 +145876,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110707543</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300_BLACK-39</sifra>
@@ -146017,7 +145943,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110679109</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300_WHITE-39</sifra>
@@ -146701,7 +146627,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110558794</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1024_BLACK-41</sifra>
@@ -147364,7 +147290,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110644282</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>6005_N_BLACK-41</sifra>
@@ -148676,7 +148602,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>1100110111333</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -149724,7 +149650,7 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110476111</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_PERLA-41</sifra>
@@ -150458,7 +150384,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110709059</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_BLACK_L-40</sifra>
@@ -150518,7 +150444,7 @@
         <velicina>39</velicina>
         <boja>srebrna</boja>
         <barkod>1100110709172</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_PERLA_L-40</sifra>
@@ -154187,7 +154113,7 @@
         <velicina>39</velicina>
         <boja>bez</boja>
         <barkod>1100110474650</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>253_N_BEIGE-40</sifra>
@@ -202503,30 +202429,16 @@
     <sidrenaCijena>11.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110400604, 1100110400611, 1100110400628</barkod>
-    <dostupnost>Dostupno</dostupnost>
+    <dostupnost>Nedostupno</dostupnost>
     <kategorija>Muško - Odjeća - Čarape</kategorija>
     <poveznica>https://woolf.hr/carape-bez-gumice-3-pack-proizvod-7474/</poveznica>
     <varijante>
-      <varijanta>
-        <sifra>11123_GREY-40 42</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
       <varijanta>
         <sifra>11123_GREY-40-42</sifra>
         <velicina>40-42</velicina>
         <boja>siva</boja>
         <barkod>1100110400604</barkod>
         <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>11123_GREY-43 44</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>11123_GREY-43-44</sifra>
@@ -202579,7 +202491,7 @@
         <velicina>43-44</velicina>
         <boja>crna</boja>
         <barkod>1100110716415</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5971MED-45/46</sifra>
@@ -264913,7 +264825,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>1100110538420</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1WHITE-38</sifra>
@@ -265209,7 +265121,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110538109</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -265622,7 +265534,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110546180</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4350_HEARTS-40</sifra>
@@ -265862,7 +265774,7 @@
         <velicina>38</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110538611</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4372_1FLOWER-39</sifra>
@@ -344384,6 +344296,31 @@
     <varijante>
       <varijanta>
         <sifra>073_BEIGE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>VEZICE  RAVNE</naziv>
+    <sifra>2500_CRNA</sifra>
+    <marka>GAVIAL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>3.49</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>3.49</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>3.49</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Vezice za obuću</kategorija>
+    <poveznica>https://woolf.hr/vezice-ravne-proizvod-12144/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>2500_CRNA</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
