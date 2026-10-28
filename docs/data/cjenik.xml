@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-27T09:56:52.936Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-28T10:43:23.741Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>27. 10. 2026.</datumCjenika>
+    <datumCjenika>28. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -145,7 +145,7 @@
     <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>149.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971669784706</barkod>
+    <barkod>6971669786397</barkod>
     <dostupnost>Dostupno</dostupnost>
     <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
     <poveznica>https://woolf.hr/70mai-a800se-4k-dash-cam-4g-proizvod-12929/</poveznica>
@@ -154,7 +154,7 @@
         <sifra>sm-001549</sifra>
         <velicina></velicina>
         <boja></boja>
-        <barkod>6971669784706</barkod>
+        <barkod>6971669786397</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -38380,7 +38380,7 @@
         <velicina>39</velicina>
         <boja>smeda</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_TERAKOTAW-40</sifra>
@@ -38433,7 +38433,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_WHITEG-38</sifra>
@@ -65278,7 +65278,7 @@
         <velicina>39</velicina>
         <boja>siva</boja>
         <barkod>1100110667175</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_1GREY-40</sifra>
@@ -65338,7 +65338,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110667021</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_BLACK-39</sifra>
@@ -66365,31 +66365,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>Eletronbike ELETRONBIKE OG20 električni bicikl - zeleni</naziv>
-    <sifra>sm-001537</sifra>
-    <marka>Eletronbike</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1499.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1499.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>1499.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>0736649998445</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/eletronbike-og20-elektricni-bicikl-zeleni-proizvod-12902/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001537</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>0736649998445</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>ELETRONBIKE OC20 električni bicikl - zeleni</naziv>
     <sifra>sm-001532</sifra>
     <marka>Eletronbike</marka>
@@ -66457,6 +66432,31 @@
     <varijante>
       <varijanta>
         <sifra>sm-001534</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ELETRONBIKE OG20 električni bicikl - zeleni</naziv>
+    <sifra>sm-001537</sifra>
+    <marka>Eletronbike</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>1499.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1499.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>1499.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
+    <poveznica>https://woolf.hr/eletronbike-og20-elektricni-bicikl-zeleni-proizvod-12902/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001537</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -71146,7 +71146,7 @@
         <velicina>37</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13466_1FLOWER-38</sifra>
@@ -71167,7 +71167,7 @@
         <velicina>40</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13466_1FLOWER-41</sifra>
@@ -89554,7 +89554,7 @@
         <velicina>42</velicina>
         <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -105005,31 +105005,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6946499384815</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>JIMMY Originalna baterija za JIMMY H9 Pro bežični usisivač</naziv>
-    <sifra>sm-000459</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>79.50</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>79.50</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>79.50</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6946499383511</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/originalna-baterija-za-jimmy-h9-pro-bezicni-usisivac-proizvod-12615/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-000459</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6946499383511</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -147649,7 +147624,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>1100110474377</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -147956,7 +147931,7 @@
         <velicina>42</velicina>
         <boja>pink</boja>
         <barkod>1100110309297</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -149540,7 +149515,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110658531</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>912_N_WHITE-41</sifra>
@@ -150662,7 +150637,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110709127</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_WHITE_L-41</sifra>
@@ -150775,7 +150750,7 @@
         <velicina>39</velicina>
         <boja>srebrna</boja>
         <barkod>1100110658340</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3300_N_PERLA-40</sifra>
@@ -151752,21 +151727,21 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110707857</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>KO360_BLACK-41</sifra>
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110707864</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>KO360_BLACK-42</sifra>
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110707871</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -151999,14 +151974,14 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110700766</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>KO951_BLACK-39</sifra>
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110700773</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>KO951_BLACK-40</sifra>
@@ -204248,7 +204223,7 @@
         <velicina>27</velicina>
         <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>WLFP208_GREEN-28</sifra>
@@ -210449,7 +210424,7 @@
         <velicina>43-44</velicina>
         <boja>bijela</boja>
         <barkod>1100110704184</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5413_WHITE-45/46</sifra>
@@ -214251,7 +214226,7 @@
         <velicina>34</velicina>
         <boja>plava</boja>
         <barkod>1100110716644</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2018002_BLUE-35</sifra>
@@ -216943,6 +216918,31 @@
         <boja>crvena</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Originalna baterija za JIMMY H9 Pro bežični usisiva</naziv>
+    <sifra>sm-000459</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>79.50</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>79.50</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>79.50</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/originalna-baterija-za-jimmy-h9-pro-bezicni-usisivac-proizvod-12615/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-000459</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -351850,6 +351850,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>YESOUL A1 pametni sobni bicikl - crni</naziv>
+    <sifra>sm-001323</sifra>
+    <marka>YESOUL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>229.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>229.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>279.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Sobni bicikli</kategorija>
+    <poveznica>https://woolf.hr/yesoul-a1-pametni-sobni-bicikl-crni-proizvod-12555/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001323</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>YESOUL A1 PAMETNI SOBNI BICIKL - SPINNING BIKE</naziv>
     <sifra>001323</sifra>
     <marka>YESOUL</marka>
@@ -352046,31 +352071,6 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>YESOUL YESOUL A1 pametni sobni bicikl - crni</naziv>
-    <sifra>sm-001323</sifra>
-    <marka>YESOUL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>229.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>229.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>279.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971300262358</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Sobni bicikli</kategorija>
-    <poveznica>https://woolf.hr/yesoul-a1-pametni-sobni-bicikl-crni-proizvod-12555/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001323</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971300262358</barkod>
-        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
