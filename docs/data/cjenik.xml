@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-28T10:43:23.741Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-29T11:00:39.562Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>28. 10. 2026.</datumCjenika>
+    <datumCjenika>29. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -9645,6 +9645,31 @@
     <varijante>
       <varijanta>
         <sifra>HPF352_G04_RED</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>13466_1FLOWER</sifra>
+    <marka>GEZER</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>19.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>22.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-9222/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>13466_1FLOWER</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -41148,7 +41173,7 @@
         <velicina>41</velicina>
         <boja>zelena</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>KOF01_GREEN-42</sifra>
@@ -66240,6 +66265,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>Eletronbike ELETRONBIKE OC20 električni bicikl - zeleni</naziv>
+    <sifra>sm-001532</sifra>
+    <marka>Eletronbike</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>999.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>999.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>1099.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>0736649998469</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
+    <poveznica>https://woolf.hr/eletronbike-oc20-elektricni-bicikl-zeleni-proizvod-12894/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001532</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>0736649998469</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>Eletronbike ELETRONBIKE OC26 električni bicikl - plavi</naziv>
     <sifra>sm-001535</sifra>
     <marka>Eletronbike</marka>
@@ -66365,27 +66415,27 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>ELETRONBIKE OC20 električni bicikl - zeleni</naziv>
-    <sifra>sm-001532</sifra>
+    <naziv>Eletronbike ELETRONBIKE OG20 električni bicikl - zeleni</naziv>
+    <sifra>sm-001537</sifra>
     <marka>Eletronbike</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>999.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>999.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>1099.00</sidrenaCijena>
+    <cijenaZaJedinicuMjere>1499.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1499.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>1499.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
+    <barkod>0736649998445</barkod>
+    <dostupnost>Dostupno</dostupnost>
     <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/eletronbike-oc20-elektricni-bicikl-zeleni-proizvod-12894/</poveznica>
+    <poveznica>https://woolf.hr/eletronbike-og20-elektricni-bicikl-zeleni-proizvod-12902/</poveznica>
     <varijante>
       <varijanta>
-        <sifra>sm-001532</sifra>
+        <sifra>sm-001537</sifra>
         <velicina></velicina>
         <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <barkod>0736649998445</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -66432,31 +66482,6 @@
     <varijante>
       <varijanta>
         <sifra>sm-001534</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ELETRONBIKE OG20 električni bicikl - zeleni</naziv>
-    <sifra>sm-001537</sifra>
-    <marka>Eletronbike</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1499.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1499.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>1499.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/eletronbike-og20-elektricni-bicikl-zeleni-proizvod-12902/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001537</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -71127,66 +71152,6 @@
   </proizvod>
   <proizvod>
     <naziv>GEZER ANATOMSKE KLOMPE</naziv>
-    <sifra>13466_1FLOWER</sifra>
-    <marka>GEZER</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>19.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>22.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-9222/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>13466_1FLOWER-37</sifra>
-        <velicina>37</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13466_1FLOWER-38</sifra>
-        <velicina>38</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13466_1FLOWER-39</sifra>
-        <velicina>39</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13466_1FLOWER-40</sifra>
-        <velicina>40</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13466_1FLOWER-41</sifra>
-        <velicina>41</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>13466_1FLOWER-42</sifra>
-        <velicina>42</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>GEZER ANATOMSKE KLOMPE</naziv>
     <sifra>13466_BLACK_FLOW</sifra>
     <marka>GEZER</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -71287,7 +71252,7 @@
         <velicina>40</velicina>
         <boja>sareno</boja>
         <barkod>1100110503510</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>15158_1WHITE-41</sifra>
@@ -71400,7 +71365,7 @@
         <velicina>39</velicina>
         <boja>sareno</boja>
         <barkod>1100110503442</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>15158_WHITE-40</sifra>
@@ -89660,7 +89625,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_PANDA-41</sifra>
@@ -145677,7 +145642,7 @@
         <velicina>44</velicina>
         <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>90301_BLUE-45</sifra>
@@ -145889,7 +145854,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110707567</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300_BLACK-41</sifra>
@@ -146002,21 +145967,21 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110683380</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300M_BLACK-43</sifra>
         <velicina>43</velicina>
         <boja>crna</boja>
         <barkod>1100110683397</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300M_BLACK-44</sifra>
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>1100110683403</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300M_BLACK-45</sifra>
@@ -146030,7 +145995,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>1100110683427</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300M_BLACK-47</sifra>
@@ -146097,7 +146062,7 @@
         <velicina>45</velicina>
         <boja>bijela</boja>
         <barkod>1100110683335</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300M_WHITE-46</sifra>
@@ -146118,7 +146083,7 @@
         <velicina>48</velicina>
         <boja>bijela</boja>
         <barkod>1100110683366</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -146224,7 +146189,7 @@
         <velicina>43</velicina>
         <boja>crna</boja>
         <barkod>1100110474520</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>700_M_BLACK-44</sifra>
@@ -146245,14 +146210,14 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>1100110474551</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>700_M_BLACK-47</sifra>
         <velicina>47</velicina>
         <boja>crna</boja>
         <barkod>1100110652980</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>700_M_BLACK-48</sifra>
@@ -147268,7 +147233,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110644251</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>6005_N_BLACK-38</sifra>
@@ -147356,7 +147321,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110644350</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>6005_N_WHITE-41</sifra>
@@ -147910,14 +147875,14 @@
         <velicina>39</velicina>
         <boja>pink</boja>
         <barkod>1100110309266</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_PERLA_1-40</sifra>
         <velicina>40</velicina>
         <boja>pink</boja>
         <barkod>1100110309273</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_PERLA_1-41</sifra>
@@ -150217,7 +150182,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110658722</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2022_N_BLACK-41</sifra>
@@ -151307,7 +151272,7 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110490063</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5001_PERLA-41</sifra>
@@ -151487,7 +151452,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110659200</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5002_N_BLACK-41</sifra>
@@ -151727,7 +151692,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110707857</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>KO360_BLACK-41</sifra>
@@ -152408,7 +152373,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110025708</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41blk-39</sifra>
@@ -152475,7 +152440,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110025630</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41wht-39</sifra>
@@ -152796,7 +152761,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110473745</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU100_M_BLACK-43</sifra>
@@ -152810,7 +152775,7 @@
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>1100110473769</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU100_M_BLACK-45</sifra>
@@ -161524,7 +161489,7 @@
         <velicina>36</velicina>
         <boja>crna</boja>
         <barkod>1100110713667</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A66_BLACKW-37</sifra>
@@ -168384,7 +168349,7 @@
         <velicina>37</velicina>
         <boja>bez</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A24-38</sifra>
@@ -169192,7 +169157,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF380_WHITE-39</sifra>
@@ -169252,7 +169217,7 @@
         <velicina>38</velicina>
         <boja>zuta</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF380_YELLOW-39</sifra>
@@ -202578,14 +202543,14 @@
         <velicina>43-44</velicina>
         <boja>crna</boja>
         <barkod>1100110716415</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5971MED-45/46</sifra>
         <velicina>45-46</velicina>
         <boja>crna</boja>
         <barkod>1100110716422</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -210410,14 +210375,14 @@
         <velicina>39-40</velicina>
         <boja>bijela</boja>
         <barkod>1100110704160</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5413_WHITE-41/42</sifra>
         <velicina>41-42</velicina>
         <boja>bijela</boja>
         <barkod>1100110704177</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5413_WHITE-43/44</sifra>
@@ -210463,7 +210428,7 @@
         <velicina>43-46</velicina>
         <boja>crna</boja>
         <barkod>1100110704313</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -210509,7 +210474,7 @@
         <velicina>39-43</velicina>
         <boja>bijela</boja>
         <barkod>1100110711847</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5971MZ_WHITE-43/46</sifra>
@@ -239281,6 +239246,31 @@
   </proizvod>
   <proizvod>
     <naziv>RUČNA PUMPA ZA SUP DASKU</naziv>
+    <sifra>6502157_B</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>11.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>11.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>39.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>1100110558558</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Pribor - Pumpe za SUP</kategorija>
+    <poveznica>https://woolf.hr/rucna-pumpa-za-sup-dasku-proizvod-10138/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>6502157_B-XY</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>1100110558558</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>RUČNA PUMPA ZA SUP DASKU</naziv>
     <sifra>6502157</sifra>
     <marka></marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -239301,31 +239291,6 @@
         <boja></boja>
         <barkod>1100110471970</barkod>
         <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>RUČNA PUMPA ZA SUP DASKU</naziv>
-    <sifra>6502157_B</sifra>
-    <marka></marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>11.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>11.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>39.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110558558</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Pribor - Pumpe za SUP</kategorija>
-    <poveznica>https://woolf.hr/rucna-pumpa-za-sup-dasku-proizvod-10138/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>6502157_B</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>1100110558558</barkod>
-        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -266073,7 +266038,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110538642</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4372_1FLOWER-42</sifra>
