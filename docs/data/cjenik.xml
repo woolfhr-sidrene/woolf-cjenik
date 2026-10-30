@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-29T11:00:39.562Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-30T10:58:03.052Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>29. 10. 2026.</datumCjenika>
+    <datumCjenika>30. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -2997,7 +2997,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110716484</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>BORKUM_42FLOWER-42</sifra>
@@ -3424,6 +3424,31 @@
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>4372_FLOW804BLK</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>32.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>32.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>32.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-30</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija></kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12991/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>4372_FLOW804BLK</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -9645,31 +9670,6 @@
     <varijante>
       <varijanta>
         <sifra>HPF352_G04_RED</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ANATOMSKE KLOMPE</naziv>
-    <sifra>13466_1FLOWER</sifra>
-    <marka>GEZER</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>19.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>22.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-9222/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>13466_1FLOWER</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -68358,7 +68358,7 @@
         <velicina>42</velicina>
         <boja>broncana</boja>
         <barkod>1100110715692</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -71152,6 +71152,66 @@
   </proizvod>
   <proizvod>
     <naziv>GEZER ANATOMSKE KLOMPE</naziv>
+    <sifra>13466_1FLOWER</sifra>
+    <marka>GEZER</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>19.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>22.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-9222/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>13466_1FLOWER-37</sifra>
+        <velicina>37</velicina>
+        <boja>cvjetna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>13466_1FLOWER-38</sifra>
+        <velicina>38</velicina>
+        <boja>cvjetna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>13466_1FLOWER-39</sifra>
+        <velicina>39</velicina>
+        <boja>cvjetna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>13466_1FLOWER-40</sifra>
+        <velicina>40</velicina>
+        <boja>cvjetna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>13466_1FLOWER-41</sifra>
+        <velicina>41</velicina>
+        <boja>cvjetna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>13466_1FLOWER-42</sifra>
+        <velicina>42</velicina>
+        <boja>cvjetna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>GEZER ANATOMSKE KLOMPE</naziv>
     <sifra>13466_BLACK_FLOW</sifra>
     <marka>GEZER</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -71178,28 +71238,28 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13466_BLACK_FLOW-39</sifra>
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13466_BLACK_FLOW-40</sifra>
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13466_BLACK_FLOW-41</sifra>
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13466_BLACK_FLOW-42</sifra>
@@ -71245,14 +71305,14 @@
         <velicina>39</velicina>
         <boja>sareno</boja>
         <barkod>1100110503503</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>15158_1WHITE-40</sifra>
         <velicina>40</velicina>
         <boja>sareno</boja>
         <barkod>1100110503510</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>15158_1WHITE-41</sifra>
@@ -71358,14 +71418,14 @@
         <velicina>38</velicina>
         <boja>sareno</boja>
         <barkod>1100110503435</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>15158_WHITE-39</sifra>
         <velicina>39</velicina>
         <boja>sareno</boja>
         <barkod>1100110503442</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>15158_WHITE-40</sifra>
@@ -71386,7 +71446,7 @@
         <velicina>42</velicina>
         <boja>sareno</boja>
         <barkod>1100110503473</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -145589,7 +145649,7 @@
         <velicina>45</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>90301_BLACK-46</sifra>
@@ -146083,7 +146143,7 @@
         <velicina>48</velicina>
         <boja>bijela</boja>
         <barkod>1100110683366</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -146344,7 +146404,7 @@
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>701_M_BLACK-45</sifra>
@@ -149392,14 +149452,14 @@
         <velicina>36</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>912_N_BLACK-37</sifra>
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>912_N_BLACK-38</sifra>
@@ -150461,21 +150521,21 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110709035</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_BLACK_L-38</sifra>
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110709042</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_BLACK_L-39</sifra>
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110709059</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_BLACK_L-40</sifra>
@@ -150528,14 +150588,14 @@
         <velicina>38</velicina>
         <boja>srebrna</boja>
         <barkod>1100110709165</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_PERLA_L-39</sifra>
         <velicina>39</velicina>
         <boja>srebrna</boja>
         <barkod>1100110709172</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_PERLA_L-40</sifra>
@@ -150581,14 +150641,14 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>1100110709097</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_WHITE_L-38</sifra>
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110709103</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_WHITE_L-39</sifra>
@@ -150863,7 +150923,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110615978</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -151205,7 +151265,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110508089</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5001_BLACK-40</sifra>
@@ -151219,7 +151279,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110508102</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -151251,7 +151311,7 @@
         <velicina>37</velicina>
         <boja>srebrna</boja>
         <barkod>1100110490032</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5001_PERLA-38</sifra>
@@ -151279,7 +151339,7 @@
         <velicina>41</velicina>
         <boja>srebrna</boja>
         <barkod>1100110490070</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -151431,7 +151491,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110659170</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5002_N_BLACK-38</sifra>
@@ -151498,7 +151558,7 @@
         <velicina>38</velicina>
         <boja>srebrna</boja>
         <barkod>1100110659064</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5002_N_PERLA-39</sifra>
@@ -151512,14 +151572,14 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110659088</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5002_N_PERLA-41</sifra>
         <velicina>41</velicina>
         <boja>srebrna</boja>
         <barkod>1100110659095</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -151565,21 +151625,21 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110659132</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5002_N_WHITE-40</sifra>
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110659149</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5002_N_WHITE-41</sifra>
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110659156</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -152447,7 +152507,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110025647</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41wht-40</sifra>
@@ -152641,7 +152701,7 @@
         <velicina>39</velicina>
         <boja>pink</boja>
         <barkod>1100110645524</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_N_PERLA-40</sifra>
@@ -152655,7 +152715,7 @@
         <velicina>41</velicina>
         <boja>pink</boja>
         <barkod>1100110645548</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_N_PERLA-42</sifra>
@@ -152768,7 +152828,7 @@
         <velicina>43</velicina>
         <boja>crna</boja>
         <barkod>1100110473752</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU100_M_BLACK-44</sifra>
@@ -153597,7 +153657,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_BLKFLOWER-42</sifra>
@@ -154218,7 +154278,7 @@
         <velicina>41</velicina>
         <boja>bez</boja>
         <barkod>1100110474674</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -210801,94 +210861,6 @@
   </proizvod>
   <proizvod>
     <naziv>NW PAPUČE</naziv>
-    <sifra>30191_BLUE</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>9.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>9.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>9.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110684400, 1100110684417, 1100110684424, 1100110684431, 1100110684448, 1100110684455, 1100110684462, 1100110684479, 1100110684486, 1100110684493</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Muško - Obuća - Papuče</kategorija>
-    <poveznica>https://woolf.hr/papuce-proizvod-12172/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>30191_BLUE-37</sifra>
-        <velicina>37</velicina>
-        <boja>plava</boja>
-        <barkod>1100110684400</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>30191_BLUE-38</sifra>
-        <velicina>38</velicina>
-        <boja>plava</boja>
-        <barkod>1100110684417</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>30191_BLUE-39</sifra>
-        <velicina>39</velicina>
-        <boja>plava</boja>
-        <barkod>1100110684424</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>30191_BLUE-40</sifra>
-        <velicina>40</velicina>
-        <boja>plava</boja>
-        <barkod>1100110684431</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>30191_BLUE-41</sifra>
-        <velicina>41</velicina>
-        <boja>plava</boja>
-        <barkod>1100110684448</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>30191_BLUE-42</sifra>
-        <velicina>42</velicina>
-        <boja>plava</boja>
-        <barkod>1100110684455</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>30191_BLUE-43</sifra>
-        <velicina>43</velicina>
-        <boja>plava</boja>
-        <barkod>1100110684462</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>30191_BLUE-44</sifra>
-        <velicina>44</velicina>
-        <boja>plava</boja>
-        <barkod>1100110684479</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>30191_BLUE-45</sifra>
-        <velicina>45</velicina>
-        <boja>plava</boja>
-        <barkod>1100110684486</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>30191_BLUE-46</sifra>
-        <velicina>46</velicina>
-        <boja>plava</boja>
-        <barkod>1100110684493</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>NW PAPUČE</naziv>
     <sifra>30191_GREY</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -217629,6 +217601,31 @@
     <varijante>
       <varijanta>
         <sifra>WLFP1272025_BROWN</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>PAPUČE</naziv>
+    <sifra>30191_BLUE</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>9.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>9.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>9.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Muško - Obuća - Papuče</kategorija>
+    <poveznica>https://woolf.hr/papuce-proizvod-12172/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>30191_BLUE</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -264835,7 +264832,7 @@
         <velicina>45</velicina>
         <boja>crna</boja>
         <barkod>1100110538826</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1BLACK-46</sifra>
@@ -264849,7 +264846,7 @@
         <velicina>47</velicina>
         <boja>crna</boja>
         <barkod>1100110716231</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -264948,7 +264945,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>1100110538864</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1WHITE-43</sifra>
@@ -264983,7 +264980,7 @@
         <velicina>47</velicina>
         <boja>bijela</boja>
         <barkod>1100110706997</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -265029,7 +265026,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110538390</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1BLACK-41</sifra>
@@ -265043,7 +265040,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110538413</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -265089,14 +265086,14 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110538451</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1WHITE-41</sifra>
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110538468</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1WHITE-42</sifra>
@@ -265156,7 +265153,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110538284</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLACK-42</sifra>
@@ -265209,21 +265206,21 @@
         <velicina>39</velicina>
         <boja>plava</boja>
         <barkod>1100110538321</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLUE-40</sifra>
         <velicina>40</velicina>
         <boja>plava</boja>
         <barkod>1100110538338</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLUE-41</sifra>
         <velicina>41</velicina>
         <boja>plava</boja>
         <barkod>1100110538345</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLUE-42</sifra>
@@ -265276,21 +265273,21 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110538208</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1WHITE-40</sifra>
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110538215</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1WHITE-41</sifra>
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110538222</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1WHITE-42</sifra>
@@ -265336,7 +265333,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110538062</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_1BLACK-39</sifra>
@@ -265364,7 +265361,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110538109</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -265431,7 +265428,7 @@
         <velicina>42</velicina>
         <boja>plava</boja>
         <barkod>1100110538031</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -265470,28 +265467,28 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110538130</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-39</sifra>
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110538147</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-40</sifra>
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110538154</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-41</sifra>
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110538161</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-42</sifra>
@@ -265537,7 +265534,7 @@
         <velicina>43</velicina>
         <boja>plava</boja>
         <barkod>1100110477057</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1772_BLUE-44</sifra>
@@ -265777,7 +265774,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110546180</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4350_HEARTS-40</sifra>
@@ -265798,7 +265795,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>1100110546210</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -265897,7 +265894,7 @@
         <velicina>39</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4367_FLOWER_BLK-40</sifra>
@@ -266017,7 +266014,7 @@
         <velicina>38</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110538611</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4372_1FLOWER-39</sifra>
@@ -269321,6 +269318,126 @@
         <boja>crna</boja>
         <barkod>1100110533517</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>SOFT LINE ANATOMSKE KLOMPE</naziv>
+    <sifra>113_WHITE</sifra>
+    <marka>SOFT LINE</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>62.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>62.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>62.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-30</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12990/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>113_WHITE-36</sifra>
+        <velicina>36</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>113_WHITE-37</sifra>
+        <velicina>37</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>113_WHITE-38</sifra>
+        <velicina>38</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>113_WHITE-39</sifra>
+        <velicina>39</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>113_WHITE-40</sifra>
+        <velicina>40</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>113_WHITE-41</sifra>
+        <velicina>41</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>SOFT LINE ANATOMSKE KLOMPE</naziv>
+    <sifra>117_BLACK</sifra>
+    <marka>SOFT LINE</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>62.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>62.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>62.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-30</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12989/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>117_BLACK-36</sifra>
+        <velicina>36</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>117_BLACK-37</sifra>
+        <velicina>37</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>117_BLACK-38</sifra>
+        <velicina>38</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>117_BLACK-39</sifra>
+        <velicina>39</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>117_BLACK-40</sifra>
+        <velicina>40</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>117_BLACK-41</sifra>
+        <velicina>41</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
