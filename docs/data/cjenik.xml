@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-30T10:58:03.052Z" valuta="EUR">
+<cjenik datumVrijeme="2026-10-31T10:30:21.638Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>30. 10. 2026.</datumCjenika>
+    <datumCjenika>31. 10. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -180,31 +180,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6971669780951</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>70mai 70mai A800SE 4K Dash Cam + RC22 stražnja kamera - komplet (4G)</naziv>
-    <sifra>sm-001531</sifra>
-    <marka>70mai</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>179.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>179.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>179.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971669786380</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
-    <poveznica>https://woolf.hr/70mai-a800se-4k-dash-cam-rc22-straznja-kamera-komplet-4g-proizvod-12821/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001531</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971669786380</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -577,6 +552,31 @@
     <varijante>
       <varijanta>
         <sifra>sm-001417</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>70mai A800SE 4K Dash Cam + RC22 stražnja kamera - komplet (4G)</naziv>
+    <sifra>sm-001531</sifra>
+    <marka>70mai</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>179.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>179.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>179.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
+    <poveznica>https://woolf.hr/70mai-a800se-4k-dash-cam-rc22-straznja-kamera-komplet-4g-proizvod-12821/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001531</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -3106,7 +3106,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -3424,31 +3424,6 @@
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ANATOMSKE KLOMPE</naziv>
-    <sifra>4372_FLOW804BLK</sifra>
-    <marka></marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>32.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>32.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>32.99</sidrenaCijena>
-    <datumSidreneCijene>2026-10-30</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija></kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12991/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>4372_FLOW804BLK</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -34076,6 +34051,218 @@
   </proizvod>
   <proizvod>
     <naziv>ANTONIA COMFORT ANATOMSKE KLOMPE</naziv>
+    <sifra>M2026_BROWN</sifra>
+    <marka>ANTONIA COMFORT</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>27.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>27.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>27.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-31</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12994/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>M2026_BROWN-37</sifra>
+        <velicina>37</velicina>
+        <boja>smeda</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_BROWN-38</sifra>
+        <velicina>38</velicina>
+        <boja>smeda</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_BROWN-39</sifra>
+        <velicina>39</velicina>
+        <boja>smeda</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_BROWN-40</sifra>
+        <velicina>40</velicina>
+        <boja>smeda</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_BROWN-41</sifra>
+        <velicina>41</velicina>
+        <boja>smeda</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANTONIA COMFORT ANATOMSKE KLOMPE</naziv>
+    <sifra>M2026_HAPPY_B</sifra>
+    <marka>ANTONIA COMFORT</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>27.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>27.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>27.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-31</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12997/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>M2026_HAPPY_B-37</sifra>
+        <velicina>37</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_HAPPY_B-38</sifra>
+        <velicina>38</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_HAPPY_B-39</sifra>
+        <velicina>39</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_HAPPY_B-40</sifra>
+        <velicina>40</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_HAPPY_B-41</sifra>
+        <velicina>41</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANTONIA COMFORT ANATOMSKE KLOMPE</naziv>
+    <sifra>M2026_HAPPY_W</sifra>
+    <marka>ANTONIA COMFORT</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>27.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>27.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>27.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-31</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12996/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>M2026_HAPPY_W-37</sifra>
+        <velicina>37</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_HAPPY_W-38</sifra>
+        <velicina>38</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_HAPPY_W-39</sifra>
+        <velicina>39</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_HAPPY_W-40</sifra>
+        <velicina>40</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_HAPPY_W-41</sifra>
+        <velicina>41</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANTONIA COMFORT ANATOMSKE KLOMPE</naziv>
+    <sifra>M2026_LEPTIR_B</sifra>
+    <marka>ANTONIA COMFORT</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>27.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>27.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>27.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-31</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12992/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>M2026_LEPTIR_B-37</sifra>
+        <velicina>37</velicina>
+        <boja>sareno</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_LEPTIR_B-38</sifra>
+        <velicina>38</velicina>
+        <boja>sareno</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_LEPTIR_B-39</sifra>
+        <velicina>39</velicina>
+        <boja>sareno</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_LEPTIR_B-40</sifra>
+        <velicina>40</velicina>
+        <boja>sareno</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_LEPTIR_B-41</sifra>
+        <velicina>41</velicina>
+        <boja>sareno</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANTONIA COMFORT ANATOMSKE KLOMPE</naziv>
     <sifra>M2026_LEPTIR</sifra>
     <marka>ANTONIA COMFORT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -34148,34 +34335,140 @@
         <velicina>37</velicina>
         <boja>crvena</boja>
         <barkod>1100110716866</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_RED-38</sifra>
         <velicina>38</velicina>
         <boja>crvena</boja>
         <barkod>1100110716873</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_RED-39</sifra>
         <velicina>39</velicina>
         <boja>crvena</boja>
         <barkod>1100110716880</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_RED-40</sifra>
         <velicina>40</velicina>
         <boja>crvena</boja>
         <barkod>1100110716897</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_RED-41</sifra>
         <velicina>41</velicina>
         <boja>crvena</boja>
         <barkod>1100110716903</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANTONIA COMFORT ANATOMSKE KLOMPE</naziv>
+    <sifra>M2026_SOVA</sifra>
+    <marka>ANTONIA COMFORT</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>27.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>27.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>27.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-31</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12993/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>M2026_SOVA-37</sifra>
+        <velicina>37</velicina>
+        <boja>sareno</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_SOVA-38</sifra>
+        <velicina>38</velicina>
+        <boja>sareno</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_SOVA-39</sifra>
+        <velicina>39</velicina>
+        <boja>sareno</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_SOVA-40</sifra>
+        <velicina>40</velicina>
+        <boja>sareno</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_SOVA-41</sifra>
+        <velicina>41</velicina>
+        <boja>sareno</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANTONIA COMFORT ANATOMSKE KLOMPE</naziv>
+    <sifra>M2026_WHITE</sifra>
+    <marka>ANTONIA COMFORT</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>27.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>27.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>27.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-31</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12995/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>M2026_WHITE-37</sifra>
+        <velicina>37</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_WHITE-38</sifra>
+        <velicina>38</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_WHITE-39</sifra>
+        <velicina>39</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_WHITE-40</sifra>
+        <velicina>40</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>M2026_WHITE-41</sifra>
+        <velicina>41</velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -47437,7 +47730,7 @@
         <velicina>46</velicina>
         <boja>siva</boja>
         <barkod>1100110676146</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -68330,7 +68623,7 @@
         <velicina>38</velicina>
         <boja>broncana</boja>
         <barkod>1100110715654</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_300_BRONZE-39</sifra>
@@ -89482,42 +89775,42 @@
       <varijanta>
         <sifra>H352_BLACKDOG-37</sifra>
         <velicina>37</velicina>
-        <boja>sareno</boja>
+        <boja>crna]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-38</sifra>
         <velicina>38</velicina>
-        <boja>sareno</boja>
+        <boja>crna]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-39</sifra>
         <velicina>39</velicina>
-        <boja>sareno</boja>
+        <boja>crna]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-40</sifra>
         <velicina>40</velicina>
-        <boja>sareno</boja>
+        <boja>crna]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-41</sifra>
         <velicina>41</velicina>
-        <boja>sareno</boja>
+        <boja>crna]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-42</sifra>
         <velicina>42</velicina>
-        <boja>sareno</boja>
+        <boja>crna]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -105650,7 +105943,7 @@
         <velicina>30</velicina>
         <boja>zelena</boja>
         <barkod>1100110680068</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>10179_OLIVE-31</sifra>
@@ -146034,7 +146327,7 @@
         <velicina>43</velicina>
         <boja>crna</boja>
         <barkod>1100110683397</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300M_BLACK-44</sifra>
@@ -149646,7 +149939,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110495617</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_BLACK-38</sifra>
@@ -150729,7 +151022,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110658302</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -152440,7 +152733,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110025715</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41blk-40</sifra>
@@ -153657,7 +153950,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_BLKFLOWER-42</sifra>
@@ -157828,7 +158121,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -265079,7 +265372,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110538444</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1WHITE-40</sifra>
@@ -265347,7 +265640,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110538086</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_1BLACK-41</sifra>
@@ -265481,7 +265774,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110538154</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-41</sifra>
@@ -266014,7 +266307,7 @@
         <velicina>38</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110538611</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4372_1FLOWER-39</sifra>
@@ -266043,6 +266336,73 @@
         <boja>cvjetna</boja>
         <barkod>1100110538659</barkod>
         <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>SANITAL ANATOMSKE KLOMPE</naziv>
+    <sifra>4372_FLOW804BLK</sifra>
+    <marka>SANITAL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>32.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>32.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>32.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-30</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12991/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>4372_FLOW804BLK-36</sifra>
+        <velicina>36</velicina>
+        <boja>cvjetna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>4372_FLOW804BLK-37</sifra>
+        <velicina>37</velicina>
+        <boja>cvjetna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>4372_FLOW804BLK-38</sifra>
+        <velicina>38</velicina>
+        <boja>cvjetna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>4372_FLOW804BLK-39</sifra>
+        <velicina>39</velicina>
+        <boja>cvjetna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>4372_FLOW804BLK-40</sifra>
+        <velicina>40</velicina>
+        <boja>cvjetna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>4372_FLOW804BLK-41</sifra>
+        <velicina>41</velicina>
+        <boja>cvjetna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>4372_FLOW804BLK-42</sifra>
+        <velicina>42</velicina>
+        <boja>cvjetna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -269229,7 +269589,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>108_1WHITE-38</sifra>
