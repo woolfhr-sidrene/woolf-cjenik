@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-10-31T10:30:21.638Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-01T11:25:08.339Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>31. 10. 2026.</datumCjenika>
+    <datumCjenika>01. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -135,31 +135,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>70mai 70mai A800SE 4K Dash Cam (4G)</naziv>
-    <sifra>sm-001549</sifra>
-    <marka>70mai</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>149.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>149.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>149.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971669786397</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
-    <poveznica>https://woolf.hr/70mai-a800se-4k-dash-cam-4g-proizvod-12929/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001549</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971669786397</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>70mai 70mai A800SE 4K Dash Cam + RC22 stražnja kamera - komplet</naziv>
     <sifra>sm-001416</sifra>
     <marka>70mai</marka>
@@ -210,131 +185,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>70mai 70mai Dash Cam Pro Plus A500S + RC06 stražnja kamera - set</naziv>
-    <sifra>sm-000425</sifra>
-    <marka>70mai</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>149.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>149.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>149.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971669780913</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
-    <poveznica>https://woolf.hr/70mai-dash-cam-pro-plus-a500s-rc06-straznja-kamera-set-proizvod-12560/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-000425</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971669780913</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>70mai 70mai M800 Dash Cam 128GB</naziv>
-    <sifra>sm-001478</sifra>
-    <marka>70mai</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>249.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>249.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>249.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971669784508</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
-    <poveznica>https://woolf.hr/70mai-m800-dash-cam-128gb-proizvod-12559/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001478</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971669784508</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>70mai 70mai M800 Dash Cam 128GB + RC14 - set</naziv>
-    <sifra>sm-001479</sifra>
-    <marka>70mai</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>289.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>289.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>289.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971669784539</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
-    <poveznica>https://woolf.hr/70mai-m800-dash-cam-128gb-rc14-set-proizvod-12485/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001479</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971669784539</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>70mai 70mai Omni X800 4K + RC14 Dash Cam Set</naziv>
-    <sifra>sm-001376</sifra>
-    <marka>70mai</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>369.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>369.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>369.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971669784942</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
-    <poveznica>https://woolf.hr/70mai-omni-x800-4k-rc14-dash-cam-set-proizvod-12653/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001376</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971669784942</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>70mai 70mai Omni X800 Dash Cam</naziv>
-    <sifra>sm-001375</sifra>
-    <marka>70mai</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>349.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>349.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>349.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971669784096</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
-    <poveznica>https://woolf.hr/70mai-omni-x800-dash-cam-proizvod-12533/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001375</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971669784096</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>70mai 70mai RC11 stražnja kamera za A810, A800S, Dash Cam Pro Plus+, A400, A200</naziv>
     <sifra>sm-RC11</sifra>
     <marka>70mai</marka>
@@ -380,81 +230,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6971669786519</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>70mai 70mai T800 + RC24 - Dash Cam Set (SD 128 GB)</naziv>
-    <sifra>sm-001495</sifra>
-    <marka>70mai</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>379.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>379.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>379.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971669784331</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
-    <poveznica>https://woolf.hr/70mai-t800-rc24-dash-cam-set-sd-128-gb-proizvod-12644/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001495</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971669784331</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>70mai 70mai T800 + RC24 - Dash Cam Set (SD 256 GB)</naziv>
-    <sifra>sm-001450</sifra>
-    <marka>70mai</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>399.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>399.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>399.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971669784331</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
-    <poveznica>https://woolf.hr/70mai-t800-rc24-dash-cam-set-sd-256-gb-proizvod-12523/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001450</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971669784331</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>70mai 70mai T800 + RC41 Premium - 4K Dash Cam Set (SD 256 GB)</naziv>
-    <sifra>sm-001494</sifra>
-    <marka>70mai</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>449.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>449.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>449.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971669784386</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
-    <poveznica>https://woolf.hr/70mai-t800-rc41-premium-4k-dash-cam-set-sd-256-gb-proizvod-12646/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001494</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971669784386</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -539,10 +314,10 @@
     <sifra>sm-001417</sifra>
     <marka>70mai</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>139.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>139.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>109.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>109.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>139.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -560,14 +335,39 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>70mai A800SE 4K Dash Cam (4G)</naziv>
+    <sifra>sm-001549</sifra>
+    <marka>70mai</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>119.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>119.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>149.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
+    <poveznica>https://woolf.hr/70mai-a800se-4k-dash-cam-4g-proizvod-12929/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001549</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>70mai A800SE 4K Dash Cam + RC22 stražnja kamera - komplet (4G)</naziv>
     <sifra>sm-001531</sifra>
     <marka>70mai</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>179.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>179.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>139.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>139.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>179.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -814,10 +614,10 @@
     <sifra>sm-001096</sifra>
     <marka>70mai</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>119.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>119.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>95.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>95.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>119.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -831,6 +631,31 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>70mai Dash Cam Pro Plus A500S + RC06 stražnja kamera - set</naziv>
+    <sifra>sm-000425</sifra>
+    <marka>70mai</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>119.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>119.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>149.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
+    <poveznica>https://woolf.hr/70mai-dash-cam-pro-plus-a500s-rc06-straznja-kamera-set-proizvod-12560/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-000425</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -939,8 +764,8 @@
     <sifra>sm-001339</sifra>
     <marka>70mai</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>59.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>59.99</maloprodajnaCijena>
+    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>49.99</maloprodajnaCijena>
     <posebanOblikProdaje>NE</posebanOblikProdaje>
     <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>59.99</sidrenaCijena>
@@ -964,10 +789,10 @@
     <sifra>sm-001547</sifra>
     <marka>70mai</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>59.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>59.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>44.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>59.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -989,10 +814,10 @@
     <sifra>sm-001485</sifra>
     <marka>70mai</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>69.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>69.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>54.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>54.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>69.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -1060,6 +885,56 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>70mai M800 Dash Cam 128GB</naziv>
+    <sifra>sm-001478</sifra>
+    <marka>70mai</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>179.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>179.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>249.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
+    <poveznica>https://woolf.hr/70mai-m800-dash-cam-128gb-proizvod-12559/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001478</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>70mai M800 Dash Cam 128GB + RC14 - set</naziv>
+    <sifra>sm-001479</sifra>
+    <marka>70mai</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>199.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>199.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>289.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
+    <poveznica>https://woolf.hr/70mai-m800-dash-cam-128gb-rc14-set-proizvod-12485/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001479</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>70mai Omni - set za montažu</naziv>
     <sifra>sm-001370</sifra>
     <marka>70mai</marka>
@@ -1106,6 +981,131 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>70mai Omni X800 4K + RC14 Dash Cam Set</naziv>
+    <sifra>sm-001376</sifra>
+    <marka>70mai</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>309.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>309.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>369.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
+    <poveznica>https://woolf.hr/70mai-omni-x800-4k-rc14-dash-cam-set-proizvod-12653/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001376</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>70mai Omni X800 Dash Cam</naziv>
+    <sifra>sm-001375</sifra>
+    <marka>70mai</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>279.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>279.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>349.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
+    <poveznica>https://woolf.hr/70mai-omni-x800-dash-cam-proizvod-12533/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001375</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>70mai T800 + RC24 - Dash Cam Set (SD 128 GB)</naziv>
+    <sifra>sm-001495</sifra>
+    <marka>70mai</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>309.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>309.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>379.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
+    <poveznica>https://woolf.hr/70mai-t800-rc24-dash-cam-set-sd-128-gb-proizvod-12644/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001495</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>70mai T800 + RC24 - Dash Cam Set (SD 256 GB)</naziv>
+    <sifra>sm-001450</sifra>
+    <marka>70mai</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>329.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>329.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>399.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
+    <poveznica>https://woolf.hr/70mai-t800-rc24-dash-cam-set-sd-256-gb-proizvod-12523/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001450</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>70mai T800 + RC41 Premium - 4K Dash Cam Set (SD 256 GB)</naziv>
+    <sifra>sm-001494</sifra>
+    <marka>70mai</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>359.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>359.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>449.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Auto kamere</kategorija>
+    <poveznica>https://woolf.hr/70mai-t800-rc41-premium-4k-dash-cam-set-sd-256-gb-proizvod-12646/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001494</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -34077,7 +34077,7 @@
         <velicina>38</velicina>
         <boja>smeda</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_BROWN-39</sifra>
@@ -34123,7 +34123,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_HAPPY_B-38</sifra>
@@ -34183,7 +34183,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_HAPPY_W-39</sifra>
@@ -46714,7 +46714,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110712523</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>S22588_BLACK_RED-43</sifra>
@@ -65744,7 +65744,7 @@
         <velicina>41</velicina>
         <boja>zelena</boja>
         <barkod>1100110667540</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_GREEN-42</sifra>
@@ -66537,10 +66537,10 @@
     <sifra>sm-001540</sifra>
     <marka>Eletronbike</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>999.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>999.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>1099.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1099.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>1099.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>0736649998438</barkod>
@@ -66562,10 +66562,10 @@
     <sifra>sm-001532</sifra>
     <marka>Eletronbike</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>999.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>999.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>1099.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1099.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>1099.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>0736649998469</barkod>
@@ -66583,7 +66583,7 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>Eletronbike ELETRONBIKE OC26 električni bicikl - plavi</naziv>
+    <naziv>ELETRONBIKE OC26 električni bicikl - plavi</naziv>
     <sifra>sm-001535</sifra>
     <marka>Eletronbike</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -66593,7 +66593,7 @@
     <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>1499.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>0736649998476</barkod>
+    <barkod>Nije dodijeljen</barkod>
     <dostupnost>Dostupno</dostupnost>
     <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
     <poveznica>https://woolf.hr/eletronbike-oc26-elektricni-bicikl-plavi-proizvod-12903/</poveznica>
@@ -66602,132 +66602,7 @@
         <sifra>sm-001535</sifra>
         <velicina></velicina>
         <boja></boja>
-        <barkod>0736649998476</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>Eletronbike ELETRONBIKE OD20 električni bicikl - crni</naziv>
-    <sifra>sm-001525</sifra>
-    <marka>Eletronbike</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1099.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1099.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>999.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>0736649998520</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/eletronbike-od20-elektricni-bicikl-crni-proizvod-12898/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001525</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>0736649998520</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>Eletronbike ELETRONBIKE OD20 električni bicikl - narančasti</naziv>
-    <sifra>sm-001527</sifra>
-    <marka>Eletronbike</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1099.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1099.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>1099.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>0736649998506</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/eletronbike-od20-elektricni-bicikl-narancasti-proizvod-12899/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001527</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>0736649998506</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>Eletronbike ELETRONBIKE OD20 električni bicikl - zeleni</naziv>
-    <sifra>sm-001526</sifra>
-    <marka>Eletronbike</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1099.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1099.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>1099.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>0736649998513</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/eletronbike-od20-elektricni-bicikl-zeleni-proizvod-12900/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001526</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>0736649998513</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>Eletronbike ELETRONBIKE OG20 električni bicikl - sivi</naziv>
-    <sifra>sm-001536</sifra>
-    <marka>Eletronbike</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1499.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1499.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>1499.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>0736649998452</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/eletronbike-og20-elektricni-bicikl-sivi-proizvod-12893/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001536</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>0736649998452</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>Eletronbike ELETRONBIKE OG20 električni bicikl - zeleni</naziv>
-    <sifra>sm-001537</sifra>
-    <marka>Eletronbike</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1499.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1499.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>1499.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>0736649998445</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/eletronbike-og20-elektricni-bicikl-zeleni-proizvod-12902/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001537</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>0736649998445</barkod>
+        <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -66779,6 +66654,131 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ELETRONBIKE OD20 električni bicikl - crni</naziv>
+    <sifra>sm-001525</sifra>
+    <marka>Eletronbike</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>1099.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1099.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>999.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
+    <poveznica>https://woolf.hr/eletronbike-od20-elektricni-bicikl-crni-proizvod-12898/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001525</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ELETRONBIKE OD20 električni bicikl - narančasti</naziv>
+    <sifra>sm-001527</sifra>
+    <marka>Eletronbike</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>1099.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1099.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>1099.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
+    <poveznica>https://woolf.hr/eletronbike-od20-elektricni-bicikl-narancasti-proizvod-12899/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001527</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ELETRONBIKE OD20 električni bicikl - zeleni</naziv>
+    <sifra>sm-001526</sifra>
+    <marka>Eletronbike</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>1099.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1099.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>1099.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
+    <poveznica>https://woolf.hr/eletronbike-od20-elektricni-bicikl-zeleni-proizvod-12900/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001526</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ELETRONBIKE OG20 električni bicikl - sivi</naziv>
+    <sifra>sm-001536</sifra>
+    <marka>Eletronbike</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>1499.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1499.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>1499.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
+    <poveznica>https://woolf.hr/eletronbike-og20-elektricni-bicikl-sivi-proizvod-12893/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001536</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ELETRONBIKE OG20 električni bicikl - zeleni</naziv>
+    <sifra>sm-001537</sifra>
+    <marka>Eletronbike</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>1499.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1499.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>1499.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
+    <poveznica>https://woolf.hr/eletronbike-og20-elektricni-bicikl-zeleni-proizvod-12902/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001537</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -68542,7 +68542,7 @@
         <velicina>36</velicina>
         <boja>crna</boja>
         <barkod>1100110705198</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_300_BLACK-37</sifra>
@@ -91119,6 +91119,181 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>HYPER GOGO Challenger 12 električni motocikl za djecu - narančasti</naziv>
+    <sifra>sm-1040981</sifra>
+    <marka>HYPER GOGO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>329.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>329.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>329.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
+    <poveznica>https://woolf.hr/hyper-gogo-challenger-12-elektricni-motocikl-za-djecu-narancasti-proizvod-12712/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-1040981</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>HYPER GOGO Challenger 12 Plus (APP) električni motocikl za djecu - narančasti</naziv>
+    <sifra>sm-1040972</sifra>
+    <marka>HYPER GOGO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>359.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>359.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>499.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
+    <poveznica>https://woolf.hr/hyper-gogo-challenger-12-plus-app-elektricni-motocikl-za-djecu-narancasti-proizvod-12715/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-1040972</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>HYPER GOGO Cruiser 12 električni motocikl za djecu - plavi</naziv>
+    <sifra>sm-1020467</sifra>
+    <marka>HYPER GOGO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>329.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>329.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>329.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
+    <poveznica>https://woolf.hr/hyper-gogo-cruiser-12-elektricni-motocikl-za-djecu-plavi-proizvod-12721/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-1020467</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>HYPER GOGO Cruiser 12 Plus (APP) električni motocikl za djecu - narančasti</naziv>
+    <sifra>sm-1020487</sifra>
+    <marka>HYPER GOGO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>359.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>359.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>499.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
+    <poveznica>https://woolf.hr/hyper-gogo-cruiser-12-plus-app-elektricni-motocikl-za-djecu-narancasti-proizvod-12722/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-1020487</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>HYPER GOGO Cruiser 12 Plus (APP) električni motocikl za djecu - plavi</naziv>
+    <sifra>sm-1020486</sifra>
+    <marka>HYPER GOGO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>359.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>359.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>499.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
+    <poveznica>https://woolf.hr/hyper-gogo-cruiser-12-plus-app-elektricni-motocikl-za-djecu-plavi-proizvod-12713/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-1020486</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>HYPER GOGO Cruiser 12 Plus (APP) električni motocikl za djecu - zeleni</naziv>
+    <sifra>sm-1020488</sifra>
+    <marka>HYPER GOGO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>359.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>359.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>499.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
+    <poveznica>https://woolf.hr/hyper-gogo-cruiser-12-plus-app-elektricni-motocikl-za-djecu-zeleni-proizvod-12716/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-1020488</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>HYPER GOGO Cruiser 12 Plus električni motocikl za djecu - crni</naziv>
+    <sifra>sm-1034756</sifra>
+    <marka>HYPER GOGO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>319.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>319.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>429.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
+    <poveznica>https://woolf.hr/hyper-gogo-cruiser-12-plus-elektricni-motocikl-za-djecu-crni-proizvod-12723/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-1034756</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>HYPER GOGO Cruiser 12 Plus električni motocikl za djecu - narančasti</naziv>
     <sifra>sm-1020472</sifra>
     <marka>HYPER GOGO</marka>
@@ -91140,6 +91315,31 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>HYPER GOGO Cruiser 12 Plus električni motocikl za djecu - plavi</naziv>
+    <sifra>sm-1020471</sifra>
+    <marka>HYPER GOGO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>319.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>319.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>429.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
+    <poveznica>https://woolf.hr/hyper-gogo-cruiser-12-plus-elektricni-motocikl-za-djecu-plavi-proizvod-12717/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-1020471</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -91169,207 +91369,7 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>HYPER GOGO HYPER GOGO Challenger 12 električni motocikl za djecu - narančasti</naziv>
-    <sifra>sm-1040981</sifra>
-    <marka>HYPER GOGO</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>329.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>329.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>329.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975606872839</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/hyper-gogo-challenger-12-elektricni-motocikl-za-djecu-narancasti-proizvod-12712/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-1040981</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6975606872839</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>HYPER GOGO HYPER GOGO Challenger 12 Plus (APP) električni motocikl za djecu - narančasti</naziv>
-    <sifra>sm-1040972</sifra>
-    <marka>HYPER GOGO</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>499.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>499.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>499.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975606872747</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/hyper-gogo-challenger-12-plus-app-elektricni-motocikl-za-djecu-narancasti-proizvod-12715/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-1040972</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6975606872747</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>HYPER GOGO HYPER GOGO Cruiser 12 električni motocikl za djecu - plavi</naziv>
-    <sifra>sm-1020467</sifra>
-    <marka>HYPER GOGO</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>329.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>329.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>329.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975606872167</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/hyper-gogo-cruiser-12-elektricni-motocikl-za-djecu-plavi-proizvod-12721/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-1020467</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6975606872167</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>HYPER GOGO HYPER GOGO Cruiser 12 Plus (APP) električni motocikl za djecu - narančasti</naziv>
-    <sifra>sm-1020487</sifra>
-    <marka>HYPER GOGO</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>499.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>499.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>499.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975606872235</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/hyper-gogo-cruiser-12-plus-app-elektricni-motocikl-za-djecu-narancasti-proizvod-12722/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-1020487</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6975606872235</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>HYPER GOGO HYPER GOGO Cruiser 12 Plus (APP) električni motocikl za djecu - plavi</naziv>
-    <sifra>sm-1020486</sifra>
-    <marka>HYPER GOGO</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>499.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>499.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>499.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975606872211</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/hyper-gogo-cruiser-12-plus-app-elektricni-motocikl-za-djecu-plavi-proizvod-12713/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-1020486</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6975606872211</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>HYPER GOGO HYPER GOGO Cruiser 12 Plus (APP) električni motocikl za djecu - zeleni</naziv>
-    <sifra>sm-1020488</sifra>
-    <marka>HYPER GOGO</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>499.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>499.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>499.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975606872228</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/hyper-gogo-cruiser-12-plus-app-elektricni-motocikl-za-djecu-zeleni-proizvod-12716/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-1020488</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6975606872228</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>HYPER GOGO HYPER GOGO Cruiser 12 Plus električni motocikl za djecu - crni</naziv>
-    <sifra>sm-1034756</sifra>
-    <marka>HYPER GOGO</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>429.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>429.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>429.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975606873485</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/hyper-gogo-cruiser-12-plus-elektricni-motocikl-za-djecu-crni-proizvod-12723/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-1034756</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6975606873485</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>HYPER GOGO HYPER GOGO Cruiser 12 Plus električni motocikl za djecu - plavi</naziv>
-    <sifra>sm-1020471</sifra>
-    <marka>HYPER GOGO</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>429.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>429.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>429.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975606872204</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
-    <poveznica>https://woolf.hr/hyper-gogo-cruiser-12-plus-elektricni-motocikl-za-djecu-plavi-proizvod-12717/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-1020471</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6975606872204</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>HYPER GOGO HYPER GOGO Pioneer 12 električni motocikl za djecu - crni</naziv>
+    <naziv>HYPER GOGO Pioneer 12 električni motocikl za djecu - crni</naziv>
     <sifra>sm-1034180</sifra>
     <marka>HYPER GOGO</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -91379,8 +91379,8 @@
     <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>329.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975606872631</barkod>
-    <dostupnost>Dostupno</dostupnost>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
     <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
     <poveznica>https://woolf.hr/hyper-gogo-pioneer-12-elektricni-motocikl-za-djecu-crni-proizvod-12720/</poveznica>
     <varijante>
@@ -91388,23 +91388,23 @@
         <sifra>sm-1034180</sifra>
         <velicina></velicina>
         <boja></boja>
-        <barkod>6975606872631</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>HYPER GOGO HYPER GOGO Pioneer 12 Plus električni motocikl za djecu - crni</naziv>
+    <naziv>HYPER GOGO Pioneer 12 Plus električni motocikl za djecu - crni</naziv>
     <sifra>sm-1034184</sifra>
     <marka>HYPER GOGO</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>429.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>429.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>319.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>319.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>429.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975606872679</barkod>
+    <barkod>Nije dodijeljen</barkod>
     <dostupnost>Dostupno</dostupnost>
     <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
     <poveznica>https://woolf.hr/hyper-gogo-pioneer-12-plus-elektricni-motocikl-za-djecu-crni-proizvod-12725/</poveznica>
@@ -91413,23 +91413,23 @@
         <sifra>sm-1034184</sifra>
         <velicina></velicina>
         <boja></boja>
-        <barkod>6975606872679</barkod>
+        <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>HYPER GOGO HYPER GOGO Pioneer 12 Plus električni motocikl za djecu - narančasti</naziv>
+    <naziv>HYPER GOGO Pioneer 12 Plus električni motocikl za djecu - narančasti</naziv>
     <sifra>sm-1034186</sifra>
     <marka>HYPER GOGO</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>429.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>429.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>319.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>319.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>429.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975606872693</barkod>
+    <barkod>Nije dodijeljen</barkod>
     <dostupnost>Dostupno</dostupnost>
     <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
     <poveznica>https://woolf.hr/hyper-gogo-pioneer-12-plus-elektricni-motocikl-za-djecu-narancasti-proizvod-12719/</poveznica>
@@ -91438,23 +91438,23 @@
         <sifra>sm-1034186</sifra>
         <velicina></velicina>
         <boja></boja>
-        <barkod>6975606872693</barkod>
+        <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>HYPER GOGO HYPER GOGO Pioneer 12 Plus električni motocikl za djecu - zeleni</naziv>
+    <naziv>HYPER GOGO Pioneer 12 Plus električni motocikl za djecu - zeleni</naziv>
     <sifra>sm-1034187</sifra>
     <marka>HYPER GOGO</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>429.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>429.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>319.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>319.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>429.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975606872709</barkod>
+    <barkod>Nije dodijeljen</barkod>
     <dostupnost>Dostupno</dostupnost>
     <kategorija>Uređaji - TEHNIKA - Električni motocikli</kategorija>
     <poveznica>https://woolf.hr/hyper-gogo-pioneer-12-plus-elektricni-motocikl-za-djecu-zeleni-proizvod-12718/</poveznica>
@@ -91463,7 +91463,7 @@
         <sifra>sm-1034187</sifra>
         <velicina></velicina>
         <boja></boja>
-        <barkod>6975606872709</barkod>
+        <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -104303,6 +104303,106 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>JIMMY BX7 PRO ručni UV usisivač - sivi</naziv>
+    <sifra>sm-001022</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>119.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>119.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>149.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/jimmy-bx7-pro-rucni-uv-usisivac-sivi-proizvod-12587/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001022</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>JIMMY H9 Pro bežični usisivač</naziv>
+    <sifra>sm-442199</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>249.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>249.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>369.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/jimmy-h9-pro-bezicni-usisivac-proizvod-12522/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-442199</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>JIMMY H10 Flex bežični usisivač</naziv>
+    <sifra>sm-001156</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>259.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>259.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>349.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/jimmy-h10-flex-bezicni-usisivac-proizvod-12557/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001156</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>JIMMY H11 Pro bežični usisivač</naziv>
+    <sifra>sm-001344</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>329.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>329.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>449.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/jimmy-h11-pro-bezicni-usisivac-proizvod-12527/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001344</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>Jimmy HW9 bežični usisivač za suho i mokro čišćenje</naziv>
     <sifra>sm-001209</sifra>
     <marka>JIMMY</marka>
@@ -104503,31 +104603,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>JIMMY JIMMY BX7 PRO ručni UV usisivač - sivi</naziv>
-    <sifra>sm-001022</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>149.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>149.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>149.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6946499311330</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/jimmy-bx7-pro-rucni-uv-usisivac-sivi-proizvod-12587/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001022</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6946499311330</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>JIMMY JIMMY BX8 Pro ručni UV usisivač</naziv>
     <sifra>sm-001504</sifra>
     <marka>JIMMY</marka>
@@ -104703,81 +104778,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>JIMMY JIMMY H9 Pro bežični usisivač</naziv>
-    <sifra>sm-442199</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>369.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>369.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>369.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6946499309924</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/jimmy-h9-pro-bezicni-usisivac-proizvod-12522/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-442199</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6946499309924</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>JIMMY JIMMY H10 Flex bežični usisivač</naziv>
-    <sifra>sm-001156</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>289.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>289.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>349.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6946499312177</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/jimmy-h10-flex-bezicni-usisivac-proizvod-12557/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001156</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6946499312177</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>JIMMY JIMMY H11 Pro bežični usisivač</naziv>
-    <sifra>sm-001344</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>449.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>449.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>449.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6946499314911</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/jimmy-h11-pro-bezicni-usisivac-proizvod-12527/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001344</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6946499314911</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>JIMMY JIMMY HF9 Hair Multi-styler - stilizator za oblikovanje kose</naziv>
     <sifra>sm-001345</sifra>
     <marka>JIMMY</marka>
@@ -104798,31 +104798,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6946499314959</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>JIMMY JIMMY JV35 Ručni UV Usisivač - sivi</naziv>
-    <sifra>sm-369827</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>119.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>119.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>119.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6946499308446</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/jimmy-jv35-rucni-uv-usisivac-sivi-proizvod-12561/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-369827</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6946499308446</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -104878,31 +104853,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>JIMMY JIMMY JV85 Pro bežični usisivač - ljubičasti</naziv>
-    <sifra>sm-371162</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>229.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>229.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>289.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6946499308903</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/jimmy-jv85-pro-bezicni-usisivac-ljubicasti-proizvod-12532/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-371162</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6946499308903</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>JIMMY JIMMY Matrix I9 modul - ledomat s drobilicom</naziv>
     <sifra>sm-001509</sifra>
     <marka>JIMMY</marka>
@@ -104923,56 +104873,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6946499317233</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>JIMMY JIMMY Matrix M9 Pro - modularni sustav za pročišćavanje vode</naziv>
-    <sifra>sm-001505</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>399.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>399.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>399.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6946499317219</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Kućna pomagala</kategorija>
-    <poveznica>https://woolf.hr/jimmy-matrix-m9-pro-modularni-sustav-za-prociscavanje-vode-proizvod-12831/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001505</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6946499317219</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>JIMMY JIMMY N9 - aparat za kavu</naziv>
-    <sifra>sm-001552</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>349.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>349.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>349.00</sidrenaCijena>
-    <datumSidreneCijene>2026-10-07</datumSidreneCijene>
-    <barkod>6946499318766</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Pročišćivači i ventilatori</kategorija>
-    <poveznica>https://woolf.hr/jimmy-n9-aparat-za-kavu-proizvod-12973/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001552</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6946499318766</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -105028,39 +104928,14 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>JIMMY Jimmy PW11 Pro Max bežični usisivač za suho i mokro čišćenje (Upgraded)</naziv>
-    <sifra>sm-001491</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>599.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>599.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>599.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6946499316496</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/jimmy-pw11-pro-max-bezicni-usisivac-za-suho-i-mokro-ciscenje-upgraded-proizvod-12928/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001491</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6946499316496</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>JIMMY JIMMY R9 - sustav za pročišćavanje vode</naziv>
     <sifra>sm-001402</sifra>
     <marka>JIMMY</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>339.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>339.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>399.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>399.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>399.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>6946499315628</barkod>
@@ -105153,6 +105028,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>JIMMY JV35 Ručni UV Usisivač - sivi</naziv>
+    <sifra>sm-369827</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>89.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>89.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>119.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/jimmy-jv35-rucni-uv-usisivac-sivi-proizvod-12561/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-369827</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>JIMMY JV53 Lite bežični usisavač - plavi</naziv>
     <sifra>sm-370972</sifra>
     <marka>JIMMY</marka>
@@ -105228,6 +105128,56 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>JIMMY JV85 Pro bežični usisivač - ljubičasti</naziv>
+    <sifra>sm-371162</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>199.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>199.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>289.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/jimmy-jv85-pro-bezicni-usisivac-ljubicasti-proizvod-12532/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-371162</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>JIMMY Matrix M9 Pro - modularni sustav za pročišćavanje vode</naziv>
+    <sifra>sm-001505</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>299.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>299.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>399.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Kućna pomagala</kategorija>
+    <poveznica>https://woolf.hr/jimmy-matrix-m9-pro-modularni-sustav-za-prociscavanje-vode-proizvod-12831/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001505</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>JIMMY Matrix S9 modul - za gaziranje vode</naziv>
     <sifra>sm-001508</sifra>
     <marka>JIMMY</marka>
@@ -105249,6 +105199,31 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>JIMMY N9 - aparat za kavu</naziv>
+    <sifra>sm-001552</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>279.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>279.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>349.00</sidrenaCijena>
+    <datumSidreneCijene>2026-10-07</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Pročišćivači i ventilatori</kategorija>
+    <poveznica>https://woolf.hr/jimmy-n9-aparat-za-kavu-proizvod-12973/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001552</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -105498,6 +105473,31 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>1264</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Jimmy PW11 Pro Max bežični usisivač za suho i mokro čišćenje (Upgraded)</naziv>
+    <sifra>sm-001491</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>399.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>399.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>599.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/jimmy-pw11-pro-max-bezicni-usisivac-za-suho-i-mokro-ciscenje-upgraded-proizvod-12928/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001491</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -111351,10 +111351,10 @@
     <sifra>sm-001047</sifra>
     <marka>KingSmith</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>449.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>449.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>549.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>549.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>549.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>6970492712139</barkod>
@@ -111426,10 +111426,10 @@
     <sifra>sm-001338</sifra>
     <marka>KingSmith</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>749.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>749.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>879.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>879.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>749.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>6970492718957</barkod>
@@ -111551,10 +111551,10 @@
     <sifra>001047</sifra>
     <marka>KINGSMITH</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>449.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>449.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>549.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>549.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>549.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110684370</barkod>
@@ -111701,10 +111701,10 @@
     <sifra>sm-485226</sifra>
     <marka>KingSmith</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>759.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>759.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>899.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>899.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>899.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -148785,7 +148785,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110111548</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -150535,7 +150535,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110658722</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2022_N_BLACK-41</sifra>
@@ -150595,7 +150595,7 @@
         <velicina>40</velicina>
         <boja>zelena</boja>
         <barkod>1100110658609</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2022_N_MINT-41</sifra>
@@ -154691,7 +154691,7 @@
         <velicina>41</velicina>
         <boja>plava</boja>
         <barkod>1100110474735</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -162002,7 +162002,7 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>M2S filter za JIMMY R9 pročišćivač vode - kompozitni filter od mikrovlakana i aktivnog ugljena</naziv>
+    <naziv>M2S filter za JIMMY pročišćivač vode - kompozitni filter od mikrovlakana i aktivnog ugljena</naziv>
     <sifra>sm-001421</sifra>
     <marka>JIMMY</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -169828,7 +169828,7 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>Narwal - sredstvo za čišćenje za Freo Z Ultra i Freo Z10 Ultra</naziv>
+    <naziv>Narwal - sredstvo za čišćenje za Freo Z Ultra i Freo Z10 i Z10 Ultra</naziv>
     <sifra>sm-001319</sifra>
     <marka>NARWAL</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -170078,6 +170078,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>Narwal Freo S robotski usisivač - bijeli</naziv>
+    <sifra>sm-001424</sifra>
+    <marka>NARWAL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>169.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>169.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>279.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
+    <poveznica>https://woolf.hr/narwal-freo-s-robotski-usisivac-bijeli-proizvod-12507/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001424</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>Narwal Freo X Ultra - komplet zamjenskih dijelova</naziv>
     <sifra>sm-001275</sifra>
     <marka>NARWAL</marka>
@@ -170128,6 +170153,56 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>Narwal Freo Z10 robotski usisivač - bijeli</naziv>
+    <sifra>sm-001380</sifra>
+    <marka>NARWAL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>379.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>379.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>599.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
+    <poveznica>https://woolf.hr/narwal-freo-z10-robotski-usisivac-bijeli-proizvod-12509/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001380</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Narwal Freo Z10 Ultra robotski usisivač - bijeli</naziv>
+    <sifra>sm-001393</sifra>
+    <marka>NARWAL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>549.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>549.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>799.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
+    <poveznica>https://woolf.hr/narwal-freo-z10-ultra-robotski-usisivac-bijeli-proizvod-12602/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001393</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>NARWAL FREO Z10 ULTRA ROBOTSKI USISIVAČ - BIJELI</naziv>
     <sifra>001393</sifra>
     <marka>NARWAL</marka>
@@ -170149,6 +170224,31 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Narwal Freo Z10 Ultra robotski usisivač - sivi</naziv>
+    <sifra>sm-001358</sifra>
+    <marka>NARWAL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>549.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>549.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>799.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
+    <poveznica>https://woolf.hr/narwal-freo-z10-ultra-robotski-usisivac-sivi-proizvod-12487/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001358</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -170228,31 +170328,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>NARWAL Narwal Freo S robotski usisivač - bijeli</naziv>
-    <sifra>sm-001424</sifra>
-    <marka>NARWAL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>279.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>279.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>279.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6972075737232</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
-    <poveznica>https://woolf.hr/narwal-freo-s-robotski-usisivac-bijeli-proizvod-12507/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001424</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6972075737232</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>NARWAL Narwal Freo X Plus - komplet zamjenskih dijelova</naziv>
     <sifra>sm-001455</sifra>
     <marka>NARWAL</marka>
@@ -170303,31 +170378,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>NARWAL Narwal Freo Z10 robotski usisivač - bijeli</naziv>
-    <sifra>sm-001380</sifra>
-    <marka>NARWAL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>599.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>599.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>599.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6972075734767</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
-    <poveznica>https://woolf.hr/narwal-freo-z10-robotski-usisivac-bijeli-proizvod-12509/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001380</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6972075734767</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>NARWAL Narwal Freo Z10 Ultra - komplet zamjenskih dijelova</naziv>
     <sifra>sm-001374</sifra>
     <marka>NARWAL</marka>
@@ -170348,56 +170398,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6972075733722</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>NARWAL Narwal Freo Z10 Ultra robotski usisivač - bijeli</naziv>
-    <sifra>sm-001393</sifra>
-    <marka>NARWAL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>799.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>799.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>799.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6972075735092</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
-    <poveznica>https://woolf.hr/narwal-freo-z10-ultra-robotski-usisivac-bijeli-proizvod-12602/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001393</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6972075735092</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>NARWAL Narwal Freo Z10 Ultra robotski usisivač - sivi</naziv>
-    <sifra>sm-001358</sifra>
-    <marka>NARWAL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>799.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>799.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>799.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6972075735047</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
-    <poveznica>https://woolf.hr/narwal-freo-z10-ultra-robotski-usisivac-sivi-proizvod-12487/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001358</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6972075735047</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -216549,7 +216549,7 @@
         <velicina>38</velicina>
         <boja>bez</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>WLFP982025_BEIGE-39</sifra>
@@ -217606,8 +217606,8 @@
     <sifra>sm-000418</sifra>
     <marka>JIMMY</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>15.79</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>15.79</maloprodajnaCijena>
+    <cijenaZaJedinicuMjere>8.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>8.99</maloprodajnaCijena>
     <posebanOblikProdaje>NE</posebanOblikProdaje>
     <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>15.79</sidrenaCijena>
@@ -227417,10 +227417,10 @@
     <sifra>sm-001251-WH</sifra>
     <marka>Petkit</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>79.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>79.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>49.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>79.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -227442,10 +227442,10 @@
     <sifra>sm-001251</sifra>
     <marka>Petkit</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>79.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>79.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>49.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>79.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -227467,10 +227467,10 @@
     <sifra>sm-001251-GR</sifra>
     <marka>Petkit</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>79.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>79.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>49.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>79.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -227717,10 +227717,10 @@
     <sifra>sm-001247</sifra>
     <marka>Petkit</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>79.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>79.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>59.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>59.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>79.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -227938,81 +227938,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>Petkit Petkit Pura MAX 2 - samočisteći pametni WC za mačke</naziv>
-    <sifra>sm-001335</sifra>
-    <marka>Petkit</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>599.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>599.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>599.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975069305028</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Kućni ljubimci</kategorija>
-    <poveznica>https://woolf.hr/petkit-pura-max-2-samocisteci-pametni-wc-za-macke-proizvod-12459/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001335</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6975069305028</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>Petkit Petkit Purobot Crystal Duo - pametni WC za mačke s AI kamerom</naziv>
-    <sifra>sm-001483</sifra>
-    <marka>Petkit</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>279.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>279.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>279.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975069307244</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Kućni ljubimci</kategorija>
-    <poveznica>https://woolf.hr/petkit-purobot-crystal-duo-pametni-wc-za-macke-s-ai-kamerom-proizvod-12448/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001483</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6975069307244</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>Petkit Petkit Purobot Ultra - samočisteći pametni WC za mačke</naziv>
-    <sifra>sm-001336</sifra>
-    <marka>Petkit</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1099.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1099.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>1099.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975069305523</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Kućni ljubimci</kategorija>
-    <poveznica>https://woolf.hr/petkit-purobot-ultra-samocisteci-pametni-wc-za-macke-proizvod-12486/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001336</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6975069305523</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>Petkit punjenje za pročišćivanje zraka - 4x</naziv>
     <sifra>sm-001016</sifra>
     <marka>Petkit</marka>
@@ -228042,10 +227967,10 @@
     <sifra>sm-001013</sifra>
     <marka>Petkit</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>23.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>23.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>17.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>17.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>23.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -228067,10 +227992,10 @@
     <sifra>sm-001017</sifra>
     <marka>Petkit</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>44.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>34.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>34.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>44.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -228084,6 +228009,31 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Petkit Pura MAX 2 - samočisteći pametni WC za mačke</naziv>
+    <sifra>sm-001335</sifra>
+    <marka>Petkit</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>449.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>449.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>599.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Kućni ljubimci</kategorija>
+    <poveznica>https://woolf.hr/petkit-pura-max-2-samocisteci-pametni-wc-za-macke-proizvod-12459/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001335</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -228109,6 +228059,56 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Petkit Purobot Crystal Duo - pametni WC za mačke s AI kamerom</naziv>
+    <sifra>sm-001483</sifra>
+    <marka>Petkit</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>199.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>199.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>279.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Kućni ljubimci</kategorija>
+    <poveznica>https://woolf.hr/petkit-purobot-crystal-duo-pametni-wc-za-macke-s-ai-kamerom-proizvod-12448/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001483</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Petkit Purobot Ultra - samočisteći pametni WC za mačke</naziv>
+    <sifra>sm-001336</sifra>
+    <marka>Petkit</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>699.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>699.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>1099.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Kućni ljubimci</kategorija>
+    <poveznica>https://woolf.hr/petkit-purobot-ultra-samocisteci-pametni-wc-za-macke-proizvod-12486/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001336</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -228167,10 +228167,10 @@
     <sifra>sm-001486</sifra>
     <marka>Petkit</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>99.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>99.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>69.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>69.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>99.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -228217,8 +228217,8 @@
     <sifra>sm-001018</sifra>
     <marka>Petkit</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>7.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>7.49</maloprodajnaCijena>
+    <cijenaZaJedinicuMjere>7.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>7.99</maloprodajnaCijena>
     <posebanOblikProdaje>NE</posebanOblikProdaje>
     <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>7.49</sidrenaCijena>
@@ -228242,10 +228242,10 @@
     <sifra>sm-001400</sifra>
     <marka>Petkit</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>39.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>39.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>24.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>39.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -265746,7 +265746,7 @@
         <velicina>36</velicina>
         <boja>bijela</boja>
         <barkod>1100110538116</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-37</sifra>
@@ -265954,7 +265954,7 @@
         <velicina>40</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110546258</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4350_FLOWER_WHT-41</sifra>
@@ -266577,6 +266577,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>Savitljiva cijev za Jimmy - siva</naziv>
+    <sifra>sm-001384</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>24.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>24.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/savitljiva-cijev-za-jimmy-h11-pro-siva-proizvod-12460/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001384</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>Savitljiva cijev za Jimmy - zlatna</naziv>
     <sifra>sm-486696</sifra>
     <marka>JIMMY</marka>
@@ -266619,31 +266644,6 @@
     <varijante>
       <varijanta>
         <sifra>sm-001173</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>Savitljiva cijev za Jimmy H11 Pro - siva</naziv>
-    <sifra>sm-001384</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>24.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>24.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/savitljiva-cijev-za-jimmy-h11-pro-siva-proizvod-12460/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001384</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -267414,49 +267414,49 @@
       <varijanta>
         <sifra>0032201_BORDO-36</sifra>
         <velicina>36</velicina>
-        <boja>bordo]]&gt;&lt;![CDATA[siva</boja>
+        <boja>bordo</boja>
         <barkod>1100110606624</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>0032201_BORDO-37</sifra>
         <velicina>37</velicina>
-        <boja>bordo]]&gt;&lt;![CDATA[siva</boja>
+        <boja>bordo</boja>
         <barkod>1100110606631</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>0032201_BORDO-38</sifra>
         <velicina>38</velicina>
-        <boja>bordo]]&gt;&lt;![CDATA[siva</boja>
+        <boja>bordo</boja>
         <barkod>1100110606648</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>0032201_BORDO-39</sifra>
         <velicina>39</velicina>
-        <boja>bordo]]&gt;&lt;![CDATA[siva</boja>
+        <boja>bordo</boja>
         <barkod>1100110606655</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>0032201_BORDO-40</sifra>
         <velicina>40</velicina>
-        <boja>bordo]]&gt;&lt;![CDATA[siva</boja>
+        <boja>bordo</boja>
         <barkod>1100110606662</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>0032201_BORDO-41</sifra>
         <velicina>41</velicina>
-        <boja>bordo]]&gt;&lt;![CDATA[siva</boja>
+        <boja>bordo</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>0032201_BORDO-42</sifra>
         <velicina>42</velicina>
-        <boja>bordo]]&gt;&lt;![CDATA[siva</boja>
+        <boja>bordo</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
@@ -337059,10 +337059,10 @@
     <sifra>485226</sifra>
     <marka>KINGSMITH</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>759.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>759.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>899.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>899.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>899.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -352167,14 +352167,64 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>Wybot B1 bežični robot za čišćenje bazena (crni)</naziv>
+    <sifra>sm-001545</sifra>
+    <marka>Wybot</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>359.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>359.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>379.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
+    <poveznica>https://woolf.hr/wybot-b1-bezicni-robot-za-ciscenje-bazena-crni-proizvod-12896/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001545</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Wybot C2 bežični robot za čišćenje bazena (crni)</naziv>
+    <sifra>sm-001498</sifra>
+    <marka>Wybot</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>469.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>469.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>699.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom</kategorija>
+    <poveznica>https://woolf.hr/wybot-c2-bezicni-robot-za-ciscenje-bazena-crni-proizvod-12781/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001498</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>Wybot C2 Vision bežični robot za čišćenje bazena (crni)</naziv>
     <sifra>sm-001499</sifra>
     <marka>Wybot</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>949.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>949.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>669.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>669.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>949.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -352188,6 +352238,31 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Wybot S3 bežični robot za čišćenje bazena s AI Vision i postajom za samopražnjenjem (crni)</naziv>
+    <sifra>sm-001546</sifra>
+    <marka>Wybot</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>1999.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1999.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>2399.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
+    <poveznica>https://woolf.hr/wybot-s3-bezicni-robot-za-ciscenje-bazena-s-ai-vision-i-postajom-za-samopraznjenjem-crni-proizvod-12901/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001546</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -352217,89 +352292,14 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>Wybot Wybot B1 bežični robot za čišćenje bazena (crni)</naziv>
-    <sifra>sm-001545</sifra>
-    <marka>Wybot</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>499.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>499.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>379.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
-    <poveznica>https://woolf.hr/wybot-b1-bezicni-robot-za-ciscenje-bazena-crni-proizvod-12896/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001545</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>Wybot Wybot C2 bežični robot za čišćenje bazena (crni)</naziv>
-    <sifra>sm-001498</sifra>
-    <marka>Wybot</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>699.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>699.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>699.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975843747358</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom</kategorija>
-    <poveznica>https://woolf.hr/wybot-c2-bezicni-robot-za-ciscenje-bazena-crni-proizvod-12781/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001498</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6975843747358</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>Wybot Wybot S3 bežični robot za čišćenje bazena s AI Vision i postajom za samopražnjenjem (crni)</naziv>
-    <sifra>sm-001546</sifra>
-    <marka>Wybot</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>2999.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>2999.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>2399.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
-    <poveznica>https://woolf.hr/wybot-s3-bezicni-robot-za-ciscenje-bazena-s-ai-vision-i-postajom-za-samopraznjenjem-crni-proizvod-12901/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001546</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>YESOUL A1 pametni sobni bicikl - crni</naziv>
     <sifra>sm-001323</sifra>
     <marka>YESOUL</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>229.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>229.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>279.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>279.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>279.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -352496,10 +352496,10 @@
     <sifra>sm-001058</sifra>
     <marka>YESOUL</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>319.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>319.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>399.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>399.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>399.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -352571,10 +352571,10 @@
     <sifra>sm-001484</sifra>
     <marka>YESOUL</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>579.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>579.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>649.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>649.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>649.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>6971300262471</barkod>
@@ -352696,10 +352696,10 @@
     <sifra>sm-001475</sifra>
     <marka>YESOUL</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>299.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>299.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>349.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>349.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <sidrenaCijena>349.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>6971300262747</barkod>
