@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-11-01T11:25:08.339Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-02T12:44:21.296Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>01. 11. 2026.</datumCjenika>
+    <datumCjenika>02. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -34356,7 +34356,7 @@
         <velicina>40</velicina>
         <boja>crvena</boja>
         <barkod>1100110716897</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_RED-41</sifra>
@@ -34455,7 +34455,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_WHITE-40</sifra>
@@ -65998,7 +65998,7 @@
         <velicina>39</velicina>
         <boja>crvena</boja>
         <barkod>1100110667380</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_RED-40</sifra>
@@ -66587,10 +66587,10 @@
     <sifra>sm-001535</sifra>
     <marka>Eletronbike</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1499.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1499.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>1299.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1299.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>1499.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -66612,10 +66612,10 @@
     <sifra>sm-001533</sifra>
     <marka>Eletronbike</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1499.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1499.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>1299.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1299.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>1499.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -66662,10 +66662,10 @@
     <sifra>sm-001525</sifra>
     <marka>Eletronbike</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1099.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1099.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>999.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>999.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>999.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -66687,10 +66687,10 @@
     <sifra>sm-001527</sifra>
     <marka>Eletronbike</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1099.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1099.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>999.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>999.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>1099.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -66712,10 +66712,10 @@
     <sifra>sm-001526</sifra>
     <marka>Eletronbike</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1099.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1099.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>999.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>999.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>1099.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -66737,10 +66737,10 @@
     <sifra>sm-001536</sifra>
     <marka>Eletronbike</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1499.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1499.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>1299.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1299.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>1499.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -66762,10 +66762,10 @@
     <sifra>sm-001537</sifra>
     <marka>Eletronbike</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1499.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1499.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>1299.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>1299.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>1499.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -91173,10 +91173,10 @@
     <sifra>sm-1020467</sifra>
     <marka>HYPER GOGO</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>329.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>329.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>249.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>249.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>329.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -91373,10 +91373,10 @@
     <sifra>sm-1034180</sifra>
     <marka>HYPER GOGO</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>329.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>329.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>249.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>249.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>329.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -145981,7 +145981,7 @@
         <velicina>42</velicina>
         <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>90301_BLUE-43</sifra>
@@ -147928,7 +147928,7 @@
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>1100110474353</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_M_BLACK-45</sifra>
@@ -150715,7 +150715,7 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110658784</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2022_N_SILVER-41</sifra>
@@ -151068,7 +151068,7 @@
         <velicina>39</velicina>
         <boja>srebrna</boja>
         <barkod>1100110658340</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3300_N_PERLA-40</sifra>
@@ -151925,7 +151925,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110659149</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5002_N_WHITE-41</sifra>
@@ -153054,7 +153054,7 @@
         <velicina>38</velicina>
         <boja>srebrna</boja>
         <barkod>1100110645586</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_N_SILVER-39</sifra>
@@ -168589,7 +168589,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A14-41</sifra>
@@ -168762,7 +168762,7 @@
         <velicina>36</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A25-37</sifra>
@@ -207001,7 +207001,7 @@
         <velicina>41</velicina>
         <boja>bez]]&gt;&lt;![CDATA[siva</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -209765,7 +209765,7 @@
         <velicina>24</velicina>
         <boja>pink]]&gt;&lt;![CDATA[plava</boja>
         <barkod>1100110466778</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3501944_BLUE-25</sifra>
@@ -265125,7 +265125,7 @@
         <velicina>45</velicina>
         <boja>crna</boja>
         <barkod>1100110538826</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1BLACK-46</sifra>
