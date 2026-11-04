@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-11-03T12:10:34.875Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-04T12:23:23.464Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>03. 11. 2026.</datumCjenika>
+    <datumCjenika>04. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -34095,7 +34095,7 @@
         <velicina>37</velicina>
         <boja>smeda</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_BROWN-38</sifra>
@@ -34261,7 +34261,7 @@
         <velicina>38</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_LEPTIR_B-39</sifra>
@@ -34434,7 +34434,7 @@
         <velicina>40</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_SOVA-41</sifra>
@@ -34473,7 +34473,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_WHITE-39</sifra>
@@ -38501,7 +38501,7 @@
         <velicina>36</velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_PERLAWHT-37</sifra>
@@ -38544,73 +38544,6 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>BIANCOMOLINA KLOMPE S JASTUKOM</naziv>
-    <sifra>AA01_SILVER</sifra>
-    <marka>BIANCOMOLINA</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>56.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>56.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>62.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110534774, 1100110534781, 1100110534798, 1100110534804, 1100110534811, 1100110534828, 1100110534835</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-9751/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>AA01_SILVER-36</sifra>
-        <velicina>36</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110534774</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_SILVER-37</sifra>
-        <velicina>37</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110534781</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_SILVER-38</sifra>
-        <velicina>38</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110534798</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_SILVER-39</sifra>
-        <velicina>39</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110534804</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_SILVER-40</sifra>
-        <velicina>40</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110534811</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_SILVER-41</sifra>
-        <velicina>41</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110534828</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA01_SILVER-42</sifra>
-        <velicina>42</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110534835</barkod>
-        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -41088,73 +41021,6 @@
         <sifra>KOF01_3RED-42</sifra>
         <velicina>42</velicina>
         <boja>crvena</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>BIANCOMOLINA KLOMPE S OPRUGOM</naziv>
-    <sifra>KOF01_BLACK</sifra>
-    <marka>BIANCOMOLINA</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>44.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>54.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-11408/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>KOF01_BLACK-36</sifra>
-        <velicina>36</velicina>
-        <boja>crna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF01_BLACK-37</sifra>
-        <velicina>37</velicina>
-        <boja>crna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF01_BLACK-38</sifra>
-        <velicina>38</velicina>
-        <boja>crna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF01_BLACK-39</sifra>
-        <velicina>39</velicina>
-        <boja>crna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF01_BLACK-40</sifra>
-        <velicina>40</velicina>
-        <boja>crna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF01_BLACK-41</sifra>
-        <velicina>41</velicina>
-        <boja>crna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF01_BLACK-42</sifra>
-        <velicina>42</velicina>
-        <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -65903,7 +65769,7 @@
         <velicina>40</velicina>
         <boja>ljubicasta</boja>
         <barkod>1100110667250</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_PURPLE-41</sifra>
@@ -89774,7 +89640,7 @@
         <velicina>38</velicina>
         <boja>crna]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-39</sifra>
@@ -89901,7 +89767,7 @@
         <velicina>39</velicina>
         <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_LEPTIR-40</sifra>
@@ -104094,7 +103960,7 @@
         <velicina>25</velicina>
         <boja>bez</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>LYDIA_BEIGE-26</sifra>
@@ -114280,6 +114146,31 @@
   </proizvod>
   <proizvod>
     <naziv>KLOMPE S JASTUKOM</naziv>
+    <sifra>AA01_SILVER</sifra>
+    <marka>BIANCOMOLINA</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>56.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>56.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>62.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-9751/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>AA01_SILVER</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KLOMPE S JASTUKOM</naziv>
     <sifra>A05_HEART_CC</sifra>
     <marka>BIANCOMOLINA</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -117671,6 +117562,31 @@
     <varijante>
       <varijanta>
         <sifra>KOF01_R_BLACK</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KLOMPE S OPRUGOM</naziv>
+    <sifra>KOF01_BLACK</sifra>
+    <marka>BIANCOMOLINA</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>44.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>54.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-11408/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>KOF01_BLACK</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -146775,7 +146691,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>991_BLACK-39</sifra>
@@ -146941,7 +146857,7 @@
         <velicina>36</velicina>
         <boja>crna</boja>
         <barkod>1100110558756</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1024_BLACK-37</sifra>
@@ -149664,7 +149580,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110708984</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>902_WHITE-39</sifra>
@@ -151777,7 +151693,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110490193</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -151943,7 +151859,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110659132</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5002_N_WHITE-40</sifra>
@@ -152899,7 +152815,7 @@
         <velicina>45</velicina>
         <boja>bijela</boja>
         <barkod>1100110473837</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_M_WHITE-46</sifra>
@@ -153086,7 +153002,7 @@
         <velicina>39</velicina>
         <boja>srebrna</boja>
         <barkod>1100110645593</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_N_SILVER-40</sifra>
@@ -168889,7 +168805,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -190589,31 +190505,6 @@
   </proizvod>
   <proizvod>
     <naziv>NEPROPUSNE BUCE</naziv>
-    <sifra>WLFP812025_NAVY</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>24.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>24.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Dječje - Obuća - Buce</kategorija>
-    <poveznica>https://woolf.hr/nepropusne-buce-proizvod-12195/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>WLFP812025_NAVY</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>NEPROPUSNE BUCE</naziv>
     <sifra>WLFP802025_PINK</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -210435,6 +210326,52 @@
         <velicina>36</velicina>
         <boja>plava</boja>
         <barkod>1100110685186</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NW NEPROPUSNE BUCE</naziv>
+    <sifra>WLFP812025_NAVY</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>24.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>24.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>1100110685940, 1100110685957, 1100110685964, 1100110685971</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Dječje - Obuća - Buce</kategorija>
+    <poveznica>https://woolf.hr/nepropusne-buce-proizvod-12195/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>WLFP812025_NAVY-21</sifra>
+        <velicina>21</velicina>
+        <boja>plava</boja>
+        <barkod>1100110685940</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>WLFP812025_NAVY-22</sifra>
+        <velicina>22</velicina>
+        <boja>plava</boja>
+        <barkod>1100110685957</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>WLFP812025_NAVY-23</sifra>
+        <velicina>23</velicina>
+        <boja>plava</boja>
+        <barkod>1100110685964</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>WLFP812025_NAVY-24</sifra>
+        <velicina>24</velicina>
+        <boja>plava</boja>
+        <barkod>1100110685971</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -265330,7 +265267,7 @@
         <velicina>46</velicina>
         <boja>bijela</boja>
         <barkod>1100110538901</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1WHITE-47</sifra>
@@ -265697,7 +265634,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110538079</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_1BLACK-40</sifra>
@@ -265905,7 +265842,7 @@
         <velicina>45</velicina>
         <boja>plava</boja>
         <barkod>1100110477071</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1772_BLUE-46</sifra>
@@ -349677,7 +349614,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110230539</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>SABBAS_BLACK-43</sifra>
