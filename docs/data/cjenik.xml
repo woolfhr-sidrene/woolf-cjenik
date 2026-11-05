@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-11-04T12:23:23.464Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-05T12:37:54.995Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>04. 11. 2026.</datumCjenika>
+    <datumCjenika>05. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -3233,7 +3233,7 @@
         <velicina>40</velicina>
         <boja>novine</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>BORKUM_NEWS-41</sifra>
@@ -34434,7 +34434,7 @@
         <velicina>40</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_SOVA-41</sifra>
@@ -38180,7 +38180,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_BLACKWHT-39</sifra>
@@ -89633,7 +89633,7 @@
         <velicina>37</velicina>
         <boja>crna]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-38</sifra>
@@ -89647,7 +89647,7 @@
         <velicina>39</velicina>
         <boja>crna]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-40</sifra>
@@ -147467,7 +147467,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110644619</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>6000_1_WHITE-39</sifra>
@@ -147869,7 +147869,7 @@
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>1100110474353</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_M_BLACK-45</sifra>
@@ -147883,7 +147883,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>1100110474377</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -148169,14 +148169,14 @@
         <velicina>39</velicina>
         <boja>pink</boja>
         <barkod>1100110309266</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_PERLA_1-40</sifra>
         <velicina>40</velicina>
         <boja>pink</boja>
         <barkod>1100110309273</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_PERLA_1-41</sifra>
@@ -151150,7 +151150,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110398949</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4250_BLACK-42</sifra>
@@ -151559,14 +151559,14 @@
         <velicina>39</velicina>
         <boja>srebrna</boja>
         <barkod>1100110490056</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5001_PERLA-40</sifra>
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110490063</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5001_PERLA-41</sifra>
@@ -152674,7 +152674,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110025715</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41blk-40</sifra>
@@ -152741,7 +152741,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110025647</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41wht-40</sifra>
@@ -152914,7 +152914,7 @@
         <velicina>36</velicina>
         <boja>pink</boja>
         <barkod>1100110645494</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_N_PERLA-37</sifra>
@@ -152935,7 +152935,7 @@
         <velicina>39</velicina>
         <boja>pink</boja>
         <barkod>1100110645524</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_N_PERLA-40</sifra>
@@ -152949,14 +152949,14 @@
         <velicina>41</velicina>
         <boja>pink</boja>
         <barkod>1100110645548</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_N_PERLA-42</sifra>
         <velicina>42</velicina>
         <boja>pink</boja>
         <barkod>1100110645555</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -153009,7 +153009,7 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110645609</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_N_SILVER-41</sifra>
@@ -154505,7 +154505,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110707987</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>6204_WHITE-41</sifra>
@@ -168703,7 +168703,7 @@
         <velicina>37</velicina>
         <boja>bez</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A24-38</sifra>
@@ -207781,6 +207781,66 @@
   </proizvod>
   <proizvod>
     <naziv>NW KUĆNE PAPUČE DO GLEŽNJA</naziv>
+    <sifra>72358_BLACK</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-05</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Muško - Obuća - Papuče</kategorija>
+    <poveznica>https://woolf.hr/kucne-papuce-do-gleznja-proizvod-12999/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>72358_BLACK-41</sifra>
+        <velicina>41</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>72358_BLACK-42</sifra>
+        <velicina>42</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>72358_BLACK-43</sifra>
+        <velicina>43</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>72358_BLACK-44</sifra>
+        <velicina>44</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>72358_BLACK-45</sifra>
+        <velicina>45</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>72358_BLACK-46</sifra>
+        <velicina>46</velicina>
+        <boja>crna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NW KUĆNE PAPUČE DO GLEŽNJA</naziv>
     <sifra>NIF2357_BLACK</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -207807,7 +207867,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110530417</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NIF2357_BLACK-38</sifra>
@@ -207821,7 +207881,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110530431</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NIF2357_BLACK-40</sifra>
@@ -207835,21 +207895,21 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110530455</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NIF2357_BLACK-42</sifra>
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110530462</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NIF2357_BLACK-43</sifra>
         <velicina>43</velicina>
         <boja>crna</boja>
         <barkod>1100110530479</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NIF2357_BLACK-44</sifra>
@@ -207863,14 +207923,14 @@
         <velicina>45</velicina>
         <boja>crna</boja>
         <barkod>1100110530493</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NIF2357_BLACK-46</sifra>
         <velicina>46</velicina>
         <boja></boja>
         <barkod>1100110698308</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -209676,56 +209736,56 @@
       <varijanta>
         <sifra>2681_NAVY-22</sifra>
         <velicina>22</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[plava</boja>
+        <boja>pink</boja>
         <barkod>1100110289735</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2681_NAVY-23</sifra>
         <velicina>23</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[plava</boja>
+        <boja>pink</boja>
         <barkod>1100110289742</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2681_NAVY-24</sifra>
         <velicina>24</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[plava</boja>
+        <boja>pink</boja>
         <barkod>1100110289759</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2681_NAVY-25</sifra>
         <velicina>25</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[plava</boja>
+        <boja>pink</boja>
         <barkod>1100110289766</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2681_NAVY-26</sifra>
         <velicina>26</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[plava</boja>
+        <boja>pink</boja>
         <barkod>1100110292506</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2681_NAVY-27</sifra>
         <velicina>27</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[plava</boja>
+        <boja>pink</boja>
         <barkod>1100110295309</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2681_NAVY-28</sifra>
         <velicina>28</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[plava</boja>
+        <boja>pink</boja>
         <barkod>1100110295316</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2681_NAVY-29</sifra>
         <velicina>29</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[plava</boja>
+        <boja>pink</boja>
         <barkod>1100110450609</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -214457,7 +214517,7 @@
         <velicina>34</velicina>
         <boja>plava</boja>
         <barkod>1100110716644</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2018002_BLUE-35</sifra>
@@ -265260,7 +265320,7 @@
         <velicina>45</velicina>
         <boja>bijela</boja>
         <barkod>1100110538895</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1WHITE-46</sifra>
@@ -266941,7 +267001,7 @@
         <velicina>37</velicina>
         <boja>smeda</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>RB157_BROWN-38</sifra>
@@ -352195,10 +352255,10 @@
     <sifra>sm-001323</sifra>
     <marka>YESOUL</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>279.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>279.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>189.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>189.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>279.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -352287,6 +352347,31 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>YESOUL G1M Plus - pametni magnetni sobni bicikl - crni</naziv>
+    <sifra>sm-001254</sifra>
+    <marka>YESOUL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>549.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>549.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>699.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Sobni bicikli</kategorija>
+    <poveznica>https://woolf.hr/yesoul-g1m-plus-pametni-magnetni-sobni-bicikl-crni-proizvod-12466/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001254</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -352391,14 +352476,39 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>YESOUL S3 - pametni magnetni sobni bicikl - bijeli</naziv>
+    <sifra>sm-001086</sifra>
+    <marka>YESOUL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>279.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>279.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>319.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Sobni bicikli</kategorija>
+    <poveznica>https://woolf.hr/yesoul-s3-pametni-magnetni-sobni-bicikl-bijeli-proizvod-12592/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001086</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>YESOUL S3 - pametni magnetni sobni bicikl - crni</naziv>
     <sifra>sm-001058</sifra>
     <marka>YESOUL</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>399.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>399.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>279.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>279.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>399.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -352412,6 +352522,106 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Yesoul T3 Plus - traka za hodanje i trčanje</naziv>
+    <sifra>sm-001420</sifra>
+    <marka>YESOUL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>799.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>799.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>999.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
+    <poveznica>https://woolf.hr/yesoul-t3-plus-traka-za-hodanje-i-trcanje-proizvod-12579/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001420</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Yesoul T3 Pro - traka za hodanje i trčanje</naziv>
+    <sifra>sm-001447</sifra>
+    <marka>YESOUL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>529.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>529.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>699.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
+    <poveznica>https://woolf.hr/yesoul-t3-pro-traka-za-hodanje-i-trcanje-proizvod-12554/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001447</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Yesoul W2 Pro traka za hodanje</naziv>
+    <sifra>sm-001475</sifra>
+    <marka>YESOUL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>269.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>269.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>349.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
+    <poveznica>https://woolf.hr/yesoul-w2-pro-traka-za-hodanje-proizvod-12710/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001475</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Yesoul W2 traka za hodanje</naziv>
+    <sifra>sm-001412</sifra>
+    <marka>YESOUL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>189.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>189.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>209.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
+    <poveznica>https://woolf.hr/yesoul-w2-traka-za-hodanje-proizvod-12604/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001412</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -352436,31 +352646,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6971300262259</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>YESOUL YESOUL G1M Plus - pametni magnetni sobni bicikl - crni</naziv>
-    <sifra>sm-001254</sifra>
-    <marka>YESOUL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>699.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>699.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>699.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971300262167</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Sobni bicikli</kategorija>
-    <poveznica>https://woolf.hr/yesoul-g1m-plus-pametni-magnetni-sobni-bicikl-crni-proizvod-12466/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001254</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971300262167</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -352491,31 +352676,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>YESOUL YESOUL S3 - pametni magnetni sobni bicikl - bijeli</naziv>
-    <sifra>sm-001086</sifra>
-    <marka>YESOUL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>399.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>399.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>319.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971300260989</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Sobni bicikli</kategorija>
-    <poveznica>https://woolf.hr/yesoul-s3-pametni-magnetni-sobni-bicikl-bijeli-proizvod-12592/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001086</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971300260989</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>YESOUL Yesoul T3 - traka za hodanje i trčanje</naziv>
     <sifra>sm-001541</sifra>
     <marka>YESOUL</marka>
@@ -352536,106 +352696,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6971300262655</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>YESOUL Yesoul T3 Plus - traka za hodanje i trčanje</naziv>
-    <sifra>sm-001420</sifra>
-    <marka>YESOUL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>999.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>999.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>999.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971300262709</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
-    <poveznica>https://woolf.hr/yesoul-t3-plus-traka-za-hodanje-i-trcanje-proizvod-12579/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001420</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971300262709</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>YESOUL Yesoul T3 Pro - traka za hodanje i trčanje</naziv>
-    <sifra>sm-001447</sifra>
-    <marka>YESOUL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>699.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>699.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>699.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971300262693</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
-    <poveznica>https://woolf.hr/yesoul-t3-pro-traka-za-hodanje-i-trcanje-proizvod-12554/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001447</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971300262693</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>YESOUL Yesoul W2 Pro traka za hodanje</naziv>
-    <sifra>sm-001475</sifra>
-    <marka>YESOUL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>349.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>349.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>349.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971300262747</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
-    <poveznica>https://woolf.hr/yesoul-w2-pro-traka-za-hodanje-proizvod-12710/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001475</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971300262747</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>YESOUL Yesoul W2 traka za hodanje</naziv>
-    <sifra>sm-001412</sifra>
-    <marka>YESOUL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>249.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>249.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>209.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6971300262730</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
-    <poveznica>https://woolf.hr/yesoul-w2-traka-za-hodanje-proizvod-12604/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001412</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971300262730</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
