@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-11-05T12:37:54.995Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-06T12:20:32.595Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>05. 11. 2026.</datumCjenika>
+    <datumCjenika>06. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -3057,7 +3057,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>BORKUM_BLACK-40</sifra>
@@ -34155,7 +34155,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_HAPPY_B-39</sifra>
@@ -34222,7 +34222,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_HAPPY_W-41</sifra>
@@ -38508,7 +38508,7 @@
         <velicina>37</velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_PERLAWHT-38</sifra>
@@ -41700,73 +41700,6 @@
         <boja>zelena</boja>
         <barkod>1100110568984</barkod>
         <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>BIANCOMOLINA NATIKAČE S JASTUKOM</naziv>
-    <sifra>AA200_GOLD</sifra>
-    <marka>BIANCOMOLINA</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>51.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>51.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>56.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/natikace-s-jastukom-proizvod-12782/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>AA200_GOLD-36</sifra>
-        <velicina>36</velicina>
-        <boja>zlatna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA200_GOLD-37</sifra>
-        <velicina>37</velicina>
-        <boja>zlatna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA200_GOLD-38</sifra>
-        <velicina>38</velicina>
-        <boja>zlatna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA200_GOLD-39</sifra>
-        <velicina>39</velicina>
-        <boja>zlatna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA200_GOLD-40</sifra>
-        <velicina>40</velicina>
-        <boja>zlatna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA200_GOLD-41</sifra>
-        <velicina>41</velicina>
-        <boja>zlatna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>AA200_GOLD-42</sifra>
-        <velicina>42</velicina>
-        <boja>zlatna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -65406,7 +65339,7 @@
         <velicina>36</velicina>
         <boja>siva</boja>
         <barkod>1100110667144</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_1GREY-37</sifra>
@@ -65494,7 +65427,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110667038</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_BLACK-40</sifra>
@@ -65822,7 +65755,7 @@
         <velicina>38</velicina>
         <boja>crvena</boja>
         <barkod>1100110667373</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_RED-39</sifra>
@@ -67119,6 +67052,431 @@
         <velicina></velicina>
         <boja>crvena</boja>
         <barkod>1100110531544</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA RIJEKA – BEIGE</naziv>
+    <sifra>dk-RIJEKA_BEIGE</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-rijeka-beige-proizvod-13003/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-RIJEKA_BEIGE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA RIJEKA – CRNA</naziv>
+    <sifra>dk-RIJEKA_CRNA</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-rijeka-crna-proizvod-13000/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-RIJEKA_CRNA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA RIJEKA – PLAVA</naziv>
+    <sifra>dk-RIJEKA_PLAVA</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-rijeka-plava-proizvod-13001/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-RIJEKA_PLAVA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA RIJEKA – SIVA</naziv>
+    <sifra>dk-RIJEKA_SIVA</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-rijeka-siva-proizvod-13002/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-RIJEKA_SIVA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA ROGLA – ANTRACIT</naziv>
+    <sifra>dk-ROGLA_ANTRACIT</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-rogla-antracit-proizvod-13015/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-ROGLA_ANTRACIT</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA ROGLA – BEŽ</naziv>
+    <sifra>dk-ROGLA_BEZ</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-rogla-bez-proizvod-13011/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-ROGLA_BEZ</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA ROGLA – CRNA S BORDO PRUGOM</naziv>
+    <sifra>dk-ROGLA_CRNA_S_BORDO_PRUGOM</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-rogla-crna-s-bordo-prugom-proizvod-13013/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-ROGLA_CRNA_S_BORDO_PRUGOM</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA ROGLA – MASLINASTA</naziv>
+    <sifra>dk-ROGLA_MASLINASTA</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-rogla-maslinasta-proizvod-13014/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-ROGLA_MASLINASTA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA ROGLA – SVIJETLOSIVA</naziv>
+    <sifra>dk-ROGLA_SVIJETLOSIVA</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-rogla-svijetlosiva-proizvod-13016/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-ROGLA_SVIJETLOSIVA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA ROGLA – TAMNOPLAVA</naziv>
+    <sifra>dk-ROGLA_TAMNOPLAVA</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-rogla-tamnoplava-proizvod-13012/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-ROGLA_TAMNOPLAVA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA VISTA – ANTRACIT</naziv>
+    <sifra>dk-VISTA_ANTRACIT</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-vista-antracit-proizvod-13007/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-VISTA_ANTRACIT</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA VISTA – BORDO</naziv>
+    <sifra>dk-VISTA_BORDO</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-vista-bordo-proizvod-13009/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-VISTA_BORDO</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA VISTA – CRNA</naziv>
+    <sifra>dk-VISTA_CRNA</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-vista-crna-proizvod-13008/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-VISTA_CRNA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA VISTA – MASLINASTA</naziv>
+    <sifra>dk-VISTA_MASLINASTA</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-vista-maslinasta-proizvod-13010/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-VISTA_MASLINASTA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA VISTA – PLAVA</naziv>
+    <sifra>dk-VISTA_PLAVA</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-vista-plava-proizvod-13006/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-VISTA_PLAVA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA VISTA – SIVA</naziv>
+    <sifra>dk-VISTA_SIVA</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-vista-siva-proizvod-13005/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-VISTA_SIVA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA VISTA – SMEĐA</naziv>
+    <sifra>dk-VISTA_SMEDA</sifra>
+    <marka>ESSKIMO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-vista-smeda-proizvod-13004/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-VISTA_SMEDA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -89700,7 +90058,7 @@
         <velicina>38</velicina>
         <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_DALMAT-39</sifra>
@@ -105329,6 +105687,31 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>1264</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>JIMMY Originalni punjač za Jimmy JV51 / JV53 / JV53 Lite / PW11 Pro Max</naziv>
+    <sifra>sm-001354</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>19.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>19.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-20</datumSidreneCijene>
+    <barkod>6946499382149</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/originalni-punjac-za-jimmy-jv51-jv53-jv53-lite-pw11-pro-max-proizvod-12983/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001354</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>6946499382149</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -133896,6 +134279,31 @@
   </proizvod>
   <proizvod>
     <naziv>KUĆNE PAPUČE</naziv>
+    <sifra>90301_BLUE</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>17.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>17.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>15.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Muško - Obuća - Papuče</kategorija>
+    <poveznica>https://woolf.hr/kucne-papuce-proizvod-12958/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>90301_BLUE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KUĆNE PAPUČE</naziv>
     <sifra>WLFP83_BLACK</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -145836,66 +146244,6 @@
   </proizvod>
   <proizvod>
     <naziv>LE SOFT KUĆNE PAPUČE</naziv>
-    <sifra>90301_BLUE</sifra>
-    <marka>LE SOFT</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>17.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>17.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>15.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Muško - Obuća - Papuče</kategorija>
-    <poveznica>https://woolf.hr/kucne-papuce-proizvod-12958/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>90301_BLUE-41</sifra>
-        <velicina>41</velicina>
-        <boja>plava</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>90301_BLUE-42</sifra>
-        <velicina>42</velicina>
-        <boja>plava</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>90301_BLUE-43</sifra>
-        <velicina>43</velicina>
-        <boja>plava</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>90301_BLUE-44</sifra>
-        <velicina>44</velicina>
-        <boja>plava</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>90301_BLUE-45</sifra>
-        <velicina>45</velicina>
-        <boja>plava</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>90301_BLUE-46</sifra>
-        <velicina>46</velicina>
-        <boja>plava</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>LE SOFT KUĆNE PAPUČE</naziv>
     <sifra>430352_BORDO</sifra>
     <marka>LE SOFT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -152653,7 +153001,7 @@
         <velicina>36</velicina>
         <boja>crna</boja>
         <barkod>1100110025685</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41blk-37</sifra>
@@ -152667,7 +153015,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110025708</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41blk-39</sifra>
@@ -170054,31 +170402,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>Narwal Freo 20 robotski usisiva</naziv>
-    <sifra>sm-001587</sifra>
-    <marka></marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>999.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>999.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>999.00</sidrenaCijena>
-    <datumSidreneCijene>2026-10-08</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
-    <poveznica>https://woolf.hr/narwal-freo-20-robotski-usisivac-proizvod-12976/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001587</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>Narwal Freo S robotski usisivač - bijeli</naziv>
     <sifra>sm-001424</sifra>
     <marka>NARWAL</marka>
@@ -170324,6 +170647,31 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6972075738536</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NARWAL Narwal Freo 20 robotski usisivač</naziv>
+    <sifra>sm-001587</sifra>
+    <marka>NARWAL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>999.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>999.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>999.00</sidrenaCijena>
+    <datumSidreneCijene>2026-10-08</datumSidreneCijene>
+    <barkod>6972075737713</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
+    <poveznica>https://woolf.hr/narwal-freo-20-robotski-usisivac-proizvod-12976/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001587</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>6972075737713</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -186171,6 +186519,31 @@
     <varijante>
       <varijanta>
         <sifra>AA200_GOLDPUD</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NATIKAČE S JASTUKOM</naziv>
+    <sifra>AA200_GOLD</sifra>
+    <marka>BIANCOMOLINA</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>51.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>51.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>56.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/natikace-s-jastukom-proizvod-12782/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>AA200_GOLD</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -210651,7 +211024,7 @@
         <velicina>32</velicina>
         <boja>plava</boja>
         <barkod>1100110610287</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>WLFP0420_1NAVY-33</sifra>
@@ -213007,7 +213380,7 @@
         <velicina>43-44</velicina>
         <boja>bijela</boja>
         <barkod>3858888267070</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>01129_110-45 46</sifra>
@@ -217605,31 +217978,6 @@
     <varijante>
       <varijanta>
         <sifra>sm-348954</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>Originalni punjač za Jimmy JV51 / JV53 / JV53 Lite / PW11 Pro Max</naziv>
-    <sifra>sm-001354</sifra>
-    <marka></marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>19.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>19.99</sidrenaCijena>
-    <datumSidreneCijene>2026-10-20</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/originalni-punjac-za-jimmy-jv51-jv53-jv53-lite-pw11-pro-max-proizvod-12983/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001354</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -265179,7 +265527,7 @@
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>1100110538819</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1BLACK-45</sifra>
@@ -266234,7 +266582,7 @@
         <velicina>37</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4367_FLOWER_BLK-38</sifra>
@@ -266435,7 +266783,7 @@
         <velicina>38</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4372_FLOW804BLK-39</sifra>
@@ -267755,7 +268103,7 @@
         <velicina>48</velicina>
         <boja>smeda</boja>
         <barkod>1100110666772</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>100617_BROWN-49</sifra>
@@ -351045,7 +351393,7 @@
         <velicina>31</velicina>
         <boja>pink]]&gt;&lt;![CDATA[plava</boja>
         <barkod>1100110230843</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3500941_PINK-32</sifra>
