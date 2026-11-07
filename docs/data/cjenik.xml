@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-11-06T12:20:32.595Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-07T11:14:07.292Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>06. 11. 2026.</datumCjenika>
+    <datumCjenika>07. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -34102,7 +34102,7 @@
         <velicina>38</velicina>
         <boja>smeda</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_BROWN-39</sifra>
@@ -34116,7 +34116,7 @@
         <velicina>40</velicina>
         <boja>smeda</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_BROWN-41</sifra>
@@ -34148,21 +34148,21 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_HAPPY_B-38</sifra>
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_HAPPY_B-39</sifra>
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_HAPPY_B-40</sifra>
@@ -34176,7 +34176,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -34229,7 +34229,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -34261,7 +34261,7 @@
         <velicina>38</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_LEPTIR_B-39</sifra>
@@ -34307,21 +34307,21 @@
         <velicina>37</velicina>
         <boja>sareno</boja>
         <barkod>1100110716910</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_LEPTIR-38</sifra>
         <velicina>38</velicina>
         <boja>sareno</boja>
         <barkod>1100110716927</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_LEPTIR-39</sifra>
         <velicina>39</velicina>
         <boja>sareno</boja>
         <barkod>1100110716934</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_LEPTIR-40</sifra>
@@ -34335,7 +34335,7 @@
         <velicina>41</velicina>
         <boja>sareno</boja>
         <barkod>1100110716958</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -34427,7 +34427,7 @@
         <velicina>39</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_SOVA-40</sifra>
@@ -34466,7 +34466,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_WHITE-38</sifra>
@@ -34480,7 +34480,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_WHITE-40</sifra>
@@ -37427,49 +37427,49 @@
       <varijanta>
         <sifra>A01_FLOWER_C-36</sifra>
         <velicina>36</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A01_FLOWER_C-37</sifra>
         <velicina>37</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A01_FLOWER_C-38</sifra>
         <velicina>38</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A01_FLOWER_C-39</sifra>
         <velicina>39</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A01_FLOWER_C-40</sifra>
         <velicina>40</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A01_FLOWER_C-41</sifra>
         <velicina>41</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A01_FLOWER_C-42</sifra>
         <velicina>42</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -37829,49 +37829,49 @@
       <varijanta>
         <sifra>A05_FLOWER_PC-36</sifra>
         <velicina>36</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A05_FLOWER_PC-37</sifra>
         <velicina>37</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A05_FLOWER_PC-38</sifra>
         <velicina>38</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A05_FLOWER_PC-39</sifra>
         <velicina>39</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A05_FLOWER_PC-40</sifra>
         <velicina>40</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A05_FLOWER_PC-41</sifra>
         <velicina>41</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A05_FLOWER_PC-42</sifra>
         <velicina>42</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -38542,6 +38542,73 @@
         <sifra>AA01_PERLAWHT-42</sifra>
         <velicina>42</velicina>
         <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>BIANCOMOLINA KLOMPE S JASTUKOM</naziv>
+    <sifra>AA01_SILVERW</sifra>
+    <marka>BIANCOMOLINA</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>62.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>62.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>62.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-26</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-12968/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>AA01_SILVERW-36</sifra>
+        <velicina>36</velicina>
+        <boja>srebrna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_SILVERW-37</sifra>
+        <velicina>37</velicina>
+        <boja>srebrna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_SILVERW-38</sifra>
+        <velicina>38</velicina>
+        <boja>srebrna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_SILVERW-39</sifra>
+        <velicina>39</velicina>
+        <boja>srebrna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_SILVERW-40</sifra>
+        <velicina>40</velicina>
+        <boja>srebrna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_SILVERW-41</sifra>
+        <velicina>41</velicina>
+        <boja>srebrna</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_SILVERW-42</sifra>
+        <velicina>42</velicina>
+        <boja>srebrna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -40241,49 +40308,49 @@
       <varijanta>
         <sifra>F05_FLOWER_1C-36</sifra>
         <velicina>36</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>F05_FLOWER_1C-37</sifra>
         <velicina>37</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>F05_FLOWER_1C-38</sifra>
         <velicina>38</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>F05_FLOWER_1C-39</sifra>
         <velicina>39</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>F05_FLOWER_1C-40</sifra>
         <velicina>40</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>F05_FLOWER_1C-41</sifra>
         <velicina>41</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>F05_FLOWER_1C-42</sifra>
         <velicina>42</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -40308,49 +40375,49 @@
       <varijanta>
         <sifra>F05_FLOWER_CP-36</sifra>
         <velicina>36</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>F05_FLOWER_CP-37</sifra>
         <velicina>37</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>F05_FLOWER_CP-38</sifra>
         <velicina>38</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>F05_FLOWER_CP-39</sifra>
         <velicina>39</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>F05_FLOWER_CP-40</sifra>
         <velicina>40</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>F05_FLOWER_CP-41</sifra>
         <velicina>41</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>F05_FLOWER_CP-42</sifra>
         <velicina>42</velicina>
-        <boja>bijela</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
@@ -48692,66 +48759,6 @@
   </proizvod>
   <proizvod>
     <naziv>CHAMPION TENISICE SPHERA</naziv>
-    <sifra>CHF251F120_06</sifra>
-    <marka>CHAMPION</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>39.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>39.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>58.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110629906, 1100110629913, 1100110629920, 1100110629937, 1100110629944, 1100110629951</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Tenisice</kategorija>
-    <poveznica>https://woolf.hr/tenisice-sphera-proizvod-11303/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>CHF251F120_06-36</sifra>
-        <velicina>36</velicina>
-        <boja>zelena</boja>
-        <barkod>1100110629906</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>CHF251F120_06-37</sifra>
-        <velicina>37</velicina>
-        <boja>zelena</boja>
-        <barkod>1100110629913</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>CHF251F120_06-38</sifra>
-        <velicina>38</velicina>
-        <boja>zelena</boja>
-        <barkod>1100110629920</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>CHF251F120_06-39</sifra>
-        <velicina>39</velicina>
-        <boja>zelena</boja>
-        <barkod>1100110629937</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>CHF251F120_06-40</sifra>
-        <velicina>40</velicina>
-        <boja>zelena</boja>
-        <barkod>1100110629944</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>CHF251F120_06-41</sifra>
-        <velicina>41</velicina>
-        <boja>zelena</boja>
-        <barkod>1100110629951</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>CHAMPION TENISICE SPHERA</naziv>
     <sifra>CHF251F120_10</sifra>
     <marka>CHAMPION</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -55303,42 +55310,42 @@
       <varijanta>
         <sifra>2033_FLOWER-37</sifra>
         <velicina>37</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[cvjetna</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2033_FLOWER-38</sifra>
         <velicina>38</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[cvjetna</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2033_FLOWER-39</sifra>
         <velicina>39</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[cvjetna</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2033_FLOWER-40</sifra>
         <velicina>40</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[cvjetna</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2033_FLOWER-41</sifra>
         <velicina>41</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[cvjetna</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2033_FLOWER-42</sifra>
         <velicina>42</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[cvjetna</boja>
+        <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -56143,49 +56150,49 @@
       <varijanta>
         <sifra>812_WHITE-36</sifra>
         <velicina>36</velicina>
-        <boja>bijela</boja>
+        <boja>sareno</boja>
         <barkod>1100110607447</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>812_WHITE-37</sifra>
         <velicina>37</velicina>
-        <boja>bijela</boja>
+        <boja>sareno</boja>
         <barkod>1100110607454</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>812_WHITE-38</sifra>
         <velicina>38</velicina>
-        <boja>bijela</boja>
+        <boja>sareno</boja>
         <barkod>1100110607461</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>812_WHITE-39</sifra>
         <velicina>39</velicina>
-        <boja>bijela</boja>
+        <boja>sareno</boja>
         <barkod>1100110607478</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>812_WHITE-40</sifra>
         <velicina>40</velicina>
-        <boja>bijela</boja>
+        <boja>sareno</boja>
         <barkod>1100110607485</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>812_WHITE-41</sifra>
         <velicina>41</velicina>
-        <boja>bijela</boja>
+        <boja>sareno</boja>
         <barkod>1100110607492</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>812_WHITE-42</sifra>
         <velicina>42</velicina>
-        <boja>bijela</boja>
+        <boja>sareno</boja>
         <barkod>1100110607508</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -65339,7 +65346,7 @@
         <velicina>36</velicina>
         <boja>siva</boja>
         <barkod>1100110667144</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_1GREY-37</sifra>
@@ -65353,14 +65360,14 @@
         <velicina>38</velicina>
         <boja>siva</boja>
         <barkod>1100110667168</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_1GREY-39</sifra>
         <velicina>39</velicina>
         <boja>siva</boja>
         <barkod>1100110667175</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_1GREY-40</sifra>
@@ -65374,7 +65381,7 @@
         <velicina>41</velicina>
         <boja>siva</boja>
         <barkod>1100110667199</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_1GREY-42</sifra>
@@ -65420,14 +65427,14 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110667021</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_BLACK-39</sifra>
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110667038</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_BLACK-40</sifra>
@@ -65561,28 +65568,28 @@
         <velicina>39</velicina>
         <boja>siva</boja>
         <barkod>1100110667106</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_GREY-40</sifra>
         <velicina>40</velicina>
         <boja>siva</boja>
         <barkod>1100110667113</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_GREY-41</sifra>
         <velicina>41</velicina>
         <boja>siva</boja>
         <barkod>1100110667120</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_GREY-42</sifra>
         <velicina>42</velicina>
         <boja>siva</boja>
         <barkod>1100110667137</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -65628,14 +65635,14 @@
         <velicina>39</velicina>
         <boja>pink</boja>
         <barkod>1100110667458</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_PINK-40</sifra>
         <velicina>40</velicina>
         <boja>pink</boja>
         <barkod>1100110667465</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_PINK-41</sifra>
@@ -65755,28 +65762,28 @@
         <velicina>38</velicina>
         <boja>crvena</boja>
         <barkod>1100110667373</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_RED-39</sifra>
         <velicina>39</velicina>
         <boja>crvena</boja>
         <barkod>1100110667380</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_RED-40</sifra>
         <velicina>40</velicina>
         <boja>crvena</boja>
         <barkod>1100110667397</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_RED-41</sifra>
         <velicina>41</velicina>
         <boja>crvena</boja>
         <barkod>1100110667403</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_RED-42</sifra>
@@ -69593,49 +69600,49 @@
       <varijanta>
         <sifra>D_317_K_BLACK-36</sifra>
         <velicina>36</velicina>
-        <boja>crna]]&gt;&lt;![CDATA[zuta</boja>
+        <boja>zuta</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_317_K_BLACK-37</sifra>
         <velicina>37</velicina>
-        <boja>crna]]&gt;&lt;![CDATA[zuta</boja>
+        <boja>zuta</boja>
         <barkod>1100110711861</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_317_K_BLACK-38</sifra>
         <velicina>38</velicina>
-        <boja>crna]]&gt;&lt;![CDATA[zuta</boja>
+        <boja>zuta</boja>
         <barkod>1100110711878</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_317_K_BLACK-39</sifra>
         <velicina>39</velicina>
-        <boja>crna]]&gt;&lt;![CDATA[zuta</boja>
+        <boja>zuta</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_317_K_BLACK-40</sifra>
         <velicina>40</velicina>
-        <boja>crna]]&gt;&lt;![CDATA[zuta</boja>
+        <boja>zuta</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_317_K_BLACK-41</sifra>
         <velicina>41</velicina>
-        <boja>crna]]&gt;&lt;![CDATA[zuta</boja>
+        <boja>zuta</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_317_K_BLACK-42</sifra>
         <velicina>42</velicina>
-        <boja>crna]]&gt;&lt;![CDATA[zuta</boja>
+        <boja>zuta</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -71907,7 +71914,7 @@
         <velicina>39</velicina>
         <boja>sareno</boja>
         <barkod>1100110503442</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>15158_WHITE-40</sifra>
@@ -89989,42 +89996,42 @@
       <varijanta>
         <sifra>H352_BLACKDOG-37</sifra>
         <velicina>37</velicina>
-        <boja>crna]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-38</sifra>
         <velicina>38</velicina>
-        <boja>crna]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-39</sifra>
         <velicina>39</velicina>
-        <boja>crna]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-40</sifra>
         <velicina>40</velicina>
-        <boja>crna]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-41</sifra>
         <velicina>41</velicina>
-        <boja>crna]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-42</sifra>
         <velicina>42</velicina>
-        <boja>crna]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -90049,42 +90056,42 @@
       <varijanta>
         <sifra>H352_DALMAT-37</sifra>
         <velicina>37</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_DALMAT-38</sifra>
         <velicina>38</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_DALMAT-39</sifra>
         <velicina>39</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_DALMAT-40</sifra>
         <velicina>40</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_DALMAT-41</sifra>
         <velicina>41</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_DALMAT-42</sifra>
         <velicina>42</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
@@ -90109,42 +90116,42 @@
       <varijanta>
         <sifra>H352_LEPTIR-37</sifra>
         <velicina>37</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_LEPTIR-38</sifra>
         <velicina>38</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_LEPTIR-39</sifra>
         <velicina>39</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_LEPTIR-40</sifra>
         <velicina>40</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_LEPTIR-41</sifra>
         <velicina>41</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_LEPTIR-42</sifra>
         <velicina>42</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
@@ -106397,7 +106404,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110702654</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -113070,31 +113077,6 @@
     <varijante>
       <varijanta>
         <sifra>PU03_WHITE</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>KLOMPE S JASTUKOM</naziv>
-    <sifra>AA01_SILVERW</sifra>
-    <marka></marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>62.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>62.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>62.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-26</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-12968/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>AA01_SILVERW</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -146838,7 +146820,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>1100110206268</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>700_M_WHITE-43</sifra>
@@ -148254,42 +148236,42 @@
       <varijanta>
         <sifra>V202_M_NAVY-41</sifra>
         <velicina>41</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[plava</boja>
+        <boja>bijela</boja>
         <barkod>1100110537140</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_M_NAVY-42</sifra>
         <velicina>42</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[plava</boja>
+        <boja>bijela</boja>
         <barkod>1100110537157</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_M_NAVY-43</sifra>
         <velicina>43</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[plava</boja>
+        <boja>bijela</boja>
         <barkod>1100110537164</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_M_NAVY-44</sifra>
         <velicina>44</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[plava</boja>
+        <boja>bijela</boja>
         <barkod>1100110537171</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_M_NAVY-45</sifra>
         <velicina>45</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[plava</boja>
+        <boja>bijela</boja>
         <barkod>1100110537188</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_M_NAVY-46</sifra>
         <velicina>46</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[plava</boja>
+        <boja>bijela</boja>
         <barkod>1100110537195</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
@@ -148963,49 +148945,49 @@
       <varijanta>
         <sifra>V261_BLACK_FLOWER-36</sifra>
         <velicina>36</velicina>
-        <boja>crna</boja>
+        <boja>cvjetna</boja>
         <barkod>1100110197740</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V261_BLACK_FLOWER-37</sifra>
         <velicina>37</velicina>
-        <boja>crna</boja>
+        <boja>cvjetna</boja>
         <barkod>1100110197757</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V261_BLACK_FLOWER-38</sifra>
         <velicina>38</velicina>
-        <boja>crna</boja>
+        <boja>cvjetna</boja>
         <barkod>1100110197764</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V261_BLACK_FLOWER-39</sifra>
         <velicina>39</velicina>
-        <boja>crna</boja>
+        <boja>cvjetna</boja>
         <barkod>1100110197771</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V261_BLACK_FLOWER-40</sifra>
         <velicina>40</velicina>
-        <boja>crna</boja>
+        <boja>cvjetna</boja>
         <barkod>1100110197788</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V261_BLACK_FLOWER-41</sifra>
         <velicina>41</velicina>
-        <boja>crna</boja>
+        <boja>cvjetna</boja>
         <barkod>1100110197795</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V261_BLACK_FLOWER-42</sifra>
         <velicina>42</velicina>
-        <boja>crna</boja>
+        <boja>cvjetna</boja>
         <barkod>1100110197801</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -150944,7 +150926,7 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110665317</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2022_N_PERLA-41</sifra>
@@ -151505,7 +151487,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110615978</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -154149,42 +154131,42 @@
       <varijanta>
         <sifra>M202_4_WHITE-37</sifra>
         <velicina>37</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_4_WHITE-38</sifra>
         <velicina>38</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_4_WHITE-39</sifra>
         <velicina>39</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_4_WHITE-40</sifra>
         <velicina>40</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_4_WHITE-41</sifra>
         <velicina>41</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_4_WHITE-42</sifra>
         <velicina>42</velicina>
-        <boja>bijela]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -161007,73 +160989,6 @@
         <velicina>35</velicina>
         <boja>bijela]]&gt;&lt;![CDATA[pink</boja>
         <barkod>1100110595720</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>LOTTO TENISICE STACKY AN</naziv>
-    <sifra>2400483_BEIGE</sifra>
-    <marka>LOTTO</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>39.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>39.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>53.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110661968, 1100110661975, 1100110661982, 1100110661999, 1100110662002, 1100110662019, 1100110662026</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Tenisice</kategorija>
-    <poveznica>https://woolf.hr/tenisice-stacky-an-proizvod-11796/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>2400483_BEIGE-36</sifra>
-        <velicina>36</velicina>
-        <boja>bez</boja>
-        <barkod>1100110661968</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>2400483_BEIGE-37</sifra>
-        <velicina>37</velicina>
-        <boja>bez</boja>
-        <barkod>1100110661975</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>2400483_BEIGE-38</sifra>
-        <velicina>38</velicina>
-        <boja>bez</boja>
-        <barkod>1100110661982</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>2400483_BEIGE-39</sifra>
-        <velicina>39</velicina>
-        <boja>bez</boja>
-        <barkod>1100110661999</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>2400483_BEIGE-40</sifra>
-        <velicina>40</velicina>
-        <boja>bez</boja>
-        <barkod>1100110662002</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>2400483_BEIGE-41</sifra>
-        <velicina>41</velicina>
-        <boja>bez</boja>
-        <barkod>1100110662019</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>2400483_BEIGE-42</sifra>
-        <velicina>42</velicina>
-        <boja>bez</boja>
-        <barkod>1100110662026</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -204878,56 +204793,56 @@
       <varijanta>
         <sifra>WLFP208_GREEN-22</sifra>
         <velicina>22</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>WLFP208_GREEN-23</sifra>
         <velicina>23</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>WLFP208_GREEN-24</sifra>
         <velicina>24</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>WLFP208_GREEN-25</sifra>
         <velicina>25</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>WLFP208_GREEN-26</sifra>
         <velicina>26</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>WLFP208_GREEN-27</sifra>
         <velicina>27</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>WLFP208_GREEN-28</sifra>
         <velicina>28</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>WLFP208_GREEN-29</sifra>
         <velicina>29</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -265534,14 +265449,14 @@
         <velicina>45</velicina>
         <boja>crna</boja>
         <barkod>1100110538826</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1BLACK-46</sifra>
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>1100110538833</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1BLACK-47</sifra>
@@ -265594,7 +265509,7 @@
         <velicina>44</velicina>
         <boja>plava</boja>
         <barkod>1100110538956</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1BLUE-45</sifra>
@@ -265675,7 +265590,7 @@
         <velicina>46</velicina>
         <boja>bijela</boja>
         <barkod>1100110538901</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1WHITE-47</sifra>
@@ -265767,7 +265682,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>1100110538420</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1WHITE-38</sifra>
@@ -265781,7 +265696,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110538444</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1WHITE-40</sifra>
@@ -265827,7 +265742,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110538246</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLACK-38</sifra>
@@ -265855,7 +265770,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110538284</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLACK-42</sifra>
@@ -265908,7 +265823,7 @@
         <velicina>39</velicina>
         <boja>plava</boja>
         <barkod>1100110538321</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLUE-40</sifra>
@@ -266042,14 +265957,14 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110538079</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_1BLACK-40</sifra>
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110538086</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_1BLACK-41</sifra>
@@ -266116,7 +266031,7 @@
         <velicina>40</velicina>
         <boja>plava</boja>
         <barkod>1100110538017</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_NAVY-41</sifra>
@@ -266155,7 +266070,7 @@
         <velicina>36</velicina>
         <boja>bijela</boja>
         <barkod>1100110538116</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-37</sifra>
@@ -266176,14 +266091,14 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110538147</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-40</sifra>
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110538154</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_WHITE-41</sifra>
@@ -266250,7 +266165,7 @@
         <velicina>45</velicina>
         <boja>plava</boja>
         <barkod>1100110477071</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1772_BLUE-46</sifra>
@@ -266363,7 +266278,7 @@
         <velicina>40</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110546258</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4350_FLOWER_WHT-41</sifra>
@@ -266716,7 +266631,7 @@
         <velicina>38</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110538611</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4372_1FLOWER-39</sifra>
@@ -266737,7 +266652,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110538642</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4372_1FLOWER-42</sifra>
@@ -325367,6 +325282,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>TENISICE SPHERA</naziv>
+    <sifra>CHF251F120_06</sifra>
+    <marka>CHAMPION</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>39.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>39.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>58.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Tenisice</kategorija>
+    <poveznica>https://woolf.hr/tenisice-sphera-proizvod-11303/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>CHF251F120_06</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>TENISICE SPIDER</naziv>
     <sifra>UMF211M122_20</sifra>
     <marka>UMBRO</marka>
@@ -325534,6 +325474,31 @@
     <varijante>
       <varijanta>
         <sifra>2400483_BLACK</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>TENISICE STACKY AN</naziv>
+    <sifra>2400483_BEIGE</sifra>
+    <marka>LOTTO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>39.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>39.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>53.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Tenisice</kategorija>
+    <poveznica>https://woolf.hr/tenisice-stacky-an-proizvod-11796/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>2400483_BEIGE</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -349302,56 +349267,56 @@
       <varijanta>
         <sifra>3502293_BLUE-22</sifra>
         <velicina>22</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>zelena</boja>
         <barkod>1100110506047</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_BLUE-23</sifra>
         <velicina>23</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>zelena</boja>
         <barkod>1100110506054</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_BLUE-24</sifra>
         <velicina>24</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>zelena</boja>
         <barkod>1100110506061</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_BLUE-25</sifra>
         <velicina>25</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>zelena</boja>
         <barkod>1100110506078</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_BLUE-26</sifra>
         <velicina>26</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>zelena</boja>
         <barkod>1100110506085</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_BLUE-27</sifra>
         <velicina>27</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>zelena</boja>
         <barkod>1100110506092</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_BLUE-28</sifra>
         <velicina>28</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>zelena</boja>
         <barkod>1100110506108</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_BLUE-29</sifra>
         <velicina>29</velicina>
-        <boja>plava]]&gt;&lt;![CDATA[zelena</boja>
+        <boja>zelena</boja>
         <barkod>1100110506115</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -349376,105 +349341,105 @@
       <varijanta>
         <sifra>3502293_NAVY-22</sifra>
         <velicina>22</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
+        <boja>narancasta</boja>
         <barkod>1100110505965</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_NAVY-23</sifra>
         <velicina>23</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
+        <boja>narancasta</boja>
         <barkod>1100110505972</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_NAVY-24</sifra>
         <velicina>24</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
+        <boja>narancasta</boja>
         <barkod>1100110505989</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_NAVY-25</sifra>
         <velicina>25</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
+        <boja>narancasta</boja>
         <barkod>1100110505996</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_NAVY-26</sifra>
         <velicina>26</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
+        <boja>narancasta</boja>
         <barkod>1100110506009</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_NAVY-27</sifra>
         <velicina>27</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
+        <boja>narancasta</boja>
         <barkod>1100110506016</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_NAVY-28</sifra>
         <velicina>28</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
+        <boja>narancasta</boja>
         <barkod>1100110506023</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_NAVY-29</sifra>
         <velicina>29</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
+        <boja>narancasta</boja>
         <barkod>1100110506030</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_NAVY-30</sifra>
         <velicina>30</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
+        <boja>narancasta</boja>
         <barkod>1100110569974</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_NAVY-31</sifra>
         <velicina>31</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
+        <boja>narancasta</boja>
         <barkod>1100110569981</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_NAVY-32</sifra>
         <velicina>32</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
+        <boja>narancasta</boja>
         <barkod>1100110569998</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_NAVY-33</sifra>
         <velicina>33</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
+        <boja>narancasta</boja>
         <barkod>1100110570000</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_NAVY-34</sifra>
         <velicina>34</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
+        <boja>narancasta</boja>
         <barkod>1100110570017</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_NAVY-35</sifra>
         <velicina>35</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
+        <boja>narancasta</boja>
         <barkod>1100110570024</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_NAVY-36</sifra>
         <velicina>36</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
+        <boja>narancasta</boja>
         <barkod>1100110570031</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -349499,105 +349464,105 @@
       <varijanta>
         <sifra>3502293_PINK-22</sifra>
         <velicina>22</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110506122</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_PINK-23</sifra>
         <velicina>23</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110506139</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_PINK-24</sifra>
         <velicina>24</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110506146</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_PINK-25</sifra>
         <velicina>25</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110506153</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_PINK-26</sifra>
         <velicina>26</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110506160</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_PINK-27</sifra>
         <velicina>27</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110506177</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_PINK-28</sifra>
         <velicina>28</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110506184</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_PINK-29</sifra>
         <velicina>29</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110506191</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_PINK-30</sifra>
         <velicina>30</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110562838</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_PINK-31</sifra>
         <velicina>31</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110562845</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_PINK-32</sifra>
         <velicina>32</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110562852</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_PINK-33</sifra>
         <velicina>33</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110562869</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_PINK-34</sifra>
         <velicina>34</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110562876</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_PINK-35</sifra>
         <velicina>35</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110562883</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502293_PINK-36</sifra>
         <velicina>36</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110562890</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -349622,63 +349587,63 @@
       <varijanta>
         <sifra>K3502293_1PINK-28</sifra>
         <velicina>28</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110562012</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>K3502293_1PINK-29</sifra>
         <velicina>29</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110567031</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>K3502293_1PINK-30</sifra>
         <velicina>30</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>K3502293_1PINK-31</sifra>
         <velicina>31</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>K3502293_1PINK-32</sifra>
         <velicina>32</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>K3502293_1PINK-33</sifra>
         <velicina>33</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110561978</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>K3502293_1PINK-34</sifra>
         <velicina>34</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110561985</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>K3502293_1PINK-35</sifra>
         <velicina>35</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110561992</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>K3502293_1PINK-36</sifra>
         <velicina>36</velicina>
-        <boja>pink]]&gt;&lt;![CDATA[sareno</boja>
+        <boja>sareno</boja>
         <barkod>1100110562005</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
