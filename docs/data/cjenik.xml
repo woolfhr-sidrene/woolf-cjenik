@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-11-07T11:14:07.292Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-08T11:26:08.978Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>07. 11. 2026.</datumCjenika>
+    <datumCjenika>08. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -34155,7 +34155,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_HAPPY_B-39</sifra>
@@ -44640,7 +44640,7 @@
         <velicina>36-37</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>WT023_600207-40/41</sifra>
@@ -71734,7 +71734,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13466_BLACK_FLOW-40</sifra>
@@ -91686,6 +91686,31 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>IMPREGNACIJSKI SPREJ 500ML</naziv>
+    <sifra>1190_BEZBOJNI</sifra>
+    <marka>PRESTIGE</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>9.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>9.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>9.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>1100110604859</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Sprejevi za cipele</kategorija>
+    <poveznica>https://woolf.hr/impregnacijski-sprej-500ml-proizvod-10882/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>1190_BEZBOJNI</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>1100110604859</barkod>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -148051,7 +148076,7 @@
         <velicina>37</velicina>
         <boja>zelena</boja>
         <barkod>1100110698759</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_GREEN-38</sifra>
@@ -148506,7 +148531,7 @@
         <velicina>40</velicina>
         <boja>pink</boja>
         <barkod>1100110309273</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_PERLA_1-41</sifra>
@@ -151413,7 +151438,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110658487</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -233247,31 +233272,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>PRESTIGE IMPREGNACIJSKI SPREJ 500ML</naziv>
-    <sifra>1190_BEZBOJNI</sifra>
-    <marka>PRESTIGE</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>9.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>9.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>9.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110604859</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Sprejevi za cipele</kategorija>
-    <poveznica>https://woolf.hr/impregnacijski-sprej-500ml-proizvod-10882/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>1190_BEZBOJNI-XY</sifra>
-        <velicina></velicina>
-        <boja>bezbojno</boja>
-        <barkod>1100110604859</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>PRESTIGE KREMA ZA CIPELE 50ML</naziv>
     <sifra>3007_BLACK</sifra>
     <marka>PRESTIGE</marka>
@@ -265830,7 +265830,7 @@
         <velicina>40</velicina>
         <boja>plava</boja>
         <barkod>1100110538338</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLUE-41</sifra>
@@ -266218,7 +266218,7 @@
         <velicina>44</velicina>
         <boja>bijela</boja>
         <barkod>1100110569226</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1772_WHITE-45</sifra>
@@ -266285,7 +266285,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110546265</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4350_FLOWER_WHT-42</sifra>
@@ -266398,7 +266398,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110546197</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4350_HEARTS-41</sifra>
@@ -350576,7 +350576,7 @@
         <velicina>33</velicina>
         <boja>pink]]&gt;&lt;![CDATA[plava</boja>
         <barkod>1100110385901</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3501668_NAVY-34</sifra>
