@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-11-08T11:26:08.978Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-09T13:11:35.978Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>08. 11. 2026.</datumCjenika>
+    <datumCjenika>09. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -34374,7 +34374,7 @@
         <velicina>39</velicina>
         <boja>crvena</boja>
         <barkod>1100110716880</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_RED-40</sifra>
@@ -149861,7 +149861,7 @@
         <velicina>36</velicina>
         <boja>crvena</boja>
         <barkod>1100110474865</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>902_RED-37</sifra>
@@ -151110,7 +151110,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110709035</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_BLACK_L-38</sifra>
@@ -154920,7 +154920,7 @@
         <velicina>40</velicina>
         <boja>bez</boja>
         <barkod>1100110474667</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>253_N_BEIGE-41</sifra>
@@ -155220,7 +155220,7 @@
         <velicina>45</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>617_BLACKM-46</sifra>
@@ -208148,7 +208148,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -208243,7 +208243,7 @@
         <velicina>46</velicina>
         <boja></boja>
         <barkod>1100110698308</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -239353,7 +239353,7 @@
         <velicina>xxl</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
