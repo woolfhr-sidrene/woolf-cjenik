@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-11-09T13:11:35.978Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-10T12:51:59.973Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>09. 11. 2026.</datumCjenika>
+    <datumCjenika>10. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -3424,6 +3424,31 @@
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>H352_DALMAT</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>24.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>24.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-26</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12963/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>H352_DALMAT</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -34229,7 +34254,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -42123,7 +42148,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PC_4002_WHITE-40</sifra>
@@ -47621,7 +47646,7 @@
         <velicina>46</velicina>
         <boja>siva</boja>
         <barkod>1100110676146</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -65783,7 +65808,7 @@
         <velicina>41</velicina>
         <boja>crvena</boja>
         <barkod>1100110667403</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_RED-42</sifra>
@@ -69535,7 +69560,7 @@
         <velicina>36</velicina>
         <boja>bijela</boja>
         <barkod>1100110705334</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_316_WHITE_K-37</sifra>
@@ -90039,66 +90064,6 @@
   </proizvod>
   <proizvod>
     <naziv>HIT SHOES ANATOMSKE KLOMPE</naziv>
-    <sifra>H352_DALMAT</sifra>
-    <marka>HIT SHOES</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>24.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>24.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-26</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12963/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>H352_DALMAT-37</sifra>
-        <velicina>37</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>H352_DALMAT-38</sifra>
-        <velicina>38</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>H352_DALMAT-39</sifra>
-        <velicina>39</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>H352_DALMAT-40</sifra>
-        <velicina>40</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>H352_DALMAT-41</sifra>
-        <velicina>41</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>H352_DALMAT-42</sifra>
-        <velicina>42</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>HIT SHOES ANATOMSKE KLOMPE</naziv>
     <sifra>H352_LEPTIR</sifra>
     <marka>HIT SHOES</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -90192,7 +90157,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_PANDA-40</sifra>
@@ -90333,7 +90298,7 @@
         <velicina>40</velicina>
         <boja>pink</boja>
         <barkod>1100110713346</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>HPF352_S001_PINKBUTERFY-41</sifra>
@@ -110111,7 +110076,7 @@
         <velicina>39</velicina>
         <boja>plava</boja>
         <barkod>1100110702197</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>26K001201_NAVY_ROSE-40</sifra>
@@ -148464,7 +148429,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110474476</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_N_WHITE-40</sifra>
@@ -152168,7 +152133,7 @@
         <velicina>41</velicina>
         <boja>srebrna</boja>
         <barkod>1100110659095</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -152348,7 +152313,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110707864</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>KO360_BLACK-42</sifra>
@@ -154980,7 +154945,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110474780</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>253_N_BLACK-41</sifra>
@@ -155206,7 +155171,7 @@
         <velicina>43</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>617_BLACKM-44</sifra>
@@ -208148,7 +208113,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -212316,7 +212281,7 @@
         <velicina>30</velicina>
         <boja>siva</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -265763,7 +265728,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110538277</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLACK-41</sifra>
@@ -266705,7 +266670,7 @@
         <velicina>39</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4372_FLOW804BLK-40</sifra>
@@ -270010,10 +269975,10 @@
     <sifra>113_WHITE</sifra>
     <marka>SOFT LINE</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>62.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>62.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>58.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>58.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>62.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-30</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -270070,10 +270035,10 @@
     <sifra>117_BLACK</sifra>
     <marka>SOFT LINE</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>62.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>62.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>58.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>58.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>62.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-30</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -337530,25 +337495,25 @@
   </proizvod>
   <proizvod>
     <naziv>TRAKA ZA TRČANJE</naziv>
-    <sifra>6500944B</sifra>
+    <sifra>6500944BB</sifra>
     <marka></marka>
     <jedinicaMjere>kom</jedinicaMjere>
     <cijenaZaJedinicuMjere>649.00</cijenaZaJedinicuMjere>
     <maloprodajnaCijena>649.00</maloprodajnaCijena>
     <posebanOblikProdaje>DA</posebanOblikProdaje>
     <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>899.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110382542</barkod>
+    <sidrenaCijena>649.00</sidrenaCijena>
+    <datumSidreneCijene>2026-11-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
     <dostupnost>Dostupno</dostupnost>
     <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
-    <poveznica>https://woolf.hr/traka-za-trcanje-proizvod-7183/</poveznica>
+    <poveznica>https://woolf.hr/traka-za-trcanje-proizvod-13017/</poveznica>
     <varijante>
       <varijanta>
-        <sifra>6500944B-XY</sifra>
+        <sifra>6500944BB-XY</sifra>
         <velicina></velicina>
         <boja>bijela</boja>
-        <barkod>1100110382542</barkod>
+        <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -337849,6 +337814,31 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>TRAKA ZA TRČANJE</naziv>
+    <sifra>6500944B</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>649.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>649.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>899.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>1100110382542</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
+    <poveznica>https://woolf.hr/traka-za-trcanje-proizvod-7183/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>6500944B</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>1100110382542</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
