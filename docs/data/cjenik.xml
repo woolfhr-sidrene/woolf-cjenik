@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-11-10T12:51:59.973Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-11T12:00:36.103Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>10. 11. 2026.</datumCjenika>
+    <datumCjenika>11. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -4495,31 +4495,6 @@
     <varijante>
       <varijanta>
         <sifra>M199_2_WHITE</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ANATOMSKE KLOMPE</naziv>
-    <sifra>300_PERLA</sifra>
-    <marka>LEON</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>44.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>49.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12011/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>300_PERLA</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -34134,7 +34109,7 @@
         <velicina>39</velicina>
         <boja>smeda</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_BROWN-40</sifra>
@@ -34413,7 +34388,7 @@
         <velicina>41</velicina>
         <boja>crvena</boja>
         <barkod>1100110716903</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -38191,7 +38166,7 @@
         <velicina>36</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_BLACKWHT-37</sifra>
@@ -38219,21 +38194,21 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_BLACKWHT-41</sifra>
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_BLACKWHT-42</sifra>
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -38272,7 +38247,7 @@
         <velicina>38</velicina>
         <boja>zlatna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_GOLDWHT-39</sifra>
@@ -38286,7 +38261,7 @@
         <velicina>40</velicina>
         <boja>zlatna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_GOLDWHT-41</sifra>
@@ -38526,7 +38501,7 @@
         <velicina>36</velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_PERLAWHT-37</sifra>
@@ -38554,7 +38529,7 @@
         <velicina>40</velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_PERLAWHT-41</sifra>
@@ -38568,7 +38543,7 @@
         <velicina>42</velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -38674,7 +38649,7 @@
         <velicina>38</velicina>
         <boja>srebrna</boja>
         <barkod>1100110713391</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_SILVERWHT-39</sifra>
@@ -38688,14 +38663,14 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110713414</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_SILVERWHT-41</sifra>
         <velicina>41</velicina>
         <boja>srebrna</boja>
         <barkod>1100110713421</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_SILVERWHT-42</sifra>
@@ -38801,7 +38776,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_WHITEG-38</sifra>
@@ -38815,7 +38790,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_WHITEG-40</sifra>
@@ -40713,73 +40688,6 @@
         <boja>sareno</boja>
         <barkod>1100110621610</barkod>
         <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>BIANCOMOLINA KLOMPE S OPRUGOM</naziv>
-    <sifra>FF01_PERLA</sifra>
-    <marka>BIANCOMOLINA</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>54.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>54.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>62.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110607096, 1100110607102, 1100110607119, 1100110607126, 1100110607133, 1100110607140, 1100110607157</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-10926/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>FF01_PERLA-36</sifra>
-        <velicina>36</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110607096</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>FF01_PERLA-37</sifra>
-        <velicina>37</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110607102</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>FF01_PERLA-38</sifra>
-        <velicina>38</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110607119</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>FF01_PERLA-39</sifra>
-        <velicina>39</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110607126</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>FF01_PERLA-40</sifra>
-        <velicina>40</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110607133</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>FF01_PERLA-41</sifra>
-        <velicina>41</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110607140</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>FF01_PERLA-42</sifra>
-        <velicina>42</velicina>
-        <boja>srebrna</boja>
-        <barkod>1100110607157</barkod>
-        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -71752,7 +71660,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13466_BLACK_FLOW-39</sifra>
@@ -90210,7 +90118,7 @@
         <velicina>37</velicina>
         <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>HPF352_GREY_BUTERFLY-38</sifra>
@@ -118067,6 +117975,31 @@
     <varijante>
       <varijanta>
         <sifra>FF01_LEPTIR</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KLOMPE S OPRUGOM</naziv>
+    <sifra>FF01_PERLA</sifra>
+    <marka>BIANCOMOLINA</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>54.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>54.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>62.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-10926/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>FF01_PERLA</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -146330,7 +146263,7 @@
         <velicina>41</velicina>
         <boja>plava</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -146423,6 +146356,73 @@
         <boja>crna</boja>
         <barkod>1100110707581</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>LEON ANATOMSKE KLOMPE</naziv>
+    <sifra>300_PERLA</sifra>
+    <marka>LEON</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>44.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>49.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>1100110674487, 1100110674494, 1100110674500, 1100110674517, 1100110674524, 1100110674531, 1100110674548</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12011/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>300_PERLA-36</sifra>
+        <velicina>36</velicina>
+        <boja>srebrna</boja>
+        <barkod>1100110674487</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>300_PERLA-37</sifra>
+        <velicina>37</velicina>
+        <boja>srebrna</boja>
+        <barkod>1100110674494</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>300_PERLA-38</sifra>
+        <velicina>38</velicina>
+        <boja>srebrna</boja>
+        <barkod>1100110674500</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>300_PERLA-39</sifra>
+        <velicina>39</velicina>
+        <boja>srebrna</boja>
+        <barkod>1100110674517</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>300_PERLA-40</sifra>
+        <velicina>40</velicina>
+        <boja>srebrna</boja>
+        <barkod>1100110674524</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>300_PERLA-41</sifra>
+        <velicina>41</velicina>
+        <boja>srebrna</boja>
+        <barkod>1100110674531</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>300_PERLA-42</sifra>
+        <velicina>42</velicina>
+        <boja>srebrna</boja>
+        <barkod>1100110674548</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -147251,7 +147251,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>1100110559944</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1024_WHITE-38</sifra>
@@ -147332,14 +147332,14 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110172730</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3200_BLACK-40</sifra>
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110172747</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3200_BLACK-41</sifra>
@@ -147385,7 +147385,7 @@
         <velicina>37</velicina>
         <boja>srebrna</boja>
         <barkod>1100110658203</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3200_N_PERLA-38</sifra>
@@ -147452,7 +147452,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110167026</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3200_WHITE-39</sifra>
@@ -147466,7 +147466,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110167040</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3200_WHITE-41</sifra>
@@ -147720,7 +147720,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110644541</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>6000_1_BLACK-39</sifra>
@@ -148122,7 +148122,7 @@
         <velicina>39</velicina>
         <boja>zelena</boja>
         <barkod>1100110710208</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_GREEPEARL-40</sifra>
@@ -148143,7 +148143,7 @@
         <velicina>42</velicina>
         <boja>zelena</boja>
         <barkod>1100110710239</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -149487,7 +149487,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>360_WHITE-39</sifra>
@@ -149501,7 +149501,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>360_WHITE-41</sifra>
@@ -153255,7 +153255,7 @@
         <velicina>39</velicina>
         <boja>pink</boja>
         <barkod>1100110645524</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_N_PERLA-40</sifra>
@@ -153276,7 +153276,7 @@
         <velicina>42</velicina>
         <boja>pink</boja>
         <barkod>1100110645555</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -154211,7 +154211,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_BLKFLOWER-42</sifra>
@@ -154391,7 +154391,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_LEPTIR3-42</sifra>
@@ -170232,14 +170232,39 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>Narwal Flow 2 robotski usisivač - sivi</naziv>
+    <sifra>sm-001496</sifra>
+    <marka>NARWAL</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>949.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>949.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>1299.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
+    <poveznica>https://woolf.hr/narwal-flow-2-robotski-usisivac-sivi-proizvod-12798/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001496</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>Narwal Flow robotski usisivač - bijeli</naziv>
     <sifra>sm-001425</sifra>
     <marka>NARWAL</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1099.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1099.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>549.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>549.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>1099.00</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -170286,10 +170311,10 @@
     <sifra>sm-001586</sifra>
     <marka></marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>799.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>799.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>599.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>599.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>799.00</sidrenaCijena>
     <datumSidreneCijene>2026-10-08</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -170303,6 +170328,31 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Narwal Freo 20 robotski usisivač</naziv>
+    <sifra>sm-001587</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>799.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>799.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>999.00</sidrenaCijena>
+    <datumSidreneCijene>2026-10-08</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
+    <poveznica>https://woolf.hr/narwal-freo-20-robotski-usisivac-proizvod-12976/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001587</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -170527,56 +170577,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6972075735542</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>NARWAL Narwal Flow 2 robotski usisivač - sivi</naziv>
-    <sifra>sm-001496</sifra>
-    <marka>NARWAL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>1299.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>1299.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>1299.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6972075738536</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
-    <poveznica>https://woolf.hr/narwal-flow-2-robotski-usisivac-sivi-proizvod-12798/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001496</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6972075738536</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>NARWAL Narwal Freo 20 robotski usisivač</naziv>
-    <sifra>sm-001587</sifra>
-    <marka>NARWAL</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>999.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>999.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>999.00</sidrenaCijena>
-    <datumSidreneCijene>2026-10-08</datumSidreneCijene>
-    <barkod>6972075737713</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
-    <poveznica>https://woolf.hr/narwal-freo-20-robotski-usisivac-proizvod-12976/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001587</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6972075737713</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -212420,59 +212420,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>NW PAPUČE</naziv>
-    <sifra>WLFP102025_NAVY</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>5.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>5.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>5.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110668066, 1100110668073, 1100110668080, 1100110668097, 1100110668103</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Dječje - Obuća - Papuče</kategorija>
-    <poveznica>https://woolf.hr/papuce-proizvod-11889/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>WLFP102025_NAVY-24</sifra>
-        <velicina>24</velicina>
-        <boja>plava</boja>
-        <barkod>1100110668066</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP102025_NAVY-25</sifra>
-        <velicina>25</velicina>
-        <boja>plava</boja>
-        <barkod>1100110668073</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP102025_NAVY-26</sifra>
-        <velicina>26</velicina>
-        <boja>plava</boja>
-        <barkod>1100110668080</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP102025_NAVY-27</sifra>
-        <velicina>27</velicina>
-        <boja>plava</boja>
-        <barkod>1100110668097</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP102025_NAVY-28</sifra>
-        <velicina>28</velicina>
-        <boja>plava</boja>
-        <barkod>1100110668103</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>NW PAPUČE ZA VODU</naziv>
     <sifra>WLFP0373_PURPLE</sifra>
     <marka>NW</marka>
@@ -218233,6 +218180,31 @@
     <varijante>
       <varijanta>
         <sifra>30191_BLUE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>PAPUČE</naziv>
+    <sifra>WLFP102025_NAVY</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>5.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>5.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>5.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Dječje - Obuća - Papuče</kategorija>
+    <poveznica>https://woolf.hr/papuce-proizvod-11889/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>WLFP102025_NAVY</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -265393,7 +265365,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110538796</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1BLACK-43</sifra>
@@ -265460,7 +265432,7 @@
         <velicina>42</velicina>
         <boja>plava</boja>
         <barkod>1100110538932</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1BLUE-43</sifra>
@@ -265622,7 +265594,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110538413</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -349998,7 +349970,7 @@
         <velicina>45</velicina>
         <boja>crna</boja>
         <barkod>1100110230560</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>SABBAS_BLACK-46</sifra>
