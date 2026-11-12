@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-11-11T12:00:36.103Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-12T13:02:18.825Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>11. 11. 2026.</datumCjenika>
+    <datumCjenika>12. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -16470,6 +16470,31 @@
     <varijante>
       <varijanta>
         <sifra>M184_R_BEIGE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>M184_R_BLACK</sifra>
+    <marka>ANTONIA COMFORT</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>22.49</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>22.49</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>24.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-1959/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>M184_R_BLACK</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -33864,59 +33889,6 @@
   </proizvod>
   <proizvod>
     <naziv>ANTONIA COMFORT ANATOMSKE KLOMPE</naziv>
-    <sifra>M184_R_BLACK</sifra>
-    <marka>ANTONIA COMFORT</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>22.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>22.49</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>24.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110098405, 1100110098412, 1100110098429, 1100110098436, 1100110098443</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-1959/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>M184_R_BLACK-37</sifra>
-        <velicina>37</velicina>
-        <boja>crna</boja>
-        <barkod>1100110098405</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>M184_R_BLACK-38</sifra>
-        <velicina>38</velicina>
-        <boja>crna</boja>
-        <barkod>1100110098412</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>M184_R_BLACK-39</sifra>
-        <velicina>39</velicina>
-        <boja>crna</boja>
-        <barkod>1100110098429</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>M184_R_BLACK-40</sifra>
-        <velicina>40</velicina>
-        <boja>crna</boja>
-        <barkod>1100110098436</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>M184_R_BLACK-41</sifra>
-        <velicina>41</velicina>
-        <boja>crna</boja>
-        <barkod>1100110098443</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>ANTONIA COMFORT ANATOMSKE KLOMPE</naziv>
     <sifra>M191_G_FLOWER</sifra>
     <marka>ANTONIA COMFORT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -34268,7 +34240,7 @@
         <velicina>39</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_LEPTIR_B-40</sifra>
@@ -34441,7 +34413,7 @@
         <velicina>41</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -38194,7 +38166,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_BLACKWHT-41</sifra>
@@ -72062,7 +72034,7 @@
         <velicina>41</velicina>
         <boja>crvena</boja>
         <barkod>1100110350381</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13464_BORDOW-42</sifra>
@@ -90026,7 +89998,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -91583,59 +91555,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>1100110604859</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>IN DESIGNO TENISICE</naziv>
-    <sifra>EMY_RED</sifra>
-    <marka>IN DESIGNO</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>19.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>22.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110674296, 1100110674302, 1100110674319, 1100110674326, 1100110674333</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Tenisice</kategorija>
-    <poveznica>https://woolf.hr/tenisice-proizvod-12008/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>EMY_RED-37</sifra>
-        <velicina>37</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110674296</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>EMY_RED-38</sifra>
-        <velicina>38</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110674302</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>EMY_RED-39</sifra>
-        <velicina>39</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110674319</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>EMY_RED-40</sifra>
-        <velicina>40</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110674326</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>EMY_RED-41</sifra>
-        <velicina>41</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110674333</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -146468,7 +146387,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110679116</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300_WHITE-40</sifra>
@@ -147191,7 +147110,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110558770</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1024_BLACK-39</sifra>
@@ -147251,7 +147170,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>1100110559944</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1024_WHITE-38</sifra>
@@ -148489,7 +148408,7 @@
         <velicina>39</velicina>
         <boja>pink</boja>
         <barkod>1100110309266</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_PERLA_1-40</sifra>
@@ -151209,7 +151128,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110709110</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_WHITE_L-40</sifra>
@@ -151879,7 +151798,7 @@
         <velicina>39</velicina>
         <boja>srebrna</boja>
         <barkod>1100110490056</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5001_PERLA-40</sifra>
@@ -152807,7 +152726,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110700582</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>KO2019_WHITE-41</sifra>
@@ -153255,7 +153174,7 @@
         <velicina>39</velicina>
         <boja>pink</boja>
         <barkod>1100110645524</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_N_PERLA-40</sifra>
@@ -154077,7 +153996,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>203397_WHITE-40</sifra>
@@ -166482,7 +166401,7 @@
         <velicina>33</velicina>
         <boja>bijela]]&gt;&lt;![CDATA[pink</boja>
         <barkod>1100110512697</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>B104_PINKI-34</sifra>
@@ -175108,6 +175027,31 @@
   </proizvod>
   <proizvod>
     <naziv>NATIKAČE</naziv>
+    <sifra>WLFP0333_PURPLE</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>5.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>5.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>5.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Dječje - Obuća - Natikače</kategorija>
+    <poveznica>https://woolf.hr/natikace-proizvod-10130/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>WLFP0333_PURPLE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NATIKAČE</naziv>
     <sifra>WLF22_120_BORDO</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -176299,6 +176243,31 @@
     <varijante>
       <varijanta>
         <sifra>WLFP032_BLUE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NATIKAČE</naziv>
+    <sifra>WLF22_100_PINKY</sifra>
+    <marka>NW</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>5.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>5.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>5.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Dječje - Obuća - Natikače</kategorija>
+    <poveznica>https://woolf.hr/natikace-proizvod-9214/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>WLF22_100_PINKY</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -209616,73 +209585,6 @@
   </proizvod>
   <proizvod>
     <naziv>NW NATIKAČE</naziv>
-    <sifra>WLF22_100_PINKY</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>5.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>5.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>5.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110505286, 1100110505293, 1100110505309, 1100110505316, 1100110505323, 1100110505330, 1100110505347</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Dječje - Obuća - Natikače</kategorija>
-    <poveznica>https://woolf.hr/natikace-proizvod-9214/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>WLF22_100_PINKY-31</sifra>
-        <velicina>31</velicina>
-        <boja>pink</boja>
-        <barkod>1100110505286</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLF22_100_PINKY-32</sifra>
-        <velicina>32</velicina>
-        <boja>pink</boja>
-        <barkod>1100110505293</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLF22_100_PINKY-33</sifra>
-        <velicina>33</velicina>
-        <boja>pink</boja>
-        <barkod>1100110505309</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLF22_100_PINKY-34</sifra>
-        <velicina>34</velicina>
-        <boja>pink</boja>
-        <barkod>1100110505316</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLF22_100_PINKY-35</sifra>
-        <velicina>35</velicina>
-        <boja>pink</boja>
-        <barkod>1100110505323</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLF22_100_PINKY-36</sifra>
-        <velicina>36</velicina>
-        <boja>pink</boja>
-        <barkod>1100110505330</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLF22_100_PINKY-37</sifra>
-        <velicina>37</velicina>
-        <boja>pink</boja>
-        <barkod>1100110505347</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>NW NATIKAČE</naziv>
     <sifra>WLF22_120_WHITE</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -209818,73 +209720,6 @@
         <velicina>46</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>NW NATIKAČE</naziv>
-    <sifra>WLFP0333_PURPLE</sifra>
-    <marka>NW</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>5.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>5.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>5.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110557599, 1100110557605, 1100110557612, 1100110557629, 1100110557636, 1100110557643, 1100110557650</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Dječje - Obuća - Natikače</kategorija>
-    <poveznica>https://woolf.hr/natikace-proizvod-10130/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>WLFP0333_PURPLE-30</sifra>
-        <velicina>30</velicina>
-        <boja>ljubicasta</boja>
-        <barkod>1100110557599</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP0333_PURPLE-31</sifra>
-        <velicina>31</velicina>
-        <boja>ljubicasta</boja>
-        <barkod>1100110557605</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP0333_PURPLE-32</sifra>
-        <velicina>32</velicina>
-        <boja>ljubicasta</boja>
-        <barkod>1100110557612</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP0333_PURPLE-33</sifra>
-        <velicina>33</velicina>
-        <boja>ljubicasta</boja>
-        <barkod>1100110557629</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP0333_PURPLE-34</sifra>
-        <velicina>34</velicina>
-        <boja>ljubicasta</boja>
-        <barkod>1100110557636</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP0333_PURPLE-35</sifra>
-        <velicina>35</velicina>
-        <boja>ljubicasta</boja>
-        <barkod>1100110557643</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP0333_PURPLE-36</sifra>
-        <velicina>36</velicina>
-        <boja>ljubicasta</boja>
-        <barkod>1100110557650</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -213578,7 +213413,7 @@
         <velicina>31</velicina>
         <boja>crna</boja>
         <barkod>1100110713889</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2171_BLACK-32</sifra>
@@ -215660,7 +215495,7 @@
         <velicina>38</velicina>
         <boja>bez]]&gt;&lt;![CDATA[crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>WLFP121_BEIGE-39</sifra>
@@ -265499,7 +265334,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>1100110538864</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1WHITE-43</sifra>
@@ -266582,7 +266417,7 @@
         <velicina>40</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110538635</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4372_1FLOWER-41</sifra>
@@ -282911,6 +282746,31 @@
     <varijante>
       <varijanta>
         <sifra>ROK_BLACK</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>TENISICE</naziv>
+    <sifra>EMY_RED</sifra>
+    <marka>IN DESIGNO</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>19.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>22.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Tenisice</kategorija>
+    <poveznica>https://woolf.hr/tenisice-proizvod-12008/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>EMY_RED</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -352036,7 +351896,7 @@
         <velicina>38-39</velicina>
         <boja>crvena</boja>
         <barkod>1100110670588</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>WLFP107_RED-40/41</sifra>
@@ -353068,6 +352928,156 @@
     <varijante>
       <varijanta>
         <sifra>6501030TG</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ZIMSKA KAPA OPATIJA – ANTRACIT</naziv>
+    <sifra>dk-OPATIJA_ANTRACIT</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-12</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-opatija-antracit-proizvod-13021/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-OPATIJA_ANTRACIT</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ZIMSKA KAPA OPATIJA – BIJELA</naziv>
+    <sifra>dk-OPATIJA_BIJELA</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-12</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-opatija-bijela-proizvod-13018/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-OPATIJA_BIJELA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ZIMSKA KAPA OPATIJA – CRNA</naziv>
+    <sifra>dk-OPATIJA_CRNA</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-12</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-opatija-crna-proizvod-13022/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-OPATIJA_CRNA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ZIMSKA KAPA OPATIJA – CRVENA</naziv>
+    <sifra>dk-OPATIJA_CRVENA</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-12</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-opatija-crvena-proizvod-13023/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-OPATIJA_CRVENA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ZIMSKA KAPA OPATIJA – PLAVA</naziv>
+    <sifra>dk-OPATIJA_PLAVA</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-12</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-opatija-plava-proizvod-13019/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-OPATIJA_PLAVA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ZIMSKA KAPA OPATIJA – SIVA</naziv>
+    <sifra>dk-OPATIJA_SIVA</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>12.99</sidrenaCijena>
+    <datumSidreneCijene>2026-11-12</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-opatija-siva-proizvod-13020/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-OPATIJA_SIVA</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
