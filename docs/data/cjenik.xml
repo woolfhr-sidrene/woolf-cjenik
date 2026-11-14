@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-11-13T12:29:05.103Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-14T11:40:15.322Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>13. 11. 2026.</datumCjenika>
+    <datumCjenika>14. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -1942,31 +1942,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>Akluer 480L-A traka za hodanje</naziv>
-    <sifra>sm-001608</sifra>
-    <marka></marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>199.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>199.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>199.00</sidrenaCijena>
-    <datumSidreneCijene>2026-11-13</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
-    <poveznica>https://woolf.hr/akluer-480l-a-traka-za-hodanje-proizvod-13025/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001608</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>Akluer 480L-B traka za hodanje i trčanje</naziv>
     <sifra>sm-001550</sifra>
     <marka>AKLUER</marka>
@@ -2037,6 +2012,31 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6978121150031</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>AKLUER Akluer 480L-A traka za hodanje</naziv>
+    <sifra>sm-001608</sifra>
+    <marka>AKLUER</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>199.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>199.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>199.00</sidrenaCijena>
+    <datumSidreneCijene>2026-11-13</datumSidreneCijene>
+    <barkod>6978121150000</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
+    <poveznica>https://woolf.hr/akluer-480l-a-traka-za-hodanje-proizvod-13025/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001608</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>6978121150000</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -3449,6 +3449,31 @@
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>203397_WHITE</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>23.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>23.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>26.99</sidrenaCijena>
+    <datumSidreneCijene>2026-10-06</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12972/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>203397_WHITE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -34126,10 +34151,10 @@
     <sifra>M2026_BROWN</sifra>
     <marka>ANTONIA COMFORT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>27.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>27.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>25.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>25.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>27.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-31</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -34179,10 +34204,10 @@
     <sifra>M2026_HAPPY_B</sifra>
     <marka>ANTONIA COMFORT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>27.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>27.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>25.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>25.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>27.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-31</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -34232,10 +34257,10 @@
     <sifra>M2026_HAPPY_W</sifra>
     <marka>ANTONIA COMFORT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>27.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>27.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>25.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>25.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>27.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-31</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -34285,10 +34310,10 @@
     <sifra>M2026_LEPTIR_B</sifra>
     <marka>ANTONIA COMFORT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>27.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>27.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>25.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>25.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>27.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-31</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -34338,8 +34363,8 @@
     <sifra>M2026_LEPTIR</sifra>
     <marka>ANTONIA COMFORT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>24.99</maloprodajnaCijena>
+    <cijenaZaJedinicuMjere>25.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>25.99</maloprodajnaCijena>
     <posebanOblikProdaje>DA</posebanOblikProdaje>
     <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>24.99</sidrenaCijena>
@@ -34375,7 +34400,7 @@
         <velicina>40</velicina>
         <boja>sareno</boja>
         <barkod>1100110716941</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_LEPTIR-41</sifra>
@@ -34391,8 +34416,8 @@
     <sifra>M2026_RED</sifra>
     <marka>ANTONIA COMFORT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>24.99</maloprodajnaCijena>
+    <cijenaZaJedinicuMjere>25.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>25.99</maloprodajnaCijena>
     <posebanOblikProdaje>DA</posebanOblikProdaje>
     <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>24.99</sidrenaCijena>
@@ -34444,10 +34469,10 @@
     <sifra>M2026_SOVA</sifra>
     <marka>ANTONIA COMFORT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>27.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>27.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>25.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>25.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>27.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-31</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -34497,10 +34522,10 @@
     <sifra>M2026_WHITE</sifra>
     <marka>ANTONIA COMFORT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>27.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>27.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>25.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>25.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>27.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-31</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -38599,10 +38624,10 @@
     <sifra>AA01_SILVERW</sifra>
     <marka>BIANCOMOLINA</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>62.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>62.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>56.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>56.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>62.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-26</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -38800,10 +38825,10 @@
     <sifra>AA01_WHITEG</sifra>
     <marka>BIANCOMOLINA</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>62.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>62.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>57.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>57.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>62.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-26</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -41008,73 +41033,6 @@
   </proizvod>
   <proizvod>
     <naziv>BIANCOMOLINA KLOMPE S OPRUGOM</naziv>
-    <sifra>KOF01_3RED</sifra>
-    <marka>BIANCOMOLINA</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>49.49</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>49.49</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>54.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-12302/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>KOF01_3RED-36</sifra>
-        <velicina>36</velicina>
-        <boja>crvena</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF01_3RED-37</sifra>
-        <velicina>37</velicina>
-        <boja>crvena</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF01_3RED-38</sifra>
-        <velicina>38</velicina>
-        <boja>crvena</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF01_3RED-39</sifra>
-        <velicina>39</velicina>
-        <boja>crvena</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF01_3RED-40</sifra>
-        <velicina>40</velicina>
-        <boja>crvena</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF01_3RED-41</sifra>
-        <velicina>41</velicina>
-        <boja>crvena</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF01_3RED-42</sifra>
-        <velicina>42</velicina>
-        <boja>crvena</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>BIANCOMOLINA KLOMPE S OPRUGOM</naziv>
     <sifra>KOF01_C_GREEN</sifra>
     <marka>BIANCOMOLINA</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -41612,73 +41570,6 @@
         <velicina>42</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>BIANCOMOLINA KLOMPE S OPRUGOM</naziv>
-    <sifra>KOF200_RED</sifra>
-    <marka>BIANCOMOLINA</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>47.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>47.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>52.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110589002, 1100110589019, 1100110589026, 1100110589033, 1100110589040, 1100110589057, 1100110589064</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-10668/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>KOF200_RED-36</sifra>
-        <velicina>36</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110589002</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF200_RED-37</sifra>
-        <velicina>37</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110589019</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF200_RED-38</sifra>
-        <velicina>38</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110589026</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF200_RED-39</sifra>
-        <velicina>39</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110589033</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF200_RED-40</sifra>
-        <velicina>40</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110589040</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF200_RED-41</sifra>
-        <velicina>41</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110589057</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>KOF200_RED-42</sifra>
-        <velicina>42</velicina>
-        <boja>crvena</boja>
-        <barkod>1100110589064</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -55336,10 +55227,10 @@
     <sifra>203399_GREY</sifra>
     <marka>CLASS LIFE</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>26.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>26.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>24.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>24.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110583567, 1100110583574, 1100110583581, 1100110583598, 1100110583604, 1100110583611</barkod>
@@ -56269,7 +56160,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>1100110184450</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -90149,7 +90040,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-41</sifra>
@@ -90232,10 +90123,10 @@
     <sifra>H352_PANDA</sifra>
     <marka>HIT SHOES</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>26.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>26.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>24.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>26.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-09</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -90359,10 +90250,10 @@
     <sifra>HPF352_S001_PINKBUTERFY</sifra>
     <marka>HIT SHOES</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>24.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>22.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>22.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>24.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110713308, 1100110713315, 1100110713322, 1100110713339, 1100110713346, 1100110713353, 1100110713360</barkod>
@@ -117278,6 +117169,31 @@
   </proizvod>
   <proizvod>
     <naziv>KLOMPE S OPRUGOM</naziv>
+    <sifra>KOF01_3RED</sifra>
+    <marka>BIANCOMOLINA</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>49.49</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>49.49</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>54.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-12302/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>KOF01_3RED</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KLOMPE S OPRUGOM</naziv>
     <sifra>FF01_1_WHITE</sifra>
     <marka>BIANCOMOLINA</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -118919,6 +118835,31 @@
     <varijante>
       <varijanta>
         <sifra>KOF200_1RED</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KLOMPE S OPRUGOM</naziv>
+    <sifra>KOF200_RED</sifra>
+    <marka>BIANCOMOLINA</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>47.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>47.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>52.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-10668/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>KOF200_RED</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -134328,31 +134269,6 @@
   </proizvod>
   <proizvod>
     <naziv>KUĆNE PAPUČE</naziv>
-    <sifra>90301_BLUE</sifra>
-    <marka></marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>17.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>17.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>15.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Muško - Obuća - Papuče</kategorija>
-    <poveznica>https://woolf.hr/kucne-papuce-proizvod-12958/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>90301_BLUE</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>KUĆNE PAPUČE</naziv>
     <sifra>WLFP83_BLACK</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -146293,6 +146209,66 @@
   </proizvod>
   <proizvod>
     <naziv>LE SOFT KUĆNE PAPUČE</naziv>
+    <sifra>90301_BLUE</sifra>
+    <marka>LE SOFT</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>17.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>17.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>15.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Muško - Obuća - Papuče</kategorija>
+    <poveznica>https://woolf.hr/kucne-papuce-proizvod-12958/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>90301_BLUE-41</sifra>
+        <velicina>41</velicina>
+        <boja>plava</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>90301_BLUE-42</sifra>
+        <velicina>42</velicina>
+        <boja>plava</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>90301_BLUE-43</sifra>
+        <velicina>43</velicina>
+        <boja>plava</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>90301_BLUE-44</sifra>
+        <velicina>44</velicina>
+        <boja>plava</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>90301_BLUE-45</sifra>
+        <velicina>45</velicina>
+        <boja>plava</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>90301_BLUE-46</sifra>
+        <velicina>46</velicina>
+        <boja>plava</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>LE SOFT KUĆNE PAPUČE</naziv>
     <sifra>430352_BORDO</sifra>
     <marka>LE SOFT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -146790,10 +146766,10 @@
     <sifra>500_WHITE</sifra>
     <marka>LEON</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>51.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>51.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>44.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>51.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-16</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -147005,10 +146981,10 @@
     <sifra>701_M_BLACK</sifra>
     <marka>LEON</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>52.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>52.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>46.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>46.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>52.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-16</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -147065,10 +147041,10 @@
     <sifra>701_M_WHT</sifra>
     <marka>LEON</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>52.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>52.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>46.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>46.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>52.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-16</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -147125,10 +147101,10 @@
     <sifra>991_BLACK</sifra>
     <marka>LEON</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>49.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>44.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>49.99</sidrenaCijena>
     <datumSidreneCijene>2026-11-03</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -147185,10 +147161,10 @@
     <sifra>991_GREENPERLATO</sifra>
     <marka>LEON</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>49.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>44.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>49.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-16</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -147245,10 +147221,10 @@
     <sifra>991_WHITE</sifra>
     <marka>LEON</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>49.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>44.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>49.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-16</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -148280,7 +148256,7 @@
         <velicina>41</velicina>
         <boja>zelena</boja>
         <barkod>1100110710222</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_GREEPEARL-42</sifra>
@@ -148730,10 +148706,10 @@
     <sifra>V230_WHITE</sifra>
     <marka>LEON</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>43.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>43.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>36.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>36.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>43.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110484031, 1100110484048, 1100110714206, 1100110484055, 1100110484062, 1100110484079, 1100110484086</barkod>
@@ -149467,10 +149443,10 @@
     <sifra>360_BLACK</sifra>
     <marka>LEON</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>49.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>44.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>47.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110483904, 1100110483911, 1100110483928, 1100110483935, 1100110483942, 1100110483959, 1100110483966</barkod>
@@ -149601,10 +149577,10 @@
     <sifra>360_WHITE</sifra>
     <marka>LEON</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>49.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>44.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>47.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -149878,7 +149854,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110707659</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>902_BLACK-41</sifra>
@@ -150536,10 +150512,10 @@
     <sifra>951_WHITE</sifra>
     <marka>LEON</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>49.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>49.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>44.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>49.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-27</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -151547,7 +151523,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110658487</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -151681,7 +151657,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4250_N_PERLA-41</sifra>
@@ -152157,7 +152133,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110490193</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -153891,10 +153867,10 @@
     <sifra>20332_WHITE</sifra>
     <marka>LEONARDA COMFORT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>26.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>26.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>24.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>24.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -154188,73 +154164,13 @@
   </proizvod>
   <proizvod>
     <naziv>LEONARDA COMFORT ANATOMSKE KLOMPE</naziv>
-    <sifra>203397_WHITE</sifra>
-    <marka>LEONARDA COMFORT</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>23.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>23.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>26.99</sidrenaCijena>
-    <datumSidreneCijene>2026-10-06</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12972/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>203397_WHITE-37</sifra>
-        <velicina>37</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>203397_WHITE-38</sifra>
-        <velicina>38</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>203397_WHITE-39</sifra>
-        <velicina>39</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>203397_WHITE-40</sifra>
-        <velicina>40</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>203397_WHITE-41</sifra>
-        <velicina>41</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>203397_WHITE-42</sifra>
-        <velicina>42</velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>LEONARDA COMFORT ANATOMSKE KLOMPE</naziv>
     <sifra>M202_4_WHITE</sifra>
     <marka>LEONARDA COMFORT</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>26.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>26.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>24.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>24.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -208136,10 +208052,10 @@
     <sifra>72358_BLACK</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>12.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>11.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>11.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>12.99</sidrenaCijena>
     <datumSidreneCijene>2026-11-05</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -210412,10 +210328,10 @@
     <sifra>WLFP752025_BEIGE</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>29.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>29.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>19.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>29.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -210726,10 +210642,10 @@
     <sifra>WLFP862025_BLACK</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>29.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>29.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>19.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>29.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -213511,7 +213427,7 @@
         <velicina>30</velicina>
         <boja>crna</boja>
         <barkod>1100110713872</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2171_BLACK-31</sifra>
@@ -213562,10 +213478,10 @@
     <sifra>2921_BLACK</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>14.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>14.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>14.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110717207, 1100110717214, 1100110717221, 1100110717238, 1100110717245, 1100110717252</barkod>
@@ -213622,10 +213538,10 @@
     <sifra>2921_BLUE</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>14.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>14.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>14.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110717269, 1100110717276, 1100110717283, 1100110717290, 1100110717306, 1100110717313</barkod>
@@ -213682,10 +213598,10 @@
     <sifra>2921_NAVY</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>14.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>14.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>14.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110717146, 1100110717153, 1100110717160, 1100110717177, 1100110717184, 1100110717191</barkod>
@@ -213950,10 +213866,10 @@
     <sifra>261584_LT_GREY</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>11.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>11.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>9.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>9.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>11.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110664327, 1100110664334, 1100110664341, 1100110664358, 1100110664365</barkod>
@@ -214003,10 +213919,10 @@
     <sifra>261584_PL_BLUE</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>11.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>11.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>9.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>9.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>11.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110664822, 1100110664839, 1100110664846, 1100110664853, 1100110664860</barkod>
@@ -214109,10 +214025,10 @@
     <sifra>261584PL_C_GREY</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>11.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>11.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>9.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>9.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>11.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110588418, 1100110588425, 1100110588432, 1100110588449, 1100110588456</barkod>
@@ -214303,10 +214219,10 @@
     <sifra>261587_PINK</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>11.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>11.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>9.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>9.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>11.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110664679, 1100110664686, 1100110664693, 1100110664709, 1100110664716</barkod>
@@ -214356,10 +214272,10 @@
     <sifra>261587PL_NAVY</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>11.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>11.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>9.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>9.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>11.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110664372, 1100110664389, 1100110664396, 1100110664402, 1100110664419, 1100110664426, 1100110664433, 1100110664440, 1100110664457, 1100110664464</barkod>
@@ -214444,10 +214360,10 @@
     <sifra>261587PL_PINKY</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>11.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>11.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>9.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>9.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>11.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110587756, 1100110587763, 1100110587770, 1100110587787, 1100110587794</barkod>
@@ -216805,10 +216721,10 @@
     <sifra>WLFP992025_GREY</sifra>
     <marka>NW</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>29.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>29.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>19.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>29.99</sidrenaCijena>
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110687289, 1100110687296, 1100110687302, 1100110687319, 1100110687326</barkod>
@@ -228164,31 +228080,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>Petkit Petkit Pura MAX 2 - samočisteći pametni WC za mačke</naziv>
-    <sifra>sm-001335</sifra>
-    <marka>Petkit</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>449.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>449.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>599.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6975069305028</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Kućni ljubimci</kategorija>
-    <poveznica>https://woolf.hr/petkit-pura-max-2-samocisteci-pametni-wc-za-macke-proizvod-12459/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001335</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6975069305028</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>Petkit Petkit Purobot Crystal Duo - pametni WC za mačke s AI kamerom</naziv>
     <sifra>sm-001483</sifra>
     <marka>Petkit</marka>
@@ -228306,6 +228197,31 @@
     <varijante>
       <varijanta>
         <sifra>sm-001017</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Petkit Pura MAX 2 - samočisteći pametni WC za mačke</naziv>
+    <sifra>sm-001335</sifra>
+    <marka>Petkit</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>449.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>449.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>599.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Kućni ljubimci</kategorija>
+    <poveznica>https://woolf.hr/petkit-pura-max-2-samocisteci-pametni-wc-za-macke-proizvod-12459/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001335</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -265365,7 +265281,7 @@
         <velicina>47</velicina>
         <boja>crna</boja>
         <barkod>1100110716231</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -265605,7 +265521,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110538451</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1WHITE-41</sifra>
@@ -265679,7 +265595,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110538291</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -266074,7 +265990,7 @@
         <velicina>46</velicina>
         <boja>plava</boja>
         <barkod>1100110477088</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -266187,7 +266103,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110546265</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4350_FLOWER_WHT-42</sifra>
@@ -266254,7 +266170,7 @@
         <velicina>42</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110472052</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -266570,10 +266486,10 @@
     <sifra>4372_FLOW804BLK</sifra>
     <marka>SANITAL</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>32.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>32.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>28.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>28.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>32.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-30</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
@@ -267404,10 +267320,10 @@
     <sifra>002053_BLUE</sifra>
     <marka>SEKLO</marka>
     <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>21.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>21.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>19.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <sidrenaCijena>21.99</sidrenaCijena>
     <datumSidreneCijene>2026-10-27</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
