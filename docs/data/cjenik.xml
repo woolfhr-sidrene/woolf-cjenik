@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-11-14T11:40:15.322Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-15T12:08:03.333Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>14. 11. 2026.</datumCjenika>
+    <datumCjenika>15. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -34195,7 +34195,7 @@
         <velicina>41</velicina>
         <boja>smeda</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -148408,7 +148408,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110482242</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_M_WHITE-42</sifra>
@@ -148489,7 +148489,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110482334</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_N_BLACK-40</sifra>
@@ -265641,7 +265641,7 @@
         <velicina>39</velicina>
         <boja>plava</boja>
         <barkod>1100110538321</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLUE-40</sifra>
@@ -337373,31 +337373,6 @@
   </proizvod>
   <proizvod>
     <naziv>TRAKA ZA TRČANJE</naziv>
-    <sifra>6500944BB</sifra>
-    <marka></marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>649.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>649.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>649.00</sidrenaCijena>
-    <datumSidreneCijene>2026-11-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
-    <poveznica>https://woolf.hr/traka-za-trcanje-proizvod-13017/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>6500944BB-XY</sifra>
-        <velicina></velicina>
-        <boja>bijela</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>TRAKA ZA TRČANJE</naziv>
     <sifra>6500944BC</sifra>
     <marka></marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -337768,6 +337743,31 @@
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
         <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>TRAKA ZA TRČANJE - NOSIVOST 130 KG</naziv>
+    <sifra>6500944BB</sifra>
+    <marka></marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>649.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>649.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>649.00</sidrenaCijena>
+    <datumSidreneCijene>2026-11-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
+    <poveznica>https://woolf.hr/traka-za-trcanje-proizvod-13017/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>6500944BB-XY</sifra>
+        <velicina></velicina>
+        <boja>bijela</boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
