@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-11-15T12:08:03.333Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-16T13:01:18.405Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>15. 11. 2026.</datumCjenika>
+    <datumCjenika>16. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -3198,7 +3198,7 @@
         <velicina>42</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>BORKUM_FLOWER-43</sifra>
@@ -14290,7 +14290,7 @@
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
     <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća</kategorija>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
     <poveznica>https://woolf.hr/anatomske-klompe-proizvod-5038/</poveznica>
     <varijante>
       <varijanta>
@@ -14315,7 +14315,7 @@
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
     <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća</kategorija>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
     <poveznica>https://woolf.hr/anatomske-klompe-proizvod-5037/</poveznica>
     <varijante>
       <varijanta>
@@ -15865,7 +15865,7 @@
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
     <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća</kategorija>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
     <poveznica>https://woolf.hr/anatomske-klompe-proizvod-2783/</poveznica>
     <varijante>
       <varijanta>
@@ -16265,7 +16265,7 @@
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
     <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća</kategorija>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
     <poveznica>https://woolf.hr/anatomske-klompe-proizvod-2299/</poveznica>
     <varijante>
       <varijanta>
@@ -16290,7 +16290,7 @@
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>Nije dodijeljen</barkod>
     <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća</kategorija>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
     <poveznica>https://woolf.hr/anatomske-klompe-proizvod-2296/</poveznica>
     <varijante>
       <varijanta>
@@ -34393,7 +34393,7 @@
         <velicina>39</velicina>
         <boja>sareno</boja>
         <barkod>1100110716934</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_LEPTIR-40</sifra>
@@ -34552,7 +34552,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_WHITE-40</sifra>
@@ -38862,7 +38862,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_WHITEG-40</sifra>
@@ -40315,7 +40315,7 @@
         <velicina>36</velicina>
         <boja>crvena</boja>
         <barkod>1100110257680</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>F01_RED_NN-37</sifra>
@@ -46155,52 +46155,6 @@
         <boja>mix</boja>
         <barkod>1100110634627</barkod>
         <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>CHAMPION ČARAPE SUPERSNEAKER 3 pack</naziv>
-    <sifra>CHE241U301_03</sifra>
-    <marka>CHAMPION</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>10.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>10.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>10.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110634450, 1100110634467, 1100110634474, 1100110634481</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Odjeća - Čarape</kategorija>
-    <poveznica>https://woolf.hr/carape-supersneaker-3-pack-proizvod-11376/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>CHE241U301_03-36/38</sifra>
-        <velicina>36-38</velicina>
-        <boja>siva</boja>
-        <barkod>1100110634450</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>CHE241U301_03-39/41</sifra>
-        <velicina>39-41</velicina>
-        <boja>siva</boja>
-        <barkod>1100110634467</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>CHE241U301_03-42/44</sifra>
-        <velicina>42-44</velicina>
-        <boja>siva</boja>
-        <barkod>1100110634474</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>CHE241U301_03-45/47</sifra>
-        <velicina>45-47</velicina>
-        <boja>siva</boja>
-        <barkod>1100110634481</barkod>
-        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -60651,6 +60605,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>ČARAPE SUPERSNEAKER 3 pack</naziv>
+    <sifra>CHE241U301_03</sifra>
+    <marka>CHAMPION</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>10.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>10.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>10.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Odjeća - Čarape</kategorija>
+    <poveznica>https://woolf.hr/carape-supersneaker-3-pack-proizvod-11376/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>CHE241U301_03</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>ČARAPE TRENDY</naziv>
     <sifra>02091_TSIVA</sifra>
     <marka>NW</marka>
@@ -65647,7 +65626,7 @@
         <velicina>40</velicina>
         <boja>crvena</boja>
         <barkod>1100110667397</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_RED-41</sifra>
@@ -69263,7 +69242,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>1100110583857</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -69531,7 +69510,7 @@
         <velicina>42</velicina>
         <boja>srebrna</boja>
         <barkod>1100110615022</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -71688,7 +71667,7 @@
         <velicina>38</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13466_1FLOWER-39</sifra>
@@ -71769,7 +71748,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>13466_BLACK_FLOW-42</sifra>
@@ -146302,7 +146281,7 @@
         <velicina>38</velicina>
         <boja>bordo</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>430352_BORDO-39</sifra>
@@ -147378,7 +147357,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110559951</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1024_WHITE-39</sifra>
@@ -148982,7 +148961,7 @@
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110206183, 1100110206190, 1100110206206, 1100110206213, 1100110206220, 1100110206237, 1100110206244</barkod>
     <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Natikače</kategorija>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
     <poveznica>https://woolf.hr/anatomske-klompe-proizvod-3972/</poveznica>
     <varijante>
       <varijanta>
@@ -149116,7 +149095,7 @@
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110111487, 1100110111494, 1100110111500, 1100110111517, 1100110111524, 1100110111531, 1100110111548</barkod>
     <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća</kategorija>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
     <poveznica>https://woolf.hr/anatomske-klompe-proizvod-2297/</poveznica>
     <varijante>
       <varijanta>
@@ -149183,7 +149162,7 @@
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110111418, 1100110111425, 1100110111432, 1100110111449, 1100110111456, 1100110111463, 1100110111470</barkod>
     <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća</kategorija>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
     <poveznica>https://woolf.hr/anatomske-klompe-proizvod-2298/</poveznica>
     <varijante>
       <varijanta>
@@ -149250,7 +149229,7 @@
     <datumSidreneCijene>2026-09-10</datumSidreneCijene>
     <barkod>1100110111272, 1100110111289, 1100110111296, 1100110111302, 1100110111319, 1100110111326, 1100110111333</barkod>
     <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća</kategorija>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
     <poveznica>https://woolf.hr/anatomske-klompe-proizvod-2295/</poveznica>
     <varijante>
       <varijanta>
@@ -149706,7 +149685,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110507686</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>900_1BLACK-40</sifra>
@@ -152225,7 +152204,7 @@
         <velicina>37</velicina>
         <boja>srebrna</boja>
         <barkod>1100110659057</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5002_N_PERLA-38</sifra>
@@ -153167,7 +153146,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>1100110025623</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41wht-38</sifra>
@@ -153389,7 +153368,7 @@
         <velicina>41</velicina>
         <boja>pink</boja>
         <barkod>1100110645548</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_N_PERLA-42</sifra>
@@ -153502,7 +153481,7 @@
         <velicina>43</velicina>
         <boja>crna</boja>
         <barkod>1100110473752</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU100_M_BLACK-44</sifra>
@@ -155118,7 +155097,7 @@
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>617_BLACKM-45</sifra>
@@ -168984,7 +168963,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A25-41</sifra>
@@ -169118,7 +169097,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110706966</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A27-41</sifra>
@@ -190389,6 +190368,31 @@
     <varijante>
       <varijanta>
         <sifra>WLFP752025_NAVY</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NEPROPUSNE BUCE</naziv>
+    <sifra>3502055_1_GREY</sifra>
+    <marka>WOOLF</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>24.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>24.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Dječje - Obuća - Buce</kategorija>
+    <poveznica>https://woolf.hr/nepropusne-buce-proizvod-12314/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>3502055_1_GREY</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -266103,7 +266107,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110546265</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4350_FLOWER_WHT-42</sifra>
@@ -269939,7 +269943,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -350532,73 +350536,6 @@
         <velicina>36</velicina>
         <boja>crna]]&gt;&lt;![CDATA[siva]]&gt;&lt;![CDATA[zelena</boja>
         <barkod>1100110467676</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>WOOLF NEPROPUSNE BUCE</naziv>
-    <sifra>3502055_1_GREY</sifra>
-    <marka>WOOLF</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>24.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>24.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110692962, 1100110692979, 1100110692986, 1100110692993, 1100110693006, 1100110693013, 1100110693020</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Dječje - Obuća - Buce</kategorija>
-    <poveznica>https://woolf.hr/nepropusne-buce-proizvod-12314/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>3502055_1_GREY-30</sifra>
-        <velicina>30</velicina>
-        <boja>siva</boja>
-        <barkod>1100110692962</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>3502055_1_GREY-31</sifra>
-        <velicina>31</velicina>
-        <boja>siva</boja>
-        <barkod>1100110692979</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>3502055_1_GREY-32</sifra>
-        <velicina>32</velicina>
-        <boja>siva</boja>
-        <barkod>1100110692986</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>3502055_1_GREY-33</sifra>
-        <velicina>33</velicina>
-        <boja>siva</boja>
-        <barkod>1100110692993</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>3502055_1_GREY-34</sifra>
-        <velicina>34</velicina>
-        <boja>siva</boja>
-        <barkod>1100110693006</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>3502055_1_GREY-35</sifra>
-        <velicina>35</velicina>
-        <boja>siva</boja>
-        <barkod>1100110693013</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>3502055_1_GREY-36</sifra>
-        <velicina>36</velicina>
-        <boja>siva</boja>
-        <barkod>1100110693020</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
