@@ -232,12 +232,34 @@ const todayValue = Object.fromEntries(todayParts.map((part) => [part.type, part.
 const today = `${todayValue.year}-${todayValue.month}-${todayValue.day}`;
 const newlyListed = new Map();
 
+// Sidra koja je modul "Sidro s weba" (cPanel) upisao u admin u trenutku pojave artikla.
+// Ako registar nije dostupan, cjenik radi kao prije (današnja cijena + današnji datum).
+const webAnchors = new Map();
+try {
+  const response = await fetch("https://chat.woolf-shop.si/sidro/registar.json", { signal: AbortSignal.timeout(20000) });
+  if (response.ok) {
+    const registry = await response.json();
+    for (const [code, entry] of Object.entries(registry.items || {})) {
+      const anchorPrice = Number(entry.price);
+      if (code && Number.isFinite(anchorPrice) && /^\d{4}-\d{2}-\d{2}$/.test(entry.date || "")) {
+        webAnchors.set(code, { anchorPrice, anchorDate: entry.date });
+      }
+    }
+  }
+  console.log(`Registar sidara s weba: ${webAnchors.size} stavki.`);
+} catch (error) {
+  console.log(`Registar sidara s weba nije dostupan (${error.message}); koristi se dosadašnje pravilo.`);
+}
+
 function anchorFor(model, variantCode, price, manual) {
   const frozen = manual.anchorPrice ?? configuration.anchors.get(variantCode) ?? configuration.anchors.get(model);
   if (frozen !== undefined && frozen !== null) {
     return { anchorPrice: frozen, anchorDate: manual.anchorDate || "2026-09-10" };
   }
-  if (!newlyListed.has(model)) newlyListed.set(model, { anchorPrice: price, anchorDate: today });
+  if (!newlyListed.has(model)) {
+    const web = webAnchors.get(variantCode) ?? webAnchors.get(model);
+    newlyListed.set(model, web ?? { anchorPrice: price, anchorDate: today });
+  }
   return newlyListed.get(model);
 }
 
