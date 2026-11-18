@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-11-17T13:42:53.061Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-18T13:17:36.117Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>17. 11. 2026.</datumCjenika>
+    <datumCjenika>18. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -3325,7 +3325,7 @@
         <velicina>39</velicina>
         <boja>crvena</boja>
         <barkod>1100110701053</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>BORKUM_RED-40</sifra>
@@ -34220,7 +34220,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_HAPPY_B-38</sifra>
@@ -34386,7 +34386,7 @@
         <velicina>38</velicina>
         <boja>sareno</boja>
         <barkod>1100110716927</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_LEPTIR-39</sifra>
@@ -34407,7 +34407,7 @@
         <velicina>41</velicina>
         <boja>sareno</boja>
         <barkod>1100110716958</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -40430,73 +40430,6 @@
   </proizvod>
   <proizvod>
     <naziv>BIANCOMOLINA KLOMPE S OPRUGOM</naziv>
-    <sifra>F05_FLOWER_CP</sifra>
-    <marka>BIANCOMOLINA</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>54.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>54.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>62.25</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-6839/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>F05_FLOWER_CP-36</sifra>
-        <velicina>36</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F05_FLOWER_CP-37</sifra>
-        <velicina>37</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F05_FLOWER_CP-38</sifra>
-        <velicina>38</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F05_FLOWER_CP-39</sifra>
-        <velicina>39</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F05_FLOWER_CP-40</sifra>
-        <velicina>40</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F05_FLOWER_CP-41</sifra>
-        <velicina>41</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>F05_FLOWER_CP-42</sifra>
-        <velicina>42</velicina>
-        <boja>cvjetna</boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>BIANCOMOLINA KLOMPE S OPRUGOM</naziv>
     <sifra>FF01_1_BLACK</sifra>
     <marka>BIANCOMOLINA</marka>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -41468,7 +41401,7 @@
         <velicina>37</velicina>
         <boja>zelena</boja>
         <barkod>1100110640437</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>KOF01_Z_GREEN-38</sifra>
@@ -42047,7 +41980,7 @@
         <velicina>44</velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PC_5002_BLACK-45</sifra>
@@ -56093,7 +56026,7 @@
         <velicina>43</velicina>
         <boja>crna</boja>
         <barkod>1100110025586</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>SAN_CRNE-44</sifra>
@@ -65418,7 +65351,7 @@
         <velicina>39</velicina>
         <boja>siva</boja>
         <barkod>1100110667106</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_GREY-40</sifra>
@@ -105086,31 +105019,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>JIMMY JIMMY Matrix M9 Pro - modularni sustav za pročišćavanje vode</naziv>
-    <sifra>sm-001505</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>299.00</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>299.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>399.00</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>6946499317219</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Kućna pomagala</kategorija>
-    <poveznica>https://woolf.hr/jimmy-matrix-m9-pro-modularni-sustav-za-prociscavanje-vode-proizvod-12831/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001505</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6946499317219</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>JIMMY JIMMY N9 - aparat za kavu</naziv>
     <sifra>sm-001552</sifra>
     <marka>JIMMY</marka>
@@ -105361,6 +105269,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>JIMMY Matrix M9 Pro - modularni sustav za pročišćavanje vode</naziv>
+    <sifra>sm-001505</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>299.00</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>299.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>399.00</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Kućna pomagala</kategorija>
+    <poveznica>https://woolf.hr/jimmy-matrix-m9-pro-modularni-sustav-za-prociscavanje-vode-proizvod-12831/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001505</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>JIMMY Matrix S9 modul - za gaziranje vode</naziv>
     <sifra>sm-001508</sifra>
     <marka>JIMMY</marka>
@@ -105486,6 +105419,31 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>JIMMY Originalna baterija za JIMMY H10 Flex</naziv>
+    <sifra>sm-001221</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>99.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>99.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>99.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>6946499384822</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/originalna-baterija-za-jimmy-h10-flex-proizvod-12506/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001221</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>6946499384822</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>JIMMY Originalna baterija za JIMMY JV51/JV53/JV53 Lite</naziv>
     <sifra>sm-364633</sifra>
     <marka>JIMMY</marka>
@@ -105531,6 +105489,31 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6946499383207</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>JIMMY Originalna baterija za JIMMY JV85 Pro bežični usisivač</naziv>
+    <sifra>sm-371891</sifra>
+    <marka>JIMMY</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>79.50</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>79.50</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>79.50</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>6946499383085</barkod>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/originalna-baterija-za-jimmy-jv85-pro-bezicni-usisivac-proizvod-12581/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-371891</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>6946499383085</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -120689,6 +120672,31 @@
     <varijante>
       <varijanta>
         <sifra>F06_SILVER_C</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>KLOMPE S OPRUGOM</naziv>
+    <sifra>F05_FLOWER_CP</sifra>
+    <marka>BIANCOMOLINA</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>54.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>54.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>62.25</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-oprugom-proizvod-6839/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>F05_FLOWER_CP</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -146479,7 +146487,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110707581</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -146525,14 +146533,14 @@
         <velicina>39</velicina>
         <boja>srebrna</boja>
         <barkod>1100110674517</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300_PERLA-40</sifra>
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110674524</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300_PERLA-41</sifra>
@@ -147851,7 +147859,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110644558</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>6000_1_BLACK-40</sifra>
@@ -148260,7 +148268,7 @@
         <velicina>41</velicina>
         <boja>zelena</boja>
         <barkod>1100110710222</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_GREEPEARL-42</sifra>
@@ -148553,7 +148561,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110474476</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_N_WHITE-40</sifra>
@@ -148613,14 +148621,14 @@
         <velicina>39</velicina>
         <boja>pink</boja>
         <barkod>1100110309266</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_PERLA_1-40</sifra>
         <velicina>40</velicina>
         <boja>pink</boja>
         <barkod>1100110309273</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_PERLA_1-41</sifra>
@@ -149276,7 +149284,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110111296</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V261_WHITE-39</sifra>
@@ -151139,7 +151147,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110709035</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_BLACK_L-38</sifra>
@@ -151206,7 +151214,7 @@
         <velicina>38</velicina>
         <boja>srebrna</boja>
         <barkod>1100110709165</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_PERLA_L-39</sifra>
@@ -151273,7 +151281,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110709110</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2023_WHITE_L-40</sifra>
@@ -151287,7 +151295,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110709134</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -151541,7 +151549,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110615978</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -151897,7 +151905,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110508102</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -152063,7 +152071,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110490179</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5001_WHITE-40</sifra>
@@ -154836,7 +154844,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110474797</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -168808,7 +168816,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -168840,7 +168848,7 @@
         <velicina>37</velicina>
         <boja>bez</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A24-38</sifra>
@@ -208072,7 +208080,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -217263,31 +217271,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>Originalna baterija za JIMMY H10 Flex</naziv>
-    <sifra>sm-001221</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>99.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>99.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>99.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/originalna-baterija-za-jimmy-h10-flex-proizvod-12506/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001221</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>Originalna baterija za JIMMY H10 Pro</naziv>
     <sifra>sm-001040</sifra>
     <marka>JIMMY</marka>
@@ -217305,31 +217288,6 @@
     <varijante>
       <varijanta>
         <sifra>sm-001040</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>Originalna baterija za JIMMY JV85 Pro bežični usisiva</naziv>
-    <sifra>sm-371891</sifra>
-    <marka>JIMMY</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>79.50</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>79.50</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>79.50</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>Nije dodijeljen</barkod>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/originalna-baterija-za-jimmy-jv85-pro-bezicni-usisivac-proizvod-12581/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-371891</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -265215,7 +265173,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110538796</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1BLACK-43</sifra>
@@ -265282,14 +265240,14 @@
         <velicina>42</velicina>
         <boja>plava</boja>
         <barkod>1100110538932</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1BLUE-43</sifra>
         <velicina>43</velicina>
         <boja>plava</boja>
         <barkod>1100110538949</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1BLUE-44</sifra>
@@ -265349,7 +265307,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>1100110538864</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1WHITE-43</sifra>
@@ -265370,7 +265328,7 @@
         <velicina>45</velicina>
         <boja>bijela</boja>
         <barkod>1100110538895</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1WHITE-46</sifra>
@@ -265529,7 +265487,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110538246</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLACK-38</sifra>
@@ -265550,7 +265508,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110538277</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLACK-41</sifra>
@@ -265617,7 +265575,7 @@
         <velicina>40</velicina>
         <boja>plava</boja>
         <barkod>1100110538338</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLUE-41</sifra>
@@ -265631,7 +265589,7 @@
         <velicina>42</velicina>
         <boja>plava</boja>
         <barkod>1100110538352</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -265818,7 +265776,7 @@
         <velicina>40</velicina>
         <boja>plava</boja>
         <barkod>1100110538017</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_NAVY-41</sifra>
@@ -265952,7 +265910,7 @@
         <velicina>45</velicina>
         <boja>plava</boja>
         <barkod>1100110477071</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1772_BLUE-46</sifra>
@@ -266005,7 +265963,7 @@
         <velicina>44</velicina>
         <boja>bijela</boja>
         <barkod>1100110569226</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1772_WHITE-45</sifra>
@@ -266072,7 +266030,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110546265</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4350_FLOWER_WHT-42</sifra>
@@ -266132,7 +266090,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110472045</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4350_FLOWER-42</sifra>
@@ -266185,7 +266143,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110546197</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4350_HEARTS-41</sifra>
@@ -266284,7 +266242,7 @@
         <velicina>37</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4367_FLOWER_BLK-38</sifra>
@@ -266319,7 +266277,7 @@
         <velicina>42</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110546159</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -266432,7 +266390,7 @@
         <velicina>40</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110538635</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4372_1FLOWER-41</sifra>
@@ -266492,7 +266450,7 @@
         <velicina>39</velicina>
         <boja>cvjetna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4372_FLOW804BLK-40</sifra>

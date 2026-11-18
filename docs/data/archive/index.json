@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-11-17T13:42:53.061Z",
+  "updatedAt": "2026-11-18T13:17:36.117Z",
   "retentionDays": 30,
-  "lastSequence": 55,
+  "lastSequence": 56,
   "entries": [
+    {
+      "date": "2026-11-18",
+      "csvFilename": "webshop-Ograda-14-Vratisinec-160-56-2026-11-18-14-17-36.csv",
+      "xmlFilename": "webshop-Ograda-14-Vratisinec-160-56-2026-11-18-14-17-36.xml",
+      "generatedAt": "2026-11-18T13:17:36.117Z",
+      "products": 12540,
+      "variants": 18816
+    },
     {
       "date": "2026-11-17",
       "csvFilename": "webshop-Ograda-14-Vratisinec-160-55-2026-11-17-14-42-53.csv",
@@ -242,14 +250,6 @@
       "generatedAt": "2026-10-19T05:03:24.154Z",
       "products": 12494,
       "variants": 18857
-    },
-    {
-      "date": "2026-10-18",
-      "csvFilename": "webshop-Ograda-14-Vratisinec-160-25-2026-10-18-06-56-00.csv",
-      "xmlFilename": "webshop-Ograda-14-Vratisinec-160-25-2026-10-18-06-56-00.xml",
-      "generatedAt": "2026-10-18T04:56:00.187Z",
-      "products": 12494,
-      "variants": 18863
     }
   ]
 }
