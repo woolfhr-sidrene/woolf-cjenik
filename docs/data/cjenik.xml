@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik datumVrijeme="2026-11-18T13:17:36.117Z" valuta="EUR">
+<cjenik datumVrijeme="2026-11-19T13:41:04.569Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
@@ -7,7 +7,7 @@
     <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>
     <oznakaProdajnogProstora>160</oznakaProdajnogProstora>
     <brojSkladista>02</brojSkladista>
-    <datumCjenika>18. 11. 2026.</datumCjenika>
+    <datumCjenika>19. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -3272,7 +3272,7 @@
         <velicina>42</velicina>
         <boja>novine</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>BORKUM_NEWS-43</sifra>
@@ -34188,7 +34188,7 @@
         <velicina>40</velicina>
         <boja>smeda</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_BROWN-41</sifra>
@@ -34241,7 +34241,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_HAPPY_B-41</sifra>
@@ -56033,7 +56033,7 @@
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>1100110025593</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>SAN_CRNE-45</sifra>
@@ -69168,7 +69168,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110583840</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_315_FLOWER-42</sifra>
@@ -146889,7 +146889,7 @@
         <velicina>45</velicina>
         <boja>crna</boja>
         <barkod>1100110474544</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>700_M_BLACK-46</sifra>
@@ -147150,7 +147150,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>991_BLACK-40</sifra>
@@ -150166,7 +150166,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>912_N_BLACK-41</sifra>
@@ -150346,7 +150346,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110495631</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_BLACK-40</sifra>
@@ -150501,7 +150501,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110475268</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_WHITE-41</sifra>
@@ -151334,7 +151334,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110658272</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3300_N_BLACK-39</sifra>
@@ -151595,7 +151595,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4250_N_PERLA-39</sifra>
@@ -153066,7 +153066,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110025715</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41blk-40</sifra>
@@ -154149,7 +154149,7 @@
         <velicina>39</velicina>
         <boja>sareno</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M202_4_WHITE-40</sifra>
@@ -168816,7 +168816,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -168855,7 +168855,7 @@
         <velicina>38</velicina>
         <boja>bez</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A24-39</sifra>
@@ -190491,6 +190491,31 @@
     <varijante>
       <varijanta>
         <sifra>3500277_1PURPLE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>Nije dodijeljen</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NEPROPUSNE BUCE</naziv>
+    <sifra>WLFP1222025_BLUE</sifra>
+    <marka>WOOLF</marka>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
+    <maloprodajnaCijena>19.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <sidrenaCijena>24.99</sidrenaCijena>
+    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
+    <barkod>Nije dodijeljen</barkod>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Dječje - Obuća - Buce</kategorija>
+    <poveznica>https://woolf.hr/nepropusne-buce-proizvod-12253/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>WLFP1222025_BLUE</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod>Nije dodijeljen</barkod>
@@ -265388,7 +265413,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110538390</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1BLACK-41</sifra>
@@ -266397,7 +266422,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110538642</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4372_1FLOWER-42</sifra>
@@ -269859,7 +269884,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>Nije dodijeljen</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>117_BLACK-41</sifra>
@@ -351062,73 +351087,6 @@
         <velicina>29</velicina>
         <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
         <barkod>1100110311900</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>WOOLF NEPROPUSNE BUCE</naziv>
-    <sifra>WLFP1222025_BLUE</sifra>
-    <marka>WOOLF</marka>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <cijenaZaJedinicuMjere>19.99</cijenaZaJedinicuMjere>
-    <maloprodajnaCijena>19.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <sidrenaCijena>24.99</sidrenaCijena>
-    <datumSidreneCijene>2026-09-10</datumSidreneCijene>
-    <barkod>1100110689016, 1100110689023, 1100110689030, 1100110689047, 1100110689054, 1100110689061, 1100110689078</barkod>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Dječje - Obuća - Buce</kategorija>
-    <poveznica>https://woolf.hr/nepropusne-buce-proizvod-12253/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>WLFP1222025_BLUE-30</sifra>
-        <velicina>30</velicina>
-        <boja>plava</boja>
-        <barkod>1100110689016</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP1222025_BLUE-31</sifra>
-        <velicina>31</velicina>
-        <boja>plava</boja>
-        <barkod>1100110689023</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP1222025_BLUE-32</sifra>
-        <velicina>32</velicina>
-        <boja>plava</boja>
-        <barkod>1100110689030</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP1222025_BLUE-33</sifra>
-        <velicina>33</velicina>
-        <boja>plava</boja>
-        <barkod>1100110689047</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP1222025_BLUE-34</sifra>
-        <velicina>34</velicina>
-        <boja>plava</boja>
-        <barkod>1100110689054</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP1222025_BLUE-35</sifra>
-        <velicina>35</velicina>
-        <boja>plava</boja>
-        <barkod>1100110689061</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP1222025_BLUE-36</sifra>
-        <velicina>36</velicina>
-        <boja>plava</boja>
-        <barkod>1100110689078</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
