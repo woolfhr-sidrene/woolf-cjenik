@@ -13,6 +13,7 @@ on:
     branches: [main]
     paths:
       - "config/rucne-izmjene.csv"
+      - "config/iskljuceni-iz-cjenika.csv"
       - "scripts/sync.mjs"
       - "scripts/check.mjs"
       - ".github/workflows/sync-and-deploy.yml"

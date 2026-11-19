@@ -139,6 +139,13 @@ if (!payload.products.every((product) => /^\d{4}-\d{2}-\d{2}$/.test(product.anch
   throw new Error("Nedostaje datum sidrene cijene za jedan ili više artikala.");
 }
 
+const excludedCodes = (await fs.readFile("config/iskljuceni-iz-cjenika.csv", "utf8").catch(() => ""))
+  .split(/\r?\n/).slice(1).map((line) => line.split(";")[0].trim()).filter(Boolean);
+const leaked = payload.products.filter((product) => excludedCodes.includes(product.model)).map((product) => product.model);
+if (leaked.length) {
+  throw new Error(`U cjeniku su isključeni artikli: ${leaked.join(", ")}`);
+}
+
 if (!Array.isArray(archive.entries) || archive.entries.length < 1) {
   throw new Error("Arhiva cjenika nije ispravna.");
 }

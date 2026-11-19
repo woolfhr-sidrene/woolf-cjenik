@@ -8,6 +8,8 @@ const anchorPricesPath = path.resolve("config/sidrene-cijene.csv");
 const manualChangesPath = path.resolve("config/rucne-izmjene.csv");
 const erpBarcodesPath = path.resolve("config/erp-barkodovi.csv");
 const brandsPath = path.resolve("config/brendovi.csv");
+// Artikli koji se ne objavljuju u cjeniku (testni i tehnički artikli koji nisu u prodaji).
+const excludedPath = path.resolve("config/iskljuceni-iz-cjenika.csv");
 const feedFile = process.env.WOOLF_FEED_FILE?.trim();
 const feedUrl = process.env.WOOLF_FEED_URL?.trim();
 const googleFeedFile = process.env.WOOLF_GOOGLE_FEED_FILE?.trim();
@@ -165,7 +167,16 @@ async function loadConfiguration() {
     brands.set(String(code).trim(), String(brand).trim());
   }
 
-  return { anchors, changes, erpBarcodes, brands };
+  const excluded = new Set();
+  try {
+    for (const [code] of parseSemicolonCsv(await fs.readFile(excludedPath, "utf8")).slice(1)) {
+      if (code) excluded.add(String(code).trim());
+    }
+  } catch {
+    // Datoteka nije obavezna.
+  }
+
+  return { anchors, changes, erpBarcodes, brands, excluded };
 }
 
 function cleanName(name) {
@@ -283,6 +294,7 @@ const variants = itemBlocks
     const price = numberOf(valueOf(item, "price"));
     const regularPrice = numberOf(valueOf(item, "regularPrice")) ?? price;
     if (!variantCode || price === null || price < 0) return null;
+    if (configuration.excluded.has(model) || configuration.excluded.has(variantCode)) return null;
 
     const size = valueOf(item, "size");
     const manual = configuration.changes.get(variantCode) || configuration.changes.get(model) || {};
@@ -363,7 +375,7 @@ let googleOverlapProducts = 0;
 
 for (const row of googleRows) {
   const model = String(row.ID2 || "").trim();
-  if (!model) continue;
+  if (!model || configuration.excluded.has(model)) continue;
   if (productsByModel.has(model)) {
     googleOverlapProducts += 1;
     continue;
