@@ -37,3 +37,12 @@ Za postavljanje slijedi datoteku [UPUTE_KORAK_PO_KORAK.md](UPUTE_KORAK_PO_KORAK.
 - Glavni okidač je cron na cPanelu (woolfshopsi) u 7:00, s rezervama u 8:30 i 10:00; pokreće workflow s `samo_ako_nema=true`, pa se drugi put isti dan ne izrađuje novi cjenik. Ako cjenika nema ni u 10:20, šalje se e-mail.
 - Zakazano GitHub pokretanje ostaje samo kao zadnja rezerva (GitHub ga zna odgoditi i po nekoliko sati) i preskače se ako je današnji cjenik već objavljen.
 - Ručno pokretanje (Actions → Sinkroniziraj i objavi cjenik → Run workflow) uvijek izradi novi cjenik.
+
+## Ispravak baznih cijena 19. 11. 2026.
+
+Po Pravilniku o isticanju bazne cijene (NN 132/2026, čl. 3. st. 4. i 5.) bazna cijena artikla koji je na referentni dan bio na akciji je redovna cijena prije akcije, nikad akcijska. Ispravljeno je 11 artikala (isto i u Marker adminu, uvozi sidrenih cijena #95 i #98):
+
+- 9 Smartus artikala bilo je 10. 9. 2026. na rujanskoj akciji (ručno postavljenoj 31. 8. – 28. 9.), pa je „ispravak 924” kao sidro uzeo akcijsku cijenu: sm-001525 1099, sm-372191 229, sm-001445 499, sm-001338 879, sm-001497 299, sm-001545 499, sm-001546 2999, sm-001086 399, sm-001412 249 (`config/sidrene-cijene.csv`)
+- 9999003_PAW_PATROL 17,12 (26. 10. 2026.) i 6500944BB 899,00 (10. 11. 2026.) – u ponudu su ušli sniženi (`config/rucne-izmjene.csv`)
+
+Datoteke ISPRAVAK_924_* opisuju stari, sada nevažeći pristup.
