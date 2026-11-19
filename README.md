@@ -46,3 +46,20 @@ Po Pravilniku o isticanju bazne cijene (NN 132/2026, čl. 3. st. 4. i 5.) bazna 
 - 9999003_PAW_PATROL 17,12 (26. 10. 2026.) i 6500944BB 899,00 (10. 11. 2026.) – u ponudu su ušli sniženi (`config/rucne-izmjene.csv`)
 
 Datoteke ISPRAVAK_924_* opisuju stari, sada nevažeći pristup.
+
+## Cjenik usluga (od 19. 11. 2026.)
+
+Uz cjenik robe svaka objava izrađuje i cjenik usluga (čl. 3. st. 3. Pravilnika o načinu objave cjenika):
+`45374311169_Webshop_Ograda-14-Vratisinec_160_USLUGE_<broj pohrane>_<GGGGMMDD>_<SSMM>.csv` i `.xml`
+(isti broj pohrane i vrijeme kao cjenik robe), a važeći je i na stalnoj adresi `data/cjenik-usluge.csv` / `.xml`.
+
+- Stupci: Naziv usluge; Maloprodajna cijena (EUR); Poseban oblik prodaje; Bazna cijena (EUR) – tim redom –
+  zatim Datum bazne cijene i Napomena (npr. besplatna dostava iznad 70 €).
+- Usluge: načini dostave za Hrvatsku, doplate za način plaćanja (pouzeće, PayPal) i, kad se uključi, zamjena artikla.
+- Izvor: `https://chat.woolf-shop.si/usluge/usluge.json`, koji piše `cjenik-okidac/usluge.php` na cPanelu
+  iz Marker admina (Webshop › Načini dostave / Načini plaćanja). Bazne cijene vodi isti skript
+  (`usluge-bazne.json`): cijena na dan 10. 9. 2026., a za novu uslugu cijena na dan uvođenja.
+- Kad se u adminu promijeni cijena usluge, skript to vidi u roku od 30 minuta i, ako je današnji cjenik već
+  objavljen, odmah pokrene novu objavu (roba + usluge).
+- Ako popis usluga nije dostupan, koristi se zadnji objavljeni (`docs/data/usluge.json`); cjenik robe se
+  objavljuje u svakom slučaju.

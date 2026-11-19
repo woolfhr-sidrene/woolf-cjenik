@@ -476,6 +476,82 @@ const metadata = {
 };
 
 // ---------------------------------------------------------------------------
+// Cjenik usluga (Pravilnik o načinu objave cjenika proizvoda, NN 132/2026, čl. 3. st. 3.):
+// naziv usluge, maloprodajna cijena + poseban oblik prodaje, bazna cijena (tim redom), zatim
+// naši dodatni stupci. Usluge (dostava za Hrvatsku, doplate za način plaćanja, zamjena) i njihove
+// bazne cijene vodi cPanel (cjenik-okidac/usluge.php) iz Marker admina i objavljuje ih na
+// chat.woolf-shop.si/usluge/usluge.json. Ako taj popis nije dostupan, koristi se zadnji objavljeni
+// (docs/data/usluge.json), a cjenik robe se objavljuje u svakom slučaju.
+// ---------------------------------------------------------------------------
+const servicesFile = process.env.WOOLF_USLUGE_FILE?.trim();
+const servicesUrl = process.env.WOOLF_USLUGE_URL?.trim() || "https://chat.woolf-shop.si/usluge/usluge.json";
+const servicesCopyPath = path.join(outputDir, "usluge.json");
+
+function validServices(data) {
+  if (!data || data.verzija !== 1 || !Array.isArray(data.usluge)) return null;
+  if (data.usluge.length < 1 || data.usluge.length > 200) return null;
+  if (typeof data.hash !== "string" || !/^[a-f0-9]{16,64}$/.test(data.hash)) return null;
+  const keys = new Set();
+  for (const service of data.usluge) {
+    if (!service || typeof service !== "object") return null;
+    if (!/^[a-z0-9-]{2,40}$/.test(service.kljuc || "") || keys.has(service.kljuc)) return null;
+    keys.add(service.kljuc);
+    if (typeof service.naziv !== "string" || !service.naziv.trim() || service.naziv.length > 200) return null;
+    for (const field of ["cijena", "bazna"]) {
+      if (typeof service[field] !== "number" || !Number.isFinite(service[field]) || service[field] < 0 || service[field] > 10_000) return null;
+    }
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(service.datumBazne || "")) return null;
+    if (service.poseban !== "DA" && service.poseban !== "NE") return null;
+    if (service.napomena !== undefined && service.napomena !== null && typeof service.napomena !== "string") return null;
+  }
+  return data;
+}
+
+let servicesData = null;
+let servicesSource = "nema";
+try {
+  const body = servicesFile
+    ? await fs.readFile(path.resolve(servicesFile), "utf8")
+    : await fetch(`${servicesUrl}?t=${Date.now()}`, {
+      headers: { accept: "application/json", "user-agent": "Woolf-Cjenik-Sync/1.0" },
+      signal: AbortSignal.timeout(20_000)
+    }).then((response) => {
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      return response.text();
+    });
+  servicesData = validServices(JSON.parse(body));
+  if (!servicesData) throw new Error("neispravan sadržaj");
+  servicesSource = servicesFile ? "datoteka" : "cPanel";
+} catch (error) {
+  console.log(`Popis usluga s cPanela nije dostupan (${error.message}); koristi se zadnji objavljeni cjenik usluga.`);
+  try {
+    servicesData = validServices(JSON.parse(await fs.readFile(servicesCopyPath, "utf8")));
+    servicesSource = servicesData ? "prethodni" : "nema";
+  } catch {
+    servicesData = null;
+  }
+}
+if (servicesData) {
+  const ageHours = (Date.now() - Date.parse(servicesData.generatedAt)) / 3_600_000;
+  if (!(ageHours < 36)) console.log(`Upozorenje: popis usluga je star ${Math.round(ageHours)} h (cPanel ga nije osvježio).`);
+}
+metadata.usluge = servicesData ? servicesData.usluge.length : 0;
+metadata.uslugeHash = servicesData ? servicesData.hash : null;
+metadata.uslugeIzvor = servicesSource;
+metadata.uslugeProcitano = servicesData?.generatedAt || null;
+
+const servicesCsvHeader = [
+  // čl. 3. st. 3. Pravilnika – ovim redom
+  "Naziv usluge",
+  "Maloprodajna cijena (EUR)",
+  "Poseban oblik prodaje",
+  "Bazna cijena (EUR)",
+  // dodatni podaci
+  "Datum bazne cijene",
+  "Napomena"
+];
+
+// ---------------------------------------------------------------------------
 // Oblik cjenika prema Pravilniku o načinu objave cjenika proizvoda (NN 132/2026),
 // na snazi od 17. 11. 2026.:
 // - prvi redak su nazivi stupaca (bez zaglavlja tvrtke iznad tablice; podaci o
@@ -574,6 +650,20 @@ const csv = "﻿" + [csvHeader, ...csvRows]
   .map((row) => row.map(csvCell).join(";"))
   .join("\r\n") + "\r\n";
 
+const servicesCsv = servicesData
+  ? "﻿" + [
+    servicesCsvHeader,
+    ...servicesData.usluge.map((service) => [
+      service.naziv,
+      moneyCsv(service.cijena),
+      service.poseban,
+      moneyCsv(service.bazna),
+      service.datumBazne,
+      service.napomena || ""
+    ])
+  ].map((row) => row.map(csvCell).join(";")).join("\r\n") + "\r\n"
+  : null;
+
 function xmlCell(value) {
   return String(value ?? "")
     .replaceAll("&", "&amp;")
@@ -583,8 +673,8 @@ function xmlCell(value) {
     .replaceAll("'", "&apos;");
 }
 
-function buildPriceXml(sequence) {
-  const header = [
+function xmlHeader(kind, sequence) {
+  return [
     "  <zaglavlje>",
     `    <naziv>${xmlCell(TRGOVAC.naziv)}</naziv>`,
     `    <oib>${TRGOVAC.oib}</oib>`,
@@ -592,11 +682,29 @@ function buildPriceXml(sequence) {
     `    <oblikProdajnogMjesta>${xmlCell(TRGOVAC.oblikProdajnogMjesta)}</oblikProdajnogMjesta>`,
     `    <oznakaProdajnogMjesta>${TRGOVAC.oznakaProdajnogMjesta}</oznakaProdajnogMjesta>`,
     `    <brojSkladista>${TRGOVAC.brojSkladista}</brojSkladista>`,
-    "    <vrstaCjenika>ROBA</vrstaCjenika>",
+    `    <vrstaCjenika>${kind}</vrstaCjenika>`,
     `    <brojPohrane>${sequence}</brojPohrane>`,
     `    <datumCjenika>${xmlCell(displayDate)}</datumCjenika>`,
     "  </zaglavlje>"
   ].join("\n");
+}
+
+function buildServicesXml(sequence) {
+  const items = servicesData.usluge.map((service) => [
+    "  <usluga>",
+    `    <naziv>${xmlCell(service.naziv)}</naziv>`,
+    `    <maloprodajnaCijena>${service.cijena.toFixed(2)}</maloprodajnaCijena>`,
+    `    <posebanOblikProdaje>${service.poseban}</posebanOblikProdaje>`,
+    `    <baznaCijena>${service.bazna.toFixed(2)}</baznaCijena>`,
+    `    <datumBazneCijene>${xmlCell(service.datumBazne)}</datumBazneCijene>`,
+    `    <napomena>${xmlCell(service.napomena || "")}</napomena>`,
+    "  </usluga>"
+  ].join("\n"));
+  return `<?xml version="1.0" encoding="UTF-8"?>\n<cjenik vrsta="USLUGE" datumVrijeme="${metadata.generatedAt}" valuta="EUR">\n${xmlHeader("USLUGE", sequence)}\n${items.join("\n")}\n</cjenik>\n`;
+}
+
+function buildPriceXml(sequence) {
+  const header = xmlHeader("ROBA", sequence);
   const items = products.map((product) => {
     const barcodes = publicBarcodes(product.barcode);
     const variantsXml = product.variants.map((variant) => [
@@ -691,6 +799,11 @@ const filenameBase = [
 const priceXml = buildPriceXml(sequence);
 const archiveCsvFilename = `${filenameBase}.csv`;
 const archiveXmlFilename = `${filenameBase}.xml`;
+// Cjenik usluga: isti naziv, umjesto ROBA stoji USLUGE (čl. 6. st. 3.), isti broj pohrane i vrijeme objave.
+const servicesFilenameBase = filenameBase.replace(`_ROBA_${sequence}_`, `_USLUGE_${sequence}_`);
+const servicesXml = servicesData ? buildServicesXml(sequence) : null;
+const servicesCsvFilename = servicesData ? `${servicesFilenameBase}.csv` : null;
+const servicesXmlFilename = servicesData ? `${servicesFilenameBase}.xml` : null;
 
 archiveEntries = [
   {
@@ -699,7 +812,8 @@ archiveEntries = [
     xmlFilename: archiveXmlFilename,
     generatedAt: metadata.generatedAt,
     products: metadata.products,
-    variants: metadata.variants
+    variants: metadata.variants,
+    ...(servicesData ? { uslugeCsvFilename: servicesCsvFilename, uslugeXmlFilename: servicesXmlFilename, usluge: metadata.usluge } : {})
   },
   ...archiveEntries
 ]
@@ -718,14 +832,14 @@ const archiveFiles = await fs.readdir(archiveDir);
 await Promise.all(
   archiveFiles
     .filter((filename) => {
-      const rulebookMatch = filename.match(/^\d{11}_[^_]+_[^_]+_\d+_ROBA_\d+_(\d{4})(\d{2})(\d{2})_\d{4}\.(csv|xml)$/);
+      const rulebookMatch = filename.match(/^\d{11}_[^_]+_[^_]+_\d+_(?:ROBA|USLUGE)_\d+_(\d{4})(\d{2})(\d{2})_\d{4}\.(csv|xml)$/);
       const rulebookDate = rulebookMatch ? `${rulebookMatch[1]}-${rulebookMatch[2]}-${rulebookMatch[3]}` : "";
       const legalMatch = filename.match(/^webshop-Ograda-14-Vratisinec-160-\d+-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}(?:-\d{2})?\.(csv|xml)$/);
       const currentMatch = filename.match(/^cjenik-Woolf-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}\.(csv|xml)$/);
       const oldOutletMatch = filename.match(/^webshop-Istarsko-naselje-3A-WOOLF-ONLINE-001-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}\.(csv|xml)$/);
       const legacyMatch = filename.match(/^cjenik-(\d{4}-\d{2}-\d{2})\.(csv|xml)$/);
       const fileDate = rulebookDate || legalMatch?.[1] || currentMatch?.[1] || oldOutletMatch?.[1] || legacyMatch?.[1];
-      return fileDate && fileDate < cutoffDate && filename !== archiveCsvFilename && filename !== archiveXmlFilename;
+      return fileDate && fileDate < cutoffDate && ![archiveCsvFilename, archiveXmlFilename, servicesCsvFilename, servicesXmlFilename].includes(filename);
     })
     .map((filename) => fs.unlink(path.join(archiveDir, filename)))
 );
@@ -736,7 +850,14 @@ await Promise.all([
   fs.writeFile(path.join(outputDir, "status.json"), JSON.stringify(metadata, null, 2)),
   fs.writeFile(path.join(archiveDir, archiveCsvFilename), csv),
   fs.writeFile(path.join(archiveDir, archiveXmlFilename), priceXml),
-  fs.writeFile(archiveIndexPath, JSON.stringify(archiveIndex, null, 2))
+  fs.writeFile(archiveIndexPath, JSON.stringify(archiveIndex, null, 2)),
+  ...(servicesData ? [
+    fs.writeFile(path.join(outputDir, "cjenik-usluge.csv"), servicesCsv),
+    fs.writeFile(path.join(outputDir, "cjenik-usluge.xml"), servicesXml),
+    fs.writeFile(servicesCopyPath, JSON.stringify(servicesData, null, 2)),
+    fs.writeFile(path.join(archiveDir, servicesCsvFilename), servicesCsv),
+    fs.writeFile(path.join(archiveDir, servicesXmlFilename), servicesXml)
+  ] : [])
 ]);
 
 if (newlyListed.size) {
@@ -747,4 +868,5 @@ if (newlyListed.size) {
 }
 
 console.log(`Cjenik ${archiveDate} arhiviran: ${metadata.products} proizvoda (${jeftinijeProducts} iz Jeftinije + ${googleOnlyProducts} nedostupnih iz Google dopune) i ${metadata.variants} zapisa varijanti (${availableVariants} dostupno, ${unavailableVariants} nedostupno). Brend je dodijeljen za ${productsWithBrand} proizvoda, ${productsWithoutBrand} je bez brenda. Čuva se posljednjih ${retentionDays} dana.`);
+console.log(servicesData ? `Cjenik usluga: ${metadata.usluge} usluga (izvor: ${servicesSource}).` : "Cjenik usluga nije izrađen: popis usluga nije dostupan.");
 if (missingBarcodes > 0) console.log(`Barkod nije dodijeljen za ${missingBarcodes} varijanti; koristi se šifra artikla kao glavni identifikator.`);

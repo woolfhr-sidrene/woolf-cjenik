@@ -165,4 +165,53 @@ if (!filenamePattern.test(archive.entries[0].csvFilename) || !filenamePattern.te
   throw new Error("Naziv arhivske datoteke nije prema Pravilniku.");
 }
 
-console.log(`Provjera uspješna: ${payload.metadata.products} proizvoda, ${payload.metadata.variants} varijanti i ${archive.entries.length} arhiviranih cjenika.`);
+// Cjenik usluga (čl. 3. st. 3.): ako je izrađen, mora biti potpun i ispravno imenovan. Ako popis
+// usluga nije bio dostupan ni s cPanela ni iz prethodne objave, cjenik robe se ipak objavljuje.
+const latest = archive.entries[0];
+let servicesSummary = "cjenik usluga nije izrađen";
+if (payload.metadata.usluge > 0) {
+  const servicesCsv = await fs.readFile("docs/data/cjenik-usluge.csv", "utf8");
+  const servicesXml = await fs.readFile("docs/data/cjenik-usluge.xml", "utf8");
+  const servicesJson = JSON.parse(await fs.readFile("docs/data/usluge.json", "utf8"));
+  const servicesHeader = ["Naziv usluge", "Maloprodajna cijena (EUR)", "Poseban oblik prodaje", "Bazna cijena (EUR)", "Datum bazne cijene", "Napomena"]
+    .map((header) => `"${header}"`).join(";");
+  if (!servicesCsv.startsWith("﻿") || servicesCsv.slice(1, servicesCsv.indexOf("\r\n")) !== servicesHeader) {
+    throw new Error("Prvi redak cjenika usluga nisu propisani nazivi stupaca propisanim redom.");
+  }
+  const serviceLines = servicesCsv.slice(1).split("\r\n").filter(Boolean).slice(1);
+  if (serviceLines.length !== payload.metadata.usluge || servicesJson.usluge.length !== payload.metadata.usluge) {
+    throw new Error(`Cjenik usluga ima ${serviceLines.length} redaka, a usluga je ${payload.metadata.usluge}.`);
+  }
+  for (const [index, line] of serviceLines.entries()) {
+    const cells = line.slice(1, -1).split('";"');
+    if (cells.length !== 6 || !cells[0] || !/^\d+,\d{2}$/.test(cells[1]) || !/^(DA|NE)$/.test(cells[2]) ||
+        !/^\d+,\d{2}$/.test(cells[3]) || !/^\d{4}-\d{2}-\d{2}$/.test(cells[4])) {
+      throw new Error(`Redak ${index + 2} cjenika usluga nije ispravan.`);
+    }
+  }
+  if (servicesJson.hash !== payload.metadata.uslugeHash) {
+    throw new Error("Oznaka popisa usluga u statusu ne odgovara objavljenom popisu.");
+  }
+  if (!servicesXml.startsWith("<?xml") || !servicesXml.includes('<cjenik vrsta="USLUGE"') ||
+      !servicesXml.includes("<vrstaCjenika>USLUGE</vrstaCjenika>") ||
+      (servicesXml.match(/<usluga>/g) || []).length !== payload.metadata.usluge ||
+      !["naziv", "maloprodajnaCijena", "posebanOblikProdaje", "baznaCijena", "brojPohrane", "oib"].every((tag) => servicesXml.includes(`<${tag}>`))) {
+    throw new Error("XML cjenika usluga nije ispravan.");
+  }
+  const servicesPattern = /^45374311169_Webshop_Ograda-14-Vratisinec_160_USLUGE_\d+_\d{8}_\d{4}\.(csv|xml)$/;
+  if (!servicesPattern.test(latest.uslugeCsvFilename || "") || !servicesPattern.test(latest.uslugeXmlFilename || "")) {
+    throw new Error("Naziv datoteke cjenika usluga nije prema Pravilniku.");
+  }
+  if (latest.uslugeCsvFilename.replace("_USLUGE_", "_ROBA_") !== latest.csvFilename) {
+    throw new Error("Cjenik usluga i cjenik robe nemaju isti broj pohrane i vrijeme objave.");
+  }
+  await Promise.all([
+    fs.access(`docs/data/archive/${latest.uslugeCsvFilename}`),
+    fs.access(`docs/data/archive/${latest.uslugeXmlFilename}`)
+  ]);
+  servicesSummary = `${payload.metadata.usluge} usluga (izvor: ${payload.metadata.uslugeIzvor})`;
+} else {
+  console.log("Upozorenje: cjenik usluga nije izrađen jer popis usluga nije dostupan.");
+}
+
+console.log(`Provjera uspješna: ${payload.metadata.products} proizvoda, ${payload.metadata.variants} varijanti, ${servicesSummary} i ${archive.entries.length} arhiviranih cjenika.`);
