@@ -71,34 +71,47 @@ if (!csv.startsWith("\uFEFF") || csv.split("\n").length < 10_000) {
   throw new Error("CSV datoteka nije ispravna.");
 }
 
+// Pravilnik o načinu objave cjenika proizvoda (NN 132/2026), čl. 3. st. 2.:
+// prvi redak datoteke su nazivi stupaca, a prvih 11 stupaca ide točno ovim redom.
 const requiredCsvHeaders = [
   "Naziv proizvoda",
   "Šifra",
   "Marka",
+  "Neto količina",
   "Jedinica mjere",
-  "Cijena za jedinicu mjere (EUR)",
-  "Redovna cijena prije akcije (EUR)",
   "Maloprodajna cijena (EUR)",
   "Poseban oblik prodaje",
-  "Naziv posebnog oblika prodaje",
-  "Sidrena cijena (EUR)",
-  "Datum sidrene cijene",
+  "Cijena za jedinicu mjere (EUR)",
   "Barkod",
-  "Dostupnost"
+  "EAN barkod",
+  "Bazna cijena (EUR)"
 ];
-
-if (!requiredCsvHeaders.every((header) => csv.includes(`"${header}"`))) {
-  throw new Error("CSV nema sva obvezna polja.");
+const extraCsvHeaders = [
+  "Datum bazne cijene",
+  "Naziv posebnog oblika prodaje",
+  "Redovna cijena prije akcije (EUR)",
+  "Dostupnost",
+  "Varijante i dostupnost",
+  "Barkodovi varijanti",
+  "Kategorija",
+  "Poveznica"
+];
+const firstLine = csv.slice(1, csv.indexOf("\r\n"));
+const expectedHeader = [...requiredCsvHeaders, ...extraCsvHeaders].map((header) => `"${header}"`).join(";");
+if (firstLine !== expectedHeader) {
+  throw new Error("Prvi redak CSV-a nisu propisani nazivi stupaca propisanim redom.");
 }
-
-if (!csv.includes('"Naziv";"Woolf d.o.o."') ||
-    !csv.includes('"Adresa sjedišta";"Ograda 14, Vratišinec"') ||
-    !csv.includes('"OIB";"45374311169"') ||
-    !csv.includes('"Oblik prodajnog objekta";"Webshop"') ||
-    !csv.includes('"Oznaka prodajnog prostora";"160"') ||
-    !csv.includes('"Broj skladišta";"02"') ||
-    !csv.includes('"Datum cjenika";')) {
-  throw new Error("CSV zaglavlje nema ispravne podatke tvrtke i datum cjenika.");
+const csvLines = csv.slice(1).split("\r\n").filter(Boolean);
+if (csvLines.length - 1 !== payload.products.length) {
+  throw new Error(`CSV ima ${csvLines.length - 1} redaka, a proizvoda je ${payload.products.length}.`);
+}
+const columnCount = expectedHeader.split(";").length;
+const badRow = csvLines.findIndex((line) => line.split('";"').length !== columnCount);
+if (badRow >= 0) {
+  throw new Error(`Redak ${badRow + 1} CSV-a nema ${columnCount} stupaca.`);
+}
+if (csv.includes('"Nije dodijeljen"') || csv.includes("Sidrena cijena")) {
+  throw new Error("Javni CSV ne smije sadržavati stari naziv stupca ni tekst 'Nije dodijeljen'.");
 }
 
 if (!xml.startsWith("<?xml") || !xml.includes("<cjenik") || !xml.includes("<proizvod>")) {
@@ -106,9 +119,9 @@ if (!xml.startsWith("<?xml") || !xml.includes("<cjenik") || !xml.includes("<proi
 }
 
 const requiredXmlTags = [
-  "naziv", "sifra", "marka", "jedinicaMjere", "cijenaZaJedinicuMjere",
-  "maloprodajnaCijena", "posebanOblikProdaje", "nazivPosebnogOblikaProdaje",
-  "sidrenaCijena", "datumSidreneCijene", "barkod", "dostupnost"
+  "naziv", "sifra", "marka", "netoKolicina", "jedinicaMjere", "maloprodajnaCijena",
+  "posebanOblikProdaje", "cijenaZaJedinicuMjere", "barkod", "eanBarkod", "baznaCijena",
+  "datumBazneCijene", "nazivPosebnogOblikaProdaje", "dostupnost", "oib", "brojPohrane"
 ];
 
 if (!requiredXmlTags.every((tag) => xml.includes(`<${tag}>`))) {
@@ -139,8 +152,10 @@ await Promise.all([
   fs.access(`docs/data/archive/${archive.entries[0].xmlFilename}`)
 ]);
 
-if (!/^webshop-Ograda-14-Vratisinec-160-\d+-\d{4}-/.test(archive.entries[0].csvFilename)) {
-  throw new Error("Naziv arhivske datoteke nije ispravan.");
+// Naziv datoteke: OIB_prodajno mjesto_adresa_oznaka_ROBA_broj pohrane_GGGGMMDD_SSMM (čl. 6. st. 3.)
+const filenamePattern = /^45374311169_Webshop_Ograda-14-Vratisinec_160_ROBA_\d+_\d{8}_\d{4}\.(csv|xml)$/;
+if (!filenamePattern.test(archive.entries[0].csvFilename) || !filenamePattern.test(archive.entries[0].xmlFilename)) {
+  throw new Error("Naziv arhivske datoteke nije prema Pravilniku.");
 }
 
 console.log(`Provjera uspješna: ${payload.metadata.products} proizvoda, ${payload.metadata.variants} varijanti i ${archive.entries.length} arhiviranih cjenika.`);

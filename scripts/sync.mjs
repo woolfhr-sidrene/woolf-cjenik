@@ -251,6 +251,9 @@ try {
   console.log(`Registar sidara s weba nije dostupan (${error.message}); koristi se dosadašnje pravilo.`);
 }
 
+// Bazna cijena novog artikla je redovna cijena na dan kad je ušao u ponudu, nikad akcijska
+// (Pravilnik o isticanju bazne cijene, NN 132/2026, čl. 3. st. 1. i 5.). Pozivatelj zato
+// predaje redovnu cijenu (ili trenutnu, ako artikl nije na akciji).
 function anchorFor(model, variantCode, price, manual) {
   const frozen = manual.anchorPrice ?? configuration.anchors.get(variantCode) ?? configuration.anchors.get(model);
   if (frozen !== undefined && frozen !== null) {
@@ -287,7 +290,7 @@ const variants = itemBlocks
       || configuration.erpBarcodes.get(erpBarcodeKey(variantCode, size))
       || "";
     const onSale = regularPrice > price;
-    const { anchorPrice, anchorDate } = anchorFor(model, variantCode, price, manual);
+    const { anchorPrice, anchorDate } = anchorFor(model, variantCode, onSale ? regularPrice : price, manual);
     const inStock = valueOf(item, "stock").toLowerCase() === "in stock";
 
     return {
@@ -373,7 +376,7 @@ for (const row of googleRows) {
   const manual = configuration.changes.get(model) || {};
   const erpBarcode = configuration.erpBarcodes.get(erpBarcodeKey(model, "")) || "";
   const onSale = regularPrice > price;
-  const { anchorPrice, anchorDate } = anchorFor(model, model, price, manual);
+  const { anchorPrice, anchorDate } = anchorFor(model, model, onSale ? regularPrice : price, manual);
   productsByModel.set(model, {
     model,
     name: String(row["Item title"] || model).trim(),
@@ -460,6 +463,26 @@ const metadata = {
   currency: "EUR"
 };
 
+// ---------------------------------------------------------------------------
+// Oblik cjenika prema Pravilniku o načinu objave cjenika proizvoda (NN 132/2026),
+// na snazi od 17. 11. 2026.:
+// - prvi redak su nazivi stupaca (bez zaglavlja tvrtke iznad tablice; podaci o
+//   trgovcu i prodajnom mjestu nalaze se u nazivu datoteke, čl. 6. st. 3.)
+// - prvih 11 stupaca točno redom iz čl. 3. st. 2.; naši dodatni stupci idu iza
+// - UTF-8, stupci odvojeni znakom ";" (čl. 6. st. 6. i 7.)
+// Interni podaci (products.json, config/*) ostaju nepromijenjeni.
+// ---------------------------------------------------------------------------
+const TRGOVAC = {
+  naziv: "Woolf d.o.o.",
+  oib: "45374311169",
+  adresa: "Ograda 14, Vratišinec",
+  adresaUNazivu: "Ograda-14-Vratisinec",
+  oblikProdajnogMjesta: "Webshop",
+  oznakaProdajnogMjesta: "160",
+  brojSkladista: "02"
+};
+const NEMA_BARKODA = "Nije dodijeljen";
+
 function csvCell(value) {
   const text = String(value ?? "").replaceAll('"', '""');
   return `"${text}"`;
@@ -469,59 +492,75 @@ function moneyCsv(value) {
   return Number(value).toFixed(2).replace(".", ",");
 }
 
+// Interni zapis koristi "Nije dodijeljen"; u javnom cjeniku to je prazno polje.
+function publicBarcodes(value) {
+  return String(value ?? "")
+    .split(",")
+    .map((code) => code.trim())
+    .filter((code) => code && code !== NEMA_BARKODA);
+}
+
+// EAN/GTIN (8, 12, 13 ili 14 znamenki) s ispravnom kontrolnom znamenkom.
+function isEan(code) {
+  if (!/^(\d{8}|\d{12,14})$/.test(code)) return false;
+  const digits = code.split("").map(Number);
+  const check = digits.pop();
+  const sum = digits.reverse().reduce((total, digit, index) => total + digit * (index % 2 === 0 ? 3 : 1), 0);
+  return (10 - (sum % 10)) % 10 === check;
+}
+
 const csvHeader = [
+  // čl. 3. st. 2. Pravilnika – ovim redom
   "Naziv proizvoda",
   "Šifra",
   "Marka",
+  "Neto količina",
   "Jedinica mjere",
-  "Cijena za jedinicu mjere (EUR)",
-  "Redovna cijena prije akcije (EUR)",
   "Maloprodajna cijena (EUR)",
   "Poseban oblik prodaje",
-  "Naziv posebnog oblika prodaje",
-  "Sidrena cijena (EUR)",
+  "Cijena za jedinicu mjere (EUR)",
   "Barkod",
+  "EAN barkod",
+  "Bazna cijena (EUR)",
+  // dodatni podaci
+  "Datum bazne cijene",
+  "Naziv posebnog oblika prodaje",
+  "Redovna cijena prije akcije (EUR)",
   "Dostupnost",
   "Varijante i dostupnost",
   "Barkodovi varijanti",
   "Kategorija",
-  "Poveznica",
-  "Datum sidrene cijene"
+  "Poveznica"
 ];
 
-const csvRows = products.map((product) => [
-  product.name,
-  product.model,
-  product.brand,
-  product.unit,
-  moneyCsv(product.unitPrice),
-  moneyCsv(product.regularPrice),
-  moneyCsv(product.price),
-  product.specialSale,
-  product.saleName,
-  moneyCsv(product.anchorPrice),
-  product.barcode,
-  product.availability,
-  product.variantSummary,
-  product.barcodeSummary,
-  product.category,
-  product.link,
-  product.anchorDate
-]);
+const csvRows = products.map((product) => {
+  const barcodes = publicBarcodes(product.barcode);
+  return [
+    product.name,
+    product.model,
+    product.brand,
+    "",
+    product.unit,
+    moneyCsv(product.price),
+    product.specialSale,
+    moneyCsv(product.unitPrice),
+    barcodes.join(", "),
+    barcodes.filter(isEan).join(", "),
+    moneyCsv(product.anchorPrice),
+    product.anchorDate,
+    product.saleName,
+    moneyCsv(product.regularPrice),
+    product.availability,
+    product.variantSummary,
+    product.barcodeSummary === NEMA_BARKODA ? "" : product.barcodeSummary,
+    product.category,
+    product.link
+  ];
+});
 
-const csvInfo = [
-  ["Naziv", "Woolf d.o.o."],
-  ["Adresa sjedišta", "Ograda 14, Vratišinec"],
-  ["OIB", "45374311169"],
-  ["Oblik prodajnog objekta", "Webshop"],
-  ["Oznaka prodajnog prostora", "160"],
-  ["Broj skladišta", "02"],
-  ["Datum cjenika", displayDate]
-];
-
-const csv = "\uFEFF" + [...csvInfo, [], csvHeader, ...csvRows]
+const csv = "﻿" + [csvHeader, ...csvRows]
   .map((row) => row.map(csvCell).join(";"))
-  .join("\r\n");
+  .join("\r\n") + "\r\n";
 
 function xmlCell(value) {
   return String(value ?? "")
@@ -532,7 +571,58 @@ function xmlCell(value) {
     .replaceAll("'", "&apos;");
 }
 
-const priceXml = `<?xml version="1.0" encoding="UTF-8"?>\n<cjenik datumVrijeme="${metadata.generatedAt}" valuta="EUR">\n  <zaglavlje>\n    <naziv>Woolf d.o.o.</naziv>\n    <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>\n    <oib>45374311169</oib>\n    <oblikProdajnogObjekta>Webshop</oblikProdajnogObjekta>\n    <oznakaProdajnogProstora>160</oznakaProdajnogProstora>\n    <brojSkladista>02</brojSkladista>\n    <datumCjenika>${xmlCell(displayDate)}</datumCjenika>\n  </zaglavlje>\n${products.map((product) => `  <proizvod>\n    <naziv>${xmlCell(product.name)}</naziv>\n    <sifra>${xmlCell(product.model)}</sifra>\n    <marka>${xmlCell(product.brand)}</marka>\n    <jedinicaMjere>${xmlCell(product.unit)}</jedinicaMjere>\n    <cijenaZaJedinicuMjere>${Number(product.unitPrice).toFixed(2)}</cijenaZaJedinicuMjere>\n    <maloprodajnaCijena>${Number(product.price).toFixed(2)}</maloprodajnaCijena>\n    <posebanOblikProdaje>${product.specialSale}</posebanOblikProdaje>\n    <nazivPosebnogOblikaProdaje>${xmlCell(product.saleName)}</nazivPosebnogOblikaProdaje>\n    <sidrenaCijena>${Number(product.anchorPrice).toFixed(2)}</sidrenaCijena>\n    <datumSidreneCijene>${xmlCell(product.anchorDate)}</datumSidreneCijene>\n    <barkod>${xmlCell(product.barcode)}</barkod>\n    <dostupnost>${product.availability}</dostupnost>\n    <kategorija>${xmlCell(product.category)}</kategorija>\n    <poveznica>${xmlCell(product.link)}</poveznica>\n    <varijante>\n${product.variants.map((variant) => `      <varijanta>\n        <sifra>${xmlCell(variant.code)}</sifra>\n        <velicina>${xmlCell(variant.size)}</velicina>\n        <boja>${xmlCell(variant.color)}</boja>\n        <barkod>${xmlCell(variant.barcode)}</barkod>\n        <dostupnost>${variant.availability}</dostupnost>\n      </varijanta>`).join("\n")}\n    </varijante>\n  </proizvod>`).join("\n")}\n</cjenik>\n`;
+function buildPriceXml(sequence) {
+  const header = [
+    "  <zaglavlje>",
+    `    <naziv>${xmlCell(TRGOVAC.naziv)}</naziv>`,
+    `    <oib>${TRGOVAC.oib}</oib>`,
+    `    <adresaSjedista>${xmlCell(TRGOVAC.adresa)}</adresaSjedista>`,
+    `    <oblikProdajnogMjesta>${xmlCell(TRGOVAC.oblikProdajnogMjesta)}</oblikProdajnogMjesta>`,
+    `    <oznakaProdajnogMjesta>${TRGOVAC.oznakaProdajnogMjesta}</oznakaProdajnogMjesta>`,
+    `    <brojSkladista>${TRGOVAC.brojSkladista}</brojSkladista>`,
+    "    <vrstaCjenika>ROBA</vrstaCjenika>",
+    `    <brojPohrane>${sequence}</brojPohrane>`,
+    `    <datumCjenika>${xmlCell(displayDate)}</datumCjenika>`,
+    "  </zaglavlje>"
+  ].join("\n");
+  const items = products.map((product) => {
+    const barcodes = publicBarcodes(product.barcode);
+    const variantsXml = product.variants.map((variant) => [
+      "      <varijanta>",
+      `        <sifra>${xmlCell(variant.code)}</sifra>`,
+      `        <velicina>${xmlCell(variant.size)}</velicina>`,
+      `        <boja>${xmlCell(variant.color)}</boja>`,
+      `        <barkod>${xmlCell(variant.barcode === NEMA_BARKODA ? "" : variant.barcode)}</barkod>`,
+      `        <dostupnost>${variant.availability}</dostupnost>`,
+      "      </varijanta>"
+    ].join("\n")).join("\n");
+    return [
+      "  <proizvod>",
+      `    <naziv>${xmlCell(product.name)}</naziv>`,
+      `    <sifra>${xmlCell(product.model)}</sifra>`,
+      `    <marka>${xmlCell(product.brand)}</marka>`,
+      "    <netoKolicina></netoKolicina>",
+      `    <jedinicaMjere>${xmlCell(product.unit)}</jedinicaMjere>`,
+      `    <maloprodajnaCijena>${Number(product.price).toFixed(2)}</maloprodajnaCijena>`,
+      `    <posebanOblikProdaje>${product.specialSale}</posebanOblikProdaje>`,
+      `    <cijenaZaJedinicuMjere>${Number(product.unitPrice).toFixed(2)}</cijenaZaJedinicuMjere>`,
+      `    <barkod>${xmlCell(barcodes.join(", "))}</barkod>`,
+      `    <eanBarkod>${xmlCell(barcodes.filter(isEan).join(", "))}</eanBarkod>`,
+      `    <baznaCijena>${Number(product.anchorPrice).toFixed(2)}</baznaCijena>`,
+      `    <datumBazneCijene>${xmlCell(product.anchorDate)}</datumBazneCijene>`,
+      `    <nazivPosebnogOblikaProdaje>${xmlCell(product.saleName)}</nazivPosebnogOblikaProdaje>`,
+      `    <redovnaCijenaPrijeAkcije>${Number(product.regularPrice).toFixed(2)}</redovnaCijenaPrijeAkcije>`,
+      `    <dostupnost>${product.availability}</dostupnost>`,
+      `    <kategorija>${xmlCell(product.category)}</kategorija>`,
+      `    <poveznica>${xmlCell(product.link)}</poveznica>`,
+      "    <varijante>",
+      variantsXml,
+      "    </varijante>",
+      "  </proizvod>"
+    ].join("\n");
+  });
+  return `<?xml version="1.0" encoding="UTF-8"?>\n<cjenik vrsta="ROBA" datumVrijeme="${metadata.generatedAt}" valuta="EUR">\n${header}\n${items.join("\n")}\n</cjenik>\n`;
+}
 
 const dateParts = new Intl.DateTimeFormat("en-CA", {
   timeZone: "Europe/Zagreb",
@@ -551,7 +641,8 @@ const timeParts = new Intl.DateTimeFormat("en-GB", {
   hourCycle: "h23"
 }).formatToParts(now);
 const timeValue = Object.fromEntries(timeParts.map((part) => [part.type, part.value]));
-const archiveStamp = `${archiveDate}-${timeValue.hour}-${timeValue.minute}-${timeValue.second}`;
+// Vremenska oznaka objave u nazivu datoteke: GGGGMMDD_SSMM (čl. 6. st. 3. Pravilnika).
+const publishStamp = `${dateValue.year}${dateValue.month}${dateValue.day}_${timeValue.hour}${timeValue.minute}`;
 const archiveIndexPath = path.join(archiveDir, "index.json");
 const retentionDays = 30;
 const cutoff = new Date(`${archiveDate}T12:00:00Z`);
@@ -567,14 +658,25 @@ try {
   const recorded = Number(existingIndex.lastSequence);
   if (Number.isSafeInteger(recorded) && recorded >= 2) lastSequence = recorded;
   for (const entry of archiveEntries) {
-    const match = String(entry.csvFilename || "").match(/^webshop-Ograda-14-Vratisinec-160-(\d+)-/);
+    const match = String(entry.csvFilename || "").match(/^webshop-Ograda-14-Vratisinec-160-(\d+)-/) ||
+      String(entry.csvFilename || "").match(/^\d{11}_[^_]+_[^_]+_\d+_ROBA_(\d+)_\d{8}_\d{4}\./);
     if (match) lastSequence = Math.max(lastSequence, Number(match[1]));
   }
 } catch {
   // Prvo pokretanje nema postojeću arhivu.
 }
 const sequence = lastSequence + 1;
-const filenameBase = `webshop-Ograda-14-Vratisinec-160-${sequence}-${archiveStamp}`;
+// OIB _ prodajno mjesto _ adresa _ oznaka prodajnog mjesta _ ROBA _ broj pohrane _ GGGGMMDD_SSMM
+const filenameBase = [
+  TRGOVAC.oib,
+  TRGOVAC.oblikProdajnogMjesta,
+  TRGOVAC.adresaUNazivu,
+  TRGOVAC.oznakaProdajnogMjesta,
+  "ROBA",
+  sequence,
+  publishStamp
+].join("_");
+const priceXml = buildPriceXml(sequence);
 const archiveCsvFilename = `${filenameBase}.csv`;
 const archiveXmlFilename = `${filenameBase}.xml`;
 
@@ -604,11 +706,13 @@ const archiveFiles = await fs.readdir(archiveDir);
 await Promise.all(
   archiveFiles
     .filter((filename) => {
+      const rulebookMatch = filename.match(/^\d{11}_[^_]+_[^_]+_\d+_ROBA_\d+_(\d{4})(\d{2})(\d{2})_\d{4}\.(csv|xml)$/);
+      const rulebookDate = rulebookMatch ? `${rulebookMatch[1]}-${rulebookMatch[2]}-${rulebookMatch[3]}` : "";
       const legalMatch = filename.match(/^webshop-Ograda-14-Vratisinec-160-\d+-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}(?:-\d{2})?\.(csv|xml)$/);
       const currentMatch = filename.match(/^cjenik-Woolf-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}\.(csv|xml)$/);
       const oldOutletMatch = filename.match(/^webshop-Istarsko-naselje-3A-WOOLF-ONLINE-001-(\d{4}-\d{2}-\d{2})-\d{2}-\d{2}\.(csv|xml)$/);
       const legacyMatch = filename.match(/^cjenik-(\d{4}-\d{2}-\d{2})\.(csv|xml)$/);
-      const fileDate = legalMatch?.[1] || currentMatch?.[1] || oldOutletMatch?.[1] || legacyMatch?.[1];
+      const fileDate = rulebookDate || legalMatch?.[1] || currentMatch?.[1] || oldOutletMatch?.[1] || legacyMatch?.[1];
       return fileDate && fileDate < cutoffDate && filename !== archiveCsvFilename && filename !== archiveXmlFilename;
     })
     .map((filename) => fs.unlink(path.join(archiveDir, filename)))

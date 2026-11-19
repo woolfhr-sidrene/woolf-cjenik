@@ -1,9 +1,24 @@
 name: Sinkroniziraj i objavi cjenik
 
 on:
+  # Svako jutro u 7:00 (rezerve 8:30 i 10:00) pokreće ga okidač na cPanelu (woolfshopsi)
+  # sa samo_ako_nema=true. Ručno pokretanje iz Actions uvijek izradi novi cjenik.
   workflow_dispatch:
+    inputs:
+      samo_ako_nema:
+        description: "Preskoči ako je današnji cjenik već objavljen"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - "config/rucne-izmjene.csv"
+      - "scripts/sync.mjs"
+      - "scripts/check.mjs"
+      - ".github/workflows/sync-and-deploy.yml"
+  # Zadnja rezerva: GitHub zakazana pokretanja kasne i po nekoliko sati, zato glavni
+  # okidač radi s cPanela. Ako je današnji cjenik već objavljen, ovo se preskače.
   schedule:
-    # 07:40 po ljetnom / 06:40 po zimskom vremenu: nakon osvježavanja feedova u 06:30.
     - cron: "40 5 * * *"
 
 permissions:
@@ -21,39 +36,63 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Preuzmi projekt
         uses: actions/checkout@v4
 
+      - name: Je li današnji cjenik već objavljen?
+        id: gate
+        env:
+          DOGADAJ: ${{ github.event_name }}
+          SAMO_AKO_NEMA: ${{ inputs.samo_ako_nema }}
+        run: |
+          DANAS=$(TZ=Europe/Zagreb date +%Y-%m-%d)
+          ZADNJI=$(node -e 'const s=JSON.parse(require("fs").readFileSync("docs/data/status.json","utf8"));console.log(new Date(s.generatedAt).toLocaleDateString("en-CA",{timeZone:"Europe/Zagreb"}))' 2>/dev/null || echo nema)
+          echo "Danas: $DANAS, zadnji objavljeni cjenik: $ZADNJI, pokretanje: $DOGADAJ"
+          if [ "$ZADNJI" = "$DANAS" ] && { [ "$DOGADAJ" = "schedule" ] || [ "$SAMO_AKO_NEMA" = "true" ]; }; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Današnji cjenik je već objavljen – preskačem."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Postavi Node.js
+        if: steps.gate.outputs.skip != 'true'
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
       - name: Izradi cjenik iz Woolf feeda
+        if: steps.gate.outputs.skip != 'true'
         env:
           WOOLF_FEED_URL: ${{ secrets.WOOLF_FEED_URL }}
         run: node scripts/sync.mjs
 
       - name: Provjeri rezultate
+        if: steps.gate.outputs.skip != 'true'
         run: node scripts/check.mjs
 
       - name: Spremi dnevnu arhivu cjenika
+        if: steps.gate.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data
+          git add docs/data config/rucne-izmjene.csv
           git diff --cached --quiet || git commit -m "Automatski cjenik $(date -u +'%Y-%m-%d')"
           git push
 
       - name: Pripremi GitHub Pages
+        if: steps.gate.outputs.skip != 'true'
         uses: actions/configure-pages@v5
 
       - name: Zapakiraj stranicu
+        if: steps.gate.outputs.skip != 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
 
       - name: Objavi stranicu
+        if: steps.gate.outputs.skip != 'true'
         id: deployment
         uses: actions/deploy-pages@v4
