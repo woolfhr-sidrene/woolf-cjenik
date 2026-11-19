@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T19:07:27.036Z",
+  "generatedAt": "2026-11-19T19:20:54.868Z",
   "sourceModifiedAt": "2026-11-19T04:19:03.000Z",
   "googleSourceModifiedAt": "2026-11-19T05:30:26.000Z",
   "products": 12528,
@@ -14,7 +14,7 @@
   "productsWithoutBrand": 176,
   "currency": "EUR",
   "usluge": 8,
-  "uslugeHash": "2d11e7bb5e1a159daac51a03288c6d89af9aa1b7",
+  "uslugeHash": "7157d07543cad884f99929c5533177d7c34403ca",
   "uslugeIzvor": "cPanel",
-  "uslugeProcitano": "2026-11-19T20:06:19+01:00"
+  "uslugeProcitano": "2026-11-19T20:20:18+01:00"
 }

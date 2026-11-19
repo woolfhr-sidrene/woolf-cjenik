@@ -1,9 +1,9 @@
 {
   "verzija": 1,
-  "generatedAt": "2026-11-19T20:06:19+01:00",
+  "generatedAt": "2026-11-19T20:20:18+01:00",
   "izvor": "Marker admin: Webshop › Načini dostave (Hrvatska) i Načini plaćanja (doplate)",
   "napomenaBazne": "Bazna cijena: cijena na dan 10. 9. 2026., a za uslugu uvedenu poslije cijena na dan uvođenja (NN 132/2026).",
-  "hash": "2d11e7bb5e1a159daac51a03288c6d89af9aa1b7",
+  "hash": "7157d07543cad884f99929c5533177d7c34403ca",
   "usluge": [
     {
       "kljuc": "dostava-19",
@@ -35,7 +35,7 @@
       "poseban": "NE",
       "napomena": "Besplatno za narudžbe iznad 70,00 €",
       "markerId": 16,
-      "bazna": 2.49,
+      "bazna": 3.49,
       "datumBazne": "2026-09-10"
     },
     {
