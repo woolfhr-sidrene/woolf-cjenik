@@ -39,8 +39,12 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
+      # Uvijek najnovije stanje grane main (i kod ponovnog pokretanja), da se broj pohrane i arhiva
+      # nastavljaju na zadnju spremljenu objavu i da git push ne bude odbijen.
       - name: Preuzmi projekt
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Je li današnji cjenik već objavljen?
         id: gate
@@ -93,7 +97,18 @@ jobs:
         with:
           path: docs
 
+      # GitHub Pages povremeno javi prolaznu grešku ("No artifacts named github-pages were found").
+      # Tada pričeka 45 s i pokuša još jednom; tek ako i drugi pokušaj ne uspije, pokretanje je crveno.
       - name: Objavi stranicu
         if: steps.gate.outputs.skip != 'true'
         id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Pričekaj prije ponovne objave
+        if: steps.gate.outputs.skip != 'true' && steps.deployment.outcome == 'failure'
+        run: sleep 45
+
+      - name: Objavi stranicu (drugi pokušaj)
+        if: steps.gate.outputs.skip != 'true' && steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v4
