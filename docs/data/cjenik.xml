@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik vrsta="ROBA" datumVrijeme="2026-11-19T16:12:16.608Z" valuta="EUR">
+<cjenik vrsta="ROBA" datumVrijeme="2026-11-19T17:04:49.219Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <oib>45374311169</oib>
@@ -8,7 +8,7 @@
     <oznakaProdajnogMjesta>160</oznakaProdajnogMjesta>
     <brojSkladista>02</brojSkladista>
     <vrstaCjenika>ROBA</vrstaCjenika>
-    <brojPohrane>58</brojPohrane>
+    <brojPohrane>59</brojPohrane>
     <datumCjenika>19. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
@@ -73088,7 +73088,7 @@
     <cijenaZaJedinicuMjere>999.00</cijenaZaJedinicuMjere>
     <barkod>0736649998520</barkod>
     <eanBarkod>0736649998520</eanBarkod>
-    <baznaCijena>999.00</baznaCijena>
+    <baznaCijena>1099.00</baznaCijena>
     <datumBazneCijene>2026-09-10</datumBazneCijene>
     <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <redovnaCijenaPrijeAkcije>1099.00</redovnaCijenaPrijeAkcije>
@@ -90420,7 +90420,7 @@
     <cijenaZaJedinicuMjere>11.81</cijenaZaJedinicuMjere>
     <barkod></barkod>
     <eanBarkod></eanBarkod>
-    <baznaCijena>11.81</baznaCijena>
+    <baznaCijena>17.12</baznaCijena>
     <datumBazneCijene>2026-10-26</datumBazneCijene>
     <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <redovnaCijenaPrijeAkcije>17.12</redovnaCijenaPrijeAkcije>
@@ -115963,7 +115963,7 @@
     <cijenaZaJedinicuMjere>229.00</cijenaZaJedinicuMjere>
     <barkod>6946499308897</barkod>
     <eanBarkod>6946499308897</eanBarkod>
-    <baznaCijena>179.00</baznaCijena>
+    <baznaCijena>229.00</baznaCijena>
     <datumBazneCijene>2026-09-10</datumBazneCijene>
     <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <redovnaCijenaPrijeAkcije>229.00</redovnaCijenaPrijeAkcije>
@@ -116187,7 +116187,7 @@
     <cijenaZaJedinicuMjere>499.00</cijenaZaJedinicuMjere>
     <barkod>6946499317202</barkod>
     <eanBarkod>6946499317202</eanBarkod>
-    <baznaCijena>439.00</baznaCijena>
+    <baznaCijena>499.00</baznaCijena>
     <datumBazneCijene>2026-09-10</datumBazneCijene>
     <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <redovnaCijenaPrijeAkcije>499.00</redovnaCijenaPrijeAkcije>
@@ -123110,7 +123110,7 @@
     <cijenaZaJedinicuMjere>879.00</cijenaZaJedinicuMjere>
     <barkod>6970492718957</barkod>
     <eanBarkod>6970492718957</eanBarkod>
-    <baznaCijena>749.00</baznaCijena>
+    <baznaCijena>879.00</baznaCijena>
     <datumBazneCijene>2026-09-10</datumBazneCijene>
     <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <redovnaCijenaPrijeAkcije>879.00</redovnaCijenaPrijeAkcije>
@@ -373458,7 +373458,7 @@
     <cijenaZaJedinicuMjere>649.00</cijenaZaJedinicuMjere>
     <barkod></barkod>
     <eanBarkod></eanBarkod>
-    <baznaCijena>649.00</baznaCijena>
+    <baznaCijena>899.00</baznaCijena>
     <datumBazneCijene>2026-11-10</datumBazneCijene>
     <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <redovnaCijenaPrijeAkcije>899.00</redovnaCijenaPrijeAkcije>
@@ -389236,7 +389236,7 @@
     <cijenaZaJedinicuMjere>299.00</cijenaZaJedinicuMjere>
     <barkod></barkod>
     <eanBarkod></eanBarkod>
-    <baznaCijena>199.00</baznaCijena>
+    <baznaCijena>299.00</baznaCijena>
     <datumBazneCijene>2026-09-10</datumBazneCijene>
     <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
     <redovnaCijenaPrijeAkcije>299.00</redovnaCijenaPrijeAkcije>
@@ -389264,7 +389264,7 @@
     <cijenaZaJedinicuMjere>359.00</cijenaZaJedinicuMjere>
     <barkod></barkod>
     <eanBarkod></eanBarkod>
-    <baznaCijena>379.00</baznaCijena>
+    <baznaCijena>499.00</baznaCijena>
     <datumBazneCijene>2026-09-10</datumBazneCijene>
     <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <redovnaCijenaPrijeAkcije>499.00</redovnaCijenaPrijeAkcije>
@@ -389320,7 +389320,7 @@
     <cijenaZaJedinicuMjere>1999.00</cijenaZaJedinicuMjere>
     <barkod></barkod>
     <eanBarkod></eanBarkod>
-    <baznaCijena>2399.00</baznaCijena>
+    <baznaCijena>2999.00</baznaCijena>
     <datumBazneCijene>2026-09-10</datumBazneCijene>
     <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <redovnaCijenaPrijeAkcije>2999.00</redovnaCijenaPrijeAkcije>
@@ -389656,7 +389656,7 @@
     <cijenaZaJedinicuMjere>279.00</cijenaZaJedinicuMjere>
     <barkod>6971300260989</barkod>
     <eanBarkod>6971300260989</eanBarkod>
-    <baznaCijena>319.00</baznaCijena>
+    <baznaCijena>399.00</baznaCijena>
     <datumBazneCijene>2026-09-10</datumBazneCijene>
     <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <redovnaCijenaPrijeAkcije>399.00</redovnaCijenaPrijeAkcije>
@@ -389824,7 +389824,7 @@
     <cijenaZaJedinicuMjere>189.00</cijenaZaJedinicuMjere>
     <barkod>6971300262730</barkod>
     <eanBarkod>6971300262730</eanBarkod>
-    <baznaCijena>209.00</baznaCijena>
+    <baznaCijena>249.00</baznaCijena>
     <datumBazneCijene>2026-09-10</datumBazneCijene>
     <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
     <redovnaCijenaPrijeAkcije>249.00</redovnaCijenaPrijeAkcije>
