@@ -15,16 +15,15 @@
     .item{display:flex;align-items:center;justify-content:space-between;gap:18px;padding:18px;border:1px solid #e5e5e5;border-radius:7px}
     .date{font-size:17px;font-weight:700}
     .meta{display:block;margin-top:5px;color:#777;font-size:13px}
-    .actions{display:flex;flex-direction:column;align-items:flex-end}
+    .actions{display:flex;flex-direction:column;align-items:flex-end;flex-shrink:0}
     .button{display:inline-block;white-space:nowrap;padding:11px 18px;border-radius:5px;background:#d8442f;color:#fff;text-decoration:none;font-weight:700}
     .button:hover{background:#bd3827}
     .button.xml{background:#333}
     .button.xml:hover{background:#111}
-    .group{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+    .group{display:flex;align-items:center;gap:10px;justify-content:flex-end}
     .group+.group{margin-top:8px}
     .label{min-width:62px;color:#555;font-size:13px;font-weight:700;text-align:right}
-    .button.small{padding:8px 14px;font-size:14px}
-    @media(max-width:600px){main{margin:15px auto;padding:20px}h1{font-size:24px}.item{align-items:stretch;flex-direction:column}.actions{align-items:stretch}.group{justify-content:stretch}.label{min-width:0;text-align:left;flex-basis:100%}.button{flex:1;text-align:center}}
+    @media(max-width:600px){main{margin:15px auto;padding:20px}h1{font-size:24px}.item{align-items:stretch;flex-direction:column}.actions{align-items:stretch}.group{justify-content:stretch;flex-wrap:wrap}.label{min-width:0;text-align:left;flex-basis:100%}.button{flex:1;text-align:center}}
   </style>
 </head>
 <body>
@@ -72,8 +71,8 @@
               </div>
               ${entry.uslugeCsvFilename ? `<div class="group">
                 <span class="label">Usluge</span>
-                <a class="button small" href="data/archive/${encodeURIComponent(entry.uslugeCsvFilename)}" download>Preuzmi CSV</a>
-                <a class="button xml small" href="data/archive/${encodeURIComponent(entry.uslugeXmlFilename)}" download>Preuzmi XML</a>
+                <a class="button" href="data/archive/${encodeURIComponent(entry.uslugeCsvFilename)}" download>Preuzmi CSV</a>
+                <a class="button xml" href="data/archive/${encodeURIComponent(entry.uslugeXmlFilename)}" download>Preuzmi XML</a>
               </div>` : ""}
             </div>
           </li>`).join("")}</ul>`;
