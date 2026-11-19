@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-11-19T17:20:23.011Z",
+  "updatedAt": "2026-11-19T18:58:12.763Z",
   "retentionDays": 30,
-  "lastSequence": 60,
+  "lastSequence": 61,
   "entries": [
+    {
+      "date": "2026-11-19",
+      "csvFilename": "45374311169_Webshop_Ograda-14-Vratisinec_160_ROBA_61_20261119_1958.csv",
+      "xmlFilename": "45374311169_Webshop_Ograda-14-Vratisinec_160_ROBA_61_20261119_1958.xml",
+      "generatedAt": "2026-11-19T18:58:12.763Z",
+      "products": 12528,
+      "variants": 18798
+    },
     {
       "date": "2026-11-19",
       "csvFilename": "45374311169_Webshop_Ograda-14-Vratisinec_160_ROBA_60_20261119_1820.csv",
