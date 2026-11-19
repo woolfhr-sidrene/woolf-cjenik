@@ -1,0 +1,97 @@
+{
+  "verzija": 1,
+  "generatedAt": "2026-11-19T20:06:19+01:00",
+  "izvor": "Marker admin: Webshop › Načini dostave (Hrvatska) i Načini plaćanja (doplate)",
+  "napomenaBazne": "Bazna cijena: cijena na dan 10. 9. 2026., a za uslugu uvedenu poslije cijena na dan uvođenja (NN 132/2026).",
+  "hash": "2d11e7bb5e1a159daac51a03288c6d89af9aa1b7",
+  "usluge": [
+    {
+      "kljuc": "dostava-19",
+      "vrsta": "dostava",
+      "naziv": "Dostava – BOX NOW Paketomat",
+      "cijena": 1.99,
+      "poseban": "NE",
+      "napomena": "Besplatno za narudžbe iznad 70,00 €; samo za narudžbe do 400,00 €",
+      "markerId": 19,
+      "bazna": 2.49,
+      "datumBazne": "2026-09-10"
+    },
+    {
+      "kljuc": "dostava-1",
+      "vrsta": "dostava",
+      "naziv": "Dostava GLS na kućnu adresu",
+      "cijena": 5.99,
+      "poseban": "NE",
+      "napomena": "Besplatno za narudžbe iznad 70,00 €",
+      "markerId": 1,
+      "bazna": 5.99,
+      "datumBazne": "2026-09-10"
+    },
+    {
+      "kljuc": "dostava-16",
+      "vrsta": "dostava",
+      "naziv": "Dostava – GLS Paketomat",
+      "cijena": 1.99,
+      "poseban": "NE",
+      "napomena": "Besplatno za narudžbe iznad 70,00 €",
+      "markerId": 16,
+      "bazna": 2.49,
+      "datumBazne": "2026-09-10"
+    },
+    {
+      "kljuc": "dostava-22",
+      "vrsta": "dostava",
+      "naziv": "Dostava DPD na kućnu adresu",
+      "cijena": 4.99,
+      "poseban": "NE",
+      "napomena": "Besplatno za narudžbe iznad 70,00 €",
+      "markerId": 22,
+      "bazna": 4.99,
+      "datumBazne": "2026-09-10"
+    },
+    {
+      "kljuc": "dostava-3",
+      "vrsta": "dostava",
+      "naziv": "Osobno preuzimanje u skladištu",
+      "cijena": 0,
+      "poseban": "NE",
+      "napomena": "",
+      "markerId": 3,
+      "bazna": 0,
+      "datumBazne": "2026-09-10"
+    },
+    {
+      "kljuc": "placanje-3",
+      "vrsta": "placanje",
+      "naziv": "Dodatak za plaćanje pouzećem (Gotovinom prilikom pouzeća)",
+      "cijena": 0.81,
+      "poseban": "NE",
+      "napomena": "",
+      "markerId": 3,
+      "bazna": 0.81,
+      "datumBazne": "2026-09-10"
+    },
+    {
+      "kljuc": "placanje-46",
+      "vrsta": "placanje",
+      "naziv": "Dodatak za plaćanje pouzećem (Pouzećem BOX NOW)",
+      "cijena": 0.81,
+      "poseban": "NE",
+      "napomena": "Moguće za narudžbe do 200,00 €",
+      "markerId": 46,
+      "bazna": 0.81,
+      "datumBazne": "2026-09-10"
+    },
+    {
+      "kljuc": "placanje-4",
+      "vrsta": "placanje",
+      "naziv": "Doplata za PayPal plaćanje (Paypal)",
+      "cijena": 1.99,
+      "poseban": "NE",
+      "napomena": "",
+      "markerId": 4,
+      "bazna": 1.99,
+      "datumBazne": "2026-09-10"
+    }
+  ]
+}
