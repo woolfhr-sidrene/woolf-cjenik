@@ -26,12 +26,21 @@
 <body>
   <main>
     <h1>Arhiva cjenika</h1>
-    <p class="intro">Novi cjenik automatski se izrađuje svakoga dana. Dostupni su cjenici za posljednjih 30 dana.</p>
+    <p class="intro">Važeći cjenik objavljuje se svakoga dana do 11:00. Prijašnji cjenici dostupni su najmanje 15 dana od zamjene.</p>
     <div id="content" class="status">Učitavanje arhive…</div>
   </main>
 
   <script>
     const content = document.getElementById("content");
+    // Prikazuju se cjenici iz zadnjih 16 dana (Pravilnik o načinu objave cjenika, čl. 3. st. 6.:
+    // arhivski cjenik dostupan 15 dana od zamjene + 1 dan rezerve). Datoteke se u arhivi čuvaju
+    // 30 dana jer iz njih dorade na woolf.hr računaju najnižu cijenu u zadnjih 30 dana.
+    const SHOW_DAYS = 16;
+    const todayZagreb = new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Zagreb", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
+    const cutoff = new Date(`${todayZagreb}T12:00:00Z`);
+    cutoff.setUTCDate(cutoff.getUTCDate() - SHOW_DAYS);
+    const cutoffDate = cutoff.toISOString().slice(0, 10);
+    const formatTime = (value) => value ? new Intl.DateTimeFormat("hr-HR", { timeZone: "Europe/Zagreb", hour: "2-digit", minute: "2-digit" }).format(new Date(value)) : "";
     const formatDate = (value) => new Intl.DateTimeFormat("hr-HR", {
       day: "2-digit", month: "2-digit", year: "numeric"
     }).format(new Date(`${value}T12:00:00`));
@@ -42,13 +51,14 @@
         return response.json();
       })
       .then((archive) => {
-        if (!archive.entries?.length) throw new Error("Arhiva još nema spremljenih cjenika.");
+        const entries = (archive.entries || []).filter((entry) => entry.date >= cutoffDate);
+        if (!entries.length) throw new Error("Arhiva još nema spremljenih cjenika.");
         content.className = "";
-        content.innerHTML = `<ul class="list">${archive.entries.map((entry) => `
+        content.innerHTML = `<ul class="list">${entries.map((entry, index) => `
           <li class="item">
             <div>
-              <span class="date">Cjenik – ${formatDate(entry.date)}</span>
-              <span class="meta">${entry.products.toLocaleString("hr-HR")} proizvoda / ${entry.variants.toLocaleString("hr-HR")} varijanti</span>
+              <span class="date">Cjenik – ${formatDate(entry.date)}${index === 0 ? " (važeći)" : ""}</span>
+              <span class="meta">Objavljen u ${formatTime(entry.generatedAt)} · ${entry.products.toLocaleString("hr-HR")} proizvoda / ${entry.variants.toLocaleString("hr-HR")} varijanti</span>
             </div>
             <div class="actions">
               <a class="button" href="data/archive/${encodeURIComponent(entry.csvFilename || entry.filename)}" download>Preuzmi CSV</a>
