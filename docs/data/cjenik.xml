@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik vrsta="ROBA" datumVrijeme="2026-11-19T19:24:25.894Z" valuta="EUR">
+<cjenik vrsta="ROBA" datumVrijeme="2026-11-20T06:05:30.001Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <oib>45374311169</oib>
@@ -8,8 +8,8 @@
     <oznakaProdajnogMjesta>160</oznakaProdajnogMjesta>
     <brojSkladista>02</brojSkladista>
     <vrstaCjenika>ROBA</vrstaCjenika>
-    <brojPohrane>64</brojPohrane>
-    <datumCjenika>19. 11. 2026.</datumCjenika>
+    <brojPohrane>65</brojPohrane>
+    <datumCjenika>20. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -38171,7 +38171,7 @@
         <velicina>37</velicina>
         <boja>smeda</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_BROWN-38</sifra>
@@ -38185,7 +38185,7 @@
         <velicina>39</velicina>
         <boja>smeda</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_BROWN-40</sifra>
@@ -38248,7 +38248,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_HAPPY_B-41</sifra>
@@ -38304,7 +38304,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_HAPPY_W-41</sifra>
@@ -38353,7 +38353,7 @@
         <velicina>39</velicina>
         <boja>sareno</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_LEPTIR_B-40</sifra>
@@ -38451,35 +38451,35 @@
         <velicina>37</velicina>
         <boja>crvena</boja>
         <barkod>1100110716866</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_RED-38</sifra>
         <velicina>38</velicina>
         <boja>crvena</boja>
         <barkod>1100110716873</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_RED-39</sifra>
         <velicina>39</velicina>
         <boja>crvena</boja>
         <barkod>1100110716880</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_RED-40</sifra>
         <velicina>40</velicina>
         <boja>crvena</boja>
         <barkod>1100110716897</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_RED-41</sifra>
         <velicina>41</velicina>
         <boja>crvena</boja>
         <barkod>1100110716903</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -38535,7 +38535,7 @@
         <velicina>41</velicina>
         <boja>sareno</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -38570,7 +38570,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_WHITE-39</sifra>
@@ -42637,7 +42637,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_BLACKWHT-39</sifra>
@@ -42665,7 +42665,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -42987,7 +42987,7 @@
         <velicina>38</velicina>
         <boja></boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_PERLAWHT-39</sifra>
@@ -43281,7 +43281,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_WHITEG-41</sifra>
@@ -116037,6 +116037,62 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>JIMMY JIMMY Matrix M9 Pro - modularni sustav za pročišćavanje vode</naziv>
+    <sifra>sm-001505</sifra>
+    <marka>JIMMY</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>299.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>299.00</cijenaZaJedinicuMjere>
+    <barkod>6946499317219</barkod>
+    <eanBarkod>6946499317219</eanBarkod>
+    <baznaCijena>399.00</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>399.00</redovnaCijenaPrijeAkcije>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Kućna pomagala</kategorija>
+    <poveznica>https://woolf.hr/jimmy-matrix-m9-pro-modularni-sustav-za-prociscavanje-vode-proizvod-12831/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001505</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>6946499317219</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>JIMMY JIMMY Matrix S9 modul - za gaziranje vode</naziv>
+    <sifra>sm-001508</sifra>
+    <marka>JIMMY</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>199.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>199.00</cijenaZaJedinicuMjere>
+    <barkod>6946499317226</barkod>
+    <eanBarkod>6946499317226</eanBarkod>
+    <baznaCijena>199.00</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>199.00</redovnaCijenaPrijeAkcije>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Kućna pomagala</kategorija>
+    <poveznica>https://woolf.hr/jimmy-matrix-s9-modul-za-gaziranje-vode-proizvod-12830/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001508</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>6946499317226</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>JIMMY JIMMY N9 - aparat za kavu</naziv>
     <sifra>sm-001552</sifra>
     <marka>JIMMY</marka>
@@ -116309,62 +116365,6 @@
     <varijante>
       <varijanta>
         <sifra>372191</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>JIMMY Matrix M9 Pro - modularni sustav za pročišćavanje vode</naziv>
-    <sifra>sm-001505</sifra>
-    <marka>JIMMY</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>299.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>299.00</cijenaZaJedinicuMjere>
-    <barkod></barkod>
-    <eanBarkod></eanBarkod>
-    <baznaCijena>399.00</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>399.00</redovnaCijenaPrijeAkcije>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Kućna pomagala</kategorija>
-    <poveznica>https://woolf.hr/jimmy-matrix-m9-pro-modularni-sustav-za-prociscavanje-vode-proizvod-12831/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001505</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>JIMMY Matrix S9 modul - za gaziranje vode</naziv>
-    <sifra>sm-001508</sifra>
-    <marka>JIMMY</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>199.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>199.00</cijenaZaJedinicuMjere>
-    <barkod></barkod>
-    <eanBarkod></eanBarkod>
-    <baznaCijena>199.00</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>199.00</redovnaCijenaPrijeAkcije>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Kućna pomagala</kategorija>
-    <poveznica>https://woolf.hr/jimmy-matrix-s9-modul-za-gaziranje-vode-proizvod-12830/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001508</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod></barkod>
@@ -164073,7 +164073,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110474322</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_M_BLACK-42</sifra>
@@ -165557,7 +165557,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110507686</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>900_1BLACK-40</sifra>
@@ -168014,7 +168014,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110490162</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5001_WHITE-39</sifra>
@@ -168483,7 +168483,7 @@
         <velicina>40</velicina>
         <boja>crvena</boja>
         <barkod>1100110700643</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>KO360_RED-41</sifra>
@@ -169847,6 +169847,69 @@
   </proizvod>
   <proizvod>
     <naziv>LEONARDA COMFORT ANATOMSKE KLOMPE</naziv>
+    <sifra>20332_PANDA</sifra>
+    <marka>LEONARDA COMFORT</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>26.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>26.99</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>26.99</baznaCijena>
+    <datumBazneCijene>2026-11-19</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>26.99</redovnaCijenaPrijeAkcije>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-13029/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>20332_PANDA-37</sifra>
+        <velicina>37</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>20332_PANDA-38</sifra>
+        <velicina>38</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>20332_PANDA-39</sifra>
+        <velicina>39</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>20332_PANDA-40</sifra>
+        <velicina>40</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>20332_PANDA-41</sifra>
+        <velicina>41</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>20332_PANDA-42</sifra>
+        <velicina>42</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>LEONARDA COMFORT ANATOMSKE KLOMPE</naziv>
     <sifra>20332_WHITE</sifra>
     <marka>LEONARDA COMFORT</marka>
     <netoKolicina></netoKolicina>
@@ -169910,6 +169973,69 @@
   </proizvod>
   <proizvod>
     <naziv>LEONARDA COMFORT ANATOMSKE KLOMPE</naziv>
+    <sifra>154030_STYLE</sifra>
+    <marka>LEONARDA COMFORT</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>26.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>26.99</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>26.99</baznaCijena>
+    <datumBazneCijene>2026-11-19</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>26.99</redovnaCijenaPrijeAkcije>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-13030/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>154030_STYLE-37</sifra>
+        <velicina>37</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>154030_STYLE-38</sifra>
+        <velicina>38</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>154030_STYLE-39</sifra>
+        <velicina>39</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>154030_STYLE-40</sifra>
+        <velicina>40</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>154030_STYLE-41</sifra>
+        <velicina>41</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>154030_STYLE-42</sifra>
+        <velicina>42</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>LEONARDA COMFORT ANATOMSKE KLOMPE</naziv>
     <sifra>154412_WHITE</sifra>
     <marka>LEONARDA COMFORT</marka>
     <netoKolicina></netoKolicina>
@@ -169930,43 +170056,106 @@
       <varijanta>
         <sifra>154412_WHITE-37</sifra>
         <velicina>37</velicina>
-        <boja>bijela</boja>
+        <boja>sareno</boja>
         <barkod>1100110583628</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>154412_WHITE-38</sifra>
         <velicina>38</velicina>
-        <boja>bijela</boja>
+        <boja>sareno</boja>
         <barkod>1100110583635</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>154412_WHITE-39</sifra>
         <velicina>39</velicina>
-        <boja>bijela</boja>
+        <boja>sareno</boja>
         <barkod>1100110583642</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>154412_WHITE-40</sifra>
         <velicina>40</velicina>
-        <boja>bijela</boja>
+        <boja>sareno</boja>
         <barkod>1100110583659</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>154412_WHITE-41</sifra>
         <velicina>41</velicina>
-        <boja>bijela</boja>
+        <boja>sareno</boja>
         <barkod>1100110583666</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>154412_WHITE-42</sifra>
         <velicina>42</velicina>
-        <boja>bijela</boja>
+        <boja>sareno</boja>
         <barkod>1100110583673</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>LEONARDA COMFORT ANATOMSKE KLOMPE</naziv>
+    <sifra>154628_DAISY</sifra>
+    <marka>LEONARDA COMFORT</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>26.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>26.99</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>26.99</baznaCijena>
+    <datumBazneCijene>2026-11-19</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>26.99</redovnaCijenaPrijeAkcije>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-13031/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>154628_DAISY-37</sifra>
+        <velicina>37</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>154628_DAISY-38</sifra>
+        <velicina>38</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>154628_DAISY-39</sifra>
+        <velicina>39</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>154628_DAISY-40</sifra>
+        <velicina>40</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>154628_DAISY-41</sifra>
+        <velicina>41</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>154628_DAISY-42</sifra>
+        <velicina>42</velicina>
+        <boja>sareno</boja>
+        <barkod></barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -176569,76 +176758,6 @@
         <boja>zelena</boja>
         <barkod>1100110655844</barkod>
         <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>LOTTO TENISICE NAHUNTA</naziv>
-    <sifra>2400340_BLACK</sifra>
-    <marka>LOTTO</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>39.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>39.00</cijenaZaJedinicuMjere>
-    <barkod>1100110662095, 1100110662033, 1100110662040, 1100110662057, 1100110662064, 1100110662071, 1100110662088</barkod>
-    <eanBarkod>1100110662095, 1100110662033, 1100110662040, 1100110662057, 1100110662064, 1100110662071, 1100110662088</eanBarkod>
-    <baznaCijena>59.99</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>59.99</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Muško - Obuća - Tenisice</kategorija>
-    <poveznica>https://woolf.hr/tenisice-nahunta-proizvod-11797/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>2400340_BLACK-40</sifra>
-        <velicina>40</velicina>
-        <boja>crna</boja>
-        <barkod>1100110662095</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>2400340_BLACK-41</sifra>
-        <velicina>41</velicina>
-        <boja>crna</boja>
-        <barkod>1100110662033</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>2400340_BLACK-42</sifra>
-        <velicina>42</velicina>
-        <boja>crna</boja>
-        <barkod>1100110662040</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>2400340_BLACK-43</sifra>
-        <velicina>43</velicina>
-        <boja>crna</boja>
-        <barkod>1100110662057</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>2400340_BLACK-44</sifra>
-        <velicina>44</velicina>
-        <boja>crna</boja>
-        <barkod>1100110662064</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>2400340_BLACK-45</sifra>
-        <velicina>45</velicina>
-        <boja>crna</boja>
-        <barkod>1100110662071</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>2400340_BLACK-46</sifra>
-        <velicina>46</velicina>
-        <boja>crna</boja>
-        <barkod>1100110662088</barkod>
-        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -224175,7 +224294,7 @@
         <velicina>43-44</velicina>
         <boja>crna</boja>
         <barkod>1100110716415</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5971MED-45/46</sifra>
@@ -292691,7 +292810,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110538413</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -293006,14 +293125,14 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110538079</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_1BLACK-40</sifra>
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110538086</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_1BLACK-41</sifra>
@@ -293097,7 +293216,7 @@
         <velicina>42</velicina>
         <boja>plava</boja>
         <barkod>1100110538031</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -293538,7 +293657,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110538765</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4352_1FLOWER-42</sifra>
@@ -352601,6 +352720,34 @@
     <varijante>
       <varijanta>
         <sifra>S10287_2192_NAVY</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>TENISICE NAHUNTA</naziv>
+    <sifra>2400340_BLACK</sifra>
+    <marka>LOTTO</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>39.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>39.00</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>59.99</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>59.99</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Muško - Obuća - Tenisice</kategorija>
+    <poveznica>https://woolf.hr/tenisice-nahunta-proizvod-11797/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>2400340_BLACK</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod></barkod>
