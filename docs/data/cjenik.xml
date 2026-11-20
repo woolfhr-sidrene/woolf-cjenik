@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik vrsta="ROBA" datumVrijeme="2026-11-20T08:50:48.810Z" valuta="EUR">
+<cjenik vrsta="ROBA" datumVrijeme="2026-11-20T09:50:45.768Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <oib>45374311169</oib>
@@ -8,7 +8,7 @@
     <oznakaProdajnogMjesta>160</oznakaProdajnogMjesta>
     <brojSkladista>02</brojSkladista>
     <vrstaCjenika>ROBA</vrstaCjenika>
-    <brojPohrane>66</brojPohrane>
+    <brojPohrane>67</brojPohrane>
     <datumCjenika>20. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
