@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cjenik vrsta="USLUGE" datumVrijeme="2026-11-21T06:05:40.526Z" valuta="EUR">
+  <zaglavlje>
+    <naziv>Woolf d.o.o.</naziv>
+    <oib>45374311169</oib>
+    <adresaSjedista>Ograda 14, Vratišinec</adresaSjedista>
+    <oblikProdajnogMjesta>Webshop</oblikProdajnogMjesta>
+    <oznakaProdajnogMjesta>160</oznakaProdajnogMjesta>
+    <brojSkladista>02</brojSkladista>
+    <vrstaCjenika>USLUGE</vrstaCjenika>
+    <brojPohrane>68</brojPohrane>
+    <datumCjenika>21. 11. 2026.</datumCjenika>
+  </zaglavlje>
+  <usluga>
+    <naziv>Dostava – BOX NOW Paketomat</naziv>
+    <maloprodajnaCijena>1.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <baznaCijena>2.49</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <napomena>Besplatno za narudžbe iznad 70,00 €; samo za narudžbe do 400,00 €</napomena>
+  </usluga>
+  <usluga>
+    <naziv>MBE dostava na kućnu adresu</naziv>
+    <maloprodajnaCijena>4.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <baznaCijena>4.99</baznaCijena>
+    <datumBazneCijene>2026-11-20</datumBazneCijene>
+    <napomena>Besplatno za narudžbe iznad 70,00 €</napomena>
+  </usluga>
+  <usluga>
+    <naziv>Dostava GLS na kućnu adresu</naziv>
+    <maloprodajnaCijena>5.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <baznaCijena>5.99</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <napomena>Besplatno za narudžbe iznad 70,00 €</napomena>
+  </usluga>
+  <usluga>
+    <naziv>Dostava – GLS Paketomat</naziv>
+    <maloprodajnaCijena>1.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <baznaCijena>3.49</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <napomena>Besplatno za narudžbe iznad 70,00 €</napomena>
+  </usluga>
+  <usluga>
+    <naziv>Dostava DPD na kućnu adresu</naziv>
+    <maloprodajnaCijena>5.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <baznaCijena>4.99</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <napomena>Besplatno za narudžbe iznad 70,00 €</napomena>
+  </usluga>
+  <usluga>
+    <naziv>Osobno preuzimanje u skladištu</naziv>
+    <maloprodajnaCijena>0.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <baznaCijena>0.00</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <napomena></napomena>
+  </usluga>
+  <usluga>
+    <naziv>Dodatak za plaćanje pouzećem (Gotovinom prilikom pouzeća)</naziv>
+    <maloprodajnaCijena>0.81</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <baznaCijena>0.81</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <napomena></napomena>
+  </usluga>
+  <usluga>
+    <naziv>Dodatak za plaćanje pouzećem (Pouzećem BOX NOW)</naziv>
+    <maloprodajnaCijena>0.81</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <baznaCijena>0.81</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <napomena>Moguće za narudžbe do 200,00 €</napomena>
+  </usluga>
+  <usluga>
+    <naziv>Doplata za PayPal plaćanje (Paypal)</naziv>
+    <maloprodajnaCijena>1.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <baznaCijena>1.99</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <napomena></napomena>
+  </usluga>
+</cjenik>
