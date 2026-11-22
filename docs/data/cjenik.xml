@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik vrsta="ROBA" datumVrijeme="2026-11-21T06:05:40.526Z" valuta="EUR">
+<cjenik vrsta="ROBA" datumVrijeme="2026-11-22T06:05:29.485Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <oib>45374311169</oib>
@@ -8,8 +8,8 @@
     <oznakaProdajnogMjesta>160</oznakaProdajnogMjesta>
     <brojSkladista>02</brojSkladista>
     <vrstaCjenika>ROBA</vrstaCjenika>
-    <brojPohrane>68</brojPohrane>
-    <datumCjenika>21. 11. 2026.</datumCjenika>
+    <brojPohrane>69</brojPohrane>
+    <datumCjenika>22. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -115337,6 +115337,62 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>JIMMY BX7 Pro MAX ručni UV usisivač - sivi</naziv>
+    <sifra>sm-001328</sifra>
+    <marka>JIMMY</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>169.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>169.00</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>169.00</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>169.00</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/jimmy-bx7-pro-max-rucni-uv-usisivac-sivi-proizvod-12618/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001328</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>JIMMY BX7 PRO ručni UV usisivač - sivi</naziv>
+    <sifra>sm-001022</sifra>
+    <marka>JIMMY</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>119.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>119.00</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>149.00</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>149.00</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/jimmy-bx7-pro-rucni-uv-usisivac-sivi-proizvod-12587/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001022</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>Jimmy HW9 bežični usisivač za suho i mokro čišćenje</naziv>
     <sifra>sm-001209</sifra>
     <marka>JIMMY</marka>
@@ -115505,34 +115561,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>JIMMY JIMMY BX7 Pro MAX ručni UV usisivač - sivi</naziv>
-    <sifra>sm-001328</sifra>
-    <marka>JIMMY</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>169.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>169.00</cijenaZaJedinicuMjere>
-    <barkod>6946499314416</barkod>
-    <eanBarkod>6946499314416</eanBarkod>
-    <baznaCijena>169.00</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>169.00</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/jimmy-bx7-pro-max-rucni-uv-usisivac-sivi-proizvod-12618/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001328</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6946499314416</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>JIMMY JIMMY BX7 PRO ručni UV usisivač - plavi</naziv>
     <sifra>sm-000787</sifra>
     <marka>JIMMY</marka>
@@ -115556,34 +115584,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6946499310975</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>JIMMY JIMMY BX7 PRO ručni UV usisivač - sivi</naziv>
-    <sifra>sm-001022</sifra>
-    <marka>JIMMY</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>119.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>119.00</cijenaZaJedinicuMjere>
-    <barkod>6946499311330</barkod>
-    <eanBarkod>6946499311330</eanBarkod>
-    <baznaCijena>149.00</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>149.00</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/jimmy-bx7-pro-rucni-uv-usisivac-sivi-proizvod-12587/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001022</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6946499311330</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -186795,7 +186795,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF380_WHITE-39</sifra>
@@ -212176,6 +212176,34 @@
   </proizvod>
   <proizvod>
     <naziv>NEPROPUSNE BUCE</naziv>
+    <sifra>ERIC_ORANGE_BLUE</sifra>
+    <marka>WOOLF</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>24.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>35.70</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>35.70</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Dječje - Obuća - Buce</kategorija>
+    <poveznica>https://woolf.hr/nepropusne-buce-proizvod-7193/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>ERIC_ORANGE_BLUE</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>NEPROPUSNE BUCE</naziv>
     <sifra>6501656_PURPLE</sifra>
     <marka>WOOLF</marka>
     <netoKolicina></netoKolicina>
@@ -227157,7 +227185,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>0319_BLACK-40</sifra>
@@ -292985,7 +293013,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110538383</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1BLACK-40</sifra>
@@ -387597,139 +387625,6 @@
         <velicina>35</velicina>
         <boja>pink</boja>
         <barkod>1100110532800</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>WOOLF NEPROPUSNE BUCE</naziv>
-    <sifra>ERIC_ORANGE_BLUE</sifra>
-    <marka>WOOLF</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>24.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
-    <barkod></barkod>
-    <eanBarkod></eanBarkod>
-    <baznaCijena>35.70</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>35.70</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Dječje - Obuća - Buce</kategorija>
-    <poveznica>https://woolf.hr/nepropusne-buce-proizvod-7193/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-20</sifra>
-        <velicina>20</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-21</sifra>
-        <velicina>21</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-22</sifra>
-        <velicina>22</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-23</sifra>
-        <velicina>23</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-24</sifra>
-        <velicina>24</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-25</sifra>
-        <velicina>25</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-26</sifra>
-        <velicina>26</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-27</sifra>
-        <velicina>27</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-28</sifra>
-        <velicina>28</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-29</sifra>
-        <velicina>29</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-30</sifra>
-        <velicina>30</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-31</sifra>
-        <velicina>31</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-32</sifra>
-        <velicina>32</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-33</sifra>
-        <velicina>33</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-34</sifra>
-        <velicina>34</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>ERIC_ORANGE_BLUE-35</sifra>
-        <velicina>35</velicina>
-        <boja>narancasta]]&gt;&lt;![CDATA[plava</boja>
-        <barkod></barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
