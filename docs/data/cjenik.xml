@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik vrsta="ROBA" datumVrijeme="2026-11-22T06:05:29.485Z" valuta="EUR">
+<cjenik vrsta="ROBA" datumVrijeme="2026-11-23T06:05:31.298Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <oib>45374311169</oib>
@@ -8,8 +8,8 @@
     <oznakaProdajnogMjesta>160</oznakaProdajnogMjesta>
     <brojSkladista>02</brojSkladista>
     <vrstaCjenika>ROBA</vrstaCjenika>
-    <brojPohrane>69</brojPohrane>
-    <datumCjenika>22. 11. 2026.</datumCjenika>
+    <brojPohrane>70</brojPohrane>
+    <datumCjenika>23. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -4113,6 +4113,34 @@
     <varijante>
       <varijanta>
         <sifra>M202_LEPTIR</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>NPF352_A25</sifra>
+    <marka>NALLAN</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>24.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>26.90</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>26.90</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12761/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>NPF352_A25</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod></barkod>
@@ -38367,7 +38395,7 @@
         <velicina>37</velicina>
         <boja>sareno</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_LEPTIR_B-38</sifra>
@@ -42651,7 +42679,7 @@
         <velicina>36</velicina>
         <boja>crna</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_BLACKWHT-37</sifra>
@@ -75887,7 +75915,7 @@
         <velicina>40</velicina>
         <boja>broncana</boja>
         <barkod>1100110715678</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_300_BRONZE-41</sifra>
@@ -115337,62 +115365,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>JIMMY BX7 Pro MAX ručni UV usisivač - sivi</naziv>
-    <sifra>sm-001328</sifra>
-    <marka>JIMMY</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>169.00</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>169.00</cijenaZaJedinicuMjere>
-    <barkod></barkod>
-    <eanBarkod></eanBarkod>
-    <baznaCijena>169.00</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>169.00</redovnaCijenaPrijeAkcije>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/jimmy-bx7-pro-max-rucni-uv-usisivac-sivi-proizvod-12618/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001328</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>JIMMY BX7 PRO ručni UV usisivač - sivi</naziv>
-    <sifra>sm-001022</sifra>
-    <marka>JIMMY</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>119.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>119.00</cijenaZaJedinicuMjere>
-    <barkod></barkod>
-    <eanBarkod></eanBarkod>
-    <baznaCijena>149.00</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>149.00</redovnaCijenaPrijeAkcije>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/jimmy-bx7-pro-rucni-uv-usisivac-sivi-proizvod-12587/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001022</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>Jimmy HW9 bežični usisivač za suho i mokro čišćenje</naziv>
     <sifra>sm-001209</sifra>
     <marka>JIMMY</marka>
@@ -115561,6 +115533,34 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>JIMMY JIMMY BX7 Pro MAX ručni UV usisivač - sivi</naziv>
+    <sifra>sm-001328</sifra>
+    <marka>JIMMY</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>169.00</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>169.00</cijenaZaJedinicuMjere>
+    <barkod>6946499314416</barkod>
+    <eanBarkod>6946499314416</eanBarkod>
+    <baznaCijena>169.00</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>169.00</redovnaCijenaPrijeAkcije>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/jimmy-bx7-pro-max-rucni-uv-usisivac-sivi-proizvod-12618/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001328</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>6946499314416</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>JIMMY JIMMY BX7 PRO ručni UV usisivač - plavi</naziv>
     <sifra>sm-000787</sifra>
     <marka>JIMMY</marka>
@@ -115584,6 +115584,34 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6946499310975</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>JIMMY JIMMY BX7 PRO ručni UV usisivač - sivi</naziv>
+    <sifra>sm-001022</sifra>
+    <marka>JIMMY</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>119.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>119.00</cijenaZaJedinicuMjere>
+    <barkod>6946499311330</barkod>
+    <eanBarkod>6946499311330</eanBarkod>
+    <baznaCijena>149.00</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>149.00</redovnaCijenaPrijeAkcije>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/jimmy-bx7-pro-rucni-uv-usisivac-sivi-proizvod-12587/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001022</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>6946499311330</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -165543,7 +165571,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110507709</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>900_1BLACK-42</sifra>
@@ -165739,7 +165767,7 @@
         <velicina>39</velicina>
         <boja>plava</boja>
         <barkod>1100110474834</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>902_BLUE-40</sifra>
@@ -166180,7 +166208,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110495624</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_BLACK-39</sifra>
@@ -166782,7 +166810,7 @@
         <velicina>38</velicina>
         <boja>zelena</boja>
         <barkod>1100110658586</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2022_N_MINT-39</sifra>
@@ -169995,7 +170023,7 @@
         <velicina>41</velicina>
         <boja>sareno</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>154030_STYLE-42</sifra>
@@ -170877,7 +170905,7 @@
         <velicina>38</velicina>
         <boja>plava</boja>
         <barkod>1100110713629</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>6204_BLUE-39</sifra>
@@ -185982,76 +186010,6 @@
         <sifra>NPF352_A24-42</sifra>
         <velicina>42</velicina>
         <boja>bez</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>NALLAN ANATOMSKE KLOMPE</naziv>
-    <sifra>NPF352_A25</sifra>
-    <marka>NALLAN</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>24.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
-    <barkod></barkod>
-    <eanBarkod></eanBarkod>
-    <baznaCijena>26.90</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>26.90</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12761/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>NPF352_A25-36</sifra>
-        <velicina>36</velicina>
-        <boja>bijela</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>NPF352_A25-37</sifra>
-        <velicina>37</velicina>
-        <boja>bijela</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>NPF352_A25-38</sifra>
-        <velicina>38</velicina>
-        <boja>bijela</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>NPF352_A25-39</sifra>
-        <velicina>39</velicina>
-        <boja>bijela</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>NPF352_A25-40</sifra>
-        <velicina>40</velicina>
-        <boja>bijela</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>NPF352_A25-41</sifra>
-        <velicina>41</velicina>
-        <boja>bijela</boja>
-        <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>NPF352_A25-42</sifra>
-        <velicina>42</velicina>
-        <boja>bijela</boja>
         <barkod></barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -227248,7 +227206,7 @@
         <velicina>39</velicina>
         <boja>bordo</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>0319_BORDO-40</sifra>
@@ -238987,34 +238945,6 @@
         <velicina></velicina>
         <boja>plava</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>NW ŽLICA ZA CIPELE 160mm</naziv>
-    <sifra>2008_RED</sifra>
-    <marka>NW</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>1.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>1.99</cijenaZaJedinicuMjere>
-    <barkod>1100110672834</barkod>
-    <eanBarkod>1100110672834</eanBarkod>
-    <baznaCijena>1.49</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>1.99</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
-    <poveznica>https://woolf.hr/zlica-za-cipele-160mm-proizvod-11986/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>2008_RED-XY</sifra>
-        <velicina></velicina>
-        <boja>crvena</boja>
-        <barkod>1100110672834</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -292943,7 +292873,7 @@
         <velicina>43</velicina>
         <boja>bijela</boja>
         <barkod>1100110538871</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>750_1WHITE-44</sifra>
@@ -293097,7 +293027,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>1100110538475</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -293139,7 +293069,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110538260</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1BLACK-40</sifra>
@@ -293279,7 +293209,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110538208</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1WHITE-40</sifra>
@@ -297717,7 +297647,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -309848,7 +309778,7 @@
         <velicina>60cm</velicina>
         <boja>pink</boja>
         <barkod>1100110309648</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>114_PINK-80cm</sifra>
@@ -394702,6 +394632,34 @@
         <velicina></velicina>
         <boja></boja>
         <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ŽLICA ZA CIPELE 160mm</naziv>
+    <sifra>2008_RED</sifra>
+    <marka>NW</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>1.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>1.99</cijenaZaJedinicuMjere>
+    <barkod>1100110672834</barkod>
+    <eanBarkod>1100110672834</eanBarkod>
+    <baznaCijena>1.49</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>1.99</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Dodaci - Žlice za cipele</kategorija>
+    <poveznica>https://woolf.hr/zlica-za-cipele-160mm-proizvod-11986/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>2008_RED</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod>1100110672834</barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>

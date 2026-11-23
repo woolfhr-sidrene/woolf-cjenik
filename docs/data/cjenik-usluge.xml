@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik vrsta="USLUGE" datumVrijeme="2026-11-22T06:05:29.485Z" valuta="EUR">
+<cjenik vrsta="USLUGE" datumVrijeme="2026-11-23T06:05:31.298Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <oib>45374311169</oib>
@@ -8,8 +8,8 @@
     <oznakaProdajnogMjesta>160</oznakaProdajnogMjesta>
     <brojSkladista>02</brojSkladista>
     <vrstaCjenika>USLUGE</vrstaCjenika>
-    <brojPohrane>69</brojPohrane>
-    <datumCjenika>22. 11. 2026.</datumCjenika>
+    <brojPohrane>70</brojPohrane>
+    <datumCjenika>23. 11. 2026.</datumCjenika>
   </zaglavlje>
   <usluga>
     <naziv>Dostava – BOX NOW Paketomat</naziv>

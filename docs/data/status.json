@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-22T06:05:29.485Z",
-  "sourceModifiedAt": "2026-11-22T04:15:03.000Z",
-  "googleSourceModifiedAt": "2026-11-22T05:30:28.000Z",
+  "generatedAt": "2026-11-23T06:05:31.298Z",
+  "sourceModifiedAt": "2026-11-23T04:19:03.000Z",
+  "googleSourceModifiedAt": "2026-11-23T05:30:34.000Z",
   "products": 12533,
-  "variants": 18802,
+  "variants": 18796,
   "jeftinijeProducts": 1348,
   "googleOnlyProducts": 11185,
   "googleOverlapProducts": 1348,
-  "availableVariants": 2930,
-  "unavailableVariants": 15872,
-  "missingBarcodes": 13005,
+  "availableVariants": 2914,
+  "unavailableVariants": 15882,
+  "missingBarcodes": 12997,
   "productsWithBrand": 12356,
   "productsWithoutBrand": 177,
   "currency": "EUR",
   "usluge": 9,
   "uslugeHash": "77a118e483cedbcb4b40106489b13cd6179462bd",
   "uslugeIzvor": "cPanel",
-  "uslugeProcitano": "2026-11-22T06:20:13+01:00"
+  "uslugeProcitano": "2026-11-23T06:20:14+01:00"
 }
