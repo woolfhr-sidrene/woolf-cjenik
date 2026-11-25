@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik vrsta="ROBA" datumVrijeme="2026-11-24T06:05:29.646Z" valuta="EUR">
+<cjenik vrsta="ROBA" datumVrijeme="2026-11-25T06:05:30.300Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <oib>45374311169</oib>
@@ -8,8 +8,8 @@
     <oznakaProdajnogMjesta>160</oznakaProdajnogMjesta>
     <brojSkladista>02</brojSkladista>
     <vrstaCjenika>ROBA</vrstaCjenika>
-    <brojPohrane>71</brojPohrane>
-    <datumCjenika>24. 11. 2026.</datumCjenika>
+    <brojPohrane>72</brojPohrane>
+    <datumCjenika>25. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -3661,7 +3661,7 @@
         <velicina>40</velicina>
         <boja>crvena</boja>
         <barkod>1100110701060</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>BORKUM_RED-41</sifra>
@@ -42756,7 +42756,7 @@
         <velicina>37</velicina>
         <boja>zlatna</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_GOLDWHT-38</sifra>
@@ -51751,41 +51751,6 @@
         <velicina>39</velicina>
         <boja>pink</boja>
         <barkod>1100110712752</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>CHAMPION RUKSAK</naziv>
-    <sifra>CHE243M101_01</sifra>
-    <marka>CHAMPION</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>34.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>34.99</cijenaZaJedinicuMjere>
-    <barkod></barkod>
-    <eanBarkod></eanBarkod>
-    <baznaCijena>38.99</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>38.99</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Dodaci - Ruksaci</kategorija>
-    <poveznica>https://woolf.hr/ruksak-proizvod-11212/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>CHE243M101_01-M</sifra>
-        <velicina>m</velicina>
-        <boja>crna</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>CHE243M101_01-XY</sifra>
-        <velicina></velicina>
-        <boja>crna</boja>
-        <barkod></barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -77035,7 +77000,7 @@
         <velicina>46</velicina>
         <boja>bijela</boja>
         <barkod>1100110715616</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -122702,69 +122667,6 @@
   </proizvod>
   <proizvod>
     <naziv>KAPPA TREKKING GLEŽNJAČE</naziv>
-    <sifra>15K0012002_BEIGE</sifra>
-    <marka>KAPPA</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>63.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>63.99</cijenaZaJedinicuMjere>
-    <barkod>1100110679376, 1100110679383, 1100110679390</barkod>
-    <eanBarkod>1100110679376, 1100110679383, 1100110679390</eanBarkod>
-    <baznaCijena>69.99</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>69.99</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Gležnjače</kategorija>
-    <poveznica>https://woolf.hr/trekking-gleznjace-proizvod-12083/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>15K0012002_BEIGE-37</sifra>
-        <velicina>37</velicina>
-        <boja>bez</boja>
-        <barkod>1100110679376</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>15K0012002_BEIGE-38</sifra>
-        <velicina>38</velicina>
-        <boja>bez</boja>
-        <barkod>1100110679383</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>15K0012002_BEIGE-39</sifra>
-        <velicina>39</velicina>
-        <boja>bez</boja>
-        <barkod>1100110679390</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>15K0012002_BEIGE-40</sifra>
-        <velicina>40</velicina>
-        <boja>bez</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>15K0012002_BEIGE-41</sifra>
-        <velicina>41</velicina>
-        <boja>bez</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>15K0012002_BEIGE-42</sifra>
-        <velicina>42</velicina>
-        <boja>bez</boja>
-        <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>KAPPA TREKKING GLEŽNJAČE</naziv>
     <sifra>15K0313006_1NAVY</sifra>
     <marka>KAPPA</marka>
     <netoKolicina></netoKolicina>
@@ -162281,7 +162183,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod>1100110679093</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>300_WHITE-38</sifra>
@@ -162603,7 +162505,7 @@
         <velicina>46</velicina>
         <boja>crna</boja>
         <barkod>1100110474551</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>700_M_BLACK-47</sifra>
@@ -166362,7 +166264,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110475244</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_WHITE-39</sifra>
@@ -168028,7 +167930,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110490186</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5001_WHITE-41</sifra>
@@ -169134,7 +169036,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110025647</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41wht-40</sifra>
@@ -373734,6 +373636,34 @@
     <varijante>
       <varijanta>
         <sifra>15K0313005_NAVY</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>TREKKING GLEŽNJAČE</naziv>
+    <sifra>15K0012002_BEIGE</sifra>
+    <marka>KAPPA</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>63.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>63.99</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>69.99</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>69.99</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Gležnjače</kategorija>
+    <poveznica>https://woolf.hr/trekking-gleznjace-proizvod-12083/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>15K0012002_BEIGE</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod></barkod>
