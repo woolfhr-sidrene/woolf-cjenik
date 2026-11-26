@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik vrsta="ROBA" datumVrijeme="2026-11-25T06:05:30.300Z" valuta="EUR">
+<cjenik vrsta="ROBA" datumVrijeme="2026-11-26T06:05:35.310Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <oib>45374311169</oib>
@@ -8,8 +8,8 @@
     <oznakaProdajnogMjesta>160</oznakaProdajnogMjesta>
     <brojSkladista>02</brojSkladista>
     <vrstaCjenika>ROBA</vrstaCjenika>
-    <brojPohrane>72</brojPohrane>
-    <datumCjenika>25. 11. 2026.</datumCjenika>
+    <brojPohrane>73</brojPohrane>
+    <datumCjenika>26. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -4057,6 +4057,34 @@
     <varijante>
       <varijanta>
         <sifra>20337_PINK</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ANATOMSKE KLOMPE</naziv>
+    <sifra>M202_FLOWER</sifra>
+    <marka>LEONARDA COMFORT</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>22.49</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>22.49</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>24.99</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>24.99</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12766/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>M202_FLOWER</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod></barkod>
@@ -38360,7 +38388,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_HAPPY_W-41</sifra>
@@ -42560,7 +42588,7 @@
         <velicina>39</velicina>
         <boja>srebrna</boja>
         <barkod>1100110697110</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_B_SILVER-40</sifra>
@@ -42657,6 +42685,76 @@
   </proizvod>
   <proizvod>
     <naziv>BIANCOMOLINA KLOMPE S JASTUKOM</naziv>
+    <sifra>AA01_BLACKPUDER</sifra>
+    <marka>BIANCOMOLINA</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>56.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>56.99</cijenaZaJedinicuMjere>
+    <barkod>1100110707741, 1100110707758, 1100110707765, 1100110707772, 1100110707789, 1100110707796, 1100110707802</barkod>
+    <eanBarkod>1100110707741, 1100110707758, 1100110707765, 1100110707772, 1100110707789, 1100110707796, 1100110707802</eanBarkod>
+    <baznaCijena>62.99</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>62.99</redovnaCijenaPrijeAkcije>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-12773/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>AA01_BLACKPUDER-36</sifra>
+        <velicina>36</velicina>
+        <boja>crna</boja>
+        <barkod>1100110707741</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_BLACKPUDER-37</sifra>
+        <velicina>37</velicina>
+        <boja>crna</boja>
+        <barkod>1100110707758</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_BLACKPUDER-38</sifra>
+        <velicina>38</velicina>
+        <boja>crna</boja>
+        <barkod>1100110707765</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_BLACKPUDER-39</sifra>
+        <velicina>39</velicina>
+        <boja>crna</boja>
+        <barkod>1100110707772</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_BLACKPUDER-40</sifra>
+        <velicina>40</velicina>
+        <boja>crna</boja>
+        <barkod>1100110707789</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_BLACKPUDER-41</sifra>
+        <velicina>41</velicina>
+        <boja>crna</boja>
+        <barkod>1100110707796</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>AA01_BLACKPUDER-42</sifra>
+        <velicina>42</velicina>
+        <boja>crna</boja>
+        <barkod>1100110707802</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>BIANCOMOLINA KLOMPE S JASTUKOM</naziv>
     <sifra>AA01_BLACKWHT</sifra>
     <marka>BIANCOMOLINA</marka>
     <netoKolicina></netoKolicina>
@@ -42707,7 +42805,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_BLACKWHT-41</sifra>
@@ -42721,7 +42819,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -42756,14 +42854,14 @@
         <velicina>37</velicina>
         <boja>zlatna</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_GOLDWHT-38</sifra>
         <velicina>38</velicina>
         <boja>zlatna</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_GOLDWHT-39</sifra>
@@ -43036,14 +43134,14 @@
         <velicina>37</velicina>
         <boja></boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_PERLAWHT-38</sifra>
         <velicina>38</velicina>
         <boja></boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_PERLAWHT-39</sifra>
@@ -43316,35 +43414,35 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_WHITEG-38</sifra>
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_WHITEG-39</sifra>
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_WHITEG-40</sifra>
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_WHITEG-41</sifra>
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_WHITEG-42</sifra>
@@ -46347,7 +46445,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA200_WHITERWH-40</sifra>
@@ -46599,7 +46697,7 @@
         <velicina>45</velicina>
         <boja></boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PC_5002_BLACK-46</sifra>
@@ -47786,6 +47884,34 @@
     <varijante>
       <varijanta>
         <sifra>WLFP1382025_NAVY</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>BUCE</naziv>
+    <sifra>WLFP1372025_PINK</sifra>
+    <marka>NW</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>24.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>29.99</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>29.99</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Dječje - Obuća - Buce</kategorija>
+    <poveznica>https://woolf.hr/buce-proizvod-12304/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>WLFP1372025_PINK</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod></barkod>
@@ -61901,7 +62027,7 @@
         <velicina>42</velicina>
         <boja>crna</boja>
         <barkod>1100110025579</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>SAN_CRNE-43</sifra>
@@ -72149,7 +72275,7 @@
         <velicina>37</velicina>
         <boja>siva</boja>
         <barkod>1100110667083</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_GREY-38</sifra>
@@ -72373,7 +72499,7 @@
         <velicina>39</velicina>
         <boja>crvena</boja>
         <barkod>1100110667380</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_RED-40</sifra>
@@ -74282,34 +74408,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>ESSKIMO ZIMSKA KAPA VISTA – BORDO</naziv>
-    <sifra>dk-VISTA_BORDO</sifra>
-    <marka>ESSKIMO</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>12.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
-    <barkod></barkod>
-    <eanBarkod></eanBarkod>
-    <baznaCijena>12.99</baznaCijena>
-    <datumBazneCijene>2026-11-06</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>12.99</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Muško - Odjeća - Kape</kategorija>
-    <poveznica>https://woolf.hr/zimska-kapa-vista-bordo-proizvod-13009/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>dk-VISTA_BORDO</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>ESSKIMO ZIMSKA KAPA VISTA – CRNA</naziv>
     <sifra>dk-VISTA_CRNA</sifra>
     <marka>ESSKIMO</marka>
@@ -74414,6 +74512,34 @@
     <varijante>
       <varijanta>
         <sifra>dk-VISTA_SIVA</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>ESSKIMO ZIMSKA KAPA VISTA – SMEĐA</naziv>
+    <sifra>dk-VISTA_SMEDA</sifra>
+    <marka>ESSKIMO</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>12.99</baznaCijena>
+    <datumBazneCijene>2026-11-06</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>12.99</redovnaCijenaPrijeAkcije>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Muško - Odjeća - Kape</kategorija>
+    <poveznica>https://woolf.hr/zimska-kapa-vista-smeda-proizvod-13004/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>dk-VISTA_SMEDA</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod></barkod>
@@ -75859,7 +75985,7 @@
         <velicina>37</velicina>
         <boja>broncana</boja>
         <barkod>1100110715647</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_300_BRONZE-38</sifra>
@@ -99407,7 +99533,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>H352_BLACKDOG-41</sifra>
@@ -118032,83 +118158,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>KangaROOS TENISICE K WATCH JET</naziv>
-    <sifra>39212_BLACK</sifra>
-    <marka>KangaROOS</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>39.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>39.00</cijenaZaJedinicuMjere>
-    <barkod>1100110662798, 1100110662804, 1100110662811, 1100110662828, 1100110662835, 1100110662842, 1100110662859, 1100110662866</barkod>
-    <eanBarkod>1100110662798, 1100110662804, 1100110662811, 1100110662828, 1100110662835, 1100110662842, 1100110662859, 1100110662866</eanBarkod>
-    <baznaCijena>50.99</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>50.99</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Muško - Obuća - Tenisice</kategorija>
-    <poveznica>https://woolf.hr/tenisice-k-watch-jet-proizvod-11805/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>39212_BLACK-40</sifra>
-        <velicina>40</velicina>
-        <boja>crna</boja>
-        <barkod>1100110662798</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>39212_BLACK-41</sifra>
-        <velicina>41</velicina>
-        <boja>crna</boja>
-        <barkod>1100110662804</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>39212_BLACK-42</sifra>
-        <velicina>42</velicina>
-        <boja>crna</boja>
-        <barkod>1100110662811</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>39212_BLACK-43</sifra>
-        <velicina>43</velicina>
-        <boja>crna</boja>
-        <barkod>1100110662828</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>39212_BLACK-44</sifra>
-        <velicina>44</velicina>
-        <boja>crna</boja>
-        <barkod>1100110662835</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>39212_BLACK-45</sifra>
-        <velicina>45</velicina>
-        <boja>crna</boja>
-        <barkod>1100110662842</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>39212_BLACK-46</sifra>
-        <velicina>46</velicina>
-        <boja>crna</boja>
-        <barkod>1100110662859</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>39212_BLACK-47</sifra>
-        <velicina>47</velicina>
-        <boja>crna</boja>
-        <barkod>1100110662866</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>KangaROOS TENISICE MILES EV</naziv>
     <sifra>10297_GREEN</sifra>
     <marka>KangaROOS</marka>
@@ -124772,34 +124821,6 @@
     <varijante>
       <varijanta>
         <sifra>AA01_GOLDPUDER</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>KLOMPE S JASTUKOM</naziv>
-    <sifra>AA01_BLACKPUDER</sifra>
-    <marka>BIANCOMOLINA</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>56.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>56.99</cijenaZaJedinicuMjere>
-    <barkod></barkod>
-    <eanBarkod></eanBarkod>
-    <baznaCijena>62.99</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>62.99</redovnaCijenaPrijeAkcije>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/klompe-s-jastukom-proizvod-12773/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>AA01_BLACKPUDER</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod></barkod>
@@ -162715,7 +162736,7 @@
         <velicina>45</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>701_M_WHT-46</sifra>
@@ -162813,14 +162834,14 @@
         <velicina>36</velicina>
         <boja>zelena</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>991_GREENPERLATO-37</sifra>
         <velicina>37</velicina>
         <boja>zelena</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>991_GREENPERLATO-38</sifra>
@@ -162841,14 +162862,14 @@
         <velicina>40</velicina>
         <boja>zelena</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>991_GREENPERLATO-41</sifra>
         <velicina>41</velicina>
         <boja>zelena</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -164129,7 +164150,7 @@
         <velicina>45</velicina>
         <boja>bijela</boja>
         <barkod>1100110482280</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>V202_M_WHITE-46</sifra>
@@ -164262,7 +164283,7 @@
         <velicina>41</velicina>
         <boja>bijela</boja>
         <barkod>1100110474490</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -165459,7 +165480,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110507686</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>900_1BLACK-40</sifra>
@@ -165473,7 +165494,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110507709</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>900_1BLACK-42</sifra>
@@ -165795,7 +165816,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110708991</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>902_WHITE-40</sifra>
@@ -165928,7 +165949,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>912_N_BLACK-41</sifra>
@@ -166103,28 +166124,28 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110495617</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_BLACK-38</sifra>
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110495624</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_BLACK-39</sifra>
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110495631</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_BLACK-40</sifra>
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110495648</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_BLACK-41</sifra>
@@ -166187,7 +166208,7 @@
         <velicina>38</velicina>
         <boja>srebrna</boja>
         <barkod>1100110476098</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_PERLA-39</sifra>
@@ -166278,7 +166299,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110475268</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>950_WHITE-41</sifra>
@@ -166292,7 +166313,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>1100110658555</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -166663,7 +166684,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110658722</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2022_N_BLACK-41</sifra>
@@ -166712,7 +166733,7 @@
         <velicina>38</velicina>
         <boja>zelena</boja>
         <barkod>1100110658586</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2022_N_MINT-39</sifra>
@@ -166726,7 +166747,7 @@
         <velicina>40</velicina>
         <boja>zelena</boja>
         <barkod>1100110658609</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2022_N_MINT-41</sifra>
@@ -167146,14 +167167,14 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110658265</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3300_N_BLACK-38</sifra>
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110658272</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3300_N_BLACK-39</sifra>
@@ -167167,14 +167188,14 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110658296</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3300_N_BLACK-41</sifra>
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod>1100110658302</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -167293,7 +167314,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110658470</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3300_N_WHITE-41</sifra>
@@ -167783,7 +167804,7 @@
         <velicina>37</velicina>
         <boja>srebrna</boja>
         <barkod>1100110490032</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5001_PERLA-38</sifra>
@@ -168056,7 +168077,7 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110659088</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>5002_N_PERLA-41</sifra>
@@ -168966,7 +168987,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod>1100110025715</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_36_41blk-40</sifra>
@@ -170051,7 +170072,7 @@
         <velicina>41</velicina>
         <boja>sareno</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>154628_DAISY-42</sifra>
@@ -170219,7 +170240,7 @@
         <velicina>38</velicina>
         <boja>sareno</boja>
         <barkod>1100110711441</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>203397_HEART-39</sifra>
@@ -170309,69 +170330,6 @@
         <sifra>M202_4_WHITE-42</sifra>
         <velicina>42</velicina>
         <boja>sareno</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>LEONARDA COMFORT ANATOMSKE KLOMPE</naziv>
-    <sifra>M202_FLOWER</sifra>
-    <marka>LEONARDA COMFORT</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>22.49</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>22.49</cijenaZaJedinicuMjere>
-    <barkod></barkod>
-    <eanBarkod></eanBarkod>
-    <baznaCijena>24.99</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>24.99</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Žensko - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/anatomske-klompe-proizvod-12766/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>M202_FLOWER-37</sifra>
-        <velicina>37</velicina>
-        <boja>cvjetna</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>M202_FLOWER-38</sifra>
-        <velicina>38</velicina>
-        <boja>cvjetna</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>M202_FLOWER-39</sifra>
-        <velicina>39</velicina>
-        <boja>cvjetna</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>M202_FLOWER-40</sifra>
-        <velicina>40</velicina>
-        <boja>cvjetna</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>M202_FLOWER-41</sifra>
-        <velicina>41</velicina>
-        <boja>cvjetna</boja>
-        <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>M202_FLOWER-42</sifra>
-        <velicina>42</velicina>
-        <boja>cvjetna</boja>
         <barkod></barkod>
         <dostupnost>Nedostupno</dostupnost>
       </varijanta>
@@ -181796,6 +181754,34 @@
   </proizvod>
   <proizvod>
     <naziv>MODNE ČIZME</naziv>
+    <sifra>WLFP47_GREY</sifra>
+    <marka>NW</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>12.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>26.41</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>26.41</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Dječje - Obuća - Čizme</kategorija>
+    <poveznica>https://woolf.hr/modne-cizme-proizvod-8227/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>WLFP47_GREY</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>MODNE ČIZME</naziv>
     <sifra>K60_GREY</sifra>
     <marka>NW</marka>
     <netoKolicina></netoKolicina>
@@ -186032,7 +186018,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110706959</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>NPF352_A27-40</sifra>
@@ -187171,6 +187157,34 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>Narwal Flow 2 robotski usisivač - sivi</naziv>
+    <sifra>sm-001496</sifra>
+    <marka>NARWAL</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>949.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>949.00</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>1299.00</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>1299.00</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
+    <poveznica>https://woolf.hr/narwal-flow-2-robotski-usisivac-sivi-proizvod-12798/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001496</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>NARWAL FLOW ROBOTSKI USISIVAČ - BIJELI</naziv>
     <sifra>001425</sifra>
     <marka>NARWAL</marka>
@@ -187219,6 +187233,34 @@
     <varijante>
       <varijanta>
         <sifra>sm-001586</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Narwal Freo S robotski usisivač - bijeli</naziv>
+    <sifra>sm-001424</sifra>
+    <marka>NARWAL</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>169.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>169.00</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>279.00</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>279.00</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
+    <poveznica>https://woolf.hr/narwal-freo-s-robotski-usisivac-bijeli-proizvod-12507/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001424</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod></barkod>
@@ -187423,34 +187465,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>NARWAL Narwal Flow 2 robotski usisivač - sivi</naziv>
-    <sifra>sm-001496</sifra>
-    <marka>NARWAL</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>949.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>949.00</cijenaZaJedinicuMjere>
-    <barkod>6972075738536</barkod>
-    <eanBarkod>6972075738536</eanBarkod>
-    <baznaCijena>1299.00</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>1299.00</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
-    <poveznica>https://woolf.hr/narwal-flow-2-robotski-usisivac-sivi-proizvod-12798/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001496</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6972075738536</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>NARWAL Narwal Flow robotski usisivač - bijeli</naziv>
     <sifra>sm-001425</sifra>
     <marka>NARWAL</marka>
@@ -187502,34 +187516,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6972075737713</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>NARWAL Narwal Freo S robotski usisivač - bijeli</naziv>
-    <sifra>sm-001424</sifra>
-    <marka>NARWAL</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>169.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>169.00</cijenaZaJedinicuMjere>
-    <barkod>6972075737232</barkod>
-    <eanBarkod>6972075737232</eanBarkod>
-    <baznaCijena>279.00</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>279.00</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Robotski usisavači</kategorija>
-    <poveznica>https://woolf.hr/narwal-freo-s-robotski-usisivac-bijeli-proizvod-12507/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001424</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6972075737232</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -223648,62 +223634,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>NW BUCE</naziv>
-    <sifra>WLFP1372025_PINK</sifra>
-    <marka>NW</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>24.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>24.99</cijenaZaJedinicuMjere>
-    <barkod></barkod>
-    <eanBarkod></eanBarkod>
-    <baznaCijena>29.99</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>29.99</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Dječje - Obuća - Buce</kategorija>
-    <poveznica>https://woolf.hr/buce-proizvod-12304/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>WLFP1372025_PINK-30</sifra>
-        <velicina>30</velicina>
-        <boja>pink</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP1372025_PINK-31</sifra>
-        <velicina>31</velicina>
-        <boja>pink</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP1372025_PINK-32</sifra>
-        <velicina>32</velicina>
-        <boja>pink</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP1372025_PINK-33</sifra>
-        <velicina>33</velicina>
-        <boja>pink</boja>
-        <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP1372025_PINK-34</sifra>
-        <velicina>34</velicina>
-        <boja>pink</boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>NW CARBON ULOŽAK</naziv>
     <sifra>WT023_600313</sifra>
     <marka>NW</marka>
@@ -230011,76 +229941,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>NW MODNE ČIZME</naziv>
-    <sifra>WLFP47_GREY</sifra>
-    <marka>NW</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>12.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>12.99</cijenaZaJedinicuMjere>
-    <barkod>1100110448927, 1100110448934, 1100110448941, 1100110448958, 1100110448965, 1100110448972, 1100110527356</barkod>
-    <eanBarkod>1100110448927, 1100110448934, 1100110448941, 1100110448958, 1100110448965, 1100110448972, 1100110527356</eanBarkod>
-    <baznaCijena>26.41</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>26.41</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Dječje - Obuća - Čizme</kategorija>
-    <poveznica>https://woolf.hr/modne-cizme-proizvod-8227/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>WLFP47_GREY-30</sifra>
-        <velicina>30</velicina>
-        <boja>siva</boja>
-        <barkod>1100110448927</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP47_GREY-31</sifra>
-        <velicina>31</velicina>
-        <boja>siva</boja>
-        <barkod>1100110448934</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP47_GREY-32</sifra>
-        <velicina>32</velicina>
-        <boja>siva</boja>
-        <barkod>1100110448941</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP47_GREY-33</sifra>
-        <velicina>33</velicina>
-        <boja>siva</boja>
-        <barkod>1100110448958</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP47_GREY-34</sifra>
-        <velicina>34</velicina>
-        <boja>siva</boja>
-        <barkod>1100110448965</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP47_GREY-35</sifra>
-        <velicina>35</velicina>
-        <boja>siva</boja>
-        <barkod>1100110448972</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>WLFP47_GREY-36</sifra>
-        <velicina>36</velicina>
-        <boja>siva</boja>
-        <barkod>1100110527356</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>NW NATIKAČE</naziv>
     <sifra>8940A_BLACKGREY</sifra>
     <marka>NW</marka>
@@ -231686,7 +231546,7 @@
         <velicina>25</velicina>
         <boja>plava</boja>
         <barkod>1100110465559</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502053_BLUE-26</sifra>
@@ -292880,7 +292740,7 @@
         <velicina>39</velicina>
         <boja>bijela</boja>
         <barkod>1100110538444</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1WHITE-40</sifra>
@@ -293090,7 +292950,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod>1100110538215</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1WHITE-41</sifra>
@@ -293356,7 +293216,7 @@
         <velicina>43</velicina>
         <boja>plava</boja>
         <barkod>1100110477057</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1772_BLUE-44</sifra>
@@ -340373,6 +340233,34 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>TENISICE  DEFENCE</naziv>
+    <sifra>UMF231M108_02</sifra>
+    <marka>UMBRO</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>29.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>29.99</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>42.99</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>42.99</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Muško - Obuća - Tenisice</kategorija>
+    <poveznica>https://woolf.hr/tenisice-defence-proizvod-12064/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>UMF231M108_02</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>TENISICE 1JUMP</naziv>
     <sifra>S31364_KK001</sifra>
     <marka>CHAMPION</marka>
@@ -349353,6 +349241,34 @@
     <varijante>
       <varijanta>
         <sifra>30128_BLACK</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>TENISICE K WATCH JET</naziv>
+    <sifra>39212_BLACK</sifra>
+    <marka>KangaROOS</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>39.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>39.00</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>50.99</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>50.99</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Muško - Obuća - Tenisice</kategorija>
+    <poveznica>https://woolf.hr/tenisice-k-watch-jet-proizvod-11805/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>39212_BLACK</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod></barkod>
@@ -372861,6 +372777,34 @@
   </proizvod>
   <proizvod>
     <naziv>TRAKA ZA TRČANJE</naziv>
+    <sifra>6500944BB</sifra>
+    <marka></marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>649.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>649.00</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>899.00</baznaCijena>
+    <datumBazneCijene>2026-11-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>899.00</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
+    <poveznica>https://woolf.hr/traka-za-trcanje-proizvod-13017/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>6500944BB</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>TRAKA ZA TRČANJE</naziv>
     <sifra>IMPACT_BLUE_B</sifra>
     <marka>THUNDER</marka>
     <netoKolicina></netoKolicina>
@@ -373220,34 +373164,6 @@
         <boja></boja>
         <barkod></barkod>
         <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>TRAKA ZA TRČANJE - NOSIVOST 130 KG</naziv>
-    <sifra>6500944BB</sifra>
-    <marka></marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>649.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>649.00</cijenaZaJedinicuMjere>
-    <barkod></barkod>
-    <eanBarkod></eanBarkod>
-    <baznaCijena>899.00</baznaCijena>
-    <datumBazneCijene>2026-11-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>899.00</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Trake za hodanje i trčanje</kategorija>
-    <poveznica>https://woolf.hr/traka-za-trcanje-proizvod-13017/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>6500944BB-XY</sifra>
-        <velicina></velicina>
-        <boja>bijela</boja>
-        <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -379219,83 +379135,6 @@
         <boja>crvena</boja>
         <barkod>1100110514455</barkod>
         <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>UMBRO TENISICE  DEFENCE</naziv>
-    <sifra>UMF231M108_02</sifra>
-    <marka>UMBRO</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>29.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>29.99</cijenaZaJedinicuMjere>
-    <barkod>1100110678126, 1100110678133, 1100110678140, 1100110678157, 1100110678164, 1100110678171, 1100110678188, 1100110678195</barkod>
-    <eanBarkod>1100110678126, 1100110678133, 1100110678140, 1100110678157, 1100110678164, 1100110678171, 1100110678188, 1100110678195</eanBarkod>
-    <baznaCijena>42.99</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>42.99</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Muško - Obuća - Tenisice</kategorija>
-    <poveznica>https://woolf.hr/tenisice-defence-proizvod-12064/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>UMF231M108_02-40</sifra>
-        <velicina>40</velicina>
-        <boja>plava</boja>
-        <barkod>1100110678126</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>UMF231M108_02-41</sifra>
-        <velicina>41</velicina>
-        <boja>plava</boja>
-        <barkod>1100110678133</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>UMF231M108_02-42</sifra>
-        <velicina>42</velicina>
-        <boja>plava</boja>
-        <barkod>1100110678140</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>UMF231M108_02-43</sifra>
-        <velicina>43</velicina>
-        <boja>plava</boja>
-        <barkod>1100110678157</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>UMF231M108_02-44</sifra>
-        <velicina>44</velicina>
-        <boja>plava</boja>
-        <barkod>1100110678164</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>UMF231M108_02-45</sifra>
-        <velicina>45</velicina>
-        <boja>plava</boja>
-        <barkod>1100110678171</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>UMF231M108_02-46</sifra>
-        <velicina>46</velicina>
-        <boja>plava</boja>
-        <barkod>1100110678188</barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-      <varijanta>
-        <sifra>UMF231M108_02-47</sifra>
-        <velicina>47</velicina>
-        <boja>plava</boja>
-        <barkod>1100110678195</barkod>
-        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -386582,7 +386421,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110624512</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>SABBAS_BLACK-39</sifra>
@@ -386596,7 +386435,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110624536</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>SABBAS_BLACK-41</sifra>
@@ -386624,14 +386463,14 @@
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>1100110230553</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>SABBAS_BLACK-45</sifra>
         <velicina>45</velicina>
         <boja>crna</boja>
         <barkod>1100110230560</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>SABBAS_BLACK-46</sifra>
@@ -389163,6 +389002,62 @@
     </varijante>
   </proizvod>
   <proizvod>
+    <naziv>YESOUL S3 - pametni magnetni sobni bicikl - bijeli</naziv>
+    <sifra>sm-001086</sifra>
+    <marka>YESOUL</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>279.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>279.00</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>399.00</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>399.00</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Sobni bicikli</kategorija>
+    <poveznica>https://woolf.hr/yesoul-s3-pametni-magnetni-sobni-bicikl-bijeli-proizvod-12592/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001086</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>YESOUL S3 - pametni magnetni sobni bicikl - crni</naziv>
+    <sifra>sm-001058</sifra>
+    <marka>YESOUL</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>279.00</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>279.00</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>399.00</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>399.00</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Sobni bicikli</kategorija>
+    <poveznica>https://woolf.hr/yesoul-s3-pametni-magnetni-sobni-bicikl-crni-proizvod-12565/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001058</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
     <naziv>YESOUL YESOUL A1 pametni sobni bicikl - crni</naziv>
     <sifra>sm-001323</sifra>
     <marka>YESOUL</marka>
@@ -389270,62 +389165,6 @@
         <velicina></velicina>
         <boja></boja>
         <barkod>6971300262471</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>YESOUL YESOUL S3 - pametni magnetni sobni bicikl - bijeli</naziv>
-    <sifra>sm-001086</sifra>
-    <marka>YESOUL</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>279.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>279.00</cijenaZaJedinicuMjere>
-    <barkod>6971300260989</barkod>
-    <eanBarkod>6971300260989</eanBarkod>
-    <baznaCijena>399.00</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>399.00</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Sobni bicikli</kategorija>
-    <poveznica>https://woolf.hr/yesoul-s3-pametni-magnetni-sobni-bicikl-bijeli-proizvod-12592/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001086</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971300260989</barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>YESOUL YESOUL S3 - pametni magnetni sobni bicikl - crni</naziv>
-    <sifra>sm-001058</sifra>
-    <marka>YESOUL</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>279.00</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>279.00</cijenaZaJedinicuMjere>
-    <barkod>6971300260217</barkod>
-    <eanBarkod>6971300260217</eanBarkod>
-    <baznaCijena>399.00</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>399.00</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Fitnes - SPRAVE I DODACI - Sprave - Sobni bicikli</kategorija>
-    <poveznica>https://woolf.hr/yesoul-s3-pametni-magnetni-sobni-bicikl-crni-proizvod-12565/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001058</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod>6971300260217</barkod>
         <dostupnost>Dostupno</dostupnost>
       </varijanta>
     </varijante>
@@ -389583,8 +389422,8 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>ZIMSKA KAPA VISTA – SMEĐA</naziv>
-    <sifra>dk-VISTA_SMEDA</sifra>
+    <naziv>ZIMSKA KAPA VISTA – BORDO</naziv>
+    <sifra>dk-VISTA_BORDO</sifra>
     <marka></marka>
     <netoKolicina></netoKolicina>
     <jedinicaMjere>kom</jedinicaMjere>
@@ -389599,10 +389438,10 @@
     <redovnaCijenaPrijeAkcije>12.99</redovnaCijenaPrijeAkcije>
     <dostupnost>Nedostupno</dostupnost>
     <kategorija>Muško - Odjeća - Kape</kategorija>
-    <poveznica>https://woolf.hr/zimska-kapa-vista-smeda-proizvod-13004/</poveznica>
+    <poveznica>https://woolf.hr/zimska-kapa-vista-bordo-proizvod-13009/</poveznica>
     <varijante>
       <varijanta>
-        <sifra>dk-VISTA_SMEDA</sifra>
+        <sifra>dk-VISTA_BORDO</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod></barkod>

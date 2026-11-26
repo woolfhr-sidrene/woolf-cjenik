@@ -1,9 +1,9 @@
 {
   "verzija": 1,
-  "generatedAt": "2026-11-25T06:20:13+01:00",
+  "generatedAt": "2026-11-26T06:50:15+01:00",
   "izvor": "Marker admin: Webshop › Načini dostave (Hrvatska) i Načini plaćanja (doplate)",
   "napomenaBazne": "Bazna cijena: cijena na dan 10. 9. 2026., a za uslugu uvedenu poslije cijena na dan uvođenja (NN 132/2026).",
-  "hash": "77a118e483cedbcb4b40106489b13cd6179462bd",
+  "hash": "ded68707a2620412199f59d8d3e9cbf4fe609e4a",
   "usluge": [
     {
       "kljuc": "dostava-19",
@@ -103,6 +103,17 @@
       "markerId": 4,
       "bazna": 1.99,
       "datumBazne": "2026-09-10"
+    },
+    {
+      "kljuc": "zamjena-32",
+      "vrsta": "zamjena",
+      "naziv": "Usluga zamjene artikla (Zamjena – BOX NOW)",
+      "cijena": 3,
+      "poseban": "NE",
+      "napomena": "Besplatno za narudžbe iznad 100.000,00 €",
+      "markerId": 32,
+      "bazna": 3,
+      "datumBazne": "2026-11-26"
     }
   ]
 }
