@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik vrsta="ROBA" datumVrijeme="2026-11-27T06:05:43.412Z" valuta="EUR">
+<cjenik vrsta="ROBA" datumVrijeme="2026-11-28T06:05:40.864Z" valuta="EUR">
   <zaglavlje>
     <naziv>Woolf d.o.o.</naziv>
     <oib>45374311169</oib>
@@ -8,8 +8,8 @@
     <oznakaProdajnogMjesta>160</oznakaProdajnogMjesta>
     <brojSkladista>02</brojSkladista>
     <vrstaCjenika>ROBA</vrstaCjenika>
-    <brojPohrane>74</brojPohrane>
-    <datumCjenika>27. 11. 2026.</datumCjenika>
+    <brojPohrane>75</brojPohrane>
+    <datumCjenika>28. 11. 2026.</datumCjenika>
   </zaglavlje>
   <proizvod>
     <naziv>40 U 1 MULTI FUNKCIONALNA SPRAVA ZA VJEŽBANJE</naziv>
@@ -3437,7 +3437,7 @@
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>BORKUM_BLACK-45</sifra>
@@ -3514,7 +3514,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>BORKUM_FLOWER-42</sifra>
@@ -38297,7 +38297,7 @@
         <velicina>39</velicina>
         <boja>crna</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_HAPPY_B-40</sifra>
@@ -38507,7 +38507,7 @@
         <velicina>37</velicina>
         <boja>crvena</boja>
         <barkod>1100110716866</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>M2026_RED-38</sifra>
@@ -42434,7 +42434,7 @@
         <velicina>41</velicina>
         <boja>srebrna</boja>
         <barkod>1100110361868</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>A06_SILVER_C-42</sifra>
@@ -43057,7 +43057,7 @@
         <velicina>40</velicina>
         <boja></boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_PERLAWHT-41</sifra>
@@ -43176,7 +43176,7 @@
         <velicina>37</velicina>
         <boja>srebrna</boja>
         <barkod>1100110713384</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA01_SILVERWHT-38</sifra>
@@ -44121,7 +44121,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -46074,7 +46074,7 @@
         <velicina>40</velicina>
         <boja>zlatna</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>AA200_GOLDWHT-41</sifra>
@@ -71820,7 +71820,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110667045</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_BLACK-41</sifra>
@@ -72030,7 +72030,7 @@
         <velicina>40</velicina>
         <boja>pink</boja>
         <barkod>1100110667465</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>JPF370_PINK-41</sifra>
@@ -75754,7 +75754,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>1100110591401</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -75880,7 +75880,7 @@
         <velicina>40</velicina>
         <boja>srebrna</boja>
         <barkod>1100110715746</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>D_312_PLUTASILVER-41</sifra>
@@ -78862,7 +78862,7 @@
         <velicina>42</velicina>
         <boja>sareno</boja>
         <barkod>1100110503534</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -78988,7 +78988,7 @@
         <velicina>42</velicina>
         <boja>sareno</boja>
         <barkod>1100110503473</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -79051,7 +79051,7 @@
         <velicina>42</velicina>
         <boja>crna]]&gt;&lt;![CDATA[cvjetna</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -116583,34 +116583,6 @@
     </varijante>
   </proizvod>
   <proizvod>
-    <naziv>JIMMY Originalna glava za Jimmy H9 Flex / H10 Flex / H10 Pro</naziv>
-    <sifra>sm-001139</sifra>
-    <marka>JIMMY</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>44.99</maloprodajnaCijena>
-    <posebanOblikProdaje>NE</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
-    <barkod></barkod>
-    <eanBarkod></eanBarkod>
-    <baznaCijena>44.99</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>44.99</redovnaCijenaPrijeAkcije>
-    <dostupnost>Dostupno</dostupnost>
-    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
-    <poveznica>https://woolf.hr/originalna-glava-za-jimmy-h9-flex-h10-flex-h10-pro-proizvod-12598/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>sm-001139</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
     <naziv>JIMMY Originalna glava za Jimmy JV85</naziv>
     <sifra>sm-000386</sifra>
     <marka>JIMMY</marka>
@@ -140489,34 +140461,6 @@
   </proizvod>
   <proizvod>
     <naziv>KOŽNE ANATOMSKE KLOMPE</naziv>
-    <sifra>1250_N_BLACK</sifra>
-    <marka>LEON</marka>
-    <netoKolicina></netoKolicina>
-    <jedinicaMjere>kom</jedinicaMjere>
-    <maloprodajnaCijena>39.99</maloprodajnaCijena>
-    <posebanOblikProdaje>DA</posebanOblikProdaje>
-    <cijenaZaJedinicuMjere>39.99</cijenaZaJedinicuMjere>
-    <barkod></barkod>
-    <eanBarkod></eanBarkod>
-    <baznaCijena>46.99</baznaCijena>
-    <datumBazneCijene>2026-09-10</datumBazneCijene>
-    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
-    <redovnaCijenaPrijeAkcije>46.99</redovnaCijenaPrijeAkcije>
-    <dostupnost>Nedostupno</dostupnost>
-    <kategorija>Muško - Obuća - Anatomska obuća - Klompe</kategorija>
-    <poveznica>https://woolf.hr/kozne-anatomske-klompe-proizvod-8721/</poveznica>
-    <varijante>
-      <varijanta>
-        <sifra>1250_N_BLACK</sifra>
-        <velicina></velicina>
-        <boja></boja>
-        <barkod></barkod>
-        <dostupnost>Nedostupno</dostupnost>
-      </varijanta>
-    </varijante>
-  </proizvod>
-  <proizvod>
-    <naziv>KOŽNE ANATOMSKE KLOMPE</naziv>
     <sifra>PU_100_N_MINT</sifra>
     <marka>LEON</marka>
     <netoKolicina></netoKolicina>
@@ -162372,7 +162316,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>500_WHITE-41</sifra>
@@ -166494,6 +166438,69 @@
   </proizvod>
   <proizvod>
     <naziv>LEON KOŽNE ANATOMSKE KLOMPE</naziv>
+    <sifra>1250_N_BLACK</sifra>
+    <marka>LEON</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>39.99</maloprodajnaCijena>
+    <posebanOblikProdaje>DA</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>39.99</cijenaZaJedinicuMjere>
+    <barkod>1100110473912, 1100110473929, 1100110473936, 1100110473943, 1100110473950, 1100110473967</barkod>
+    <eanBarkod>1100110473912, 1100110473929, 1100110473936, 1100110473943, 1100110473950, 1100110473967</eanBarkod>
+    <baznaCijena>46.99</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje>Akcija</nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>46.99</redovnaCijenaPrijeAkcije>
+    <dostupnost>Dostupno</dostupnost>
+    <kategorija>Muško - Obuća - Anatomska obuća - Klompe</kategorija>
+    <poveznica>https://woolf.hr/kozne-anatomske-klompe-proizvod-8721/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>1250_N_BLACK-36</sifra>
+        <velicina>36</velicina>
+        <boja>crna</boja>
+        <barkod>1100110473912</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>1250_N_BLACK-37</sifra>
+        <velicina>37</velicina>
+        <boja>crna</boja>
+        <barkod>1100110473929</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>1250_N_BLACK-38</sifra>
+        <velicina>38</velicina>
+        <boja>crna</boja>
+        <barkod>1100110473936</barkod>
+        <dostupnost>Dostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>1250_N_BLACK-39</sifra>
+        <velicina>39</velicina>
+        <boja>crna</boja>
+        <barkod>1100110473943</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>1250_N_BLACK-40</sifra>
+        <velicina>40</velicina>
+        <boja>crna</boja>
+        <barkod>1100110473950</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+      <varijanta>
+        <sifra>1250_N_BLACK-41</sifra>
+        <velicina>41</velicina>
+        <boja>crna</boja>
+        <barkod>1100110473967</barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>LEON KOŽNE ANATOMSKE KLOMPE</naziv>
     <sifra>2019_N_BLACK</sifra>
     <marka>LEON</marka>
     <netoKolicina></netoKolicina>
@@ -166656,7 +166663,7 @@
         <velicina>38</velicina>
         <boja>zelena</boja>
         <barkod>1100110658586</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>2022_N_MINT-39</sifra>
@@ -166677,7 +166684,7 @@
         <velicina>41</velicina>
         <boja>zelena</boja>
         <barkod>1100110658616</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -169190,7 +169197,7 @@
         <velicina>40</velicina>
         <boja>pink</boja>
         <barkod>1100110645531</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU_100_N_PERLA-41</sifra>
@@ -169323,7 +169330,7 @@
         <velicina>44</velicina>
         <boja>crna</boja>
         <barkod>1100110473769</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>PU100_M_BLACK-45</sifra>
@@ -170639,7 +170646,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110708045</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>6204_BLACK-41</sifra>
@@ -224014,7 +224021,7 @@
         <velicina>45-46</velicina>
         <boja>crna</boja>
         <barkod>1100110716422</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -226821,7 +226828,7 @@
         <velicina>41</velicina>
         <boja>crna</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -227024,7 +227031,7 @@
         <velicina>46</velicina>
         <boja>siva</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -238984,6 +238991,34 @@
     <varijante>
       <varijanta>
         <sifra>sm-466697</sifra>
+        <velicina></velicina>
+        <boja></boja>
+        <barkod></barkod>
+        <dostupnost>Nedostupno</dostupnost>
+      </varijanta>
+    </varijante>
+  </proizvod>
+  <proizvod>
+    <naziv>Originalna glava za Jimmy H9 Flex / H10 Flex / H10 Pro</naziv>
+    <sifra>sm-001139</sifra>
+    <marka>JIMMY</marka>
+    <netoKolicina></netoKolicina>
+    <jedinicaMjere>kom</jedinicaMjere>
+    <maloprodajnaCijena>44.99</maloprodajnaCijena>
+    <posebanOblikProdaje>NE</posebanOblikProdaje>
+    <cijenaZaJedinicuMjere>44.99</cijenaZaJedinicuMjere>
+    <barkod></barkod>
+    <eanBarkod></eanBarkod>
+    <baznaCijena>44.99</baznaCijena>
+    <datumBazneCijene>2026-09-10</datumBazneCijene>
+    <nazivPosebnogOblikaProdaje></nazivPosebnogOblikaProdaje>
+    <redovnaCijenaPrijeAkcije>44.99</redovnaCijenaPrijeAkcije>
+    <dostupnost>Nedostupno</dostupnost>
+    <kategorija>Uređaji - TEHNIKA - Pametan dom - Ručni usisavači</kategorija>
+    <poveznica>https://woolf.hr/originalna-glava-za-jimmy-h9-flex-h10-flex-h10-pro-proizvod-12598/</poveznica>
+    <varijante>
+      <varijanta>
+        <sifra>sm-001139</sifra>
         <velicina></velicina>
         <boja></boja>
         <barkod></barkod>
@@ -292299,7 +292334,7 @@
         <velicina>47</velicina>
         <boja>crna</boja>
         <barkod>1100110716231</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -292467,7 +292502,7 @@
         <velicina>37</velicina>
         <boja>crna</boja>
         <barkod>1100110538369</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1350_1BLACK-38</sifra>
@@ -292740,7 +292775,7 @@
         <velicina>38</velicina>
         <boja>bijela</boja>
         <barkod>1100110538192</barkod>
-        <dostupnost>Nedostupno</dostupnost>
+        <dostupnost>Dostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1352_1WHITE-39</sifra>
@@ -292768,7 +292803,7 @@
         <velicina>42</velicina>
         <boja>bijela</boja>
         <barkod>1100110538239</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
@@ -292810,7 +292845,7 @@
         <velicina>38</velicina>
         <boja>crna</boja>
         <barkod>1100110538062</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_1BLACK-39</sifra>
@@ -292824,7 +292859,7 @@
         <velicina>40</velicina>
         <boja>crna</boja>
         <barkod>1100110538086</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>1372_1BLACK-41</sifra>
@@ -293160,7 +293195,7 @@
         <velicina>41</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110546265</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4350_FLOWER_WHT-42</sifra>
@@ -293405,7 +293440,7 @@
         <velicina>40</velicina>
         <boja>cvjetna</boja>
         <barkod>1100110546135</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>4367_FLOWER_BLK-41</sifra>
@@ -296982,7 +297017,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>108_1WHITE-41</sifra>
@@ -297087,7 +297122,7 @@
         <velicina>37</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>113_WHITE-38</sifra>
@@ -297108,7 +297143,7 @@
         <velicina>40</velicina>
         <boja>bijela</boja>
         <barkod></barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>113_WHITE-41</sifra>
@@ -386981,7 +387016,7 @@
         <velicina>33</velicina>
         <boja>pink]]&gt;&lt;![CDATA[plava</boja>
         <barkod>1100110467430</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
       <varijanta>
         <sifra>3502055_NAVY-34</sifra>
@@ -387457,7 +387492,7 @@
         <velicina>36</velicina>
         <boja>crna]]&gt;&lt;![CDATA[ljubicasta]]&gt;&lt;![CDATA[siva</boja>
         <barkod>1100110532411</barkod>
-        <dostupnost>Dostupno</dostupnost>
+        <dostupnost>Nedostupno</dostupnost>
       </varijanta>
     </varijante>
   </proizvod>
